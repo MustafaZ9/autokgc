@@ -6,7 +6,9 @@ on:
     - cron: '0 */3 * * *'
   # Allows you to trigger the run manually from the GitHub Actions tab
   workflow_dispatch:
-
+  # Allows triggering from another repository via API
+  repository_dispatch:
+    types: [trigger-scraper]
 jobs:
   run-scraper:
     runs-on: ubuntu-latest
@@ -37,4 +39,4 @@ jobs:
       uses: stefanzweifel/git-auto-commit-action@v5
       with:
         commit_message: "chore: update known and redeemed codes state"
-        file_pattern: "known_codes.txt redeemed_codes.txt config.json"
+        file_pattern: "known_codes.txt redeemed_codes.txt config.json lod.csv"
