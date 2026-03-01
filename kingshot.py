@@ -101,16 +101,29 @@ def scrape_gift_codes():
     """Fetch all gift codes currently listed on kingshot.net."""
     try:
         from curl_cffi import requests as cffi_requests
-        # Impersonate chrome to bypass Cloudflare 403 blocks from datacenter IPs
-        response = cffi_requests.get(SCRAPE_URL, impersonate="chrome120")
+        log("Using curl_cffi for Cloudflare bypass...")
+        # Impersonate a recent Chrome to bypass Cloudflare 403 blocks from datacenter IPs
+        response = cffi_requests.get(SCRAPE_URL, impersonate="chrome124")
     except ImportError:
+        log("WARNING: curl_cffi is not installed! Falling back to plain requests "
+            "(this will likely fail on datacenter IPs due to Cloudflare).")
+        log("Install it with: pip install curl_cffi")
         headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36',
             'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
             'Accept-Language': 'en-US,en;q=0.5',
         }
         response = requests.get(SCRAPE_URL, headers=headers)
-        
+    except Exception as e:
+        log(f"WARNING: curl_cffi failed with error: {e}")
+        log("Falling back to plain requests...")
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36',
+            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
+            'Accept-Language': 'en-US,en;q=0.5',
+        }
+        response = requests.get(SCRAPE_URL, headers=headers)
+
     response.raise_for_status()
 
     soup = BeautifulSoup(response.text, "html.parser")
