@@ -12,7 +12,7 @@ SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 source "$SCRIPT_DIR/venv/bin/activate"
 
 # Pass all arguments through to the Python script
-python "$SCRIPT_DIR/kingshot.py" "$@"
+python3 "$SCRIPT_DIR/kingshot.py" "$@"
 
 # Deactivate when done
 deactivate
