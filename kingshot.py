@@ -99,7 +99,11 @@ def save_known_codes(codes):
 
 def scrape_gift_codes():
     """Fetch all gift codes currently listed on kingshot.net."""
-    response = requests.get(SCRAPE_URL)
+    # Add User-Agent to avoid 403 Forbidden, especially on GitHub Actions
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    }
+    response = requests.get(SCRAPE_URL, headers=headers)
     response.raise_for_status()
 
     soup = BeautifulSoup(response.text, "html.parser")
@@ -142,9 +146,12 @@ def encode_data(data):
 
 def make_request(url, payload):
     """Send a POST request with automatic retry logic."""
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    }
     for attempt in range(MAX_RETRIES):
         try:
-            response = requests.post(url, json=payload)
+            response = requests.post(url, json=payload, headers=headers)
 
             if response.status_code == 200:
                 response_data = response.json()
