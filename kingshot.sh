@@ -8,11 +8,5 @@
 
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 
-# Activate virtual environment
-source "$SCRIPT_DIR/venv/bin/activate"
-
-# Pass all arguments through to the Python script
-python3 "$SCRIPT_DIR/kingshot.py" "$@"
-
-# Deactivate when done
-deactivate
+# Pass all arguments through to the Python script using the venv explicitly
+"$SCRIPT_DIR/venv/bin/python3" "$SCRIPT_DIR/kingshot.py" "$@"
