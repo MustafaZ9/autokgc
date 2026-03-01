@@ -1,7 +1,7 @@
 name: Kingshot Scraper & Redeemer
 
 on:
-  schedule:
+  #schedule:
     # Runs every 12 hours (hour 0, 3, 6, 9, 12, 15, 18, 21)
     #- cron: '0 */12 * * *'
   # Allows you to trigger the run manually from the GitHub Actions tab
