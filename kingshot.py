@@ -101,14 +101,38 @@ def save_known_codes(codes):
 
 def scrape_gift_codes():
     """Fetch all gift codes currently listed on kingshot.net."""
+    response = None
+
+    # Try curl_cffi with multiple browser targets (best Cloudflare bypass)
     try:
         from curl_cffi import requests as cffi_requests
-        # Impersonate chrome to bypass Cloudflare 403 blocks from datacenter IPs
-        response = cffi_requests.get(SCRAPE_URL, impersonate="chrome120")
+        log("Using curl_cffi for Cloudflare bypass...")
+
+        for browser in ["chrome124", "chrome120", "chrome110", "safari17_0"]:
+            try:
+                resp = cffi_requests.get(SCRAPE_URL, impersonate=browser)
+                if resp.status_code == 200:
+                    log(f"Success with {browser} impersonation")
+                    response = resp
+                    break
+                log(f"  {browser}: HTTP {resp.status_code}, trying next target...")
+            except Exception as e:
+                log(f"  {browser} failed: {e}")
+                continue
+
     except ImportError:
+        log("WARNING: curl_cffi is not installed! "
+            "Install it with: pip install 'curl-cffi>=0.7.3,<0.14'")
+
+    # Fallback to plain requests (will likely fail on datacenter IPs)
+    if response is None or response.status_code != 200:
+        log("Falling back to plain requests (may be blocked by Cloudflare)...")
         headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) '
+                          'AppleWebKit/537.36 (KHTML, like Gecko) '
+                          'Chrome/124.0.0.0 Safari/537.36',
+            'Accept': 'text/html,application/xhtml+xml,application/xml;'
+                      'q=0.9,image/avif,image/webp,*/*;q=0.8',
             'Accept-Language': 'en-US,en;q=0.5',
         }
         response = requests.get(SCRAPE_URL, headers=headers)
