@@ -9,6 +9,8 @@ on:
   # Allows triggering from another repository via API
   repository_dispatch:
     types: [trigger-scraper]
+permissions:
+  contents: write
 jobs:
   run-scraper:
     runs-on: ubuntu-latest
