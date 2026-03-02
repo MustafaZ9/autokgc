@@ -306,7 +306,9 @@ def redeem_code_for_all_players(code, csv_files):
                 elif raw_msg == "USED":
                     log("Claim limit reached! Stopping this code.")
                     return False
-
+                elif raw_msg == "RECHARGE_MONEY ERROR":
+                    log("This is a premium code requiring in-game purchases. Skipping to next code.")
+                    return False
                 # Update counters
                 if raw_msg in ("SUCCESS", "SAME TYPE EXCHANGE"):
                     counters["success"] += 1
