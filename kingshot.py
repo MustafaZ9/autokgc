@@ -20,6 +20,7 @@ import sys
 import csv
 import json
 import time
+import random
 import hashlib
 import argparse
 import requests
@@ -35,9 +36,9 @@ LOGIN_URL = "https://kingshot-giftcode.centurygame.com/api/player"
 REDEEM_URL = "https://kingshot-giftcode.centurygame.com/api/gift_code"
 WOS_ENCRYPT_KEY = "mN4!pQs6JrYwV9"
 
-DELAY = 1          # Seconds between each redemption
-RETRY_DELAY = 2    # Seconds between retries
-MAX_RETRIES = 3    # Max retry attempts per request
+DELAY = 2          # Base seconds between each redemption
+RETRY_DELAY = 5    # Base seconds between retries
+MAX_RETRIES = 4    # Max retry attempts per request
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 KNOWN_CODES_FILE = os.path.join(SCRIPT_DIR, "known_codes.txt")
@@ -51,6 +52,7 @@ RESULT_MESSAGES = {
     "TIME ERROR": "Code has expired",
     "TIMEOUT RETRY": "Server requested retry",
     "USED": "Claim limit reached, unable to claim",
+    "RECHARGE_MONEY ERROR": "Requires in-game purchase",
 }
 
 counters = {
@@ -99,42 +101,18 @@ def save_known_codes(codes):
 
 def scrape_gift_codes():
     """Fetch all gift codes currently listed on kingshot.net."""
-    response = None
-
-    # Try curl_cffi with multiple browser targets (best Cloudflare bypass)
     try:
         from curl_cffi import requests as cffi_requests
-        log("Using curl_cffi for Cloudflare bypass...")
-
-        for browser in ["chrome124", "chrome120", "chrome110", "safari17_0"]:
-            try:
-                resp = cffi_requests.get(SCRAPE_URL, impersonate=browser)
-                if resp.status_code == 200:
-                    log(f"Success with {browser} impersonation")
-                    response = resp
-                    break
-                log(f"  {browser}: HTTP {resp.status_code}, trying next target...")
-            except Exception as e:
-                log(f"  {browser} failed: {e}")
-                continue
-
+        # Impersonate chrome to bypass Cloudflare 403 blocks from datacenter IPs
+        response = cffi_requests.get(SCRAPE_URL, impersonate="chrome120")
     except ImportError:
-        log("WARNING: curl_cffi is not installed! "
-            "Install it with: pip install 'curl-cffi>=0.7.3,<0.14'")
-
-    # Fallback to plain requests (will likely fail on datacenter IPs)
-    if response is None or response.status_code != 200:
-        log("Falling back to plain requests (may be blocked by Cloudflare)...")
         headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) '
-                          'AppleWebKit/537.36 (KHTML, like Gecko) '
-                          'Chrome/124.0.0.0 Safari/537.36',
-            'Accept': 'text/html,application/xhtml+xml,application/xml;'
-                      'q=0.9,image/avif,image/webp,*/*;q=0.8',
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
             'Accept-Language': 'en-US,en;q=0.5',
         }
         response = requests.get(SCRAPE_URL, headers=headers)
-
+        
     response.raise_for_status()
 
     soup = BeautifulSoup(response.text, "html.parser")
@@ -176,7 +154,7 @@ def encode_data(data):
 
 
 def make_request(url, payload):
-    """Send a POST request with automatic retry logic."""
+    """Send a POST request with automatic retry and rate-limit backoff."""
     for attempt in range(MAX_RETRIES):
         try:
             response = requests.post(url, json=payload)
@@ -186,13 +164,22 @@ def make_request(url, payload):
                 msg_content = response_data.get("msg", "")
                 if isinstance(msg_content, str) and msg_content.strip(".") == "TIMEOUT RETRY":
                     if attempt < MAX_RETRIES - 1:
-                        log(f"Attempt {attempt+1}: Server requested retry for FID: {payload.get('fid', 'N/A')}")
-                        time.sleep(RETRY_DELAY)
+                        backoff = RETRY_DELAY * (attempt + 1)
+                        log(f"Attempt {attempt+1}: Server requested retry. Waiting {backoff}s...")
+                        time.sleep(backoff)
                         continue
                     else:
                         log(f"Attempt {attempt+1}: Max retries reached for FID: {payload.get('fid', 'N/A')}")
                         return response
                 return response
+
+            # Handle Rate Limiting explicitly
+            if response.status_code == 429:
+                # If server tells us exactly how long to wait, use that. Otherwise, guess and multiply.
+                wait_time = int(response.headers.get("Retry-After", RETRY_DELAY * (attempt + 2)))
+                log(f"Attempt {attempt+1} failed: HTTP 429 Rate Limited! Backing off for {wait_time}s...")
+                time.sleep(wait_time)
+                continue
 
             log(f"Attempt {attempt+1} failed for FID {payload.get('fid', 'N/A')}: HTTP {response.status_code}")
 
@@ -299,7 +286,7 @@ def redeem_code_for_all_players(code, csv_files):
                 raw_msg = result.get("msg", "Unknown error").strip(".")
                 friendly_msg = RESULT_MESSAGES.get(raw_msg, raw_msg)
 
-                # Exit immediately if code is expired or claim limit reached
+                # Exit immediately if code is expired, claim limit reached, or requires money
                 if raw_msg == "TIME ERROR":
                     log("Code has expired! Stopping this code.")
                     return False
@@ -309,6 +296,7 @@ def redeem_code_for_all_players(code, csv_files):
                 elif raw_msg == "RECHARGE_MONEY ERROR":
                     log("This is a premium code requiring in-game purchases. Skipping to next code.")
                     return False
+
                 # Update counters
                 if raw_msg in ("SUCCESS", "SAME TYPE EXCHANGE"):
                     counters["success"] += 1
@@ -318,7 +306,10 @@ def redeem_code_for_all_players(code, csv_files):
                     counters["errors"] += 1
 
                 log(f"Result: {friendly_msg}")
-                time.sleep(DELAY)
+                
+                # Jitter: Sleep for the base DELAY plus a random amount between 0.5 and 2.5 seconds
+                sleep_time = DELAY + random.uniform(0.5, 2.5)
+                time.sleep(sleep_time)
 
         except FileNotFoundError:
             log(f"Error: CSV file '{csv_file}' not found")
