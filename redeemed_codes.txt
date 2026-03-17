@@ -2804,3 +2804,9 @@
 2026-03-17 11:24:02 - Successfully redeemed: 127
 2026-03-17 11:24:02 - Already redeemed: 7
 2026-03-17 11:24:02 - Errors/Failures: 2
+2026-03-17 12:43:27 - Checking https://kingshot.net/gift-codes for new gift codes...
+2026-03-17 12:43:27 - Using curl_cffi for Cloudflare bypass...
+2026-03-17 12:43:27 -   chrome124: HTTP 403, trying next target...
+2026-03-17 12:43:28 - Success with chrome120 impersonation
+2026-03-17 12:43:28 - No new gift codes found. All codes have been seen previously.
+2026-03-17 12:43:28 - Nothing to redeem.
