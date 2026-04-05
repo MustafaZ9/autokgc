@@ -5414,3 +5414,9 @@
 2026-04-04 20:18:10 - Success with chrome120 impersonation
 2026-04-04 20:18:10 - No new gift codes found. All codes have been seen previously.
 2026-04-04 20:18:10 - Nothing to redeem.
+2026-04-05 01:21:51 - Checking https://kingshot.net/gift-codes for new gift codes...
+2026-04-05 01:21:51 - Using curl_cffi for Cloudflare bypass...
+2026-04-05 01:21:51 -   chrome124: HTTP 403, trying next target...
+2026-04-05 01:21:52 - Success with chrome120 impersonation
+2026-04-05 01:21:52 - No new gift codes found. All codes have been seen previously.
+2026-04-05 01:21:52 - Nothing to redeem.
