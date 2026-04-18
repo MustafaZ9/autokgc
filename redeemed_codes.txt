@@ -6954,3 +6954,22 @@
 2026-04-18 01:18:40 - Success with chrome120 impersonation
 2026-04-18 01:18:40 - No new gift codes found. All codes have been seen previously.
 2026-04-18 01:18:40 - Nothing to redeem.
+2026-04-18 05:28:23 - Checking https://kingshot.net/gift-codes for new gift codes...
+2026-04-18 05:28:23 - Using curl_cffi for Cloudflare bypass...
+2026-04-18 05:28:23 -   chrome124: HTTP 403, trying next target...
+2026-04-18 05:28:25 - Success with chrome120 impersonation
+2026-04-18 05:28:25 - 
+🎉 NEW GIFT CODES FOUND: KSPRAWNING
+2026-04-18 05:28:25 - 
+=== Starting redemption for gift code: KSPRAWNING ===
+2026-04-18 05:28:25 - Reading lod.csv (detected format: comma-separated)
+2026-04-18 05:28:25 - Loaded 140 player IDs from lod.csv
+2026-04-18 05:28:25 - Processing Badger (194871098)
+2026-04-18 05:28:25 - Claim limit reached! Stopping this code.
+2026-04-18 05:28:25 - Marked 'KSPRAWNING' as known.
+
+2026-04-18 05:28:25 - 
+=== Redemption Complete ===
+2026-04-18 05:28:25 - Successfully redeemed: 0
+2026-04-18 05:28:25 - Already redeemed: 0
+2026-04-18 05:28:25 - Errors/Failures: 0
