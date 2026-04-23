@@ -7677,3 +7677,9 @@
 2026-04-23 17:08:43 - Success with safari17_0 impersonation
 2026-04-23 17:08:43 - No new gift codes found. All codes have been seen previously.
 2026-04-23 17:08:43 - Nothing to redeem.
+2026-04-23 20:42:29 - Checking https://kingshot.net/gift-codes for new gift codes...
+2026-04-23 20:42:29 - Using curl_cffi for Cloudflare bypass...
+2026-04-23 20:42:29 -   chrome124: HTTP 403, trying next target...
+2026-04-23 20:42:30 - Success with chrome120 impersonation
+2026-04-23 20:42:30 - No new gift codes found. All codes have been seen previously.
+2026-04-23 20:42:30 - Nothing to redeem.
