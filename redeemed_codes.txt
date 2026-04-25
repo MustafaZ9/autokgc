@@ -7737,3 +7737,247 @@
 2026-04-25 01:21:24 - Success with safari17_0 impersonation
 2026-04-25 01:21:24 - No new gift codes found. All codes have been seen previously.
 2026-04-25 01:21:24 - Nothing to redeem.
+2026-04-25 01:42:40 - Checking https://kingshot.net/gift-codes for new gift codes...
+2026-04-25 01:42:40 - Using curl_cffi for Cloudflare bypass...
+2026-04-25 01:42:40 -   chrome124: HTTP 403, trying next target...
+2026-04-25 01:42:40 -   chrome120: HTTP 403, trying next target...
+2026-04-25 01:42:40 -   chrome110: HTTP 403, trying next target...
+2026-04-25 01:42:41 - Success with safari17_0 impersonation
+2026-04-25 01:42:41 - 
+🎉 NEW GIFT CODES FOUND: 0425FORU, KS0425
+2026-04-25 01:42:41 - 
+=== Starting redemption for gift code: 0425FORU ===
+2026-04-25 01:42:41 - Reading lod.csv (detected format: comma-separated)
+2026-04-25 01:42:41 - Loaded 103 player IDs from lod.csv
+2026-04-25 01:42:41 - Processing Gorgon 戈尔贡 (182226367)
+2026-04-25 01:42:41 - This is a premium code requiring in-game purchases. Skipping to next code.
+2026-04-25 01:42:41 - Marked '0425FORU' as known.
+
+2026-04-25 01:42:41 - 
+=== Starting redemption for gift code: KS0425 ===
+2026-04-25 01:42:41 - Reading lod.csv (detected format: comma-separated)
+2026-04-25 01:42:41 - Loaded 103 player IDs from lod.csv
+2026-04-25 01:42:41 - Processing Gorgon 戈尔贡 (182226367)
+2026-04-25 01:42:42 - Result: Successfully redeemed
+2026-04-25 01:42:45 - Processing Gallito (183307486)
+2026-04-25 01:42:45 - Result: Successfully redeemed
+2026-04-25 01:42:48 - Processing 伐木工人 (183439024)
+2026-04-25 01:42:49 - Result: Successfully redeemed
+2026-04-25 01:42:52 - Processing Kernow (184355782)
+2026-04-25 01:42:52 - Result: Successfully redeemed
+2026-04-25 01:42:56 - Processing ༺Lady Aretreya༻ (183455373)
+2026-04-25 01:42:56 - Result: Successfully redeemed
+2026-04-25 01:43:01 - Processing Mostafa (180636958)
+2026-04-25 01:43:01 - Result: Successfully redeemed
+2026-04-25 01:43:05 - Processing MircoDHD (181849424)
+2026-04-25 01:43:05 - Result: Successfully redeemed
+2026-04-25 01:43:09 - Processing °SleeP_or_Death° (182013382)
+2026-04-25 01:43:09 - Result: Successfully redeemed
+2026-04-25 01:43:13 - Processing Rutherford (180833836)
+2026-04-25 01:43:13 - Result: Successfully redeemed
+2026-04-25 01:43:16 - Processing Gülbin (184306709)
+2026-04-25 01:43:16 - Result: Successfully redeemed
+2026-04-25 01:43:19 - Processing Gallo 公鸡 (182210139)
+2026-04-25 01:43:20 - Attempt 1: Server requested retry. Waiting 5s...
+2026-04-25 01:43:25 - Attempt 2: Server requested retry. Waiting 10s...
+2026-04-25 01:43:35 - Result: Successfully redeemed
+2026-04-25 01:43:38 - Processing Badger (194871098)
+2026-04-25 01:43:38 - Result: Successfully redeemed
+2026-04-25 01:43:43 - Processing Morado (181358276)
+2026-04-25 01:43:43 - Result: Successfully redeemed
+2026-04-25 01:43:46 - Processing 刀光一閃 (182128146)
+2026-04-25 01:43:47 - Result: Successfully redeemed
+2026-04-25 01:43:50 - Processing CHUNGss (182193749)
+2026-04-25 01:43:50 - Result: Successfully redeemed
+2026-04-25 01:43:54 - Processing Nord (180669914)
+2026-04-25 01:43:54 - Result: Successfully redeemed
+2026-04-25 01:43:59 - Processing Winter0ne (180686257)
+2026-04-25 01:43:59 - Attempt 1: Server requested retry. Waiting 5s...
+2026-04-25 01:44:04 - Result: Successfully redeemed
+2026-04-25 01:44:09 - Processing Amel (183946804)
+2026-04-25 01:44:09 - Result: Successfully redeemed
+2026-04-25 01:44:13 - Processing Meoc (224307299)
+2026-04-25 01:44:14 - Result: Successfully redeemed
+2026-04-25 01:44:17 - Processing Lord Pytje (184454717)
+2026-04-25 01:44:17 - Result: Successfully redeemed
+2026-04-25 01:44:22 - Processing 郭達（梁家軍） (180588092)
+2026-04-25 01:44:22 - Result: Successfully redeemed
+2026-04-25 01:44:25 - Processing paul82 (183372781)
+2026-04-25 01:44:25 - Result: Successfully redeemed
+2026-04-25 01:44:28 - Processing Papabutt (182619752)
+2026-04-25 01:44:29 - Result: Successfully redeemed
+2026-04-25 01:44:33 - Processing Zaroz (184454569)
+2026-04-25 01:44:33 - Result: Successfully redeemed
+2026-04-25 01:44:37 - Processing Gilead (180702587)
+2026-04-25 01:44:37 - Result: Successfully redeemed
+2026-04-25 01:44:41 - Processing Manuel (181816445)
+2026-04-25 01:44:41 - Result: Successfully redeemed
+2026-04-25 01:44:44 - Processing Lawless1587 (184258115)
+2026-04-25 01:44:45 - Result: Successfully redeemed
+2026-04-25 01:44:49 - Processing Poppy69 (183635567)
+2026-04-25 01:44:49 - Result: Successfully redeemed
+2026-04-25 01:44:53 - Processing Coynelius (183045689)
+2026-04-25 01:44:53 - Attempt 1: Server requested retry. Waiting 5s...
+2026-04-25 01:44:59 - Result: Successfully redeemed
+2026-04-25 01:45:02 - Processing Gülbin2 (190553232)
+2026-04-25 01:45:02 - Result: Successfully redeemed
+2026-04-25 01:45:06 - Processing Saliha (184175883)
+2026-04-25 01:45:06 - Result: Successfully redeemed
+2026-04-25 01:45:10 - Processing Opie (183225670)
+2026-04-25 01:45:10 - Result: Successfully redeemed
+2026-04-25 01:45:13 - Processing PrincessAbigail (181144898)
+2026-04-25 01:45:13 - Result: Successfully redeemed
+2026-04-25 01:45:16 - Processing Mangosht (180817435)
+2026-04-25 01:45:16 - Result: Successfully redeemed
+2026-04-25 01:45:21 - Processing ᕙ･MrRight･ᕗ (184307653)
+2026-04-25 01:45:21 - Result: Successfully redeemed
+2026-04-25 01:45:25 - Processing Ed Jheng (184421902)
+2026-04-25 01:45:25 - Result: Successfully redeemed
+2026-04-25 01:45:29 - Processing Tatalmo (183258450)
+2026-04-25 01:45:29 - Result: Successfully redeemed
+2026-04-25 01:45:33 - Processing Jiake (182259555)
+2026-04-25 01:45:33 - Attempt 1: Server requested retry. Waiting 5s...
+2026-04-25 01:45:38 - Result: Successfully redeemed
+2026-04-25 01:45:41 - Processing 我是康哥 (182980287)
+2026-04-25 01:45:41 - Result: Successfully redeemed
+2026-04-25 01:45:46 - Processing Julie la louve (184209057)
+2026-04-25 01:45:46 - Result: Successfully redeemed
+2026-04-25 01:45:50 - Processing Ricohet (180784723)
+2026-04-25 01:45:51 - Result: Successfully redeemed
+2026-04-25 01:45:54 - Processing Matteo (183602956)
+2026-04-25 01:45:55 - Result: Successfully redeemed
+2026-04-25 01:45:59 - Processing JordanG (181833537)
+2026-04-25 01:45:59 - Result: Successfully redeemed
+2026-04-25 01:46:03 - Processing sugarcoatednuts (184454584)
+2026-04-25 01:46:03 - Result: Successfully redeemed
+2026-04-25 01:46:06 - Processing SuperJa (182144355)
+2026-04-25 01:46:07 - Result: Successfully redeemed
+2026-04-25 01:46:10 - Processing Zafer 77 (183585864)
+2026-04-25 01:46:10 - Result: Successfully redeemed
+2026-04-25 01:46:13 - Processing La reina (182275359)
+2026-04-25 01:46:13 - Result: Successfully redeemed
+2026-04-25 01:46:18 - Processing slow (181374419)
+2026-04-25 01:46:18 - Result: Successfully redeemed
+2026-04-25 01:46:22 - Processing fishingpark (183012834)
+2026-04-25 01:46:22 - Result: Successfully redeemed
+2026-04-25 01:46:26 - Processing Simon抄家嘍 (184274854)
+2026-04-25 01:46:26 - Result: Successfully redeemed
+2026-04-25 01:46:30 - Processing FIRAS (183569412)
+2026-04-25 01:46:30 - Result: Successfully redeemed
+2026-04-25 01:46:34 - Processing Char971 (183012848)
+2026-04-25 01:46:34 - Result: Successfully redeemed
+2026-04-25 01:46:39 - Processing ProVince92 (181407057)
+2026-04-25 01:46:39 - Attempt 1: Server requested retry. Waiting 5s...
+2026-04-25 01:46:44 - Result: Successfully redeemed
+2026-04-25 01:46:48 - Processing Simolazza7 (180489519)
+2026-04-25 01:46:48 - Result: Successfully redeemed
+2026-04-25 01:46:52 - Processing Manon (180718554)
+2026-04-25 01:46:53 - Result: Successfully redeemed
+2026-04-25 01:46:56 - Processing ChadeTaVu (181964601)
+2026-04-25 01:46:56 - Result: Successfully redeemed
+2026-04-25 01:46:59 - Processing RoseKnight (184291065)
+2026-04-25 01:46:59 - Result: Successfully redeemed
+2026-04-25 01:47:03 - Processing Nofears (182717899)
+2026-04-25 01:47:03 - Result: Successfully redeemed
+2026-04-25 01:47:07 - Processing GayLordFokker (181243529)
+2026-04-25 01:47:07 - Result: Successfully redeemed
+2026-04-25 01:47:10 - Processing 병아리 삐약삐약 (182062678)
+2026-04-25 01:47:10 - Result: Successfully redeemed
+2026-04-25 01:47:15 - Processing paul82 (183372781)
+2026-04-25 01:47:15 - Result: Already redeemed
+2026-04-25 01:47:19 - Processing Tiken (184127078)
+2026-04-25 01:47:19 - Result: Successfully redeemed
+2026-04-25 01:47:22 - Processing Uzair (184323165)
+2026-04-25 01:47:23 - Result: Successfully redeemed
+2026-04-25 01:47:26 - Processing Kbly1928 (183176536)
+2026-04-25 01:47:26 - Result: Successfully redeemed
+2026-04-25 01:47:29 - Processing LordK80 (180554919)
+2026-04-25 01:47:29 - Result: Successfully redeemed
+2026-04-25 01:47:32 - Processing 5cent (183799231)
+2026-04-25 01:47:32 - Result: Successfully redeemed
+2026-04-25 01:47:37 - Processing MCore92 (184143136)
+2026-04-25 01:47:37 - Result: Successfully redeemed
+2026-04-25 01:47:40 - Processing 2cent (215292102)
+2026-04-25 01:47:40 - Result: Successfully redeemed
+2026-04-25 01:47:45 - Processing Gazdou (184404971)
+2026-04-25 01:47:45 - Result: Successfully redeemed
+2026-04-25 01:47:48 - Processing Gülbin2 (190553232)
+2026-04-25 01:47:49 - Result: Already redeemed
+2026-04-25 01:47:52 - Processing ༺༒Little Lady༒༻ (201582202)
+2026-04-25 01:47:53 - Result: Successfully redeemed
+2026-04-25 01:47:57 - Processing Elyne (184257548)
+2026-04-25 01:47:58 - Result: Successfully redeemed
+2026-04-25 01:48:02 - Processing Mostafa Farm (202273267)
+2026-04-25 01:48:03 - Result: Successfully redeemed
+2026-04-25 01:48:07 - Processing Manuel II (231437990)
+2026-04-25 01:48:07 - Result: Successfully redeemed
+2026-04-25 01:48:11 - Processing Matteo2 (234681701)
+2026-04-25 01:48:12 - Result: Successfully redeemed
+2026-04-25 01:48:14 - Processing Xenia (181767307)
+2026-04-25 01:48:15 - Result: Successfully redeemed
+2026-04-25 01:48:18 - Processing leelane (181571708)
+2026-04-25 01:48:19 - Result: Successfully redeemed
+2026-04-25 01:48:23 - Processing ༺Mustika༻ (187684479)
+2026-04-25 01:48:23 - Attempt 1: Server requested retry. Waiting 5s...
+2026-04-25 01:48:28 - Result: Successfully redeemed
+2026-04-25 01:48:33 - Processing Matteo2 (234681701)
+2026-04-25 01:48:33 - Result: Already redeemed
+2026-04-25 01:48:38 - Processing KLEYTHON (181423528)
+2026-04-25 01:48:38 - Result: Successfully redeemed
+2026-04-25 01:48:42 - Processing Nel (210817745)
+2026-04-25 01:48:42 - Result: Successfully redeemed
+2026-04-25 01:48:46 - Processing Lord Ciri (181292144)
+2026-04-25 01:48:46 - Attempt 1: Server requested retry. Waiting 5s...
+2026-04-25 01:48:52 - Result: Successfully redeemed
+2026-04-25 01:48:55 - Processing lord182045779 (182045779)
+2026-04-25 01:48:55 - Result: Successfully redeemed
+2026-04-25 01:48:58 - Processing Moon (209374239)
+2026-04-25 01:48:58 - Result: Successfully redeemed
+2026-04-25 01:49:02 - Processing Randstorm (181554356)
+2026-04-25 01:49:03 - Attempt 1: Server requested retry. Waiting 5s...
+2026-04-25 01:49:08 - Result: Successfully redeemed
+2026-04-25 01:49:13 - Processing Takary (182963887)
+2026-04-25 01:49:13 - Result: Successfully redeemed
+2026-04-25 01:49:17 - Processing Ichi1012 (182390223)
+2026-04-25 01:49:17 - Result: Successfully redeemed
+2026-04-25 01:49:20 - Processing 투미하미 (182914649)
+2026-04-25 01:49:21 - Result: Successfully redeemed
+2026-04-25 01:49:25 - Processing Crystar (181636752)
+2026-04-25 01:49:26 - Result: Successfully redeemed
+2026-04-25 01:49:29 - Processing Gretell (183061980)
+2026-04-25 01:49:29 - Attempt 1: Server requested retry. Waiting 5s...
+2026-04-25 01:49:34 - Result: Successfully redeemed
+2026-04-25 01:49:38 - Processing nice lee (183913998)
+2026-04-25 01:49:39 - Result: Successfully redeemed
+2026-04-25 01:49:43 - Processing Blond Queen (181063111)
+2026-04-25 01:49:43 - Result: Successfully redeemed
+2026-04-25 01:49:48 - Processing Deathchant (181210770)
+2026-04-25 01:49:48 - Result: Successfully redeemed
+2026-04-25 01:49:52 - Processing Ruvir1234 (183028805)
+2026-04-25 01:49:53 - Result: Successfully redeemed
+2026-04-25 01:49:57 - Processing Seraphina (283414406)
+2026-04-25 01:49:57 - Result: Successfully redeemed
+2026-04-25 01:50:00 - Processing halo (182767010)
+2026-04-25 01:50:00 - Result: Successfully redeemed
+2026-04-25 01:50:05 - Processing Gugui (181079360)
+2026-04-25 01:50:05 - Result: Successfully redeemed
+2026-04-25 01:50:10 - Processing Gizmo (182537495)
+2026-04-25 01:50:10 - Result: Successfully redeemed
+2026-04-25 01:50:13 - Processing Coffee (185480245)
+2026-04-25 01:50:14 - Result: Successfully redeemed
+2026-04-25 01:50:17 - Processing AprilDom (184356332)
+2026-04-25 01:50:17 - Result: Successfully redeemed
+2026-04-25 01:50:20 - Processing StormStriker (283701873)
+2026-04-25 01:50:20 - Result: Successfully redeemed
+2026-04-25 01:50:24 - Processing Waldi (264844936)
+2026-04-25 01:50:24 - Result: Successfully redeemed
+2026-04-25 01:50:29 - Processing 幽煉帝 (181768039)
+2026-04-25 01:50:29 - Attempt 1: Server requested retry. Waiting 5s...
+2026-04-25 01:50:34 - Result: Successfully redeemed
+2026-04-25 01:50:38 - Marked 'KS0425' as known.
+
+2026-04-25 01:50:38 - 
+=== Redemption Complete ===
+2026-04-25 01:50:38 - Successfully redeemed: 100
+2026-04-25 01:50:38 - Already redeemed: 3
+2026-04-25 01:50:38 - Errors/Failures: 0
