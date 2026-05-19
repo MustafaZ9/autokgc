@@ -10975,3 +10975,37 @@
 2026-05-19 17:55:57 - Success with chrome124 impersonation
 2026-05-19 17:55:57 - No new gift codes found. All codes have been seen previously.
 2026-05-19 17:55:57 - Nothing to redeem.
+2026-05-19 21:10:21 - Checking https://kingshot.net/gift-codes for new gift codes...
+2026-05-19 21:10:21 - Using curl_cffi for Cloudflare bypass...
+2026-05-19 21:10:22 - Success with chrome124 impersonation
+2026-05-19 21:10:22 - 
+🎉 NEW GIFT CODES FOUND: X43Q2EKBq, n4xeR7VGd, eK5B3kw7t
+2026-05-19 21:10:22 - 
+=== Starting redemption for gift code: X43Q2EKBq ===
+2026-05-19 21:10:22 - Reading lod.csv (detected format: comma-separated)
+2026-05-19 21:10:22 - Loaded 103 player IDs from lod.csv
+2026-05-19 21:10:22 - Processing Gorgon 戈尔贡 (182226367)
+2026-05-19 21:10:22 - Claim limit reached! Stopping this code.
+2026-05-19 21:10:22 - Marked 'X43Q2EKBq' as known.
+
+2026-05-19 21:10:22 - 
+=== Starting redemption for gift code: n4xeR7VGd ===
+2026-05-19 21:10:22 - Reading lod.csv (detected format: comma-separated)
+2026-05-19 21:10:22 - Loaded 103 player IDs from lod.csv
+2026-05-19 21:10:22 - Processing Gorgon 戈尔贡 (182226367)
+2026-05-19 21:10:23 - Claim limit reached! Stopping this code.
+2026-05-19 21:10:23 - Marked 'n4xeR7VGd' as known.
+
+2026-05-19 21:10:23 - 
+=== Starting redemption for gift code: eK5B3kw7t ===
+2026-05-19 21:10:23 - Reading lod.csv (detected format: comma-separated)
+2026-05-19 21:10:23 - Loaded 103 player IDs from lod.csv
+2026-05-19 21:10:23 - Processing Gorgon 戈尔贡 (182226367)
+2026-05-19 21:10:23 - Claim limit reached! Stopping this code.
+2026-05-19 21:10:23 - Marked 'eK5B3kw7t' as known.
+
+2026-05-19 21:10:23 - 
+=== Redemption Complete ===
+2026-05-19 21:10:23 - Successfully redeemed: 0
+2026-05-19 21:10:23 - Already redeemed: 0
+2026-05-19 21:10:23 - Errors/Failures: 0
