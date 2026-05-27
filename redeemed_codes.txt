@@ -11914,3 +11914,8 @@
 2026-05-27 14:59:42 - Successfully redeemed: 95
 2026-05-27 14:59:42 - Already redeemed: 7
 2026-05-27 14:59:42 - Errors/Failures: 1
+2026-05-27 18:18:09 - Checking https://kingshot.net/gift-codes for new gift codes...
+2026-05-27 18:18:09 - Using curl_cffi for Cloudflare bypass...
+2026-05-27 18:18:10 - Success with chrome124 impersonation
+2026-05-27 18:18:10 - No new gift codes found. All codes have been seen previously.
+2026-05-27 18:18:10 - Nothing to redeem.
