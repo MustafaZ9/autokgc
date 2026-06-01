@@ -12049,3 +12049,8 @@
 2026-05-31 20:47:04 - Success with chrome124 impersonation
 2026-05-31 20:47:05 - No new gift codes found. All codes have been seen previously.
 2026-05-31 20:47:05 - Nothing to redeem.
+2026-06-01 02:36:33 - Checking https://kingshot.net/gift-codes for new gift codes...
+2026-06-01 02:36:33 - Using curl_cffi for Cloudflare bypass...
+2026-06-01 02:36:33 - Success with chrome124 impersonation
+2026-06-01 02:36:33 - No new gift codes found. All codes have been seen previously.
+2026-06-01 02:36:33 - Nothing to redeem.
