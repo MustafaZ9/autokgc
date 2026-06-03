@@ -12553,3 +12553,21 @@
 2026-06-03 02:50:47 - Successfully redeemed: 99
 2026-06-03 02:50:47 - Already redeemed: 3
 2026-06-03 02:50:47 - Errors/Failures: 1
+2026-06-03 08:45:50 - Checking https://kingshot.net/gift-codes for new gift codes...
+2026-06-03 08:45:50 - Using curl_cffi for Cloudflare bypass...
+2026-06-03 08:45:50 - Success with chrome124 impersonation
+2026-06-03 08:45:50 - 
+🎉 NEW GIFT CODES FOUND: N4rG26aVj
+2026-06-03 08:45:50 - 
+=== Starting redemption for gift code: N4rG26aVj ===
+2026-06-03 08:45:50 - Reading lod.csv (detected format: comma-separated)
+2026-06-03 08:45:50 - Loaded 103 player IDs from lod.csv
+2026-06-03 08:45:51 - Processing Gorgon 戈尔贡 (182226367)
+2026-06-03 08:45:51 - Claim limit reached! Stopping this code.
+2026-06-03 08:45:51 - Marked 'N4rG26aVj' as known.
+
+2026-06-03 08:45:51 - 
+=== Redemption Complete ===
+2026-06-03 08:45:51 - Successfully redeemed: 0
+2026-06-03 08:45:51 - Already redeemed: 0
+2026-06-03 08:45:51 - Errors/Failures: 0
