@@ -16168,3 +16168,21 @@
 2026-07-13 14:01:34 - Success with chrome124 impersonation
 2026-07-13 14:01:34 - No new gift codes found. All codes have been seen previously.
 2026-07-13 14:01:34 - Nothing to redeem.
+2026-07-13 17:47:15 - Checking https://kingshot.net/gift-codes for new gift codes...
+2026-07-13 17:47:15 - Using curl_cffi for Cloudflare bypass...
+2026-07-13 17:47:15 - Success with chrome124 impersonation
+2026-07-13 17:47:16 - 
+🎉 NEW GIFT CODES FOUND: 9VqM98MVc
+2026-07-13 17:47:16 - 
+=== Starting redemption for gift code: 9VqM98MVc ===
+2026-07-13 17:47:16 - Reading lod.csv (detected format: comma-separated)
+2026-07-13 17:47:16 - Loaded 103 player IDs from lod.csv
+2026-07-13 17:47:16 - Processing Gorgon 戈尔贡 (182226367)
+2026-07-13 17:47:16 - Claim limit reached! Stopping this code.
+2026-07-13 17:47:16 - Marked '9VqM98MVc' as known.
+
+2026-07-13 17:47:16 - 
+=== Redemption Complete ===
+2026-07-13 17:47:16 - Successfully redeemed: 0
+2026-07-13 17:47:16 - Already redeemed: 0
+2026-07-13 17:47:16 - Errors/Failures: 0
