@@ -17842,3 +17842,637 @@
 2026-07-25 17:16:26 - Successfully redeemed: 0
 2026-07-25 17:16:26 - Already redeemed: 0
 2026-07-25 17:16:26 - Errors/Failures: 103
+2026-07-25 20:39:20 - Checking https://kingshot.net/gift-codes for new gift codes...
+2026-07-25 20:39:20 - Using curl_cffi for Cloudflare bypass...
+2026-07-25 20:39:21 - Success with chrome124 impersonation
+2026-07-25 20:39:21 - 
+🎉 NEW GIFT CODES FOUND: nwkJ6AXK6
+2026-07-25 20:39:21 - 
+=== Starting redemption for gift code: nwkJ6AXK6 ===
+2026-07-25 20:39:21 - Reading lod.csv (detected format: comma-separated)
+2026-07-25 20:39:21 - Loaded 103 player IDs from lod.csv
+2026-07-25 20:39:21 - Attempt 1 failed for FID 182226367: HTTP 404
+2026-07-25 20:39:26 - Attempt 2 failed for FID 182226367: HTTP 404
+2026-07-25 20:39:31 - Attempt 3 failed for FID 182226367: HTTP 404
+2026-07-25 20:39:36 - Attempt 4 failed for FID 182226367: HTTP 404
+2026-07-25 20:39:36 - All 4 attempts failed for FID 182226367.
+2026-07-25 20:39:36 - Result: Login request failed after retries
+2026-07-25 20:39:40 - Attempt 1 failed for FID 183307486: HTTP 404
+2026-07-25 20:39:45 - Attempt 2 failed for FID 183307486: HTTP 404
+2026-07-25 20:39:50 - Attempt 3 failed for FID 183307486: HTTP 404
+2026-07-25 20:39:55 - Attempt 4 failed for FID 183307486: HTTP 404
+2026-07-25 20:39:55 - All 4 attempts failed for FID 183307486.
+2026-07-25 20:39:55 - Result: Login request failed after retries
+2026-07-25 20:39:59 - Attempt 1 failed for FID 183439024: HTTP 404
+2026-07-25 20:40:04 - Attempt 2 failed for FID 183439024: HTTP 404
+2026-07-25 20:40:09 - Attempt 3 failed for FID 183439024: HTTP 404
+2026-07-25 20:40:14 - Attempt 4 failed for FID 183439024: HTTP 404
+2026-07-25 20:40:14 - All 4 attempts failed for FID 183439024.
+2026-07-25 20:40:14 - Result: Login request failed after retries
+2026-07-25 20:40:18 - Attempt 1 failed for FID 184355782: HTTP 404
+2026-07-25 20:40:23 - Attempt 2 failed for FID 184355782: HTTP 404
+2026-07-25 20:40:28 - Attempt 3 failed for FID 184355782: HTTP 404
+2026-07-25 20:40:33 - Attempt 4 failed for FID 184355782: HTTP 404
+2026-07-25 20:40:33 - All 4 attempts failed for FID 184355782.
+2026-07-25 20:40:33 - Result: Login request failed after retries
+2026-07-25 20:40:38 - Attempt 1 failed for FID 183455373: HTTP 404
+2026-07-25 20:40:43 - Attempt 2 failed for FID 183455373: HTTP 404
+2026-07-25 20:40:48 - Attempt 3 failed for FID 183455373: HTTP 404
+2026-07-25 20:40:53 - Attempt 4 failed for FID 183455373: HTTP 404
+2026-07-25 20:40:53 - All 4 attempts failed for FID 183455373.
+2026-07-25 20:40:53 - Result: Login request failed after retries
+2026-07-25 20:40:56 - Attempt 1 failed for FID 180636958: HTTP 404
+2026-07-25 20:41:01 - Attempt 2 failed for FID 180636958: HTTP 404
+2026-07-25 20:41:06 - Attempt 3 failed for FID 180636958: HTTP 404
+2026-07-25 20:41:11 - Attempt 4 failed for FID 180636958: HTTP 404
+2026-07-25 20:41:11 - All 4 attempts failed for FID 180636958.
+2026-07-25 20:41:11 - Result: Login request failed after retries
+2026-07-25 20:41:16 - Attempt 1 failed for FID 181849424: HTTP 404
+2026-07-25 20:41:21 - Attempt 2 failed for FID 181849424: HTTP 404
+2026-07-25 20:41:26 - Attempt 3 failed for FID 181849424: HTTP 404
+2026-07-25 20:41:31 - Attempt 4 failed for FID 181849424: HTTP 404
+2026-07-25 20:41:31 - All 4 attempts failed for FID 181849424.
+2026-07-25 20:41:31 - Result: Login request failed after retries
+2026-07-25 20:41:34 - Attempt 1 failed for FID 182013382: HTTP 404
+2026-07-25 20:41:39 - Attempt 2 failed for FID 182013382: HTTP 404
+2026-07-25 20:41:44 - Attempt 3 failed for FID 182013382: HTTP 404
+2026-07-25 20:41:49 - Attempt 4 failed for FID 182013382: HTTP 404
+2026-07-25 20:41:49 - All 4 attempts failed for FID 182013382.
+2026-07-25 20:41:49 - Result: Login request failed after retries
+2026-07-25 20:41:53 - Attempt 1 failed for FID 180833836: HTTP 404
+2026-07-25 20:41:58 - Attempt 2 failed for FID 180833836: HTTP 404
+2026-07-25 20:42:03 - Attempt 3 failed for FID 180833836: HTTP 404
+2026-07-25 20:42:08 - Attempt 4 failed for FID 180833836: HTTP 404
+2026-07-25 20:42:08 - All 4 attempts failed for FID 180833836.
+2026-07-25 20:42:08 - Result: Login request failed after retries
+2026-07-25 20:42:11 - Attempt 1 failed for FID 184306709: HTTP 404
+2026-07-25 20:42:16 - Attempt 2 failed for FID 184306709: HTTP 404
+2026-07-25 20:42:21 - Attempt 3 failed for FID 184306709: HTTP 404
+2026-07-25 20:42:26 - Attempt 4 failed for FID 184306709: HTTP 404
+2026-07-25 20:42:26 - All 4 attempts failed for FID 184306709.
+2026-07-25 20:42:26 - Result: Login request failed after retries
+2026-07-25 20:42:30 - Attempt 1 failed for FID 182210139: HTTP 404
+2026-07-25 20:42:35 - Attempt 2 failed for FID 182210139: HTTP 404
+2026-07-25 20:42:40 - Attempt 3 failed for FID 182210139: HTTP 404
+2026-07-25 20:42:46 - Attempt 4 failed for FID 182210139: HTTP 404
+2026-07-25 20:42:46 - All 4 attempts failed for FID 182210139.
+2026-07-25 20:42:46 - Result: Login request failed after retries
+2026-07-25 20:42:49 - Attempt 1 failed for FID 194871098: HTTP 404
+2026-07-25 20:42:54 - Attempt 2 failed for FID 194871098: HTTP 404
+2026-07-25 20:42:59 - Attempt 3 failed for FID 194871098: HTTP 404
+2026-07-25 20:43:04 - Attempt 4 failed for FID 194871098: HTTP 404
+2026-07-25 20:43:04 - All 4 attempts failed for FID 194871098.
+2026-07-25 20:43:04 - Result: Login request failed after retries
+2026-07-25 20:43:08 - Attempt 1 failed for FID 181358276: HTTP 404
+2026-07-25 20:43:13 - Attempt 2 failed for FID 181358276: HTTP 404
+2026-07-25 20:43:18 - Attempt 3 failed for FID 181358276: HTTP 404
+2026-07-25 20:43:23 - Attempt 4 failed for FID 181358276: HTTP 404
+2026-07-25 20:43:23 - All 4 attempts failed for FID 181358276.
+2026-07-25 20:43:23 - Result: Login request failed after retries
+2026-07-25 20:43:28 - Attempt 1 failed for FID 182128146: HTTP 404
+2026-07-25 20:43:33 - Attempt 2 failed for FID 182128146: HTTP 404
+2026-07-25 20:43:38 - Attempt 3 failed for FID 182128146: HTTP 404
+2026-07-25 20:43:43 - Attempt 4 failed for FID 182128146: HTTP 404
+2026-07-25 20:43:43 - All 4 attempts failed for FID 182128146.
+2026-07-25 20:43:43 - Result: Login request failed after retries
+2026-07-25 20:43:47 - Attempt 1 failed for FID 182193749: HTTP 404
+2026-07-25 20:43:52 - Attempt 2 failed for FID 182193749: HTTP 404
+2026-07-25 20:43:57 - Attempt 3 failed for FID 182193749: HTTP 404
+2026-07-25 20:44:02 - Attempt 4 failed for FID 182193749: HTTP 404
+2026-07-25 20:44:02 - All 4 attempts failed for FID 182193749.
+2026-07-25 20:44:02 - Result: Login request failed after retries
+2026-07-25 20:44:06 - Attempt 1 failed for FID 180669914: HTTP 404
+2026-07-25 20:44:11 - Attempt 2 failed for FID 180669914: HTTP 404
+2026-07-25 20:44:16 - Attempt 3 failed for FID 180669914: HTTP 404
+2026-07-25 20:44:21 - Attempt 4 failed for FID 180669914: HTTP 404
+2026-07-25 20:44:21 - All 4 attempts failed for FID 180669914.
+2026-07-25 20:44:21 - Result: Login request failed after retries
+2026-07-25 20:44:25 - Attempt 1 failed for FID 180686257: HTTP 404
+2026-07-25 20:44:30 - Attempt 2 failed for FID 180686257: HTTP 404
+2026-07-25 20:44:35 - Attempt 3 failed for FID 180686257: HTTP 404
+2026-07-25 20:44:40 - Attempt 4 failed for FID 180686257: HTTP 404
+2026-07-25 20:44:40 - All 4 attempts failed for FID 180686257.
+2026-07-25 20:44:40 - Result: Login request failed after retries
+2026-07-25 20:44:44 - Attempt 1 failed for FID 183946804: HTTP 404
+2026-07-25 20:44:49 - Attempt 2 failed for FID 183946804: HTTP 404
+2026-07-25 20:44:54 - Attempt 3 failed for FID 183946804: HTTP 404
+2026-07-25 20:44:59 - Attempt 4 failed for FID 183946804: HTTP 404
+2026-07-25 20:44:59 - All 4 attempts failed for FID 183946804.
+2026-07-25 20:44:59 - Result: Login request failed after retries
+2026-07-25 20:45:03 - Attempt 1 failed for FID 224307299: HTTP 404
+2026-07-25 20:45:08 - Attempt 2 failed for FID 224307299: HTTP 404
+2026-07-25 20:45:13 - Attempt 3 failed for FID 224307299: HTTP 404
+2026-07-25 20:45:18 - Attempt 4 failed for FID 224307299: HTTP 404
+2026-07-25 20:45:18 - All 4 attempts failed for FID 224307299.
+2026-07-25 20:45:18 - Result: Login request failed after retries
+2026-07-25 20:45:22 - Attempt 1 failed for FID 184454717: HTTP 404
+2026-07-25 20:45:27 - Attempt 2 failed for FID 184454717: HTTP 404
+2026-07-25 20:45:32 - Attempt 3 failed for FID 184454717: HTTP 404
+2026-07-25 20:45:37 - Attempt 4 failed for FID 184454717: HTTP 404
+2026-07-25 20:45:37 - All 4 attempts failed for FID 184454717.
+2026-07-25 20:45:37 - Result: Login request failed after retries
+2026-07-25 20:45:41 - Attempt 1 failed for FID 180588092: HTTP 404
+2026-07-25 20:45:46 - Attempt 2 failed for FID 180588092: HTTP 404
+2026-07-25 20:45:52 - Attempt 3 failed for FID 180588092: HTTP 404
+2026-07-25 20:45:57 - Attempt 4 failed for FID 180588092: HTTP 404
+2026-07-25 20:45:57 - All 4 attempts failed for FID 180588092.
+2026-07-25 20:45:57 - Result: Login request failed after retries
+2026-07-25 20:46:01 - Attempt 1 failed for FID 183372781: HTTP 404
+2026-07-25 20:46:06 - Attempt 2 failed for FID 183372781: HTTP 404
+2026-07-25 20:46:11 - Attempt 3 failed for FID 183372781: HTTP 404
+2026-07-25 20:46:16 - Attempt 4 failed for FID 183372781: HTTP 404
+2026-07-25 20:46:16 - All 4 attempts failed for FID 183372781.
+2026-07-25 20:46:16 - Result: Login request failed after retries
+2026-07-25 20:46:20 - Attempt 1 failed for FID 182619752: HTTP 404
+2026-07-25 20:46:26 - Attempt 2 failed for FID 182619752: HTTP 404
+2026-07-25 20:46:31 - Attempt 3 failed for FID 182619752: HTTP 404
+2026-07-25 20:46:36 - Attempt 4 failed for FID 182619752: HTTP 404
+2026-07-25 20:46:36 - All 4 attempts failed for FID 182619752.
+2026-07-25 20:46:36 - Result: Login request failed after retries
+2026-07-25 20:46:40 - Attempt 1 failed for FID 184454569: HTTP 404
+2026-07-25 20:46:45 - Attempt 2 failed for FID 184454569: HTTP 404
+2026-07-25 20:46:50 - Attempt 3 failed for FID 184454569: HTTP 404
+2026-07-25 20:46:55 - Attempt 4 failed for FID 184454569: HTTP 404
+2026-07-25 20:46:55 - All 4 attempts failed for FID 184454569.
+2026-07-25 20:46:55 - Result: Login request failed after retries
+2026-07-25 20:46:58 - Attempt 1 failed for FID 180702587: HTTP 404
+2026-07-25 20:47:03 - Attempt 2 failed for FID 180702587: HTTP 404
+2026-07-25 20:47:08 - Attempt 3 failed for FID 180702587: HTTP 404
+2026-07-25 20:47:13 - Attempt 4 failed for FID 180702587: HTTP 404
+2026-07-25 20:47:13 - All 4 attempts failed for FID 180702587.
+2026-07-25 20:47:13 - Result: Login request failed after retries
+2026-07-25 20:47:17 - Attempt 1 failed for FID 181816445: HTTP 404
+2026-07-25 20:47:22 - Attempt 2 failed for FID 181816445: HTTP 404
+2026-07-25 20:47:27 - Attempt 3 failed for FID 181816445: HTTP 404
+2026-07-25 20:47:33 - Attempt 4 failed for FID 181816445: HTTP 404
+2026-07-25 20:47:33 - All 4 attempts failed for FID 181816445.
+2026-07-25 20:47:33 - Result: Login request failed after retries
+2026-07-25 20:47:37 - Attempt 1 failed for FID 184258115: HTTP 404
+2026-07-25 20:47:42 - Attempt 2 failed for FID 184258115: HTTP 404
+2026-07-25 20:47:47 - Attempt 3 failed for FID 184258115: HTTP 404
+2026-07-25 20:47:52 - Attempt 4 failed for FID 184258115: HTTP 404
+2026-07-25 20:47:52 - All 4 attempts failed for FID 184258115.
+2026-07-25 20:47:52 - Result: Login request failed after retries
+2026-07-25 20:47:56 - Attempt 1 failed for FID 183635567: HTTP 404
+2026-07-25 20:48:01 - Attempt 2 failed for FID 183635567: HTTP 404
+2026-07-25 20:48:06 - Attempt 3 failed for FID 183635567: HTTP 404
+2026-07-25 20:48:11 - Attempt 4 failed for FID 183635567: HTTP 404
+2026-07-25 20:48:11 - All 4 attempts failed for FID 183635567.
+2026-07-25 20:48:11 - Result: Login request failed after retries
+2026-07-25 20:48:15 - Attempt 1 failed for FID 183045689: HTTP 404
+2026-07-25 20:48:20 - Attempt 2 failed for FID 183045689: HTTP 404
+2026-07-25 20:48:25 - Attempt 3 failed for FID 183045689: HTTP 404
+2026-07-25 20:48:30 - Attempt 4 failed for FID 183045689: HTTP 404
+2026-07-25 20:48:30 - All 4 attempts failed for FID 183045689.
+2026-07-25 20:48:30 - Result: Login request failed after retries
+2026-07-25 20:48:33 - Attempt 1 failed for FID 190553232: HTTP 404
+2026-07-25 20:48:38 - Attempt 2 failed for FID 190553232: HTTP 404
+2026-07-25 20:48:43 - Attempt 3 failed for FID 190553232: HTTP 404
+2026-07-25 20:48:48 - Attempt 4 failed for FID 190553232: HTTP 404
+2026-07-25 20:48:48 - All 4 attempts failed for FID 190553232.
+2026-07-25 20:48:48 - Result: Login request failed after retries
+2026-07-25 20:48:52 - Attempt 1 failed for FID 184175883: HTTP 404
+2026-07-25 20:48:57 - Attempt 2 failed for FID 184175883: HTTP 404
+2026-07-25 20:49:02 - Attempt 3 failed for FID 184175883: HTTP 404
+2026-07-25 20:49:07 - Attempt 4 failed for FID 184175883: HTTP 404
+2026-07-25 20:49:07 - All 4 attempts failed for FID 184175883.
+2026-07-25 20:49:07 - Result: Login request failed after retries
+2026-07-25 20:49:11 - Attempt 1 failed for FID 183225670: HTTP 404
+2026-07-25 20:49:17 - Attempt 2 failed for FID 183225670: HTTP 404
+2026-07-25 20:49:22 - Attempt 3 failed for FID 183225670: HTTP 404
+2026-07-25 20:49:27 - Attempt 4 failed for FID 183225670: HTTP 404
+2026-07-25 20:49:27 - All 4 attempts failed for FID 183225670.
+2026-07-25 20:49:27 - Result: Login request failed after retries
+2026-07-25 20:49:29 - Attempt 1 failed for FID 181144898: HTTP 404
+2026-07-25 20:49:35 - Attempt 2 failed for FID 181144898: HTTP 404
+2026-07-25 20:49:40 - Attempt 3 failed for FID 181144898: HTTP 404
+2026-07-25 20:49:45 - Attempt 4 failed for FID 181144898: HTTP 404
+2026-07-25 20:49:45 - All 4 attempts failed for FID 181144898.
+2026-07-25 20:49:45 - Result: Login request failed after retries
+2026-07-25 20:49:47 - Attempt 1 failed for FID 180817435: HTTP 404
+2026-07-25 20:49:52 - Attempt 2 failed for FID 180817435: HTTP 404
+2026-07-25 20:49:57 - Attempt 3 failed for FID 180817435: HTTP 404
+2026-07-25 20:50:03 - Attempt 4 failed for FID 180817435: HTTP 404
+2026-07-25 20:50:03 - All 4 attempts failed for FID 180817435.
+2026-07-25 20:50:03 - Result: Login request failed after retries
+2026-07-25 20:50:07 - Attempt 1 failed for FID 184307653: HTTP 404
+2026-07-25 20:50:12 - Attempt 2 failed for FID 184307653: HTTP 404
+2026-07-25 20:50:17 - Attempt 3 failed for FID 184307653: HTTP 404
+2026-07-25 20:50:22 - Attempt 4 failed for FID 184307653: HTTP 404
+2026-07-25 20:50:22 - All 4 attempts failed for FID 184307653.
+2026-07-25 20:50:22 - Result: Login request failed after retries
+2026-07-25 20:50:26 - Attempt 1 failed for FID 184421902: HTTP 404
+2026-07-25 20:50:31 - Attempt 2 failed for FID 184421902: HTTP 404
+2026-07-25 20:50:37 - Attempt 3 failed for FID 184421902: HTTP 404
+2026-07-25 20:50:42 - Attempt 4 failed for FID 184421902: HTTP 404
+2026-07-25 20:50:42 - All 4 attempts failed for FID 184421902.
+2026-07-25 20:50:42 - Result: Login request failed after retries
+2026-07-25 20:50:45 - Attempt 1 failed for FID 183258450: HTTP 404
+2026-07-25 20:50:50 - Attempt 2 failed for FID 183258450: HTTP 404
+2026-07-25 20:50:55 - Attempt 3 failed for FID 183258450: HTTP 404
+2026-07-25 20:51:00 - Attempt 4 failed for FID 183258450: HTTP 404
+2026-07-25 20:51:00 - All 4 attempts failed for FID 183258450.
+2026-07-25 20:51:00 - Result: Login request failed after retries
+2026-07-25 20:51:03 - Attempt 1 failed for FID 182259555: HTTP 404
+2026-07-25 20:51:08 - Attempt 2 failed for FID 182259555: HTTP 404
+2026-07-25 20:51:14 - Attempt 3 failed for FID 182259555: HTTP 404
+2026-07-25 20:51:19 - Attempt 4 failed for FID 182259555: HTTP 404
+2026-07-25 20:51:19 - All 4 attempts failed for FID 182259555.
+2026-07-25 20:51:19 - Result: Login request failed after retries
+2026-07-25 20:51:23 - Attempt 1 failed for FID 182980287: HTTP 404
+2026-07-25 20:51:28 - Attempt 2 failed for FID 182980287: HTTP 404
+2026-07-25 20:51:33 - Attempt 3 failed for FID 182980287: HTTP 404
+2026-07-25 20:51:38 - Attempt 4 failed for FID 182980287: HTTP 404
+2026-07-25 20:51:38 - All 4 attempts failed for FID 182980287.
+2026-07-25 20:51:38 - Result: Login request failed after retries
+2026-07-25 20:51:42 - Attempt 1 failed for FID 184209057: HTTP 404
+2026-07-25 20:51:47 - Attempt 2 failed for FID 184209057: HTTP 404
+2026-07-25 20:51:52 - Attempt 3 failed for FID 184209057: HTTP 404
+2026-07-25 20:51:57 - Attempt 4 failed for FID 184209057: HTTP 404
+2026-07-25 20:51:57 - All 4 attempts failed for FID 184209057.
+2026-07-25 20:51:57 - Result: Login request failed after retries
+2026-07-25 20:52:01 - Attempt 1 failed for FID 180784723: HTTP 404
+2026-07-25 20:52:06 - Attempt 2 failed for FID 180784723: HTTP 404
+2026-07-25 20:52:11 - Attempt 3 failed for FID 180784723: HTTP 404
+2026-07-25 20:52:16 - Attempt 4 failed for FID 180784723: HTTP 404
+2026-07-25 20:52:16 - All 4 attempts failed for FID 180784723.
+2026-07-25 20:52:16 - Result: Login request failed after retries
+2026-07-25 20:52:19 - Attempt 1 failed for FID 183602956: HTTP 404
+2026-07-25 20:52:25 - Attempt 2 failed for FID 183602956: HTTP 404
+2026-07-25 20:52:30 - Attempt 3 failed for FID 183602956: HTTP 404
+2026-07-25 20:52:35 - Attempt 4 failed for FID 183602956: HTTP 404
+2026-07-25 20:52:35 - All 4 attempts failed for FID 183602956.
+2026-07-25 20:52:35 - Result: Login request failed after retries
+2026-07-25 20:52:39 - Attempt 1 failed for FID 181833537: HTTP 404
+2026-07-25 20:52:44 - Attempt 2 failed for FID 181833537: HTTP 404
+2026-07-25 20:52:49 - Attempt 3 failed for FID 181833537: HTTP 404
+2026-07-25 20:52:54 - Attempt 4 failed for FID 181833537: HTTP 404
+2026-07-25 20:52:54 - All 4 attempts failed for FID 181833537.
+2026-07-25 20:52:54 - Result: Login request failed after retries
+2026-07-25 20:52:57 - Attempt 1 failed for FID 184454584: HTTP 404
+2026-07-25 20:53:02 - Attempt 2 failed for FID 184454584: HTTP 404
+2026-07-25 20:53:07 - Attempt 3 failed for FID 184454584: HTTP 404
+2026-07-25 20:53:12 - Attempt 4 failed for FID 184454584: HTTP 404
+2026-07-25 20:53:12 - All 4 attempts failed for FID 184454584.
+2026-07-25 20:53:12 - Result: Login request failed after retries
+2026-07-25 20:53:15 - Attempt 1 failed for FID 182144355: HTTP 404
+2026-07-25 20:53:20 - Attempt 2 failed for FID 182144355: HTTP 404
+2026-07-25 20:53:25 - Attempt 3 failed for FID 182144355: HTTP 404
+2026-07-25 20:53:30 - Attempt 4 failed for FID 182144355: HTTP 404
+2026-07-25 20:53:30 - All 4 attempts failed for FID 182144355.
+2026-07-25 20:53:30 - Result: Login request failed after retries
+2026-07-25 20:53:34 - Attempt 1 failed for FID 183585864: HTTP 404
+2026-07-25 20:53:39 - Attempt 2 failed for FID 183585864: HTTP 404
+2026-07-25 20:53:44 - Attempt 3 failed for FID 183585864: HTTP 404
+2026-07-25 20:53:49 - Attempt 4 failed for FID 183585864: HTTP 404
+2026-07-25 20:53:49 - All 4 attempts failed for FID 183585864.
+2026-07-25 20:53:49 - Result: Login request failed after retries
+2026-07-25 20:53:53 - Attempt 1 failed for FID 182275359: HTTP 404
+2026-07-25 20:53:58 - Attempt 2 failed for FID 182275359: HTTP 404
+2026-07-25 20:54:03 - Attempt 3 failed for FID 182275359: HTTP 404
+2026-07-25 20:54:08 - Attempt 4 failed for FID 182275359: HTTP 404
+2026-07-25 20:54:08 - All 4 attempts failed for FID 182275359.
+2026-07-25 20:54:08 - Result: Login request failed after retries
+2026-07-25 20:54:13 - Attempt 1 failed for FID 181374419: HTTP 404
+2026-07-25 20:54:18 - Attempt 2 failed for FID 181374419: HTTP 404
+2026-07-25 20:54:23 - Attempt 3 failed for FID 181374419: HTTP 404
+2026-07-25 20:54:28 - Attempt 4 failed for FID 181374419: HTTP 404
+2026-07-25 20:54:28 - All 4 attempts failed for FID 181374419.
+2026-07-25 20:54:28 - Result: Login request failed after retries
+2026-07-25 20:54:32 - Attempt 1 failed for FID 183012834: HTTP 404
+2026-07-25 20:54:37 - Attempt 2 failed for FID 183012834: HTTP 404
+2026-07-25 20:54:42 - Attempt 3 failed for FID 183012834: HTTP 404
+2026-07-25 20:54:48 - Attempt 4 failed for FID 183012834: HTTP 404
+2026-07-25 20:54:48 - All 4 attempts failed for FID 183012834.
+2026-07-25 20:54:48 - Result: Login request failed after retries
+2026-07-25 20:54:51 - Attempt 1 failed for FID 184274854: HTTP 404
+2026-07-25 20:54:56 - Attempt 2 failed for FID 184274854: HTTP 404
+2026-07-25 20:55:01 - Attempt 3 failed for FID 184274854: HTTP 404
+2026-07-25 20:55:06 - Attempt 4 failed for FID 184274854: HTTP 404
+2026-07-25 20:55:06 - All 4 attempts failed for FID 184274854.
+2026-07-25 20:55:06 - Result: Login request failed after retries
+2026-07-25 20:55:09 - Attempt 1 failed for FID 183569412: HTTP 404
+2026-07-25 20:55:14 - Attempt 2 failed for FID 183569412: HTTP 404
+2026-07-25 20:55:19 - Attempt 3 failed for FID 183569412: HTTP 404
+2026-07-25 20:55:24 - Attempt 4 failed for FID 183569412: HTTP 404
+2026-07-25 20:55:24 - All 4 attempts failed for FID 183569412.
+2026-07-25 20:55:24 - Result: Login request failed after retries
+2026-07-25 20:55:28 - Attempt 1 failed for FID 183012848: HTTP 404
+2026-07-25 20:55:33 - Attempt 2 failed for FID 183012848: HTTP 404
+2026-07-25 20:55:38 - Attempt 3 failed for FID 183012848: HTTP 404
+2026-07-25 20:55:43 - Attempt 4 failed for FID 183012848: HTTP 404
+2026-07-25 20:55:43 - All 4 attempts failed for FID 183012848.
+2026-07-25 20:55:43 - Result: Login request failed after retries
+2026-07-25 20:55:47 - Attempt 1 failed for FID 181407057: HTTP 404
+2026-07-25 20:55:52 - Attempt 2 failed for FID 181407057: HTTP 404
+2026-07-25 20:55:57 - Attempt 3 failed for FID 181407057: HTTP 404
+2026-07-25 20:56:02 - Attempt 4 failed for FID 181407057: HTTP 404
+2026-07-25 20:56:02 - All 4 attempts failed for FID 181407057.
+2026-07-25 20:56:02 - Result: Login request failed after retries
+2026-07-25 20:56:06 - Attempt 1 failed for FID 180489519: HTTP 404
+2026-07-25 20:56:12 - Attempt 2 failed for FID 180489519: HTTP 404
+2026-07-25 20:56:17 - Attempt 3 failed for FID 180489519: HTTP 404
+2026-07-25 20:56:22 - Attempt 4 failed for FID 180489519: HTTP 404
+2026-07-25 20:56:22 - All 4 attempts failed for FID 180489519.
+2026-07-25 20:56:22 - Result: Login request failed after retries
+2026-07-25 20:56:25 - Attempt 1 failed for FID 180718554: HTTP 404
+2026-07-25 20:56:31 - Attempt 2 failed for FID 180718554: HTTP 404
+2026-07-25 20:56:36 - Attempt 3 failed for FID 180718554: HTTP 404
+2026-07-25 20:56:41 - Attempt 4 failed for FID 180718554: HTTP 404
+2026-07-25 20:56:41 - All 4 attempts failed for FID 180718554.
+2026-07-25 20:56:41 - Result: Login request failed after retries
+2026-07-25 20:56:45 - Attempt 1 failed for FID 181964601: HTTP 404
+2026-07-25 20:56:50 - Attempt 2 failed for FID 181964601: HTTP 404
+2026-07-25 20:56:55 - Attempt 3 failed for FID 181964601: HTTP 404
+2026-07-25 20:57:00 - Attempt 4 failed for FID 181964601: HTTP 404
+2026-07-25 20:57:00 - All 4 attempts failed for FID 181964601.
+2026-07-25 20:57:00 - Result: Login request failed after retries
+2026-07-25 20:57:04 - Attempt 1 failed for FID 184291065: HTTP 404
+2026-07-25 20:57:09 - Attempt 2 failed for FID 184291065: HTTP 404
+2026-07-25 20:57:14 - Attempt 3 failed for FID 184291065: HTTP 404
+2026-07-25 20:57:19 - Attempt 4 failed for FID 184291065: HTTP 404
+2026-07-25 20:57:19 - All 4 attempts failed for FID 184291065.
+2026-07-25 20:57:19 - Result: Login request failed after retries
+2026-07-25 20:57:23 - Attempt 1 failed for FID 182717899: HTTP 404
+2026-07-25 20:57:28 - Attempt 2 failed for FID 182717899: HTTP 404
+2026-07-25 20:57:33 - Attempt 3 failed for FID 182717899: HTTP 404
+2026-07-25 20:57:38 - Attempt 4 failed for FID 182717899: HTTP 404
+2026-07-25 20:57:38 - All 4 attempts failed for FID 182717899.
+2026-07-25 20:57:38 - Result: Login request failed after retries
+2026-07-25 20:57:43 - Attempt 1 failed for FID 181243529: HTTP 404
+2026-07-25 20:57:48 - Attempt 2 failed for FID 181243529: HTTP 404
+2026-07-25 20:57:53 - Attempt 3 failed for FID 181243529: HTTP 404
+2026-07-25 20:57:58 - Attempt 4 failed for FID 181243529: HTTP 404
+2026-07-25 20:57:58 - All 4 attempts failed for FID 181243529.
+2026-07-25 20:57:58 - Result: Login request failed after retries
+2026-07-25 20:58:02 - Attempt 1 failed for FID 182062678: HTTP 404
+2026-07-25 20:58:07 - Attempt 2 failed for FID 182062678: HTTP 404
+2026-07-25 20:58:12 - Attempt 3 failed for FID 182062678: HTTP 404
+2026-07-25 20:58:17 - Attempt 4 failed for FID 182062678: HTTP 404
+2026-07-25 20:58:17 - All 4 attempts failed for FID 182062678.
+2026-07-25 20:58:17 - Result: Login request failed after retries
+2026-07-25 20:58:20 - Attempt 1 failed for FID 183372781: HTTP 404
+2026-07-25 20:58:26 - Attempt 2 failed for FID 183372781: HTTP 404
+2026-07-25 20:58:31 - Attempt 3 failed for FID 183372781: HTTP 404
+2026-07-25 20:58:36 - Attempt 4 failed for FID 183372781: HTTP 404
+2026-07-25 20:58:36 - All 4 attempts failed for FID 183372781.
+2026-07-25 20:58:36 - Result: Login request failed after retries
+2026-07-25 20:58:39 - Attempt 1 failed for FID 184127078: HTTP 404
+2026-07-25 20:58:44 - Attempt 2 failed for FID 184127078: HTTP 404
+2026-07-25 20:58:49 - Attempt 3 failed for FID 184127078: HTTP 404
+2026-07-25 20:58:54 - Attempt 4 failed for FID 184127078: HTTP 404
+2026-07-25 20:58:54 - All 4 attempts failed for FID 184127078.
+2026-07-25 20:58:54 - Result: Login request failed after retries
+2026-07-25 20:58:58 - Attempt 1 failed for FID 184323165: HTTP 404
+2026-07-25 20:59:03 - Attempt 2 failed for FID 184323165: HTTP 404
+2026-07-25 20:59:08 - Attempt 3 failed for FID 184323165: HTTP 404
+2026-07-25 20:59:13 - Attempt 4 failed for FID 184323165: HTTP 404
+2026-07-25 20:59:13 - All 4 attempts failed for FID 184323165.
+2026-07-25 20:59:13 - Result: Login request failed after retries
+2026-07-25 20:59:16 - Attempt 1 failed for FID 183176536: HTTP 404
+2026-07-25 20:59:21 - Attempt 2 failed for FID 183176536: HTTP 404
+2026-07-25 20:59:27 - Attempt 3 failed for FID 183176536: HTTP 404
+2026-07-25 20:59:32 - Attempt 4 failed for FID 183176536: HTTP 404
+2026-07-25 20:59:32 - All 4 attempts failed for FID 183176536.
+2026-07-25 20:59:32 - Result: Login request failed after retries
+2026-07-25 20:59:34 - Attempt 1 failed for FID 180554919: HTTP 404
+2026-07-25 20:59:39 - Attempt 2 failed for FID 180554919: HTTP 404
+2026-07-25 20:59:44 - Attempt 3 failed for FID 180554919: HTTP 404
+2026-07-25 20:59:50 - Attempt 4 failed for FID 180554919: HTTP 404
+2026-07-25 20:59:50 - All 4 attempts failed for FID 180554919.
+2026-07-25 20:59:50 - Result: Login request failed after retries
+2026-07-25 20:59:52 - Attempt 1 failed for FID 183799231: HTTP 404
+2026-07-25 20:59:57 - Attempt 2 failed for FID 183799231: HTTP 404
+2026-07-25 21:00:02 - Attempt 3 failed for FID 183799231: HTTP 404
+2026-07-25 21:00:07 - Attempt 4 failed for FID 183799231: HTTP 404
+2026-07-25 21:00:07 - All 4 attempts failed for FID 183799231.
+2026-07-25 21:00:07 - Result: Login request failed after retries
+2026-07-25 21:00:11 - Attempt 1 failed for FID 184143136: HTTP 404
+2026-07-25 21:00:16 - Attempt 2 failed for FID 184143136: HTTP 404
+2026-07-25 21:00:21 - Attempt 3 failed for FID 184143136: HTTP 404
+2026-07-25 21:00:26 - Attempt 4 failed for FID 184143136: HTTP 404
+2026-07-25 21:00:26 - All 4 attempts failed for FID 184143136.
+2026-07-25 21:00:26 - Result: Login request failed after retries
+2026-07-25 21:00:29 - Attempt 1 failed for FID 215292102: HTTP 404
+2026-07-25 21:00:34 - Attempt 2 failed for FID 215292102: HTTP 404
+2026-07-25 21:00:39 - Attempt 3 failed for FID 215292102: HTTP 404
+2026-07-25 21:00:44 - Attempt 4 failed for FID 215292102: HTTP 404
+2026-07-25 21:00:44 - All 4 attempts failed for FID 215292102.
+2026-07-25 21:00:44 - Result: Login request failed after retries
+2026-07-25 21:00:47 - Attempt 1 failed for FID 184404971: HTTP 404
+2026-07-25 21:00:52 - Attempt 2 failed for FID 184404971: HTTP 404
+2026-07-25 21:00:57 - Attempt 3 failed for FID 184404971: HTTP 404
+2026-07-25 21:01:02 - Attempt 4 failed for FID 184404971: HTTP 404
+2026-07-25 21:01:02 - All 4 attempts failed for FID 184404971.
+2026-07-25 21:01:02 - Result: Login request failed after retries
+2026-07-25 21:01:06 - Attempt 1 failed for FID 190553232: HTTP 404
+2026-07-25 21:01:11 - Attempt 2 failed for FID 190553232: HTTP 404
+2026-07-25 21:01:16 - Attempt 3 failed for FID 190553232: HTTP 404
+2026-07-25 21:01:21 - Attempt 4 failed for FID 190553232: HTTP 404
+2026-07-25 21:01:21 - All 4 attempts failed for FID 190553232.
+2026-07-25 21:01:21 - Result: Login request failed after retries
+2026-07-25 21:01:25 - Attempt 1 failed for FID 201582202: HTTP 404
+2026-07-25 21:01:31 - Attempt 2 failed for FID 201582202: HTTP 404
+2026-07-25 21:01:36 - Attempt 3 failed for FID 201582202: HTTP 404
+2026-07-25 21:01:41 - Attempt 4 failed for FID 201582202: HTTP 404
+2026-07-25 21:01:41 - All 4 attempts failed for FID 201582202.
+2026-07-25 21:01:41 - Result: Login request failed after retries
+2026-07-25 21:01:44 - Attempt 1 failed for FID 184257548: HTTP 404
+2026-07-25 21:01:49 - Attempt 2 failed for FID 184257548: HTTP 404
+2026-07-25 21:01:54 - Attempt 3 failed for FID 184257548: HTTP 404
+2026-07-25 21:01:59 - Attempt 4 failed for FID 184257548: HTTP 404
+2026-07-25 21:01:59 - All 4 attempts failed for FID 184257548.
+2026-07-25 21:01:59 - Result: Login request failed after retries
+2026-07-25 21:02:03 - Attempt 1 failed for FID 202273267: HTTP 404
+2026-07-25 21:02:08 - Attempt 2 failed for FID 202273267: HTTP 404
+2026-07-25 21:02:13 - Attempt 3 failed for FID 202273267: HTTP 404
+2026-07-25 21:02:18 - Attempt 4 failed for FID 202273267: HTTP 404
+2026-07-25 21:02:18 - All 4 attempts failed for FID 202273267.
+2026-07-25 21:02:18 - Result: Login request failed after retries
+2026-07-25 21:02:21 - Attempt 1 failed for FID 231437990: HTTP 404
+2026-07-25 21:02:26 - Attempt 2 failed for FID 231437990: HTTP 404
+2026-07-25 21:02:31 - Attempt 3 failed for FID 231437990: HTTP 404
+2026-07-25 21:02:36 - Attempt 4 failed for FID 231437990: HTTP 404
+2026-07-25 21:02:36 - All 4 attempts failed for FID 231437990.
+2026-07-25 21:02:36 - Result: Login request failed after retries
+2026-07-25 21:02:39 - Attempt 1 failed for FID 234681701: HTTP 404
+2026-07-25 21:02:45 - Attempt 2 failed for FID 234681701: HTTP 404
+2026-07-25 21:02:50 - Attempt 3 failed for FID 234681701: HTTP 404
+2026-07-25 21:02:55 - Attempt 4 failed for FID 234681701: HTTP 404
+2026-07-25 21:02:55 - All 4 attempts failed for FID 234681701.
+2026-07-25 21:02:55 - Result: Login request failed after retries
+2026-07-25 21:02:59 - Attempt 1 failed for FID 181767307: HTTP 404
+2026-07-25 21:03:04 - Attempt 2 failed for FID 181767307: HTTP 404
+2026-07-25 21:03:09 - Attempt 3 failed for FID 181767307: HTTP 404
+2026-07-25 21:03:14 - Attempt 4 failed for FID 181767307: HTTP 404
+2026-07-25 21:03:14 - All 4 attempts failed for FID 181767307.
+2026-07-25 21:03:14 - Result: Login request failed after retries
+2026-07-25 21:03:17 - Attempt 1 failed for FID 181571708: HTTP 404
+2026-07-25 21:03:22 - Attempt 2 failed for FID 181571708: HTTP 404
+2026-07-25 21:03:27 - Attempt 3 failed for FID 181571708: HTTP 404
+2026-07-25 21:03:32 - Attempt 4 failed for FID 181571708: HTTP 404
+2026-07-25 21:03:32 - All 4 attempts failed for FID 181571708.
+2026-07-25 21:03:32 - Result: Login request failed after retries
+2026-07-25 21:03:35 - Attempt 1 failed for FID 187684479: HTTP 404
+2026-07-25 21:03:40 - Attempt 2 failed for FID 187684479: HTTP 404
+2026-07-25 21:03:45 - Attempt 3 failed for FID 187684479: HTTP 404
+2026-07-25 21:03:50 - Attempt 4 failed for FID 187684479: HTTP 404
+2026-07-25 21:03:50 - All 4 attempts failed for FID 187684479.
+2026-07-25 21:03:50 - Result: Login request failed after retries
+2026-07-25 21:03:53 - Attempt 1 failed for FID 234681701: HTTP 404
+2026-07-25 21:03:58 - Attempt 2 failed for FID 234681701: HTTP 404
+2026-07-25 21:04:03 - Attempt 3 failed for FID 234681701: HTTP 404
+2026-07-25 21:04:08 - Attempt 4 failed for FID 234681701: HTTP 404
+2026-07-25 21:04:08 - All 4 attempts failed for FID 234681701.
+2026-07-25 21:04:08 - Result: Login request failed after retries
+2026-07-25 21:04:12 - Attempt 1 failed for FID 181423528: HTTP 404
+2026-07-25 21:04:17 - Attempt 2 failed for FID 181423528: HTTP 404
+2026-07-25 21:04:22 - Attempt 3 failed for FID 181423528: HTTP 404
+2026-07-25 21:04:27 - Attempt 4 failed for FID 181423528: HTTP 404
+2026-07-25 21:04:27 - All 4 attempts failed for FID 181423528.
+2026-07-25 21:04:27 - Result: Login request failed after retries
+2026-07-25 21:04:32 - Attempt 1 failed for FID 210817745: HTTP 404
+2026-07-25 21:04:37 - Attempt 2 failed for FID 210817745: HTTP 404
+2026-07-25 21:04:42 - Attempt 3 failed for FID 210817745: HTTP 404
+2026-07-25 21:04:47 - Attempt 4 failed for FID 210817745: HTTP 404
+2026-07-25 21:04:47 - All 4 attempts failed for FID 210817745.
+2026-07-25 21:04:47 - Result: Login request failed after retries
+2026-07-25 21:04:50 - Attempt 1 failed for FID 181292144: HTTP 404
+2026-07-25 21:04:55 - Attempt 2 failed for FID 181292144: HTTP 404
+2026-07-25 21:05:00 - Attempt 3 failed for FID 181292144: HTTP 404
+2026-07-25 21:05:05 - Attempt 4 failed for FID 181292144: HTTP 404
+2026-07-25 21:05:05 - All 4 attempts failed for FID 181292144.
+2026-07-25 21:05:05 - Result: Login request failed after retries
+2026-07-25 21:05:09 - Attempt 1 failed for FID 182045779: HTTP 404
+2026-07-25 21:05:14 - Attempt 2 failed for FID 182045779: HTTP 404
+2026-07-25 21:05:19 - Attempt 3 failed for FID 182045779: HTTP 404
+2026-07-25 21:05:24 - Attempt 4 failed for FID 182045779: HTTP 404
+2026-07-25 21:05:24 - All 4 attempts failed for FID 182045779.
+2026-07-25 21:05:24 - Result: Login request failed after retries
+2026-07-25 21:05:28 - Attempt 1 failed for FID 209374239: HTTP 404
+2026-07-25 21:05:34 - Attempt 2 failed for FID 209374239: HTTP 404
+2026-07-25 21:05:39 - Attempt 3 failed for FID 209374239: HTTP 404
+2026-07-25 21:05:44 - Attempt 4 failed for FID 209374239: HTTP 404
+2026-07-25 21:05:44 - All 4 attempts failed for FID 209374239.
+2026-07-25 21:05:44 - Result: Login request failed after retries
+2026-07-25 21:05:48 - Attempt 1 failed for FID 181554356: HTTP 404
+2026-07-25 21:05:53 - Attempt 2 failed for FID 181554356: HTTP 404
+2026-07-25 21:05:58 - Attempt 3 failed for FID 181554356: HTTP 404
+2026-07-25 21:06:03 - Attempt 4 failed for FID 181554356: HTTP 404
+2026-07-25 21:06:03 - All 4 attempts failed for FID 181554356.
+2026-07-25 21:06:03 - Result: Login request failed after retries
+2026-07-25 21:06:07 - Attempt 1 failed for FID 182963887: HTTP 404
+2026-07-25 21:06:12 - Attempt 2 failed for FID 182963887: HTTP 404
+2026-07-25 21:06:17 - Attempt 3 failed for FID 182963887: HTTP 404
+2026-07-25 21:06:23 - Attempt 4 failed for FID 182963887: HTTP 404
+2026-07-25 21:06:23 - All 4 attempts failed for FID 182963887.
+2026-07-25 21:06:23 - Result: Login request failed after retries
+2026-07-25 21:06:26 - Attempt 1 failed for FID 182390223: HTTP 404
+2026-07-25 21:06:31 - Attempt 2 failed for FID 182390223: HTTP 404
+2026-07-25 21:06:36 - Attempt 3 failed for FID 182390223: HTTP 404
+2026-07-25 21:06:41 - Attempt 4 failed for FID 182390223: HTTP 404
+2026-07-25 21:06:41 - All 4 attempts failed for FID 182390223.
+2026-07-25 21:06:41 - Result: Login request failed after retries
+2026-07-25 21:06:44 - Attempt 1 failed for FID 182914649: HTTP 404
+2026-07-25 21:06:49 - Attempt 2 failed for FID 182914649: HTTP 404
+2026-07-25 21:06:54 - Attempt 3 failed for FID 182914649: HTTP 404
+2026-07-25 21:06:59 - Attempt 4 failed for FID 182914649: HTTP 404
+2026-07-25 21:06:59 - All 4 attempts failed for FID 182914649.
+2026-07-25 21:06:59 - Result: Login request failed after retries
+2026-07-25 21:07:04 - Attempt 1 failed for FID 181636752: HTTP 404
+2026-07-25 21:07:09 - Attempt 2 failed for FID 181636752: HTTP 404
+2026-07-25 21:07:14 - Attempt 3 failed for FID 181636752: HTTP 404
+2026-07-25 21:07:19 - Attempt 4 failed for FID 181636752: HTTP 404
+2026-07-25 21:07:19 - All 4 attempts failed for FID 181636752.
+2026-07-25 21:07:19 - Result: Login request failed after retries
+2026-07-25 21:07:23 - Attempt 1 failed for FID 183061980: HTTP 404
+2026-07-25 21:07:28 - Attempt 2 failed for FID 183061980: HTTP 404
+2026-07-25 21:07:33 - Attempt 3 failed for FID 183061980: HTTP 404
+2026-07-25 21:07:38 - Attempt 4 failed for FID 183061980: HTTP 404
+2026-07-25 21:07:38 - All 4 attempts failed for FID 183061980.
+2026-07-25 21:07:38 - Result: Login request failed after retries
+2026-07-25 21:07:42 - Attempt 1 failed for FID 183913998: HTTP 404
+2026-07-25 21:07:47 - Attempt 2 failed for FID 183913998: HTTP 404
+2026-07-25 21:07:52 - Attempt 3 failed for FID 183913998: HTTP 404
+2026-07-25 21:07:57 - Attempt 4 failed for FID 183913998: HTTP 404
+2026-07-25 21:07:57 - All 4 attempts failed for FID 183913998.
+2026-07-25 21:07:57 - Result: Login request failed after retries
+2026-07-25 21:08:01 - Attempt 1 failed for FID 181063111: HTTP 404
+2026-07-25 21:08:07 - Attempt 2 failed for FID 181063111: HTTP 404
+2026-07-25 21:08:12 - Attempt 3 failed for FID 181063111: HTTP 404
+2026-07-25 21:08:17 - Attempt 4 failed for FID 181063111: HTTP 404
+2026-07-25 21:08:17 - All 4 attempts failed for FID 181063111.
+2026-07-25 21:08:17 - Result: Login request failed after retries
+2026-07-25 21:08:20 - Attempt 1 failed for FID 181210770: HTTP 404
+2026-07-25 21:08:25 - Attempt 2 failed for FID 181210770: HTTP 404
+2026-07-25 21:08:30 - Attempt 3 failed for FID 181210770: HTTP 404
+2026-07-25 21:08:35 - Attempt 4 failed for FID 181210770: HTTP 404
+2026-07-25 21:08:35 - All 4 attempts failed for FID 181210770.
+2026-07-25 21:08:35 - Result: Login request failed after retries
+2026-07-25 21:08:39 - Attempt 1 failed for FID 183028805: HTTP 404
+2026-07-25 21:08:44 - Attempt 2 failed for FID 183028805: HTTP 404
+2026-07-25 21:08:49 - Attempt 3 failed for FID 183028805: HTTP 404
+2026-07-25 21:08:55 - Attempt 4 failed for FID 183028805: HTTP 404
+2026-07-25 21:08:55 - All 4 attempts failed for FID 183028805.
+2026-07-25 21:08:55 - Result: Login request failed after retries
+2026-07-25 21:08:59 - Attempt 1 failed for FID 283414406: HTTP 404
+2026-07-25 21:09:04 - Attempt 2 failed for FID 283414406: HTTP 404
+2026-07-25 21:09:09 - Attempt 3 failed for FID 283414406: HTTP 404
+2026-07-25 21:09:14 - Attempt 4 failed for FID 283414406: HTTP 404
+2026-07-25 21:09:14 - All 4 attempts failed for FID 283414406.
+2026-07-25 21:09:14 - Result: Login request failed after retries
+2026-07-25 21:09:17 - Attempt 1 failed for FID 182767010: HTTP 404
+2026-07-25 21:09:22 - Attempt 2 failed for FID 182767010: HTTP 404
+2026-07-25 21:09:27 - Attempt 3 failed for FID 182767010: HTTP 404
+2026-07-25 21:09:32 - Attempt 4 failed for FID 182767010: HTTP 404
+2026-07-25 21:09:32 - All 4 attempts failed for FID 182767010.
+2026-07-25 21:09:32 - Result: Login request failed after retries
+2026-07-25 21:09:36 - Attempt 1 failed for FID 181079360: HTTP 404
+2026-07-25 21:09:42 - Attempt 2 failed for FID 181079360: HTTP 404
+2026-07-25 21:09:47 - Attempt 3 failed for FID 181079360: HTTP 404
+2026-07-25 21:09:52 - Attempt 4 failed for FID 181079360: HTTP 404
+2026-07-25 21:09:52 - All 4 attempts failed for FID 181079360.
+2026-07-25 21:09:52 - Result: Login request failed after retries
+2026-07-25 21:09:56 - Attempt 1 failed for FID 182537495: HTTP 404
+2026-07-25 21:10:01 - Attempt 2 failed for FID 182537495: HTTP 404
+2026-07-25 21:10:06 - Attempt 3 failed for FID 182537495: HTTP 404
+2026-07-25 21:10:11 - Attempt 4 failed for FID 182537495: HTTP 404
+2026-07-25 21:10:11 - All 4 attempts failed for FID 182537495.
+2026-07-25 21:10:11 - Result: Login request failed after retries
+2026-07-25 21:10:15 - Attempt 1 failed for FID 185480245: HTTP 404
+2026-07-25 21:10:20 - Attempt 2 failed for FID 185480245: HTTP 404
+2026-07-25 21:10:26 - Attempt 3 failed for FID 185480245: HTTP 404
+2026-07-25 21:10:31 - Attempt 4 failed for FID 185480245: HTTP 404
+2026-07-25 21:10:31 - All 4 attempts failed for FID 185480245.
+2026-07-25 21:10:31 - Result: Login request failed after retries
+2026-07-25 21:10:35 - Attempt 1 failed for FID 184356332: HTTP 404
+2026-07-25 21:10:40 - Attempt 2 failed for FID 184356332: HTTP 404
+2026-07-25 21:10:45 - Attempt 3 failed for FID 184356332: HTTP 404
+2026-07-25 21:10:50 - Attempt 4 failed for FID 184356332: HTTP 404
+2026-07-25 21:10:50 - All 4 attempts failed for FID 184356332.
+2026-07-25 21:10:50 - Result: Login request failed after retries
+2026-07-25 21:10:53 - Attempt 1 failed for FID 283701873: HTTP 404
+2026-07-25 21:10:58 - Attempt 2 failed for FID 283701873: HTTP 404
+2026-07-25 21:11:03 - Attempt 3 failed for FID 283701873: HTTP 404
+2026-07-25 21:11:08 - Attempt 4 failed for FID 283701873: HTTP 404
+2026-07-25 21:11:08 - All 4 attempts failed for FID 283701873.
+2026-07-25 21:11:08 - Result: Login request failed after retries
+2026-07-25 21:11:12 - Attempt 1 failed for FID 264844936: HTTP 404
+2026-07-25 21:11:17 - Attempt 2 failed for FID 264844936: HTTP 404
+2026-07-25 21:11:22 - Attempt 3 failed for FID 264844936: HTTP 404
+2026-07-25 21:11:27 - Attempt 4 failed for FID 264844936: HTTP 404
+2026-07-25 21:11:27 - All 4 attempts failed for FID 264844936.
+2026-07-25 21:11:27 - Result: Login request failed after retries
+2026-07-25 21:11:31 - Attempt 1 failed for FID 181768039: HTTP 404
+2026-07-25 21:11:36 - Attempt 2 failed for FID 181768039: HTTP 404
+2026-07-25 21:11:41 - Attempt 3 failed for FID 181768039: HTTP 404
+2026-07-25 21:11:46 - Attempt 4 failed for FID 181768039: HTTP 404
+2026-07-25 21:11:46 - All 4 attempts failed for FID 181768039.
+2026-07-25 21:11:46 - Result: Login request failed after retries
+2026-07-25 21:11:49 - Marked 'nwkJ6AXK6' as known.
+
+2026-07-25 21:11:49 - 
+=== Redemption Complete ===
+2026-07-25 21:11:49 - Successfully redeemed: 0
+2026-07-25 21:11:49 - Already redeemed: 0
+2026-07-25 21:11:49 - Errors/Failures: 103
