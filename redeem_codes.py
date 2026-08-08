@@ -14,11 +14,11 @@ from datetime import datetime
 from glob import glob
 
 # Configuration
-LOGIN_URL = "https://kingshot-giftcode.centurygame.com/api/player"
 REDEEM_URL = "https://kingshot-giftcode.centurygame.com/api/gift_code"
 WOS_ENCRYPT_KEY = "mN4!pQs6JrYwV9"  # The secret key
 
 DELAY = 1 # Seconds between each redemption, less than 1s may result in being blocked
+MAX_KINGDOM_ID = 999999  # A CSV field this small is a kingdom, never a player ID
 RETRY_DELAY = 2  # Seconds between retries
 MAX_RETRIES = 3  # Max retry attempts per request
 
@@ -106,39 +106,21 @@ def make_request(url, payload):
     return None
 
 # Redeem a gift code for a player and return the response
-def redeem_gift_code(fid, cdk):
+def redeem_gift_code(fid, kid, cdk):
     if not str(fid).strip().isdigit():
         log(f"Skipping invalid FID: '{fid}'")
         return {"msg": "Invalid FID format"}
     fid = str(fid).strip()
 
     try:
-        # === Login Request ===
-        login_payload = encode_data({"fid": fid, "time": int(time.time() * 1000)})
-        login_resp = make_request(LOGIN_URL, login_payload)
+        log(f"Processing K{kid}-{fid}")
 
-        if not login_resp:
-             return {"msg": "Login request failed after retries"}
-
-        try:
-            login_data = login_resp.json()
-            if login_data.get("code") != 0:
-                login_msg = login_data.get('msg', 'Unknown login error')
-                log(f"Login failed for {fid}: Code {login_data.get('code')}, Message: {login_msg}")
-                return {"msg": f"Login failed: {login_msg}"}
-
-            nickname = login_data.get("data", {}).get("nickname")
-            log(f"Processing {nickname or 'Unknown Player'} ({fid})")
-
-        except json.JSONDecodeError:
-             log(f"Login response for {fid} was not valid JSON: {login_resp.text[:200]}")
-             return {"msg": "Login response invalid JSON"}
-
-        # === Redeem Request ===
+        # === Redeem Request (now includes kid) ===
         redeem_payload = encode_data({
             "fid": fid,
             "cdk": cdk,
-            "time": int(time.time() * 1000)
+            "kid": str(kid),
+            "time": str(int(time.time()))
         })
 
         redeem_resp = make_request(REDEEM_URL, redeem_payload)
@@ -156,35 +138,49 @@ def redeem_gift_code(fid, cdk):
         log(f"Unexpected error during redemption for {fid}: {str(e)}")
         return {"msg": f"Unexpected Error: {str(e)}"}
 
-# Read player IDs from a CSV file
+# Parse a single CSV row into (fid, kid) pairs
+def parse_csv_row(row):
+    """One CSV row -> [(fid, kid or None), ...].
+
+    A two-field row whose second field is small enough to be a kingdom is a
+    `fid,kid` pair; anything else is a plain list of player IDs.
+    """
+    fields = [item.strip() for item in row if item.strip()]
+    if not fields or fields[0].startswith("#"):
+        return []
+
+    if len(fields) == 2 and all(f.isdigit() for f in fields) and int(fields[1]) <= MAX_KINGDOM_ID:
+        return [(fields[0], fields[1])]
+
+    return [(f, None) for f in fields if f.isdigit()]
+
+# Read player IDs (and optional kingdoms) from a CSV file
 def read_player_ids_from_csv(file_path):
     """
     Reads player IDs from a CSV file.
-    Handles files where IDs are one per line, OR comma-separated on one or more lines.
+    Supports:
+      - One FID per line
+      - Comma-separated FIDs
+      - fid,kid pairs (second column is kingdom if <= MAX_KINGDOM_ID)
     Strips whitespace from each ID and ignores empty entries.
     """
-    player_ids = []
-    format_detected = "newline" # Assume newline format initially
+    players = []
     try:
         # Using utf-8-sig to handle potential BOM (Byte Order Mark)
         with open(file_path, mode="r", newline="", encoding="utf-8-sig") as file:
-            # Read a small sample to detect format more reliably
-            sample = "".join(file.readline() for _ in range(5))
-            if ',' in sample:
-                format_detected = "comma-separated"
-            file.seek(0)
-
-            log(f"Reading {file_path} (detected format: {format_detected})")
+            log(f"Reading {file_path}")
             reader = csv.reader(file)
-            for row_num, row in enumerate(reader, 1):
-                for item in row:
-                    fid = item.strip()
-                    if fid:
-                        player_ids.append(fid)
-                    elif item and not fid:
-                        log(f"Warning: Ignoring whitespace-only entry in {file_path} on row {row_num}")
-                if not row and format_detected == "newline":
-                     log(f"Warning: Ignoring empty line in {file_path} on row {row_num}")
+            ignored = 0
+            for row in reader:
+                parsed = parse_csv_row(row)
+                players.extend(parsed)
+                if row and not parsed and row[0].strip() and not row[0].strip().startswith("#"):
+                    ignored += 1
+
+            with_kingdom = sum(1 for _, kid in players if kid)
+            log(f"Read {len(players)} player IDs from {file_path} ({with_kingdom} with a kingdom)")
+            if ignored:
+                log(f"Warning: Ignored {ignored} non-numeric or malformed rows in {file_path}")
 
     except FileNotFoundError:
         raise
@@ -192,7 +188,7 @@ def read_player_ids_from_csv(file_path):
         log(f"Error reading or processing CSV file {file_path}: {str(e)}")
         return [] # Return empty list on other read errors, allowing script to continue
 
-    return player_ids
+    return players
 
 # Print summary of actions
 def print_summary():
@@ -207,11 +203,17 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Redeem gift codes for player IDs from a CSV file.")
     parser.add_argument("--csv", required=True, help="Path to the CSV file containing player IDs (or *.csv for all files in a folder).")
     parser.add_argument("--code", required=True, help="The gift code to redeem.")
+    parser.add_argument("--kingdom", "--kid", dest="kingdom", type=int,
+                        help="Default kingdom ID for players whose CSV row does not carry one.")
     args = parser.parse_args()
+
+    default_kingdom = str(args.kingdom) if args.kingdom is not None else None
 
     # Log initialization message
     start_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     log(f"\n=== Starting redemption for gift code: {args.code} at {start_time} ===")
+    if args.kingdom is not None:
+        log(f"Default Kingdom: {args.kingdom}")
 
     # Handle *.csv input
     if args.csv == "*.csv":
@@ -231,12 +233,20 @@ if __name__ == "__main__":
     # Process all CSV files
     for csv_file in csv_files:
         try:
-            player_ids = read_player_ids_from_csv(csv_file)
-            log(f"Loaded {len(player_ids)} player IDs from {csv_file}")
+            players = read_player_ids_from_csv(csv_file)
+            log(f"Loaded {len(players)} player entries from {csv_file}")
+
+            # Resolve kingdoms: use CSV-provided kid, fall back to --kingdom
+            missing_kingdom = [fid for fid, kid in players if not kid]
+            if missing_kingdom and not default_kingdom:
+                log(f"Error: {len(missing_kingdom)} player ID(s) have no kingdom and --kingdom was not given.")
+                log("Fix this by passing --kingdom <id>, or by writing the CSV as 'fid,kid' per line.")
+                sys.exit(1)
 
             # Redeem gift code for each player
-            for fid in player_ids:
-                result = redeem_gift_code(fid, args.code)
+            for fid, kid in players:
+                kid = kid or default_kingdom
+                result = redeem_gift_code(fid, kid, args.code)
 
                 raw_msg = result.get('msg', 'Unknown error').strip('.')
                 friendly_msg = RESULT_MESSAGES.get(raw_msg, raw_msg)
