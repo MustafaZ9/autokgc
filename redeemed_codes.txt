@@ -24477,3 +24477,305 @@
 2026-08-08 13:31:06 - ======================================================================
 2026-08-08 13:31:06 - Marked 'Kingshot888' as known.
 
+2026-08-08 15:09:26 - Checking https://kingshot.net/gift-codes for new gift codes...
+2026-08-08 15:09:26 - Using curl_cffi for Cloudflare bypass...
+2026-08-08 15:09:27 - Success with chrome124 impersonation
+2026-08-08 15:09:27 - 
+🎉 NEW GIFT CODES FOUND: HAPPYCATDAY
+2026-08-08 15:09:27 - 
+=== Starting redemption for gift code: HAPPYCATDAY ===
+2026-08-08 15:09:27 - Read 132 player IDs from lod.csv (encoding: utf-8-sig, 132 with a kingdom)
+2026-08-08 15:09:27 - Total unique player IDs to process: 132
+2026-08-08 15:09:27 - 
+--- Starting processing cycle. Ready player IDs: 132 ---
+2026-08-08 15:09:27 - Processing K1266-37800527 [1/132] for code: HAPPYCATDAY
+2026-08-08 15:09:27 - 37800527 - Result: Wrong kingdom for this player ID
+2026-08-08 15:09:28 - Processing K1266-134948830 [2/132] for code: HAPPYCATDAY
+2026-08-08 15:09:28 - 134948830 - Result: Successfully redeemed
+2026-08-08 15:09:29 - Processing K1266-137881550 [3/132] for code: HAPPYCATDAY
+2026-08-08 15:09:30 - 137881550 - Result: Successfully redeemed
+2026-08-08 15:09:31 - Processing K1266-138078147 [4/132] for code: HAPPYCATDAY
+2026-08-08 15:09:31 - 138078147 - Result: Successfully redeemed
+2026-08-08 15:09:32 - Processing K1266-162070715 [5/132] for code: HAPPYCATDAY
+2026-08-08 15:09:32 - 162070715 - Result: Already redeemed
+2026-08-08 15:09:34 - Processing K1266-176622413 [6/132] for code: HAPPYCATDAY
+2026-08-08 15:09:34 - 176622413 - Result: Already redeemed
+2026-08-08 15:09:35 - Processing K1266-176730452 [7/132] for code: HAPPYCATDAY
+2026-08-08 15:09:35 - 176730452 - Result: Already redeemed
+2026-08-08 15:09:36 - Processing K1266-177978644 [8/132] for code: HAPPYCATDAY
+2026-08-08 15:09:36 - 177978644 - Result: Already redeemed
+2026-08-08 15:09:38 - Processing K1266-178188212 [9/132] for code: HAPPYCATDAY
+2026-08-08 15:09:38 - 178188212 - Result: Already redeemed
+2026-08-08 15:09:39 - Processing K1266-179107716 [10/132] for code: HAPPYCATDAY
+2026-08-08 15:09:39 - 179107716 - Result: Successfully redeemed
+2026-08-08 15:09:41 - Processing K1266-180369142 [11/132] for code: HAPPYCATDAY
+2026-08-08 15:09:41 - 180369142 - Result: Already redeemed
+2026-08-08 15:09:42 - Processing K1266-180483302 [12/132] for code: HAPPYCATDAY
+2026-08-08 15:09:42 - 180483302 - Result: Already redeemed
+2026-08-08 15:09:43 - Processing K1266-180614319 [13/132] for code: HAPPYCATDAY
+2026-08-08 15:09:43 - 180614319 - Result: Successfully redeemed
+2026-08-08 15:09:44 - Processing K1266-180636958 [14/132] for code: HAPPYCATDAY
+2026-08-08 15:09:44 - 180636958 - Result: Already redeemed
+2026-08-08 15:09:46 - Processing K1266-180669914 [15/132] for code: HAPPYCATDAY
+2026-08-08 15:09:46 - 180669914 - Result: Already redeemed
+2026-08-08 15:09:47 - Processing K1266-180778760 [16/132] for code: HAPPYCATDAY
+2026-08-08 15:09:47 - 180778760 - Result: Already redeemed
+2026-08-08 15:09:48 - Processing K1266-180893684 [17/132] for code: HAPPYCATDAY
+2026-08-08 15:09:48 - 180893684 - Result: Already redeemed
+2026-08-08 15:09:49 - Processing K1266-180959009 [18/132] for code: HAPPYCATDAY
+2026-08-08 15:09:49 - 180959009 - Result: Already redeemed
+2026-08-08 15:09:50 - Processing K1266-181073393 [19/132] for code: HAPPYCATDAY
+2026-08-08 15:09:50 - 181073393 - Result: Already redeemed
+2026-08-08 15:09:52 - Processing K1266-181155772 [20/132] for code: HAPPYCATDAY
+2026-08-08 15:09:52 - 181155772 - Result: Successfully redeemed
+2026-08-08 15:09:53 - Processing K1266-181341522 [21/132] for code: HAPPYCATDAY
+2026-08-08 15:09:53 - 181341522 - Result: Successfully redeemed
+2026-08-08 15:09:54 - Processing K1266-181358276 [22/132] for code: HAPPYCATDAY
+2026-08-08 15:09:54 - 181358276 - Result: Already redeemed
+2026-08-08 15:09:56 - Processing K1266-181374419 [23/132] for code: HAPPYCATDAY
+2026-08-08 15:09:56 - 181374419 - Result: Already redeemed
+2026-08-08 15:09:57 - Processing K1266-181401589 [24/132] for code: HAPPYCATDAY
+2026-08-08 15:09:57 - 181401589 - Result: Successfully redeemed
+2026-08-08 15:09:58 - Processing K1266-181407057 [25/132] for code: HAPPYCATDAY
+2026-08-08 15:09:59 - 181407057 - Result: Already redeemed
+2026-08-08 15:10:00 - Processing K1266-181423528 [26/132] for code: HAPPYCATDAY
+2026-08-08 15:10:00 - 181423528 - Result: Already redeemed
+2026-08-08 15:10:01 - Processing K1266-181440017 [27/132] for code: HAPPYCATDAY
+2026-08-08 15:10:01 - 181440017 - Result: Successfully redeemed
+2026-08-08 15:10:03 - Processing K1266-181466821 [28/132] for code: HAPPYCATDAY
+2026-08-08 15:10:03 - 181466821 - Result: Already redeemed
+2026-08-08 15:10:04 - Processing K1266-181515253 [29/132] for code: HAPPYCATDAY
+2026-08-08 15:10:04 - 181515253 - Result: Already redeemed
+2026-08-08 15:10:05 - Processing K1266-181516264 [30/132] for code: HAPPYCATDAY
+2026-08-08 15:10:05 - 181516264 - Result: Successfully redeemed
+2026-08-08 15:10:06 - Processing K1266-181521367 [31/132] for code: HAPPYCATDAY
+2026-08-08 15:10:06 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-08 15:10:10 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-08 15:10:18 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-08 15:10:31 - 181521367 - Result: Redemption request failed
+2026-08-08 15:10:32 - Processing K1266-181571708 [32/132] for code: HAPPYCATDAY
+2026-08-08 15:10:32 - 181571708 - Result: Already redeemed
+2026-08-08 15:10:33 - Processing K1266-181663028 [33/132] for code: HAPPYCATDAY
+2026-08-08 15:10:33 - 181663028 - Result: Already redeemed
+2026-08-08 15:10:34 - Processing K1266-181669304 [34/132] for code: HAPPYCATDAY
+2026-08-08 15:10:34 - 181669304 - Result: Successfully redeemed
+2026-08-08 15:10:36 - Processing K1266-181734398 [35/132] for code: HAPPYCATDAY
+2026-08-08 15:10:36 - 181734398 - Result: Successfully redeemed
+2026-08-08 15:10:37 - Processing K1266-181761437 [36/132] for code: HAPPYCATDAY
+2026-08-08 15:10:37 - 181761437 - Result: Already redeemed
+2026-08-08 15:10:39 - Processing K1266-181816445 [37/132] for code: HAPPYCATDAY
+2026-08-08 15:10:39 - 181816445 - Result: Already redeemed
+2026-08-08 15:10:40 - Processing K1266-181859892 [38/132] for code: HAPPYCATDAY
+2026-08-08 15:10:40 - 181859892 - Result: Already redeemed
+2026-08-08 15:10:41 - Processing K1266-181859948 [39/132] for code: HAPPYCATDAY
+2026-08-08 15:10:41 - 181859948 - Result: Already redeemed
+2026-08-08 15:10:42 - Processing K1266-181860239 [40/132] for code: HAPPYCATDAY
+2026-08-08 15:10:42 - 181860239 - Result: Already redeemed
+2026-08-08 15:10:43 - Processing K1266-182013382 [41/132] for code: HAPPYCATDAY
+2026-08-08 15:10:43 - 182013382 - Result: Already redeemed
+2026-08-08 15:10:45 - Processing K1266-182022970 [42/132] for code: HAPPYCATDAY
+2026-08-08 15:10:45 - 182022970 - Result: Successfully redeemed
+2026-08-08 15:10:46 - Processing K1266-182072645 [43/132] for code: HAPPYCATDAY
+2026-08-08 15:10:46 - 182072645 - Result: Already redeemed
+2026-08-08 15:10:47 - Processing K1266-182138218 [44/132] for code: HAPPYCATDAY
+2026-08-08 15:10:47 - 182138218 - Result: Already redeemed
+2026-08-08 15:10:48 - Processing K1266-182144355 [45/132] for code: HAPPYCATDAY
+2026-08-08 15:10:48 - 182144355 - Result: Successfully redeemed
+2026-08-08 15:10:49 - Processing K1266-182210139 [46/132] for code: HAPPYCATDAY
+2026-08-08 15:10:49 - 182210139 - Result: Already redeemed
+2026-08-08 15:10:51 - Processing K1266-182275359 [47/132] for code: HAPPYCATDAY
+2026-08-08 15:10:51 - 182275359 - Result: Already redeemed
+2026-08-08 15:10:52 - Processing K1266-182286440 [48/132] for code: HAPPYCATDAY
+2026-08-08 15:10:52 - 182286440 - Result: Successfully redeemed
+2026-08-08 15:10:54 - Processing K1266-182318888 [49/132] for code: HAPPYCATDAY
+2026-08-08 15:10:54 - 182318888 - Result: Already redeemed
+2026-08-08 15:10:55 - Processing K1266-182318992 [50/132] for code: HAPPYCATDAY
+2026-08-08 15:10:55 - 182318992 - Result: Already redeemed
+2026-08-08 15:10:56 - Processing K1266-182334781 [51/132] for code: HAPPYCATDAY
+2026-08-08 15:10:56 - 182334781 - Result: Successfully redeemed
+2026-08-08 15:10:57 - Processing K1266-182417500 [52/132] for code: HAPPYCATDAY
+2026-08-08 15:10:58 - 182417500 - Result: Already redeemed
+2026-08-08 15:10:59 - Processing K1266-182419290 [53/132] for code: HAPPYCATDAY
+2026-08-08 15:10:59 - 182419290 - Result: Already redeemed
+2026-08-08 15:11:00 - Processing K1266-182449206 [54/132] for code: HAPPYCATDAY
+2026-08-08 15:11:00 - 182449206 - Result: Successfully redeemed
+2026-08-08 15:11:01 - Processing K1266-182466031 [55/132] for code: HAPPYCATDAY
+2026-08-08 15:11:01 - 182466031 - Result: Already redeemed
+2026-08-08 15:11:03 - Processing K1266-182488759 [56/132] for code: HAPPYCATDAY
+2026-08-08 15:11:03 - 182488759 - Result: Already redeemed
+2026-08-08 15:11:04 - Processing K1266-182498855 [57/132] for code: HAPPYCATDAY
+2026-08-08 15:11:04 - 182498855 - Result: Successfully redeemed
+2026-08-08 15:11:05 - Processing K1266-182646613 [58/132] for code: HAPPYCATDAY
+2026-08-08 15:11:05 - 182646613 - Result: Already redeemed
+2026-08-08 15:11:07 - Processing K1266-182668737 [59/132] for code: HAPPYCATDAY
+2026-08-08 15:11:07 - 182668737 - Result: Successfully redeemed
+2026-08-08 15:11:08 - Processing K1266-182717899 [60/132] for code: HAPPYCATDAY
+2026-08-08 15:11:08 - 182717899 - Result: Already redeemed
+2026-08-08 15:11:09 - Processing K1266-182767010 [61/132] for code: HAPPYCATDAY
+2026-08-08 15:11:09 - 182767010 - Result: Already redeemed
+2026-08-08 15:11:10 - Processing K1266-182858998 [62/132] for code: HAPPYCATDAY
+2026-08-08 15:11:10 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-08 15:11:14 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-08 15:11:22 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-08 15:11:34 - 182858998 - Result: Redemption request failed
+2026-08-08 15:11:36 - Processing K1266-182892217 [63/132] for code: HAPPYCATDAY
+2026-08-08 15:11:36 - 182892217 - Result: Already redeemed
+2026-08-08 15:11:37 - Processing K1266-182898057 [64/132] for code: HAPPYCATDAY
+2026-08-08 15:11:37 - 182898057 - Result: Already redeemed
+2026-08-08 15:11:38 - Processing K1266-182941162 [65/132] for code: HAPPYCATDAY
+2026-08-08 15:11:38 - 182941162 - Result: Already redeemed
+2026-08-08 15:11:39 - Processing K1266-182941502 [66/132] for code: HAPPYCATDAY
+2026-08-08 15:11:39 - 182941502 - Result: Successfully redeemed
+2026-08-08 15:11:40 - Processing K1266-183012848 [67/132] for code: HAPPYCATDAY
+2026-08-08 15:11:40 - 183012848 - Result: Already redeemed
+2026-08-08 15:11:41 - Processing K1266-183028805 [68/132] for code: HAPPYCATDAY
+2026-08-08 15:11:41 - 183028805 - Result: Already redeemed
+2026-08-08 15:11:43 - Processing K1266-183029342 [69/132] for code: HAPPYCATDAY
+2026-08-08 15:11:43 - 183029342 - Result: Already redeemed
+2026-08-08 15:11:44 - Processing K1266-183072746 [70/132] for code: HAPPYCATDAY
+2026-08-08 15:11:44 - 183072746 - Result: Already redeemed
+2026-08-08 15:11:45 - Processing K1266-183176536 [71/132] for code: HAPPYCATDAY
+2026-08-08 15:11:45 - 183176536 - Result: Already redeemed
+2026-08-08 15:11:46 - Processing K1266-183219343 [72/132] for code: HAPPYCATDAY
+2026-08-08 15:11:46 - 183219343 - Result: Already redeemed
+2026-08-08 15:11:48 - Processing K1266-183285360 [73/132] for code: HAPPYCATDAY
+2026-08-08 15:11:48 - 183285360 - Result: Already redeemed
+2026-08-08 15:11:49 - Processing K1266-183366693 [74/132] for code: HAPPYCATDAY
+2026-08-08 15:11:49 - 183366693 - Result: Already redeemed
+2026-08-08 15:11:51 - Processing K1266-183449358 [75/132] for code: HAPPYCATDAY
+2026-08-08 15:11:51 - 183449358 - Result: Already redeemed
+2026-08-08 15:11:52 - Processing K1266-183455373 [76/132] for code: HAPPYCATDAY
+2026-08-08 15:11:52 - 183455373 - Result: Already redeemed
+2026-08-08 15:11:53 - Processing K1266-183465208 [77/132] for code: HAPPYCATDAY
+2026-08-08 15:11:53 - 183465208 - Result: Successfully redeemed
+2026-08-08 15:11:55 - Processing K1266-183531242 [78/132] for code: HAPPYCATDAY
+2026-08-08 15:11:55 - 183531242 - Result: Successfully redeemed
+2026-08-08 15:11:56 - Processing K1266-183563334 [79/132] for code: HAPPYCATDAY
+2026-08-08 15:11:56 - 183563334 - Result: Already redeemed
+2026-08-08 15:11:57 - Processing K1266-183579631 [80/132] for code: HAPPYCATDAY
+2026-08-08 15:11:57 - 183579631 - Result: Successfully redeemed
+2026-08-08 15:11:58 - Processing K1266-183602956 [81/132] for code: HAPPYCATDAY
+2026-08-08 15:11:58 - 183602956 - Result: Already redeemed
+2026-08-08 15:12:00 - Processing K1266-183635567 [82/132] for code: HAPPYCATDAY
+2026-08-08 15:12:00 - 183635567 - Result: Successfully redeemed
+2026-08-08 15:12:01 - Processing K1266-183662249 [83/132] for code: HAPPYCATDAY
+2026-08-08 15:12:01 - 183662249 - Result: Already redeemed
+2026-08-08 15:12:03 - Processing K1266-183744074 [84/132] for code: HAPPYCATDAY
+2026-08-08 15:12:03 - 183744074 - Result: Successfully redeemed
+2026-08-08 15:12:04 - Processing K1266-183760133 [85/132] for code: HAPPYCATDAY
+2026-08-08 15:12:04 - 183760133 - Result: Successfully redeemed
+2026-08-08 15:12:05 - Processing K1266-183776526 [86/132] for code: HAPPYCATDAY
+2026-08-08 15:12:05 - 183776526 - Result: Already redeemed
+2026-08-08 15:12:06 - Processing K1266-183799231 [87/132] for code: HAPPYCATDAY
+2026-08-08 15:12:07 - 183799231 - Result: Already redeemed
+2026-08-08 15:12:08 - Processing K1266-183924660 [88/132] for code: HAPPYCATDAY
+2026-08-08 15:12:08 - 183924660 - Result: Already redeemed
+2026-08-08 15:12:09 - Processing K1266-183946385 [89/132] for code: HAPPYCATDAY
+2026-08-08 15:12:09 - 183946385 - Result: Successfully redeemed
+2026-08-08 15:12:10 - Processing K1266-183946804 [90/132] for code: HAPPYCATDAY
+2026-08-08 15:12:10 - 183946804 - Result: Already redeemed
+2026-08-08 15:12:12 - Processing K1266-184005794 [91/132] for code: HAPPYCATDAY
+2026-08-08 15:12:12 - 184005794 - Result: Successfully redeemed
+2026-08-08 15:12:13 - Processing K1266-184088377 [92/132] for code: HAPPYCATDAY
+2026-08-08 15:12:13 - 184088377 - Result: Already redeemed
+2026-08-08 15:12:14 - Processing K1266-184153916 [93/132] for code: HAPPYCATDAY
+2026-08-08 15:12:14 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-08 15:12:18 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-08 15:12:26 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-08 15:12:38 - 184153916 - Result: Redemption request failed
+2026-08-08 15:12:39 - Processing K1266-184159552 [94/132] for code: HAPPYCATDAY
+2026-08-08 15:12:40 - 184159552 - Result: Successfully redeemed
+2026-08-08 15:12:41 - Processing K1266-184169916 [95/132] for code: HAPPYCATDAY
+2026-08-08 15:12:41 - 184169916 - Result: Successfully redeemed
+2026-08-08 15:12:42 - Processing K1266-184170263 [96/132] for code: HAPPYCATDAY
+2026-08-08 15:12:42 - 184170263 - Result: Successfully redeemed
+2026-08-08 15:12:43 - Processing K1266-184175883 [97/132] for code: HAPPYCATDAY
+2026-08-08 15:12:43 - 184175883 - Result: Already redeemed
+2026-08-08 15:12:44 - Processing K1266-184176072 [98/132] for code: HAPPYCATDAY
+2026-08-08 15:12:45 - 184176072 - Result: Already redeemed
+2026-08-08 15:12:46 - Processing K1266-184235470 [99/132] for code: HAPPYCATDAY
+2026-08-08 15:12:46 - 184235470 - Result: Already redeemed
+2026-08-08 15:12:47 - Processing K1266-184257548 [100/132] for code: HAPPYCATDAY
+2026-08-08 15:12:47 - 184257548 - Result: Already redeemed
+2026-08-08 15:12:48 - Processing K1266-184323165 [101/132] for code: HAPPYCATDAY
+2026-08-08 15:12:48 - 184323165 - Result: Already redeemed
+2026-08-08 15:12:49 - Processing K1266-184355782 [102/132] for code: HAPPYCATDAY
+2026-08-08 15:12:49 - 184355782 - Result: Already redeemed
+2026-08-08 15:12:50 - Processing K1266-184366892 [103/132] for code: HAPPYCATDAY
+2026-08-08 15:12:51 - 184366892 - Result: Successfully redeemed
+2026-08-08 15:12:52 - Processing K1266-184398957 [104/132] for code: HAPPYCATDAY
+2026-08-08 15:12:52 - 184398957 - Result: Already redeemed
+2026-08-08 15:12:53 - Processing K1266-184925419 [105/132] for code: HAPPYCATDAY
+2026-08-08 15:12:53 - 184925419 - Result: Successfully redeemed
+2026-08-08 15:12:55 - Processing K1266-185480245 [106/132] for code: HAPPYCATDAY
+2026-08-08 15:12:55 - 185480245 - Result: Already redeemed
+2026-08-08 15:12:56 - Processing K1266-187102768 [107/132] for code: HAPPYCATDAY
+2026-08-08 15:12:56 - 187102768 - Result: Already redeemed
+2026-08-08 15:12:57 - Processing K1266-188087741 [108/132] for code: HAPPYCATDAY
+2026-08-08 15:12:57 - 188087741 - Result: Successfully redeemed
+2026-08-08 15:12:59 - Processing K1266-188470196 [109/132] for code: HAPPYCATDAY
+2026-08-08 15:12:59 - 188470196 - Result: Already redeemed
+2026-08-08 15:13:00 - Processing K1266-188862376 [110/132] for code: HAPPYCATDAY
+2026-08-08 15:13:00 - 188862376 - Result: Successfully redeemed
+2026-08-08 15:13:01 - Processing K1266-189063297 [111/132] for code: HAPPYCATDAY
+2026-08-08 15:13:01 - 189063297 - Result: Successfully redeemed
+2026-08-08 15:13:03 - Processing K1266-190234418 [112/132] for code: HAPPYCATDAY
+2026-08-08 15:13:03 - 190234418 - Result: Already redeemed
+2026-08-08 15:13:04 - Processing K1266-190553232 [113/132] for code: HAPPYCATDAY
+2026-08-08 15:13:04 - 190553232 - Result: Already redeemed
+2026-08-08 15:13:05 - Processing K1266-193365290 [114/132] for code: HAPPYCATDAY
+2026-08-08 15:13:05 - 193365290 - Result: Successfully redeemed
+2026-08-08 15:13:07 - Processing K1266-194962807 [115/132] for code: HAPPYCATDAY
+2026-08-08 15:13:07 - 194962807 - Result: Successfully redeemed
+2026-08-08 15:13:08 - Processing K1266-195609436 [116/132] for code: HAPPYCATDAY
+2026-08-08 15:13:08 - 195609436 - Result: Successfully redeemed
+2026-08-08 15:13:09 - Processing K1266-195708034 [117/132] for code: HAPPYCATDAY
+2026-08-08 15:13:09 - 195708034 - Result: Successfully redeemed
+2026-08-08 15:13:11 - Processing K1266-197748881 [118/132] for code: HAPPYCATDAY
+2026-08-08 15:13:11 - 197748881 - Result: Successfully redeemed
+2026-08-08 15:13:12 - Processing K1266-198971997 [119/132] for code: HAPPYCATDAY
+2026-08-08 15:13:12 - 198971997 - Result: Successfully redeemed
+2026-08-08 15:13:13 - Processing K1266-199087822 [120/132] for code: HAPPYCATDAY
+2026-08-08 15:13:13 - 199087822 - Result: Successfully redeemed
+2026-08-08 15:13:15 - Processing K1266-199766078 [121/132] for code: HAPPYCATDAY
+2026-08-08 15:13:15 - 199766078 - Result: Successfully redeemed
+2026-08-08 15:13:16 - Processing K1266-202789741 [122/132] for code: HAPPYCATDAY
+2026-08-08 15:13:16 - 202789741 - Result: Already redeemed
+2026-08-08 15:13:17 - Processing K1266-214289119 [123/132] for code: HAPPYCATDAY
+2026-08-08 15:13:17 - 214289119 - Result: Successfully redeemed
+2026-08-08 15:13:19 - Processing K1266-216820126 [124/132] for code: HAPPYCATDAY
+2026-08-08 15:13:19 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-08 15:13:23 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-08 15:13:31 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-08 15:13:43 - 216820126 - Result: Redemption request failed
+2026-08-08 15:13:44 - Processing K1266-221299698 [125/132] for code: HAPPYCATDAY
+2026-08-08 15:13:44 - 221299698 - Result: Already redeemed
+2026-08-08 15:13:45 - Processing K1266-239065229 [126/132] for code: HAPPYCATDAY
+2026-08-08 15:13:45 - 239065229 - Result: Successfully redeemed
+2026-08-08 15:13:47 - Processing K1266-247760465 [127/132] for code: HAPPYCATDAY
+2026-08-08 15:13:47 - 247760465 - Result: Already redeemed
+2026-08-08 15:13:48 - Processing K1266-270896390 [128/132] for code: HAPPYCATDAY
+2026-08-08 15:13:48 - 270896390 - Result: Successfully redeemed
+2026-08-08 15:13:49 - Processing K1266-278604391 [129/132] for code: HAPPYCATDAY
+2026-08-08 15:13:49 - 278604391 - Result: Successfully redeemed
+2026-08-08 15:13:50 - Processing K1266-377584801 [130/132] for code: HAPPYCATDAY
+2026-08-08 15:13:50 - 377584801 - Result: Successfully redeemed
+2026-08-08 15:13:51 - Processing K1266-378518775 [131/132] for code: HAPPYCATDAY
+2026-08-08 15:13:51 - 378518775 - Result: Successfully redeemed
+2026-08-08 15:13:53 - Processing K1266-381967745 [132/132] for code: HAPPYCATDAY
+2026-08-08 15:13:53 - 381967745 - Result: Successfully redeemed
+2026-08-08 15:13:54 - --- Cycle finished. Total processed: 132/132 ---
+2026-08-08 15:13:54 - 
+========================= Redemption Summary =========================
+2026-08-08 15:13:54 - Code Redeemed: HAPPYCATDAY
+2026-08-08 15:13:54 - Total Unique Player IDs Found: 132
+2026-08-08 15:13:54 - Total Player IDs Processed: 132
+2026-08-08 15:13:54 - Successfully redeemed: 51
+2026-08-08 15:13:54 - Already redeemed: 76
+2026-08-08 15:13:54 - Wrong kingdom: 1
+2026-08-08 15:13:54 - Other Errors/Failures: 4
+2026-08-08 15:13:54 - Rate Limit Events: 0
+2026-08-08 15:13:54 - Total execution time: 0:04:26
+2026-08-08 15:13:54 - ======================================================================
+2026-08-08 15:13:54 - Marked 'HAPPYCATDAY' as known.
+
