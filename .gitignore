@@ -1,2 +1,4 @@
-*.csv
-README.MD
+__pycache__/
+*.pyc
+venv/
+.env
