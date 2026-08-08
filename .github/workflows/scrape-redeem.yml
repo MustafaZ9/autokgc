@@ -46,3 +46,6 @@ jobs:
       with:
         commit_message: "chore: update known and redeemed codes state"
         file_pattern: "known_codes.txt redeemed_codes.txt config.json lod.csv"
+        commit_user_name: "MustafaZ9"
+        commit_user_email: "247871525+MustafaZ9@users.noreply.github.com"
+        commit_author: "MustafaZ9 <247871525+MustafaZ9@users.noreply.github.com>"
