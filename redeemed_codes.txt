@@ -25171,3 +25171,308 @@
 2026-08-11 08:42:17 - Success with chrome124 impersonation
 2026-08-11 08:42:17 - No new gift codes found. All codes have been seen previously.
 2026-08-11 08:42:17 - Nothing to redeem.
+2026-08-11 12:30:37 - Checking https://kingshot.net/gift-codes for new gift codes...
+2026-08-11 12:30:37 - Using curl_cffi for Cloudflare bypass...
+2026-08-11 12:30:38 - Success with chrome124 impersonation
+2026-08-11 12:30:38 - 
+🎉 NEW GIFT CODES FOUND: OFFICIALSTORE08011
+2026-08-11 12:30:38 - 
+=== Starting redemption for gift code: OFFICIALSTORE08011 ===
+2026-08-11 12:30:38 - Read 132 player IDs from lod.csv (encoding: utf-8-sig, 132 with a kingdom)
+2026-08-11 12:30:38 - Total unique player IDs to process: 132
+2026-08-11 12:30:38 - 
+--- Starting processing cycle. Ready player IDs: 132 ---
+2026-08-11 12:30:38 - Processing K1266-37800527 [1/132] for code: OFFICIALSTORE08011
+2026-08-11 12:30:38 - 37800527 - Result: Wrong kingdom for this player ID
+2026-08-11 12:30:39 - Processing K1266-134948830 [2/132] for code: OFFICIALSTORE08011
+2026-08-11 12:30:39 - 134948830 - Result: Successfully redeemed
+2026-08-11 12:30:40 - Processing K1266-137881550 [3/132] for code: OFFICIALSTORE08011
+2026-08-11 12:30:40 - 137881550 - Result: Successfully redeemed
+2026-08-11 12:30:42 - Processing K1266-138078147 [4/132] for code: OFFICIALSTORE08011
+2026-08-11 12:30:42 - 138078147 - Result: Successfully redeemed
+2026-08-11 12:30:43 - Processing K1266-162070715 [5/132] for code: OFFICIALSTORE08011
+2026-08-11 12:30:43 - 162070715 - Result: Successfully redeemed
+2026-08-11 12:30:44 - Processing K1266-176622413 [6/132] for code: OFFICIALSTORE08011
+2026-08-11 12:30:44 - 176622413 - Result: Successfully redeemed
+2026-08-11 12:30:46 - Processing K1266-176730452 [7/132] for code: OFFICIALSTORE08011
+2026-08-11 12:30:46 - 176730452 - Result: Successfully redeemed
+2026-08-11 12:30:47 - Processing K1266-177978644 [8/132] for code: OFFICIALSTORE08011
+2026-08-11 12:30:47 - 177978644 - Result: Successfully redeemed
+2026-08-11 12:30:49 - Processing K1266-178188212 [9/132] for code: OFFICIALSTORE08011
+2026-08-11 12:30:49 - 178188212 - Result: Successfully redeemed
+2026-08-11 12:30:50 - Processing K1266-179107716 [10/132] for code: OFFICIALSTORE08011
+2026-08-11 12:30:50 - 179107716 - Result: Successfully redeemed
+2026-08-11 12:30:51 - Processing K1266-180369142 [11/132] for code: OFFICIALSTORE08011
+2026-08-11 12:30:51 - 180369142 - Result: Successfully redeemed
+2026-08-11 12:30:52 - Processing K1266-180483302 [12/132] for code: OFFICIALSTORE08011
+2026-08-11 12:30:52 - 180483302 - Result: Successfully redeemed
+2026-08-11 12:30:53 - Processing K1266-180614319 [13/132] for code: OFFICIALSTORE08011
+2026-08-11 12:30:53 - 180614319 - Result: Successfully redeemed
+2026-08-11 12:30:55 - Processing K1266-180636958 [14/132] for code: OFFICIALSTORE08011
+2026-08-11 12:30:55 - 180636958 - Result: Successfully redeemed
+2026-08-11 12:30:56 - Processing K1266-180669914 [15/132] for code: OFFICIALSTORE08011
+2026-08-11 12:30:56 - 180669914 - Result: Successfully redeemed
+2026-08-11 12:30:57 - Processing K1266-180778760 [16/132] for code: OFFICIALSTORE08011
+2026-08-11 12:30:57 - 180778760 - Result: Successfully redeemed
+2026-08-11 12:30:58 - Processing K1266-180893684 [17/132] for code: OFFICIALSTORE08011
+2026-08-11 12:30:59 - 180893684 - Result: Successfully redeemed
+2026-08-11 12:31:00 - Processing K1266-180959009 [18/132] for code: OFFICIALSTORE08011
+2026-08-11 12:31:00 - 180959009 - Result: Successfully redeemed
+2026-08-11 12:31:01 - Processing K1266-181073393 [19/132] for code: OFFICIALSTORE08011
+2026-08-11 12:31:02 - 181073393 - Result: Successfully redeemed
+2026-08-11 12:31:03 - Processing K1266-181155772 [20/132] for code: OFFICIALSTORE08011
+2026-08-11 12:31:03 - 181155772 - Result: Successfully redeemed
+2026-08-11 12:31:04 - Processing K1266-181341522 [21/132] for code: OFFICIALSTORE08011
+2026-08-11 12:31:04 - 181341522 - Result: Successfully redeemed
+2026-08-11 12:31:05 - Processing K1266-181358276 [22/132] for code: OFFICIALSTORE08011
+2026-08-11 12:31:05 - 181358276 - Result: Successfully redeemed
+2026-08-11 12:31:07 - Processing K1266-181374419 [23/132] for code: OFFICIALSTORE08011
+2026-08-11 12:31:07 - 181374419 - Result: Successfully redeemed
+2026-08-11 12:31:08 - Processing K1266-181401589 [24/132] for code: OFFICIALSTORE08011
+2026-08-11 12:31:08 - 181401589 - Result: Successfully redeemed
+2026-08-11 12:31:09 - Processing K1266-181407057 [25/132] for code: OFFICIALSTORE08011
+2026-08-11 12:31:09 - 181407057 - Result: Successfully redeemed
+2026-08-11 12:31:10 - Processing K1266-181423528 [26/132] for code: OFFICIALSTORE08011
+2026-08-11 12:31:10 - 181423528 - Result: Successfully redeemed
+2026-08-11 12:31:12 - Processing K1266-181440017 [27/132] for code: OFFICIALSTORE08011
+2026-08-11 12:31:12 - 181440017 - Result: Successfully redeemed
+2026-08-11 12:31:13 - Processing K1266-181466821 [28/132] for code: OFFICIALSTORE08011
+2026-08-11 12:31:13 - 181466821 - Result: Successfully redeemed
+2026-08-11 12:31:14 - Processing K1266-181515253 [29/132] for code: OFFICIALSTORE08011
+2026-08-11 12:31:14 - 181515253 - Result: Successfully redeemed
+2026-08-11 12:31:16 - Processing K1266-181516264 [30/132] for code: OFFICIALSTORE08011
+2026-08-11 12:31:16 - 181516264 - Result: Successfully redeemed
+2026-08-11 12:31:17 - Processing K1266-181521367 [31/132] for code: OFFICIALSTORE08011
+2026-08-11 12:31:17 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-11 12:31:21 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-11 12:31:29 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-11 12:31:41 - 181521367 - Result: Redemption request failed
+2026-08-11 12:31:42 - Processing K1266-181571708 [32/132] for code: OFFICIALSTORE08011
+2026-08-11 12:31:42 - 181571708 - Result: Successfully redeemed
+2026-08-11 12:31:44 - Processing K1266-181663028 [33/132] for code: OFFICIALSTORE08011
+2026-08-11 12:31:44 - 181663028 - Result: Successfully redeemed
+2026-08-11 12:31:45 - Processing K1266-181669304 [34/132] for code: OFFICIALSTORE08011
+2026-08-11 12:31:45 - 181669304 - Result: Successfully redeemed
+2026-08-11 12:31:46 - Processing K1266-181734398 [35/132] for code: OFFICIALSTORE08011
+2026-08-11 12:31:46 - 181734398 - Result: Successfully redeemed
+2026-08-11 12:31:48 - Processing K1266-181761437 [36/132] for code: OFFICIALSTORE08011
+2026-08-11 12:31:48 - 181761437 - Result: Successfully redeemed
+2026-08-11 12:31:49 - Processing K1266-181816445 [37/132] for code: OFFICIALSTORE08011
+2026-08-11 12:31:49 - 181816445 - Result: Successfully redeemed
+2026-08-11 12:31:51 - Processing K1266-181859892 [38/132] for code: OFFICIALSTORE08011
+2026-08-11 12:31:51 - 181859892 - Result: Successfully redeemed
+2026-08-11 12:31:52 - Processing K1266-181859948 [39/132] for code: OFFICIALSTORE08011
+2026-08-11 12:31:52 - 181859948 - Result: Successfully redeemed
+2026-08-11 12:31:53 - Processing K1266-181860239 [40/132] for code: OFFICIALSTORE08011
+2026-08-11 12:31:53 - 181860239 - Result: Successfully redeemed
+2026-08-11 12:31:55 - Processing K1266-182013382 [41/132] for code: OFFICIALSTORE08011
+2026-08-11 12:31:55 - 182013382 - Result: Successfully redeemed
+2026-08-11 12:31:56 - Processing K1266-182022970 [42/132] for code: OFFICIALSTORE08011
+2026-08-11 12:31:56 - 182022970 - Result: Successfully redeemed
+2026-08-11 12:31:58 - Processing K1266-182072645 [43/132] for code: OFFICIALSTORE08011
+2026-08-11 12:31:58 - 182072645 - Result: Successfully redeemed
+2026-08-11 12:31:59 - Processing K1266-182138218 [44/132] for code: OFFICIALSTORE08011
+2026-08-11 12:31:59 - 182138218 - Result: Successfully redeemed
+2026-08-11 12:32:00 - Processing K1266-182144355 [45/132] for code: OFFICIALSTORE08011
+2026-08-11 12:32:00 - 182144355 - Result: Successfully redeemed
+2026-08-11 12:32:01 - Processing K1266-182210139 [46/132] for code: OFFICIALSTORE08011
+2026-08-11 12:32:01 - 182210139 - Result: Successfully redeemed
+2026-08-11 12:32:03 - Processing K1266-182275359 [47/132] for code: OFFICIALSTORE08011
+2026-08-11 12:32:03 - 182275359 - Result: Successfully redeemed
+2026-08-11 12:32:04 - Processing K1266-182286440 [48/132] for code: OFFICIALSTORE08011
+2026-08-11 12:32:04 - 182286440 - Result: Successfully redeemed
+2026-08-11 12:32:06 - Processing K1266-182318888 [49/132] for code: OFFICIALSTORE08011
+2026-08-11 12:32:06 - 182318888 - Result: Successfully redeemed
+2026-08-11 12:32:07 - Processing K1266-182318992 [50/132] for code: OFFICIALSTORE08011
+2026-08-11 12:32:07 - 182318992 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-08-11 12:32:09 - 182318992 - Result: Successfully redeemed
+2026-08-11 12:32:10 - Processing K1266-182334781 [51/132] for code: OFFICIALSTORE08011
+2026-08-11 12:32:10 - 182334781 - Result: Successfully redeemed
+2026-08-11 12:32:11 - Processing K1266-182417500 [52/132] for code: OFFICIALSTORE08011
+2026-08-11 12:32:11 - 182417500 - Result: Successfully redeemed
+2026-08-11 12:32:13 - Processing K1266-182419290 [53/132] for code: OFFICIALSTORE08011
+2026-08-11 12:32:13 - 182419290 - Result: Successfully redeemed
+2026-08-11 12:32:14 - Processing K1266-182449206 [54/132] for code: OFFICIALSTORE08011
+2026-08-11 12:32:14 - 182449206 - Result: Successfully redeemed
+2026-08-11 12:32:15 - Processing K1266-182466031 [55/132] for code: OFFICIALSTORE08011
+2026-08-11 12:32:15 - 182466031 - Result: Successfully redeemed
+2026-08-11 12:32:17 - Processing K1266-182488759 [56/132] for code: OFFICIALSTORE08011
+2026-08-11 12:32:17 - 182488759 - Result: Successfully redeemed
+2026-08-11 12:32:18 - Processing K1266-182498855 [57/132] for code: OFFICIALSTORE08011
+2026-08-11 12:32:18 - 182498855 - Result: Successfully redeemed
+2026-08-11 12:32:19 - Processing K1266-182646613 [58/132] for code: OFFICIALSTORE08011
+2026-08-11 12:32:19 - 182646613 - Result: Successfully redeemed
+2026-08-11 12:32:20 - Processing K1266-182668737 [59/132] for code: OFFICIALSTORE08011
+2026-08-11 12:32:20 - 182668737 - Result: Successfully redeemed
+2026-08-11 12:32:22 - Processing K1266-182717899 [60/132] for code: OFFICIALSTORE08011
+2026-08-11 12:32:22 - 182717899 - Result: Successfully redeemed
+2026-08-11 12:32:23 - Processing K1266-182767010 [61/132] for code: OFFICIALSTORE08011
+2026-08-11 12:32:23 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-11 12:32:27 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-11 12:32:35 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-11 12:32:47 - 182767010 - Result: Redemption request failed
+2026-08-11 12:32:48 - Processing K1266-182858998 [62/132] for code: OFFICIALSTORE08011
+2026-08-11 12:32:48 - 182858998 - Result: Successfully redeemed
+2026-08-11 12:32:49 - Processing K1266-182892217 [63/132] for code: OFFICIALSTORE08011
+2026-08-11 12:32:49 - 182892217 - Result: Successfully redeemed
+2026-08-11 12:32:51 - Processing K1266-182898057 [64/132] for code: OFFICIALSTORE08011
+2026-08-11 12:32:51 - 182898057 - Result: Successfully redeemed
+2026-08-11 12:32:52 - Processing K1266-182941162 [65/132] for code: OFFICIALSTORE08011
+2026-08-11 12:32:52 - 182941162 - Result: Successfully redeemed
+2026-08-11 12:32:53 - Processing K1266-182941502 [66/132] for code: OFFICIALSTORE08011
+2026-08-11 12:32:53 - 182941502 - Result: Successfully redeemed
+2026-08-11 12:32:55 - Processing K1266-183012848 [67/132] for code: OFFICIALSTORE08011
+2026-08-11 12:32:55 - 183012848 - Result: Successfully redeemed
+2026-08-11 12:32:56 - Processing K1266-183028805 [68/132] for code: OFFICIALSTORE08011
+2026-08-11 12:32:56 - 183028805 - Result: Successfully redeemed
+2026-08-11 12:32:57 - Processing K1266-183029342 [69/132] for code: OFFICIALSTORE08011
+2026-08-11 12:32:57 - 183029342 - Result: Successfully redeemed
+2026-08-11 12:32:58 - Processing K1266-183072746 [70/132] for code: OFFICIALSTORE08011
+2026-08-11 12:32:59 - 183072746 - Result: Successfully redeemed
+2026-08-11 12:33:00 - Processing K1266-183176536 [71/132] for code: OFFICIALSTORE08011
+2026-08-11 12:33:00 - 183176536 - Result: Successfully redeemed
+2026-08-11 12:33:01 - Processing K1266-183219343 [72/132] for code: OFFICIALSTORE08011
+2026-08-11 12:33:01 - 183219343 - Result: Successfully redeemed
+2026-08-11 12:33:03 - Processing K1266-183285360 [73/132] for code: OFFICIALSTORE08011
+2026-08-11 12:33:03 - 183285360 - Result: Successfully redeemed
+2026-08-11 12:33:04 - Processing K1266-183366693 [74/132] for code: OFFICIALSTORE08011
+2026-08-11 12:33:04 - 183366693 - Result: Successfully redeemed
+2026-08-11 12:33:05 - Processing K1266-183449358 [75/132] for code: OFFICIALSTORE08011
+2026-08-11 12:33:06 - 183449358 - Result: Successfully redeemed
+2026-08-11 12:33:07 - Processing K1266-183455373 [76/132] for code: OFFICIALSTORE08011
+2026-08-11 12:33:07 - 183455373 - Result: Successfully redeemed
+2026-08-11 12:33:08 - Processing K1266-183465208 [77/132] for code: OFFICIALSTORE08011
+2026-08-11 12:33:08 - 183465208 - Result: Successfully redeemed
+2026-08-11 12:33:10 - Processing K1266-183531242 [78/132] for code: OFFICIALSTORE08011
+2026-08-11 12:33:10 - 183531242 - Result: Successfully redeemed
+2026-08-11 12:33:11 - Processing K1266-183563334 [79/132] for code: OFFICIALSTORE08011
+2026-08-11 12:33:11 - 183563334 - Result: Successfully redeemed
+2026-08-11 12:33:12 - Processing K1266-183579631 [80/132] for code: OFFICIALSTORE08011
+2026-08-11 12:33:12 - 183579631 - Result: Successfully redeemed
+2026-08-11 12:33:13 - Processing K1266-183602956 [81/132] for code: OFFICIALSTORE08011
+2026-08-11 12:33:13 - 183602956 - Result: Successfully redeemed
+2026-08-11 12:33:15 - Processing K1266-183635567 [82/132] for code: OFFICIALSTORE08011
+2026-08-11 12:33:15 - 183635567 - Result: Successfully redeemed
+2026-08-11 12:33:16 - Processing K1266-183662249 [83/132] for code: OFFICIALSTORE08011
+2026-08-11 12:33:16 - 183662249 - Result: Successfully redeemed
+2026-08-11 12:33:17 - Processing K1266-183744074 [84/132] for code: OFFICIALSTORE08011
+2026-08-11 12:33:18 - 183744074 - Result: Successfully redeemed
+2026-08-11 12:33:19 - Processing K1266-183760133 [85/132] for code: OFFICIALSTORE08011
+2026-08-11 12:33:19 - 183760133 - Result: Successfully redeemed
+2026-08-11 12:33:20 - Processing K1266-183776526 [86/132] for code: OFFICIALSTORE08011
+2026-08-11 12:33:20 - 183776526 - Result: Successfully redeemed
+2026-08-11 12:33:21 - Processing K1266-183799231 [87/132] for code: OFFICIALSTORE08011
+2026-08-11 12:33:22 - 183799231 - Result: Successfully redeemed
+2026-08-11 12:33:23 - Processing K1266-183924660 [88/132] for code: OFFICIALSTORE08011
+2026-08-11 12:33:23 - 183924660 - Result: Successfully redeemed
+2026-08-11 12:33:24 - Processing K1266-183946385 [89/132] for code: OFFICIALSTORE08011
+2026-08-11 12:33:24 - 183946385 - Result: Successfully redeemed
+2026-08-11 12:33:25 - Processing K1266-183946804 [90/132] for code: OFFICIALSTORE08011
+2026-08-11 12:33:26 - 183946804 - Result: Successfully redeemed
+2026-08-11 12:33:27 - Processing K1266-184005794 [91/132] for code: OFFICIALSTORE08011
+2026-08-11 12:33:27 - 184005794 - Result: Successfully redeemed
+2026-08-11 12:33:28 - Processing K1266-184088377 [92/132] for code: OFFICIALSTORE08011
+2026-08-11 12:33:28 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-11 12:33:32 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-11 12:33:40 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-11 12:33:52 - 184088377 - Result: Redemption request failed
+2026-08-11 12:33:53 - Processing K1266-184153916 [93/132] for code: OFFICIALSTORE08011
+2026-08-11 12:33:53 - 184153916 - Result: Successfully redeemed
+2026-08-11 12:33:55 - Processing K1266-184159552 [94/132] for code: OFFICIALSTORE08011
+2026-08-11 12:33:55 - 184159552 - Result: Successfully redeemed
+2026-08-11 12:33:56 - Processing K1266-184169916 [95/132] for code: OFFICIALSTORE08011
+2026-08-11 12:33:56 - 184169916 - Result: Successfully redeemed
+2026-08-11 12:33:58 - Processing K1266-184170263 [96/132] for code: OFFICIALSTORE08011
+2026-08-11 12:33:58 - 184170263 - Result: Successfully redeemed
+2026-08-11 12:33:59 - Processing K1266-184175883 [97/132] for code: OFFICIALSTORE08011
+2026-08-11 12:33:59 - 184175883 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-08-11 12:34:01 - 184175883 - Result: Successfully redeemed
+2026-08-11 12:34:02 - Processing K1266-184176072 [98/132] for code: OFFICIALSTORE08011
+2026-08-11 12:34:03 - 184176072 - Result: Successfully redeemed
+2026-08-11 12:34:04 - Processing K1266-184235470 [99/132] for code: OFFICIALSTORE08011
+2026-08-11 12:34:04 - 184235470 - Result: Successfully redeemed
+2026-08-11 12:34:05 - Processing K1266-184257548 [100/132] for code: OFFICIALSTORE08011
+2026-08-11 12:34:05 - 184257548 - Result: Successfully redeemed
+2026-08-11 12:34:06 - Processing K1266-184323165 [101/132] for code: OFFICIALSTORE08011
+2026-08-11 12:34:06 - 184323165 - Result: Successfully redeemed
+2026-08-11 12:34:07 - Processing K1266-184355782 [102/132] for code: OFFICIALSTORE08011
+2026-08-11 12:34:07 - 184355782 - Result: Successfully redeemed
+2026-08-11 12:34:09 - Processing K1266-184366892 [103/132] for code: OFFICIALSTORE08011
+2026-08-11 12:34:09 - 184366892 - Result: Successfully redeemed
+2026-08-11 12:34:10 - Processing K1266-184398957 [104/132] for code: OFFICIALSTORE08011
+2026-08-11 12:34:10 - 184398957 - Result: Successfully redeemed
+2026-08-11 12:34:12 - Processing K1266-184925419 [105/132] for code: OFFICIALSTORE08011
+2026-08-11 12:34:12 - 184925419 - Result: Successfully redeemed
+2026-08-11 12:34:13 - Processing K1266-185480245 [106/132] for code: OFFICIALSTORE08011
+2026-08-11 12:34:13 - 185480245 - Result: Successfully redeemed
+2026-08-11 12:34:15 - Processing K1266-187102768 [107/132] for code: OFFICIALSTORE08011
+2026-08-11 12:34:15 - 187102768 - Result: Successfully redeemed
+2026-08-11 12:34:16 - Processing K1266-188087741 [108/132] for code: OFFICIALSTORE08011
+2026-08-11 12:34:16 - 188087741 - Result: Successfully redeemed
+2026-08-11 12:34:17 - Processing K1266-188470196 [109/132] for code: OFFICIALSTORE08011
+2026-08-11 12:34:18 - 188470196 - Result: Successfully redeemed
+2026-08-11 12:34:19 - Processing K1266-188862376 [110/132] for code: OFFICIALSTORE08011
+2026-08-11 12:34:19 - 188862376 - Result: Successfully redeemed
+2026-08-11 12:34:20 - Processing K1266-189063297 [111/132] for code: OFFICIALSTORE08011
+2026-08-11 12:34:20 - 189063297 - Result: Successfully redeemed
+2026-08-11 12:34:21 - Processing K1266-190234418 [112/132] for code: OFFICIALSTORE08011
+2026-08-11 12:34:21 - 190234418 - Result: Successfully redeemed
+2026-08-11 12:34:22 - Processing K1266-190553232 [113/132] for code: OFFICIALSTORE08011
+2026-08-11 12:34:22 - 190553232 - Result: Successfully redeemed
+2026-08-11 12:34:24 - Processing K1266-193365290 [114/132] for code: OFFICIALSTORE08011
+2026-08-11 12:34:24 - 193365290 - Result: Successfully redeemed
+2026-08-11 12:34:25 - Processing K1266-194962807 [115/132] for code: OFFICIALSTORE08011
+2026-08-11 12:34:25 - 194962807 - Result: Successfully redeemed
+2026-08-11 12:34:26 - Processing K1266-195609436 [116/132] for code: OFFICIALSTORE08011
+2026-08-11 12:34:26 - 195609436 - Result: Successfully redeemed
+2026-08-11 12:34:27 - Processing K1266-195708034 [117/132] for code: OFFICIALSTORE08011
+2026-08-11 12:34:28 - 195708034 - Result: Successfully redeemed
+2026-08-11 12:34:29 - Processing K1266-197748881 [118/132] for code: OFFICIALSTORE08011
+2026-08-11 12:34:29 - 197748881 - Result: Successfully redeemed
+2026-08-11 12:34:30 - Processing K1266-198971997 [119/132] for code: OFFICIALSTORE08011
+2026-08-11 12:34:30 - 198971997 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-08-11 12:34:32 - 198971997 - Result: Successfully redeemed
+2026-08-11 12:34:34 - Processing K1266-199087822 [120/132] for code: OFFICIALSTORE08011
+2026-08-11 12:34:34 - 199087822 - Result: Successfully redeemed
+2026-08-11 12:34:35 - Processing K1266-199766078 [121/132] for code: OFFICIALSTORE08011
+2026-08-11 12:34:35 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-11 12:34:39 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-11 12:34:47 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-11 12:34:59 - 199766078 - Result: Redemption request failed
+2026-08-11 12:35:00 - Processing K1266-202789741 [122/132] for code: OFFICIALSTORE08011
+2026-08-11 12:35:00 - 202789741 - Result: Successfully redeemed
+2026-08-11 12:35:01 - Processing K1266-214289119 [123/132] for code: OFFICIALSTORE08011
+2026-08-11 12:35:02 - 214289119 - Result: Successfully redeemed
+2026-08-11 12:35:03 - Processing K1266-216820126 [124/132] for code: OFFICIALSTORE08011
+2026-08-11 12:35:03 - 216820126 - Result: Successfully redeemed
+2026-08-11 12:35:04 - Processing K1266-221299698 [125/132] for code: OFFICIALSTORE08011
+2026-08-11 12:35:04 - 221299698 - Result: Successfully redeemed
+2026-08-11 12:35:05 - Processing K1266-239065229 [126/132] for code: OFFICIALSTORE08011
+2026-08-11 12:35:05 - 239065229 - Result: Successfully redeemed
+2026-08-11 12:35:06 - Processing K1266-247760465 [127/132] for code: OFFICIALSTORE08011
+2026-08-11 12:35:06 - 247760465 - Result: Successfully redeemed
+2026-08-11 12:35:07 - Processing K1266-270896390 [128/132] for code: OFFICIALSTORE08011
+2026-08-11 12:35:07 - 270896390 - Result: Successfully redeemed
+2026-08-11 12:35:09 - Processing K1266-278604391 [129/132] for code: OFFICIALSTORE08011
+2026-08-11 12:35:09 - 278604391 - Result: Successfully redeemed
+2026-08-11 12:35:10 - Processing K1266-377584801 [130/132] for code: OFFICIALSTORE08011
+2026-08-11 12:35:10 - 377584801 - Result: Successfully redeemed
+2026-08-11 12:35:11 - Processing K1266-378518775 [131/132] for code: OFFICIALSTORE08011
+2026-08-11 12:35:11 - 378518775 - Result: Successfully redeemed
+2026-08-11 12:35:13 - Processing K1266-381967745 [132/132] for code: OFFICIALSTORE08011
+2026-08-11 12:35:13 - 381967745 - Result: Successfully redeemed
+2026-08-11 12:35:14 - --- Cycle finished. Total processed: 132/132 ---
+2026-08-11 12:35:14 - 
+========================= Redemption Summary =========================
+2026-08-11 12:35:14 - Code Redeemed: OFFICIALSTORE08011
+2026-08-11 12:35:14 - Total Unique Player IDs Found: 132
+2026-08-11 12:35:14 - Total Player IDs Processed: 132
+2026-08-11 12:35:14 - Successfully redeemed: 127
+2026-08-11 12:35:14 - Already redeemed: 0
+2026-08-11 12:35:14 - Wrong kingdom: 1
+2026-08-11 12:35:14 - Other Errors/Failures: 4
+2026-08-11 12:35:14 - Rate Limit Events: 0
+2026-08-11 12:35:14 - Total execution time: 0:04:36
+2026-08-11 12:35:14 - ======================================================================
+2026-08-11 12:35:14 - Marked 'OFFICIALSTORE08011' as known.
+
