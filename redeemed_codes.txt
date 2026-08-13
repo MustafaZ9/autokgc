@@ -25861,3 +25861,509 @@
 2026-08-13 20:29:09 - Success with chrome124 impersonation
 2026-08-13 20:29:10 - No new gift codes found. All codes have been seen previously.
 2026-08-13 20:29:10 - Nothing to redeem.
+2026-08-13 21:04:32 - Checking https://kingshot.net/gift-codes for new gift codes...
+2026-08-13 21:04:32 - Using curl_cffi for Cloudflare bypass...
+2026-08-13 21:04:34 - Success with chrome124 impersonation
+2026-08-13 21:04:34 - 
+🎉 NEW GIFT CODES FOUND: JP26SUMMER
+2026-08-13 21:04:34 - 
+=== Starting redemption for gift code: JP26SUMMER ===
+2026-08-13 21:04:34 - Read 231 player IDs from lod.csv (encoding: utf-8-sig, 231 with a kingdom)
+2026-08-13 21:04:34 - Removed 2 duplicate entries.
+2026-08-13 21:04:34 - Total unique player IDs to process: 229
+2026-08-13 21:04:34 - 
+--- Starting processing cycle. Ready player IDs: 229 ---
+2026-08-13 21:04:34 - Processing K1266-112607487 [1/229] for code: JP26SUMMER
+2026-08-13 21:04:34 - 112607487 - Result: Successfully redeemed
+2026-08-13 21:04:35 - Processing K1266-114993837 [2/229] for code: JP26SUMMER
+2026-08-13 21:04:36 - 114993837 - Result: Successfully redeemed
+2026-08-13 21:04:37 - Processing K1266-134948830 [3/229] for code: JP26SUMMER
+2026-08-13 21:04:37 - 134948830 - Result: Already redeemed
+2026-08-13 21:04:38 - Processing K1266-137354109 [4/229] for code: JP26SUMMER
+2026-08-13 21:04:38 - 137354109 - Result: Successfully redeemed
+2026-08-13 21:04:39 - Processing K1266-137881550 [5/229] for code: JP26SUMMER
+2026-08-13 21:04:40 - 137881550 - Result: Already redeemed
+2026-08-13 21:04:41 - Processing K1266-138078147 [6/229] for code: JP26SUMMER
+2026-08-13 21:04:41 - 138078147 - Result: Already redeemed
+2026-08-13 21:04:42 - Processing K1266-139819795 [7/229] for code: JP26SUMMER
+2026-08-13 21:04:43 - 139819795 - Result: Already redeemed
+2026-08-13 21:04:44 - Processing K1266-156477789 [8/229] for code: JP26SUMMER
+2026-08-13 21:04:44 - 156477789 - Result: Successfully redeemed
+2026-08-13 21:04:45 - Processing K1266-162070715 [9/229] for code: JP26SUMMER
+2026-08-13 21:04:45 - 162070715 - Result: Already redeemed
+2026-08-13 21:04:46 - Processing K1266-172135597 [10/229] for code: JP26SUMMER
+2026-08-13 21:04:46 - 172135597 - Result: Successfully redeemed
+2026-08-13 21:04:48 - Processing K1266-176622413 [11/229] for code: JP26SUMMER
+2026-08-13 21:04:48 - 176622413 - Result: Already redeemed
+2026-08-13 21:04:49 - Processing K1266-176730452 [12/229] for code: JP26SUMMER
+2026-08-13 21:04:49 - 176730452 - Result: Already redeemed
+2026-08-13 21:04:50 - Processing K1266-177978644 [13/229] for code: JP26SUMMER
+2026-08-13 21:04:50 - 177978644 - Result: Already redeemed
+2026-08-13 21:04:52 - Processing K1266-178188212 [14/229] for code: JP26SUMMER
+2026-08-13 21:04:52 - 178188212 - Result: Already redeemed
+2026-08-13 21:04:53 - Processing K1266-179107716 [15/229] for code: JP26SUMMER
+2026-08-13 21:04:53 - 179107716 - Result: Already redeemed
+2026-08-13 21:04:54 - Processing K1266-180368647 [16/229] for code: JP26SUMMER
+2026-08-13 21:04:54 - 180368647 - Result: Successfully redeemed
+2026-08-13 21:04:55 - Processing K1266-180369109 [17/229] for code: JP26SUMMER
+2026-08-13 21:04:55 - 180369109 - Result: Successfully redeemed
+2026-08-13 21:04:57 - Processing K1266-180369142 [18/229] for code: JP26SUMMER
+2026-08-13 21:04:57 - 180369142 - Result: Already redeemed
+2026-08-13 21:04:58 - Processing K1266-180369159 [19/229] for code: JP26SUMMER
+2026-08-13 21:04:58 - 180369159 - Result: Successfully redeemed
+2026-08-13 21:04:59 - Processing K1266-180385375 [20/229] for code: JP26SUMMER
+2026-08-13 21:04:59 - 180385375 - Result: Successfully redeemed
+2026-08-13 21:05:00 - Processing K1266-180385792 [21/229] for code: JP26SUMMER
+2026-08-13 21:05:00 - 180385792 - Result: Successfully redeemed
+2026-08-13 21:05:02 - Processing K1266-180418498 [22/229] for code: JP26SUMMER
+2026-08-13 21:05:02 - 180418498 - Result: Successfully redeemed
+2026-08-13 21:05:03 - Processing K1266-180434357 [23/229] for code: JP26SUMMER
+2026-08-13 21:05:03 - 180434357 - Result: Successfully redeemed
+2026-08-13 21:05:04 - Processing K1266-180483302 [24/229] for code: JP26SUMMER
+2026-08-13 21:05:04 - 180483302 - Result: Already redeemed
+2026-08-13 21:05:06 - Processing K1266-180565782 [25/229] for code: JP26SUMMER
+2026-08-13 21:05:06 - 180565782 - Result: Successfully redeemed
+2026-08-13 21:05:07 - Processing K1266-180614319 [26/229] for code: JP26SUMMER
+2026-08-13 21:05:07 - 180614319 - Result: Already redeemed
+2026-08-13 21:05:08 - Processing K1266-180636958 [27/229] for code: JP26SUMMER
+2026-08-13 21:05:08 - 180636958 - Result: Already redeemed
+2026-08-13 21:05:10 - Processing K1266-180669914 [28/229] for code: JP26SUMMER
+2026-08-13 21:05:10 - 180669914 - Result: Already redeemed
+2026-08-13 21:05:11 - Processing K1266-180696652 [29/229] for code: JP26SUMMER
+2026-08-13 21:05:11 - 180696652 - Result: Already redeemed
+2026-08-13 21:05:12 - Processing K1266-180729920 [30/229] for code: JP26SUMMER
+2026-08-13 21:05:13 - 180729920 - Result: Successfully redeemed
+2026-08-13 21:05:14 - Processing K1266-180778760 [31/229] for code: JP26SUMMER
+2026-08-13 21:05:14 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-13 21:05:18 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-13 21:05:26 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-13 21:05:38 - 180778760 - Result: Redemption request failed
+2026-08-13 21:05:40 - Processing K1266-180827986 [32/229] for code: JP26SUMMER
+2026-08-13 21:05:40 - 180827986 - Result: Successfully redeemed
+2026-08-13 21:05:41 - Processing K1266-180893335 [33/229] for code: JP26SUMMER
+2026-08-13 21:05:41 - 180893335 - Result: Successfully redeemed
+2026-08-13 21:05:42 - Processing K1266-180893684 [34/229] for code: JP26SUMMER
+2026-08-13 21:05:43 - 180893684 - Result: Already redeemed
+2026-08-13 21:05:44 - Processing K1266-180893765 [35/229] for code: JP26SUMMER
+2026-08-13 21:05:44 - 180893765 - Result: Already redeemed
+2026-08-13 21:05:46 - Processing K1266-180959009 [36/229] for code: JP26SUMMER
+2026-08-13 21:05:46 - 180959009 - Result: Already redeemed
+2026-08-13 21:05:47 - Processing K1266-181073393 [37/229] for code: JP26SUMMER
+2026-08-13 21:05:47 - 181073393 - Result: Already redeemed
+2026-08-13 21:05:48 - Processing K1266-181106609 [38/229] for code: JP26SUMMER
+2026-08-13 21:05:48 - 181106609 - Result: Successfully redeemed
+2026-08-13 21:05:50 - Processing K1266-181122260 [39/229] for code: JP26SUMMER
+2026-08-13 21:05:50 - 181122260 - Result: Successfully redeemed
+2026-08-13 21:05:51 - Processing K1266-181155772 [40/229] for code: JP26SUMMER
+2026-08-13 21:05:51 - 181155772 - Result: Already redeemed
+2026-08-13 21:05:52 - Processing K1266-181171461 [41/229] for code: JP26SUMMER
+2026-08-13 21:05:52 - 181171461 - Result: Already redeemed
+2026-08-13 21:05:54 - Processing K1266-181286832 [42/229] for code: JP26SUMMER
+2026-08-13 21:05:54 - 181286832 - Result: Successfully redeemed
+2026-08-13 21:05:55 - Processing K1266-181340930 [43/229] for code: JP26SUMMER
+2026-08-13 21:05:55 - 181340930 - Result: Already redeemed
+2026-08-13 21:05:56 - Processing K1266-181341522 [44/229] for code: JP26SUMMER
+2026-08-13 21:05:57 - 181341522 - Result: Already redeemed
+2026-08-13 21:05:58 - Processing K1266-181351852 [45/229] for code: JP26SUMMER
+2026-08-13 21:05:58 - 181351852 - Result: Successfully redeemed
+2026-08-13 21:05:59 - Processing K1266-181358276 [46/229] for code: JP26SUMMER
+2026-08-13 21:05:59 - 181358276 - Result: Already redeemed
+2026-08-13 21:06:00 - Processing K1266-181374419 [47/229] for code: JP26SUMMER
+2026-08-13 21:06:00 - 181374419 - Result: Already redeemed
+2026-08-13 21:06:02 - Processing K1266-181384836 [48/229] for code: JP26SUMMER
+2026-08-13 21:06:02 - 181384836 - Result: Successfully redeemed
+2026-08-13 21:06:03 - Processing K1266-181385198 [49/229] for code: JP26SUMMER
+2026-08-13 21:06:03 - 181385198 - Result: Successfully redeemed
+2026-08-13 21:06:04 - Processing K1266-181401589 [50/229] for code: JP26SUMMER
+2026-08-13 21:06:05 - 181401589 - Result: Already redeemed
+2026-08-13 21:06:06 - Processing K1266-181407057 [51/229] for code: JP26SUMMER
+2026-08-13 21:06:06 - 181407057 - Result: Already redeemed
+2026-08-13 21:06:07 - Processing K1266-181423528 [52/229] for code: JP26SUMMER
+2026-08-13 21:06:07 - 181423528 - Result: Already redeemed
+2026-08-13 21:06:08 - Processing K1266-181440017 [53/229] for code: JP26SUMMER
+2026-08-13 21:06:08 - 181440017 - Result: Already redeemed
+2026-08-13 21:06:10 - Processing K1266-181466821 [54/229] for code: JP26SUMMER
+2026-08-13 21:06:10 - 181466821 - Result: Successfully redeemed
+2026-08-13 21:06:11 - Processing K1266-181515253 [55/229] for code: JP26SUMMER
+2026-08-13 21:06:11 - 181515253 - Result: Already redeemed
+2026-08-13 21:06:12 - Processing K1266-181516264 [56/229] for code: JP26SUMMER
+2026-08-13 21:06:12 - 181516264 - Result: Already redeemed
+2026-08-13 21:06:14 - Processing K1266-181521367 [57/229] for code: JP26SUMMER
+2026-08-13 21:06:14 - 181521367 - Result: Already redeemed
+2026-08-13 21:06:15 - Processing K1266-181532757 [58/229] for code: JP26SUMMER
+2026-08-13 21:06:15 - 181532757 - Result: Successfully redeemed
+2026-08-13 21:06:16 - Processing K1266-181565051 [59/229] for code: JP26SUMMER
+2026-08-13 21:06:16 - 181565051 - Result: Successfully redeemed
+2026-08-13 21:06:18 - Processing K1266-181571708 [60/229] for code: JP26SUMMER
+2026-08-13 21:06:18 - 181571708 - Result: Already redeemed
+2026-08-13 21:06:19 - Processing K1266-181614011 [61/229] for code: JP26SUMMER
+2026-08-13 21:06:19 - 181614011 - Result: Successfully redeemed
+2026-08-13 21:06:20 - Processing K1266-181630719 [62/229] for code: JP26SUMMER
+2026-08-13 21:06:20 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-13 21:06:24 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-13 21:06:32 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-13 21:06:44 - 181630719 - Result: Redemption request failed
+2026-08-13 21:06:45 - Processing K1266-181646830 [63/229] for code: JP26SUMMER
+2026-08-13 21:06:45 - 181646830 - Result: Already redeemed
+2026-08-13 21:06:47 - Processing K1266-181663028 [64/229] for code: JP26SUMMER
+2026-08-13 21:06:47 - 181663028 - Result: Already redeemed
+2026-08-13 21:06:48 - Processing K1266-181669304 [65/229] for code: JP26SUMMER
+2026-08-13 21:06:48 - 181669304 - Result: Already redeemed
+2026-08-13 21:06:49 - Processing K1266-181696527 [66/229] for code: JP26SUMMER
+2026-08-13 21:06:50 - 181696527 - Result: Successfully redeemed
+2026-08-13 21:06:51 - Processing K1266-181734398 [67/229] for code: JP26SUMMER
+2026-08-13 21:06:51 - 181734398 - Result: Already redeemed
+2026-08-13 21:06:52 - Processing K1266-181761437 [68/229] for code: JP26SUMMER
+2026-08-13 21:06:52 - 181761437 - Result: Already redeemed
+2026-08-13 21:06:53 - Processing K1266-181778389 [69/229] for code: JP26SUMMER
+2026-08-13 21:06:53 - 181778389 - Result: Successfully redeemed
+2026-08-13 21:06:55 - Processing K1266-181793958 [70/229] for code: JP26SUMMER
+2026-08-13 21:06:55 - 181793958 - Result: Successfully redeemed
+2026-08-13 21:06:56 - Processing K1266-181794115 [71/229] for code: JP26SUMMER
+2026-08-13 21:06:56 - 181794115 - Result: Successfully redeemed
+2026-08-13 21:06:57 - Processing K1266-181816445 [72/229] for code: JP26SUMMER
+2026-08-13 21:06:57 - 181816445 - Result: Already redeemed
+2026-08-13 21:06:59 - Processing K1266-181859621 [73/229] for code: JP26SUMMER
+2026-08-13 21:06:59 - 181859621 - Result: Successfully redeemed
+2026-08-13 21:07:00 - Processing K1266-181859892 [74/229] for code: JP26SUMMER
+2026-08-13 21:07:00 - 181859892 - Result: Already redeemed
+2026-08-13 21:07:01 - Processing K1266-181859948 [75/229] for code: JP26SUMMER
+2026-08-13 21:07:02 - 181859948 - Result: Already redeemed
+2026-08-13 21:07:03 - Processing K1266-181860239 [76/229] for code: JP26SUMMER
+2026-08-13 21:07:03 - 181860239 - Result: Already redeemed
+2026-08-13 21:07:04 - Processing K1266-181892322 [77/229] for code: JP26SUMMER
+2026-08-13 21:07:04 - 181892322 - Result: Successfully redeemed
+2026-08-13 21:07:05 - Processing K1266-181941995 [78/229] for code: JP26SUMMER
+2026-08-13 21:07:05 - 181941995 - Result: Successfully redeemed
+2026-08-13 21:07:07 - Processing K1266-181942353 [79/229] for code: JP26SUMMER
+2026-08-13 21:07:07 - 181942353 - Result: Successfully redeemed
+2026-08-13 21:07:08 - Processing K1266-181957758 [80/229] for code: JP26SUMMER
+2026-08-13 21:07:08 - 181957758 - Result: Successfully redeemed
+2026-08-13 21:07:09 - Processing K1266-181958534 [81/229] for code: JP26SUMMER
+2026-08-13 21:07:09 - 181958534 - Result: Successfully redeemed
+2026-08-13 21:07:10 - Processing K1266-182013382 [82/229] for code: JP26SUMMER
+2026-08-13 21:07:10 - 182013382 - Result: Already redeemed
+2026-08-13 21:07:12 - Processing K1266-182022970 [83/229] for code: JP26SUMMER
+2026-08-13 21:07:12 - 182022970 - Result: Already redeemed
+2026-08-13 21:07:13 - Processing K1266-182072645 [84/229] for code: JP26SUMMER
+2026-08-13 21:07:13 - 182072645 - Result: Already redeemed
+2026-08-13 21:07:14 - Processing K1266-182138218 [85/229] for code: JP26SUMMER
+2026-08-13 21:07:15 - 182138218 - Result: Already redeemed
+2026-08-13 21:07:16 - Processing K1266-182138227 [86/229] for code: JP26SUMMER
+2026-08-13 21:07:16 - 182138227 - Result: Already redeemed
+2026-08-13 21:07:17 - Processing K1266-182144355 [87/229] for code: JP26SUMMER
+2026-08-13 21:07:17 - 182144355 - Result: Already redeemed
+2026-08-13 21:07:18 - Processing K1266-182203900 [88/229] for code: JP26SUMMER
+2026-08-13 21:07:18 - 182203900 - Result: Successfully redeemed
+2026-08-13 21:07:20 - Processing K1266-182210139 [89/229] for code: JP26SUMMER
+2026-08-13 21:07:20 - 182210139 - Result: Already redeemed
+2026-08-13 21:07:21 - Processing K1266-182275359 [90/229] for code: JP26SUMMER
+2026-08-13 21:07:21 - 182275359 - Result: Already redeemed
+2026-08-13 21:07:22 - Processing K1266-182286440 [91/229] for code: JP26SUMMER
+2026-08-13 21:07:22 - 182286440 - Result: Already redeemed
+2026-08-13 21:07:24 - Processing K1266-182302366 [92/229] for code: JP26SUMMER
+2026-08-13 21:07:24 - 182302366 - Result: Successfully redeemed
+2026-08-13 21:07:25 - Processing K1266-182318888 [93/229] for code: JP26SUMMER
+2026-08-13 21:07:25 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-13 21:07:29 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-13 21:07:37 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-13 21:07:49 - 182318888 - Result: Redemption request failed
+2026-08-13 21:07:50 - Processing K1266-182318966 [94/229] for code: JP26SUMMER
+2026-08-13 21:07:50 - 182318966 - Result: Already redeemed
+2026-08-13 21:07:51 - Processing K1266-182318992 [95/229] for code: JP26SUMMER
+2026-08-13 21:07:51 - 182318992 - Result: Already redeemed
+2026-08-13 21:07:53 - Processing K1266-182334781 [96/229] for code: JP26SUMMER
+2026-08-13 21:07:53 - 182334781 - Result: Already redeemed
+2026-08-13 21:07:54 - Processing K1266-182384377 [97/229] for code: JP26SUMMER
+2026-08-13 21:07:54 - 182384377 - Result: Successfully redeemed
+2026-08-13 21:07:55 - Processing K1266-182417500 [98/229] for code: JP26SUMMER
+2026-08-13 21:07:55 - 182417500 - Result: Already redeemed
+2026-08-13 21:07:57 - Processing K1266-182419290 [99/229] for code: JP26SUMMER
+2026-08-13 21:07:57 - 182419290 - Result: Already redeemed
+2026-08-13 21:07:58 - Processing K1266-182449206 [100/229] for code: JP26SUMMER
+2026-08-13 21:07:58 - 182449206 - Result: Already redeemed
+2026-08-13 21:07:59 - Processing K1266-182466031 [101/229] for code: JP26SUMMER
+2026-08-13 21:07:59 - 182466031 - Result: Already redeemed
+2026-08-13 21:08:01 - Processing K1266-182466200 [102/229] for code: JP26SUMMER
+2026-08-13 21:08:01 - 182466200 - Result: Successfully redeemed
+2026-08-13 21:08:02 - Processing K1266-182488759 [103/229] for code: JP26SUMMER
+2026-08-13 21:08:02 - 182488759 - Result: Already redeemed
+2026-08-13 21:08:04 - Processing K1266-182498855 [104/229] for code: JP26SUMMER
+2026-08-13 21:08:04 - 182498855 - Result: Successfully redeemed
+2026-08-13 21:08:05 - Processing K1266-182531700 [105/229] for code: JP26SUMMER
+2026-08-13 21:08:05 - 182531700 - Result: Successfully redeemed
+2026-08-13 21:08:07 - Processing K1266-182646613 [106/229] for code: JP26SUMMER
+2026-08-13 21:08:07 - 182646613 - Result: Already redeemed
+2026-08-13 21:08:08 - Processing K1266-182668737 [107/229] for code: JP26SUMMER
+2026-08-13 21:08:08 - 182668737 - Result: Already redeemed
+2026-08-13 21:08:09 - Processing K1266-182717899 [108/229] for code: JP26SUMMER
+2026-08-13 21:08:09 - 182717899 - Result: Already redeemed
+2026-08-13 21:08:10 - Processing K1266-182767010 [109/229] for code: JP26SUMMER
+2026-08-13 21:08:11 - 182767010 - Result: Already redeemed
+2026-08-13 21:08:12 - Processing K1266-182810221 [110/229] for code: JP26SUMMER
+2026-08-13 21:08:12 - 182810221 - Result: Successfully redeemed
+2026-08-13 21:08:13 - Processing K1266-182858998 [111/229] for code: JP26SUMMER
+2026-08-13 21:08:13 - 182858998 - Result: Already redeemed
+2026-08-13 21:08:15 - Processing K1266-182859667 [112/229] for code: JP26SUMMER
+2026-08-13 21:08:15 - 182859667 - Result: Successfully redeemed
+2026-08-13 21:08:16 - Processing K1266-182892106 [113/229] for code: JP26SUMMER
+2026-08-13 21:08:16 - 182892106 - Result: Successfully redeemed
+2026-08-13 21:08:17 - Processing K1266-182892217 [114/229] for code: JP26SUMMER
+2026-08-13 21:08:17 - 182892217 - Result: Already redeemed
+2026-08-13 21:08:19 - Processing K1266-182898057 [115/229] for code: JP26SUMMER
+2026-08-13 21:08:19 - 182898057 - Result: Already redeemed
+2026-08-13 21:08:20 - Processing K1266-182908483 [116/229] for code: JP26SUMMER
+2026-08-13 21:08:20 - 182908483 - Result: Already redeemed
+2026-08-13 21:08:22 - Processing K1266-182941162 [117/229] for code: JP26SUMMER
+2026-08-13 21:08:22 - 182941162 - Result: Already redeemed
+2026-08-13 21:08:23 - Processing K1266-182941502 [118/229] for code: JP26SUMMER
+2026-08-13 21:08:23 - 182941502 - Result: Already redeemed
+2026-08-13 21:08:24 - Processing K1266-183012848 [119/229] for code: JP26SUMMER
+2026-08-13 21:08:24 - 183012848 - Result: Already redeemed
+2026-08-13 21:08:25 - Processing K1266-183028805 [120/229] for code: JP26SUMMER
+2026-08-13 21:08:25 - 183028805 - Result: Already redeemed
+2026-08-13 21:08:26 - Processing K1266-183029342 [121/229] for code: JP26SUMMER
+2026-08-13 21:08:26 - 183029342 - Result: Already redeemed
+2026-08-13 21:08:28 - Processing K1266-183072306 [122/229] for code: JP26SUMMER
+2026-08-13 21:08:28 - 183072306 - Result: Successfully redeemed
+2026-08-13 21:08:29 - Processing K1266-183072746 [123/229] for code: JP26SUMMER
+2026-08-13 21:08:29 - 183072746 - Result: Already redeemed
+2026-08-13 21:08:31 - Processing K1266-183072824 [124/229] for code: JP26SUMMER
+2026-08-13 21:08:31 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-13 21:08:35 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-13 21:08:43 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-13 21:08:55 - 183072824 - Result: Redemption request failed
+2026-08-13 21:08:56 - Processing K1266-183089209 [125/229] for code: JP26SUMMER
+2026-08-13 21:08:56 - 183089209 - Result: Successfully redeemed
+2026-08-13 21:08:57 - Processing K1266-183121113 [126/229] for code: JP26SUMMER
+2026-08-13 21:08:57 - 183121113 - Result: Successfully redeemed
+2026-08-13 21:08:59 - Processing K1266-183137287 [127/229] for code: JP26SUMMER
+2026-08-13 21:08:59 - 183137287 - Result: Already redeemed
+2026-08-13 21:09:00 - Processing K1266-183154303 [128/229] for code: JP26SUMMER
+2026-08-13 21:09:00 - 183154303 - Result: Successfully redeemed
+2026-08-13 21:09:01 - Processing K1266-183170657 [129/229] for code: JP26SUMMER
+2026-08-13 21:09:01 - 183170657 - Result: Successfully redeemed
+2026-08-13 21:09:03 - Processing K1266-183176536 [130/229] for code: JP26SUMMER
+2026-08-13 21:09:03 - 183176536 - Result: Already redeemed
+2026-08-13 21:09:04 - Processing K1266-183219343 [131/229] for code: JP26SUMMER
+2026-08-13 21:09:04 - 183219343 - Result: Already redeemed
+2026-08-13 21:09:05 - Processing K1266-183252993 [132/229] for code: JP26SUMMER
+2026-08-13 21:09:05 - 183252993 - Result: Successfully redeemed
+2026-08-13 21:09:06 - Processing K1266-183285360 [133/229] for code: JP26SUMMER
+2026-08-13 21:09:06 - 183285360 - Result: Already redeemed
+2026-08-13 21:09:08 - Processing K1266-183366693 [134/229] for code: JP26SUMMER
+2026-08-13 21:09:08 - 183366693 - Result: Already redeemed
+2026-08-13 21:09:09 - Processing K1266-183367342 [135/229] for code: JP26SUMMER
+2026-08-13 21:09:09 - 183367342 - Result: Successfully redeemed
+2026-08-13 21:09:10 - Processing K1266-183383666 [136/229] for code: JP26SUMMER
+2026-08-13 21:09:10 - 183383666 - Result: Successfully redeemed
+2026-08-13 21:09:12 - Processing K1266-183384158 [137/229] for code: JP26SUMMER
+2026-08-13 21:09:12 - 183384158 - Result: Successfully redeemed
+2026-08-13 21:09:13 - Processing K1266-183449358 [138/229] for code: JP26SUMMER
+2026-08-13 21:09:13 - 183449358 - Result: Already redeemed
+2026-08-13 21:09:15 - Processing K1266-183455373 [139/229] for code: JP26SUMMER
+2026-08-13 21:09:15 - 183455373 - Result: Already redeemed
+2026-08-13 21:09:16 - Processing K1266-183465208 [140/229] for code: JP26SUMMER
+2026-08-13 21:09:16 - 183465208 - Result: Already redeemed
+2026-08-13 21:09:17 - Processing K1266-183514753 [141/229] for code: JP26SUMMER
+2026-08-13 21:09:18 - 183514753 - Result: Successfully redeemed
+2026-08-13 21:09:19 - Processing K1266-183531242 [142/229] for code: JP26SUMMER
+2026-08-13 21:09:19 - 183531242 - Result: Already redeemed
+2026-08-13 21:09:20 - Processing K1266-183563334 [143/229] for code: JP26SUMMER
+2026-08-13 21:09:20 - 183563334 - Result: Already redeemed
+2026-08-13 21:09:21 - Processing K1266-183579631 [144/229] for code: JP26SUMMER
+2026-08-13 21:09:21 - 183579631 - Result: Already redeemed
+2026-08-13 21:09:22 - Processing K1266-183579641 [145/229] for code: JP26SUMMER
+2026-08-13 21:09:22 - 183579641 - Result: Successfully redeemed
+2026-08-13 21:09:23 - Processing K1266-183602956 [146/229] for code: JP26SUMMER
+2026-08-13 21:09:23 - 183602956 - Result: Already redeemed
+2026-08-13 21:09:24 - Processing K1266-183635567 [147/229] for code: JP26SUMMER
+2026-08-13 21:09:24 - 183635567 - Result: Already redeemed
+2026-08-13 21:09:26 - Processing K1266-183662249 [148/229] for code: JP26SUMMER
+2026-08-13 21:09:26 - 183662249 - Result: Already redeemed
+2026-08-13 21:09:27 - Processing K1266-183678571 [149/229] for code: JP26SUMMER
+2026-08-13 21:09:27 - 183678571 - Result: Successfully redeemed
+2026-08-13 21:09:28 - Processing K1266-183744074 [150/229] for code: JP26SUMMER
+2026-08-13 21:09:28 - 183744074 - Result: Already redeemed
+2026-08-13 21:09:30 - Processing K1266-183760133 [151/229] for code: JP26SUMMER
+2026-08-13 21:09:30 - 183760133 - Result: Already redeemed
+2026-08-13 21:09:31 - Processing K1266-183776526 [152/229] for code: JP26SUMMER
+2026-08-13 21:09:31 - 183776526 - Result: Already redeemed
+2026-08-13 21:09:32 - Processing K1266-183792859 [153/229] for code: JP26SUMMER
+2026-08-13 21:09:33 - 183792859 - Result: Successfully redeemed
+2026-08-13 21:09:34 - Processing K1266-183793260 [154/229] for code: JP26SUMMER
+2026-08-13 21:09:34 - 183793260 - Result: Successfully redeemed
+2026-08-13 21:09:35 - Processing K1266-183799231 [155/229] for code: JP26SUMMER
+2026-08-13 21:09:35 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-13 21:09:39 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-13 21:09:47 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-13 21:09:59 - 183799231 - Result: Redemption request failed
+2026-08-13 21:10:00 - Processing K1266-183809202 [156/229] for code: JP26SUMMER
+2026-08-13 21:10:00 - 183809202 - Result: Already redeemed
+2026-08-13 21:10:02 - Processing K1266-183826046 [157/229] for code: JP26SUMMER
+2026-08-13 21:10:02 - 183826046 - Result: Successfully redeemed
+2026-08-13 21:10:03 - Processing K1266-183826079 [158/229] for code: JP26SUMMER
+2026-08-13 21:10:03 - 183826079 - Result: Successfully redeemed
+2026-08-13 21:10:04 - Processing K1266-183842429 [159/229] for code: JP26SUMMER
+2026-08-13 21:10:04 - 183842429 - Result: Successfully redeemed
+2026-08-13 21:10:05 - Processing K1266-183858943 [160/229] for code: JP26SUMMER
+2026-08-13 21:10:05 - 183858943 - Result: Successfully redeemed
+2026-08-13 21:10:06 - Processing K1266-183859043 [161/229] for code: JP26SUMMER
+2026-08-13 21:10:06 - 183859043 - Result: Successfully redeemed
+2026-08-13 21:10:07 - Processing K1266-183907855 [162/229] for code: JP26SUMMER
+2026-08-13 21:10:08 - 183907855 - Result: Already redeemed
+2026-08-13 21:10:09 - Processing K1266-183924658 [163/229] for code: JP26SUMMER
+2026-08-13 21:10:09 - 183924658 - Result: Successfully redeemed
+2026-08-13 21:10:10 - Processing K1266-183924660 [164/229] for code: JP26SUMMER
+2026-08-13 21:10:11 - 183924660 - Result: Already redeemed
+2026-08-13 21:10:12 - Processing K1266-183940809 [165/229] for code: JP26SUMMER
+2026-08-13 21:10:12 - 183940809 - Result: Already redeemed
+2026-08-13 21:10:13 - Processing K1266-183946385 [166/229] for code: JP26SUMMER
+2026-08-13 21:10:13 - 183946385 - Result: Already redeemed
+2026-08-13 21:10:15 - Processing K1266-183946804 [167/229] for code: JP26SUMMER
+2026-08-13 21:10:15 - 183946804 - Result: Already redeemed
+2026-08-13 21:10:16 - Processing K1266-184005794 [168/229] for code: JP26SUMMER
+2026-08-13 21:10:16 - 184005794 - Result: Already redeemed
+2026-08-13 21:10:18 - Processing K1266-184022781 [169/229] for code: JP26SUMMER
+2026-08-13 21:10:18 - 184022781 - Result: Successfully redeemed
+2026-08-13 21:10:19 - Processing K1266-184071743 [170/229] for code: JP26SUMMER
+2026-08-13 21:10:19 - 184071743 - Result: Successfully redeemed
+2026-08-13 21:10:20 - Processing K1266-184088377 [171/229] for code: JP26SUMMER
+2026-08-13 21:10:20 - 184088377 - Result: Already redeemed
+2026-08-13 21:10:22 - Processing K1266-184121399 [172/229] for code: JP26SUMMER
+2026-08-13 21:10:22 - 184121399 - Result: Successfully redeemed
+2026-08-13 21:10:23 - Processing K1266-184137674 [173/229] for code: JP26SUMMER
+2026-08-13 21:10:23 - 184137674 - Result: Already redeemed
+2026-08-13 21:10:24 - Processing K1266-184153916 [174/229] for code: JP26SUMMER
+2026-08-13 21:10:25 - 184153916 - Result: Already redeemed
+2026-08-13 21:10:26 - Processing K1266-184159552 [175/229] for code: JP26SUMMER
+2026-08-13 21:10:26 - 184159552 - Result: Already redeemed
+2026-08-13 21:10:27 - Processing K1266-184169916 [176/229] for code: JP26SUMMER
+2026-08-13 21:10:27 - 184169916 - Result: Already redeemed
+2026-08-13 21:10:28 - Processing K1266-184170263 [177/229] for code: JP26SUMMER
+2026-08-13 21:10:28 - 184170263 - Result: Already redeemed
+2026-08-13 21:10:30 - Processing K1266-184175883 [178/229] for code: JP26SUMMER
+2026-08-13 21:10:30 - 184175883 - Result: Already redeemed
+2026-08-13 21:10:31 - Processing K1266-184176072 [179/229] for code: JP26SUMMER
+2026-08-13 21:10:31 - 184176072 - Result: Already redeemed
+2026-08-13 21:10:33 - Processing K1266-184202442 [180/229] for code: JP26SUMMER
+2026-08-13 21:10:33 - 184202442 - Result: Successfully redeemed
+2026-08-13 21:10:34 - Processing K1266-184202684 [181/229] for code: JP26SUMMER
+2026-08-13 21:10:34 - 184202684 - Result: Successfully redeemed
+2026-08-13 21:10:35 - Processing K1266-184219240 [182/229] for code: JP26SUMMER
+2026-08-13 21:10:35 - 184219240 - Result: Successfully redeemed
+2026-08-13 21:10:37 - Processing K1266-184235470 [183/229] for code: JP26SUMMER
+2026-08-13 21:10:37 - 184235470 - Result: Already redeemed
+2026-08-13 21:10:38 - Processing K1266-184252103 [184/229] for code: JP26SUMMER
+2026-08-13 21:10:38 - 184252103 - Result: Successfully redeemed
+2026-08-13 21:10:40 - Processing K1266-184257548 [185/229] for code: JP26SUMMER
+2026-08-13 21:10:40 - 184257548 - Result: Already redeemed
+2026-08-13 21:10:41 - Processing K1266-184268332 [186/229] for code: JP26SUMMER
+2026-08-13 21:10:41 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-13 21:10:45 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-13 21:10:53 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-13 21:11:05 - 184268332 - Result: Redemption request failed
+2026-08-13 21:11:06 - Processing K1266-184285099 [187/229] for code: JP26SUMMER
+2026-08-13 21:11:07 - 184285099 - Result: Successfully redeemed
+2026-08-13 21:11:08 - Processing K1266-184300583 [188/229] for code: JP26SUMMER
+2026-08-13 21:11:08 - 184300583 - Result: Successfully redeemed
+2026-08-13 21:11:09 - Processing K1266-184323165 [189/229] for code: JP26SUMMER
+2026-08-13 21:11:09 - 184323165 - Result: Already redeemed
+2026-08-13 21:11:10 - Processing K1266-184334326 [190/229] for code: JP26SUMMER
+2026-08-13 21:11:11 - 184334326 - Result: Successfully redeemed
+2026-08-13 21:11:12 - Processing K1266-184355782 [191/229] for code: JP26SUMMER
+2026-08-13 21:11:12 - 184355782 - Result: Already redeemed
+2026-08-13 21:11:13 - Processing K1266-184366892 [192/229] for code: JP26SUMMER
+2026-08-13 21:11:13 - 184366892 - Result: Already redeemed
+2026-08-13 21:11:14 - Processing K1266-184382529 [193/229] for code: JP26SUMMER
+2026-08-13 21:11:14 - 184382529 - Result: Already redeemed
+2026-08-13 21:11:16 - Processing K1266-184398957 [194/229] for code: JP26SUMMER
+2026-08-13 21:11:16 - 184398957 - Result: Already redeemed
+2026-08-13 21:11:17 - Processing K1266-184481446 [195/229] for code: JP26SUMMER
+2026-08-13 21:11:17 - 184481446 - Result: Already redeemed
+2026-08-13 21:11:19 - Processing K1266-184546387 [196/229] for code: JP26SUMMER
+2026-08-13 21:11:19 - 184546387 - Result: Successfully redeemed
+2026-08-13 21:11:20 - Processing K1266-184925419 [197/229] for code: JP26SUMMER
+2026-08-13 21:11:20 - 184925419 - Result: Already redeemed
+2026-08-13 21:11:21 - Processing K1266-185480245 [198/229] for code: JP26SUMMER
+2026-08-13 21:11:22 - 185480245 - Result: Already redeemed
+2026-08-13 21:11:23 - Processing K1266-187102768 [199/229] for code: JP26SUMMER
+2026-08-13 21:11:23 - 187102768 - Result: Already redeemed
+2026-08-13 21:11:24 - Processing K1266-188087741 [200/229] for code: JP26SUMMER
+2026-08-13 21:11:24 - 188087741 - Result: Already redeemed
+2026-08-13 21:11:25 - Processing K1266-188470196 [201/229] for code: JP26SUMMER
+2026-08-13 21:11:25 - 188470196 - Result: Already redeemed
+2026-08-13 21:11:27 - Processing K1266-188862376 [202/229] for code: JP26SUMMER
+2026-08-13 21:11:27 - 188862376 - Result: Already redeemed
+2026-08-13 21:11:28 - Processing K1266-189063297 [203/229] for code: JP26SUMMER
+2026-08-13 21:11:28 - 189063297 - Result: Already redeemed
+2026-08-13 21:11:29 - Processing K1266-190234418 [204/229] for code: JP26SUMMER
+2026-08-13 21:11:29 - 190234418 - Result: Already redeemed
+2026-08-13 21:11:30 - Processing K1266-190553232 [205/229] for code: JP26SUMMER
+2026-08-13 21:11:31 - 190553232 - Result: Already redeemed
+2026-08-13 21:11:32 - Processing K1266-190573918 [206/229] for code: JP26SUMMER
+2026-08-13 21:11:32 - 190573918 - Result: Already redeemed
+2026-08-13 21:11:33 - Processing K1266-193365290 [207/229] for code: JP26SUMMER
+2026-08-13 21:11:33 - 193365290 - Result: Already redeemed
+2026-08-13 21:11:34 - Processing K1266-194962807 [208/229] for code: JP26SUMMER
+2026-08-13 21:11:34 - 194962807 - Result: Already redeemed
+2026-08-13 21:11:35 - Processing K1266-195609436 [209/229] for code: JP26SUMMER
+2026-08-13 21:11:35 - 195609436 - Result: Successfully redeemed
+2026-08-13 21:11:37 - Processing K1266-195708034 [210/229] for code: JP26SUMMER
+2026-08-13 21:11:37 - 195708034 - Result: Already redeemed
+2026-08-13 21:11:38 - Processing K1266-197748881 [211/229] for code: JP26SUMMER
+2026-08-13 21:11:38 - 197748881 - Result: Already redeemed
+2026-08-13 21:11:39 - Processing K1266-198971997 [212/229] for code: JP26SUMMER
+2026-08-13 21:11:39 - 198971997 - Result: Already redeemed
+2026-08-13 21:11:41 - Processing K1266-199087822 [213/229] for code: JP26SUMMER
+2026-08-13 21:11:41 - 199087822 - Result: Already redeemed
+2026-08-13 21:11:42 - Processing K1266-199766078 [214/229] for code: JP26SUMMER
+2026-08-13 21:11:42 - 199766078 - Result: Already redeemed
+2026-08-13 21:11:43 - Processing K1266-202789741 [215/229] for code: JP26SUMMER
+2026-08-13 21:11:43 - 202789741 - Result: Already redeemed
+2026-08-13 21:11:45 - Processing K1266-214289119 [216/229] for code: JP26SUMMER
+2026-08-13 21:11:45 - 214289119 - Result: Already redeemed
+2026-08-13 21:11:46 - Processing K1266-216820126 [217/229] for code: JP26SUMMER
+2026-08-13 21:11:46 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-13 21:11:50 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-13 21:11:58 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-13 21:12:10 - 216820126 - Result: Redemption request failed
+2026-08-13 21:12:11 - Processing K1266-219382121 [218/229] for code: JP26SUMMER
+2026-08-13 21:12:11 - 219382121 - Result: Already redeemed
+2026-08-13 21:12:12 - Processing K1266-221299698 [219/229] for code: JP26SUMMER
+2026-08-13 21:12:12 - 221299698 - Result: Already redeemed
+2026-08-13 21:12:14 - Processing K1266-239065229 [220/229] for code: JP26SUMMER
+2026-08-13 21:12:14 - 239065229 - Result: Already redeemed
+2026-08-13 21:12:15 - Processing K1266-247760465 [221/229] for code: JP26SUMMER
+2026-08-13 21:12:15 - 247760465 - Result: Already redeemed
+2026-08-13 21:12:16 - Processing K1266-257078077 [222/229] for code: JP26SUMMER
+2026-08-13 21:12:16 - 257078077 - Result: Successfully redeemed
+2026-08-13 21:12:18 - Processing K1266-270896390 [223/229] for code: JP26SUMMER
+2026-08-13 21:12:18 - 270896390 - Result: Already redeemed
+2026-08-13 21:12:19 - Processing K1266-278604391 [224/229] for code: JP26SUMMER
+2026-08-13 21:12:19 - 278604391 - Result: Already redeemed
+2026-08-13 21:12:20 - Processing K1266-302154974 [225/229] for code: JP26SUMMER
+2026-08-13 21:12:20 - 302154974 - Result: Successfully redeemed
+2026-08-13 21:12:21 - Processing K1266-377584801 [226/229] for code: JP26SUMMER
+2026-08-13 21:12:22 - 377584801 - Result: Already redeemed
+2026-08-13 21:12:23 - Processing K1266-378005527 [227/229] for code: JP26SUMMER
+2026-08-13 21:12:23 - 378005527 - Result: Successfully redeemed
+2026-08-13 21:12:24 - Processing K1266-378518775 [228/229] for code: JP26SUMMER
+2026-08-13 21:12:24 - 378518775 - Result: Already redeemed
+2026-08-13 21:12:25 - Processing K1266-381967745 [229/229] for code: JP26SUMMER
+2026-08-13 21:12:26 - 381967745 - Result: Already redeemed
+2026-08-13 21:12:27 - --- Cycle finished. Total processed: 229/229 ---
+2026-08-13 21:12:27 - 
+========================= Redemption Summary =========================
+2026-08-13 21:12:27 - Code Redeemed: JP26SUMMER
+2026-08-13 21:12:27 - Total Unique Player IDs Found: 229
+2026-08-13 21:12:27 - Total Player IDs Processed: 229
+2026-08-13 21:12:27 - Successfully redeemed: 80
+2026-08-13 21:12:27 - Already redeemed: 142
+2026-08-13 21:12:27 - Wrong kingdom: 0
+2026-08-13 21:12:27 - Other Errors/Failures: 7
+2026-08-13 21:12:27 - Rate Limit Events: 0
+2026-08-13 21:12:27 - Total execution time: 0:07:52
+2026-08-13 21:12:27 - ======================================================================
+2026-08-13 21:12:27 - Marked 'JP26SUMMER' as known.
+
