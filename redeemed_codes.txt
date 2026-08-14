@@ -26382,3 +26382,34 @@
 2026-08-14 08:56:48 - Success with chrome124 impersonation
 2026-08-14 08:56:48 - No new gift codes found. All codes have been seen previously.
 2026-08-14 08:56:48 - Nothing to redeem.
+2026-08-14 12:38:29 - Checking https://kingshot.net/gift-codes for new gift codes...
+2026-08-14 12:38:29 - Using curl_cffi for Cloudflare bypass...
+2026-08-14 12:38:29 - Success with chrome124 impersonation
+2026-08-14 12:38:29 - 
+🎉 NEW GIFT CODES FOUND: bwDlygw66
+2026-08-14 12:38:29 - 
+=== Starting redemption for gift code: bwDlygw66 ===
+2026-08-14 12:38:29 - Read 231 player IDs from lod.csv (encoding: utf-8-sig, 231 with a kingdom)
+2026-08-14 12:38:29 - Removed 2 duplicate entries.
+2026-08-14 12:38:29 - Total unique player IDs to process: 229
+2026-08-14 12:38:29 - 
+--- Starting processing cycle. Ready player IDs: 229 ---
+2026-08-14 12:38:29 - Processing K1266-112607487 [1/229] for code: bwDlygw66
+2026-08-14 12:38:29 - 112607487 - Result: Claim limit reached, unable to claim
+2026-08-14 12:38:29 - 
+ *** Claim limit reached, unable to claim! Stopping further processing. ***
+2026-08-14 12:38:29 - --- Cycle finished. Total processed: 1/229 ---
+2026-08-14 12:38:29 - 
+========================= Redemption Summary =========================
+2026-08-14 12:38:29 - Code Redeemed: bwDlygw66
+2026-08-14 12:38:29 - Total Unique Player IDs Found: 229
+2026-08-14 12:38:29 - Total Player IDs Processed: 1
+2026-08-14 12:38:29 - Successfully redeemed: 0
+2026-08-14 12:38:29 - Already redeemed: 0
+2026-08-14 12:38:29 - Wrong kingdom: 0
+2026-08-14 12:38:29 - Other Errors/Failures: 0
+2026-08-14 12:38:29 - Rate Limit Events: 0
+2026-08-14 12:38:29 - Total execution time: 0:00:00
+2026-08-14 12:38:29 - ======================================================================
+2026-08-14 12:38:29 - Marked 'bwDlygw66' as known.
+
