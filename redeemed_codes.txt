@@ -27167,3 +27167,1020 @@
 2026-08-22 02:22:01 - ======================================================================
 2026-08-22 02:22:01 - Marked 'FB2500KT' as known.
 
+2026-08-22 03:43:56 - Checking https://kingshot.net/gift-codes for new gift codes...
+2026-08-22 03:43:56 - Using curl_cffi for Cloudflare bypass...
+2026-08-22 03:43:57 - Success with chrome124 impersonation
+2026-08-22 03:43:57 - 
+🎉 NEW GIFT CODES FOUND: KS0822, VIP0822
+2026-08-22 03:43:57 - 
+=== Starting redemption for gift code: KS0822 ===
+2026-08-22 03:43:57 - Read 231 player IDs from lod.csv (encoding: utf-8-sig, 231 with a kingdom)
+2026-08-22 03:43:57 - Removed 2 duplicate entries.
+2026-08-22 03:43:57 - Total unique player IDs to process: 229
+2026-08-22 03:43:57 - 
+--- Starting processing cycle. Ready player IDs: 229 ---
+2026-08-22 03:43:57 - Processing K1266-112607487 [1/229] for code: KS0822
+2026-08-22 03:43:57 - 112607487 - Result: Successfully redeemed
+2026-08-22 03:43:58 - Processing K1266-114993837 [2/229] for code: KS0822
+2026-08-22 03:43:58 - 114993837 - Result: Successfully redeemed
+2026-08-22 03:44:00 - Processing K1266-134948830 [3/229] for code: KS0822
+2026-08-22 03:44:00 - 134948830 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-08-22 03:44:02 - 134948830 - Result: Successfully redeemed
+2026-08-22 03:44:03 - Processing K1266-137354109 [4/229] for code: KS0822
+2026-08-22 03:44:03 - 137354109 - Result: Successfully redeemed
+2026-08-22 03:44:05 - Processing K1266-137881550 [5/229] for code: KS0822
+2026-08-22 03:44:05 - 137881550 - Result: Successfully redeemed
+2026-08-22 03:44:06 - Processing K1266-138078147 [6/229] for code: KS0822
+2026-08-22 03:44:06 - 138078147 - Result: Successfully redeemed
+2026-08-22 03:44:07 - Processing K1266-139819795 [7/229] for code: KS0822
+2026-08-22 03:44:07 - 139819795 - Result: Successfully redeemed
+2026-08-22 03:44:09 - Processing K1266-156477789 [8/229] for code: KS0822
+2026-08-22 03:44:09 - 156477789 - Result: Successfully redeemed
+2026-08-22 03:44:10 - Processing K1266-162070715 [9/229] for code: KS0822
+2026-08-22 03:44:10 - 162070715 - Result: Successfully redeemed
+2026-08-22 03:44:11 - Processing K1266-172135597 [10/229] for code: KS0822
+2026-08-22 03:44:11 - 172135597 - Result: Successfully redeemed
+2026-08-22 03:44:13 - Processing K1266-176622413 [11/229] for code: KS0822
+2026-08-22 03:44:13 - 176622413 - Result: Successfully redeemed
+2026-08-22 03:44:14 - Processing K1266-176730452 [12/229] for code: KS0822
+2026-08-22 03:44:14 - 176730452 - Result: Successfully redeemed
+2026-08-22 03:44:15 - Processing K1266-177978644 [13/229] for code: KS0822
+2026-08-22 03:44:15 - 177978644 - Result: Successfully redeemed
+2026-08-22 03:44:16 - Processing K1266-178188212 [14/229] for code: KS0822
+2026-08-22 03:44:16 - 178188212 - Result: Successfully redeemed
+2026-08-22 03:44:17 - Processing K1266-179107716 [15/229] for code: KS0822
+2026-08-22 03:44:18 - 179107716 - Result: Successfully redeemed
+2026-08-22 03:44:19 - Processing K1266-180368647 [16/229] for code: KS0822
+2026-08-22 03:44:19 - 180368647 - Result: Successfully redeemed
+2026-08-22 03:44:20 - Processing K1266-180369109 [17/229] for code: KS0822
+2026-08-22 03:44:20 - 180369109 - Result: Successfully redeemed
+2026-08-22 03:44:21 - Processing K1266-180369142 [18/229] for code: KS0822
+2026-08-22 03:44:21 - 180369142 - Result: Successfully redeemed
+2026-08-22 03:44:22 - Processing K1266-180369159 [19/229] for code: KS0822
+2026-08-22 03:44:23 - 180369159 - Result: Successfully redeemed
+2026-08-22 03:44:24 - Processing K1266-180385375 [20/229] for code: KS0822
+2026-08-22 03:44:24 - 180385375 - Result: Successfully redeemed
+2026-08-22 03:44:25 - Processing K1266-180385792 [21/229] for code: KS0822
+2026-08-22 03:44:25 - 180385792 - Result: Already redeemed
+2026-08-22 03:44:27 - Processing K1266-180418498 [22/229] for code: KS0822
+2026-08-22 03:44:27 - 180418498 - Result: Successfully redeemed
+2026-08-22 03:44:28 - Processing K1266-180434357 [23/229] for code: KS0822
+2026-08-22 03:44:28 - 180434357 - Result: Successfully redeemed
+2026-08-22 03:44:29 - Processing K1266-180483302 [24/229] for code: KS0822
+2026-08-22 03:44:29 - 180483302 - Result: Successfully redeemed
+2026-08-22 03:44:30 - Processing K1266-180565782 [25/229] for code: KS0822
+2026-08-22 03:44:30 - 180565782 - Result: Successfully redeemed
+2026-08-22 03:44:32 - Processing K1266-180614319 [26/229] for code: KS0822
+2026-08-22 03:44:32 - 180614319 - Result: Successfully redeemed
+2026-08-22 03:44:33 - Processing K1266-180636958 [27/229] for code: KS0822
+2026-08-22 03:44:33 - 180636958 - Result: Successfully redeemed
+2026-08-22 03:44:35 - Processing K1266-180669914 [28/229] for code: KS0822
+2026-08-22 03:44:35 - 180669914 - Result: Successfully redeemed
+2026-08-22 03:44:36 - Processing K1266-180696652 [29/229] for code: KS0822
+2026-08-22 03:44:36 - 180696652 - Result: Successfully redeemed
+2026-08-22 03:44:37 - Processing K1266-180729920 [30/229] for code: KS0822
+2026-08-22 03:44:37 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-22 03:44:41 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-22 03:44:49 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-22 03:45:01 - 180729920 - Result: Redemption request failed
+2026-08-22 03:45:03 - Processing K1266-180778760 [31/229] for code: KS0822
+2026-08-22 03:45:03 - 180778760 - Result: Successfully redeemed
+2026-08-22 03:45:04 - Processing K1266-180827986 [32/229] for code: KS0822
+2026-08-22 03:45:04 - 180827986 - Result: Successfully redeemed
+2026-08-22 03:45:05 - Processing K1266-180893335 [33/229] for code: KS0822
+2026-08-22 03:45:06 - 180893335 - Result: Successfully redeemed
+2026-08-22 03:45:07 - Processing K1266-180893684 [34/229] for code: KS0822
+2026-08-22 03:45:07 - 180893684 - Result: Successfully redeemed
+2026-08-22 03:45:08 - Processing K1266-180893765 [35/229] for code: KS0822
+2026-08-22 03:45:08 - 180893765 - Result: Already redeemed
+2026-08-22 03:45:10 - Processing K1266-180959009 [36/229] for code: KS0822
+2026-08-22 03:45:10 - 180959009 - Result: Successfully redeemed
+2026-08-22 03:45:11 - Processing K1266-181073393 [37/229] for code: KS0822
+2026-08-22 03:45:11 - 181073393 - Result: Successfully redeemed
+2026-08-22 03:45:13 - Processing K1266-181106609 [38/229] for code: KS0822
+2026-08-22 03:45:13 - 181106609 - Result: Successfully redeemed
+2026-08-22 03:45:14 - Processing K1266-181122260 [39/229] for code: KS0822
+2026-08-22 03:45:14 - 181122260 - Result: Successfully redeemed
+2026-08-22 03:45:15 - Processing K1266-181155772 [40/229] for code: KS0822
+2026-08-22 03:45:15 - 181155772 - Result: Successfully redeemed
+2026-08-22 03:45:17 - Processing K1266-181171461 [41/229] for code: KS0822
+2026-08-22 03:45:17 - 181171461 - Result: Successfully redeemed
+2026-08-22 03:45:18 - Processing K1266-181286832 [42/229] for code: KS0822
+2026-08-22 03:45:18 - 181286832 - Result: Successfully redeemed
+2026-08-22 03:45:19 - Processing K1266-181340930 [43/229] for code: KS0822
+2026-08-22 03:45:19 - 181340930 - Result: Successfully redeemed
+2026-08-22 03:45:21 - Processing K1266-181341522 [44/229] for code: KS0822
+2026-08-22 03:45:21 - 181341522 - Result: Successfully redeemed
+2026-08-22 03:45:22 - Processing K1266-181351852 [45/229] for code: KS0822
+2026-08-22 03:45:22 - 181351852 - Result: Successfully redeemed
+2026-08-22 03:45:23 - Processing K1266-181358276 [46/229] for code: KS0822
+2026-08-22 03:45:23 - 181358276 - Result: Successfully redeemed
+2026-08-22 03:45:25 - Processing K1266-181374419 [47/229] for code: KS0822
+2026-08-22 03:45:25 - 181374419 - Result: Successfully redeemed
+2026-08-22 03:45:26 - Processing K1266-181384836 [48/229] for code: KS0822
+2026-08-22 03:45:26 - 181384836 - Result: Successfully redeemed
+2026-08-22 03:45:27 - Processing K1266-181385198 [49/229] for code: KS0822
+2026-08-22 03:45:27 - 181385198 - Result: Already redeemed
+2026-08-22 03:45:28 - Processing K1266-181401589 [50/229] for code: KS0822
+2026-08-22 03:45:29 - 181401589 - Result: Successfully redeemed
+2026-08-22 03:45:30 - Processing K1266-181407057 [51/229] for code: KS0822
+2026-08-22 03:45:30 - 181407057 - Result: Successfully redeemed
+2026-08-22 03:45:31 - Processing K1266-181423528 [52/229] for code: KS0822
+2026-08-22 03:45:31 - 181423528 - Result: Successfully redeemed
+2026-08-22 03:45:33 - Processing K1266-181440017 [53/229] for code: KS0822
+2026-08-22 03:45:33 - 181440017 - Result: Successfully redeemed
+2026-08-22 03:45:34 - Processing K1266-181466821 [54/229] for code: KS0822
+2026-08-22 03:45:34 - 181466821 - Result: Successfully redeemed
+2026-08-22 03:45:35 - Processing K1266-181515253 [55/229] for code: KS0822
+2026-08-22 03:45:35 - 181515253 - Result: Successfully redeemed
+2026-08-22 03:45:36 - Processing K1266-181516264 [56/229] for code: KS0822
+2026-08-22 03:45:36 - 181516264 - Result: Successfully redeemed
+2026-08-22 03:45:37 - Processing K1266-181521367 [57/229] for code: KS0822
+2026-08-22 03:45:38 - 181521367 - Result: Successfully redeemed
+2026-08-22 03:45:39 - Processing K1266-181532757 [58/229] for code: KS0822
+2026-08-22 03:45:39 - 181532757 - Result: Successfully redeemed
+2026-08-22 03:45:40 - Processing K1266-181565051 [59/229] for code: KS0822
+2026-08-22 03:45:40 - 181565051 - Result: Successfully redeemed
+2026-08-22 03:45:42 - Processing K1266-181571708 [60/229] for code: KS0822
+2026-08-22 03:45:42 - 181571708 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-08-22 03:45:44 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-22 03:45:48 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-22 03:45:56 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-22 03:46:08 - 181571708 - Result: Redemption request failed
+2026-08-22 03:46:09 - Processing K1266-181614011 [61/229] for code: KS0822
+2026-08-22 03:46:09 - 181614011 - Result: Successfully redeemed
+2026-08-22 03:46:10 - Processing K1266-181630719 [62/229] for code: KS0822
+2026-08-22 03:46:11 - 181630719 - Result: Successfully redeemed
+2026-08-22 03:46:12 - Processing K1266-181646830 [63/229] for code: KS0822
+2026-08-22 03:46:12 - 181646830 - Result: Successfully redeemed
+2026-08-22 03:46:13 - Processing K1266-181663028 [64/229] for code: KS0822
+2026-08-22 03:46:14 - 181663028 - Result: Successfully redeemed
+2026-08-22 03:46:15 - Processing K1266-181669304 [65/229] for code: KS0822
+2026-08-22 03:46:15 - 181669304 - Result: Successfully redeemed
+2026-08-22 03:46:16 - Processing K1266-181696527 [66/229] for code: KS0822
+2026-08-22 03:46:16 - 181696527 - Result: Successfully redeemed
+2026-08-22 03:46:17 - Processing K1266-181734398 [67/229] for code: KS0822
+2026-08-22 03:46:17 - 181734398 - Result: Successfully redeemed
+2026-08-22 03:46:19 - Processing K1266-181761437 [68/229] for code: KS0822
+2026-08-22 03:46:19 - 181761437 - Result: Successfully redeemed
+2026-08-22 03:46:20 - Processing K1266-181778389 [69/229] for code: KS0822
+2026-08-22 03:46:20 - 181778389 - Result: Successfully redeemed
+2026-08-22 03:46:22 - Processing K1266-181793958 [70/229] for code: KS0822
+2026-08-22 03:46:22 - 181793958 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-08-22 03:46:24 - 181793958 - [Attempt 2/3] TIMEOUT RETRY. Retrying...
+2026-08-22 03:46:28 - 181793958 - Result: Successfully redeemed
+2026-08-22 03:46:29 - Processing K1266-181794115 [71/229] for code: KS0822
+2026-08-22 03:46:29 - 181794115 - Result: Successfully redeemed
+2026-08-22 03:46:31 - Processing K1266-181816445 [72/229] for code: KS0822
+2026-08-22 03:46:31 - 181816445 - Result: Successfully redeemed
+2026-08-22 03:46:32 - Processing K1266-181859621 [73/229] for code: KS0822
+2026-08-22 03:46:32 - 181859621 - Result: Successfully redeemed
+2026-08-22 03:46:33 - Processing K1266-181859892 [74/229] for code: KS0822
+2026-08-22 03:46:33 - 181859892 - Result: Successfully redeemed
+2026-08-22 03:46:35 - Processing K1266-181859948 [75/229] for code: KS0822
+2026-08-22 03:46:35 - 181859948 - Result: Successfully redeemed
+2026-08-22 03:46:36 - Processing K1266-181860239 [76/229] for code: KS0822
+2026-08-22 03:46:36 - 181860239 - Result: Successfully redeemed
+2026-08-22 03:46:38 - Processing K1266-181892322 [77/229] for code: KS0822
+2026-08-22 03:46:38 - 181892322 - Result: Successfully redeemed
+2026-08-22 03:46:39 - Processing K1266-181941995 [78/229] for code: KS0822
+2026-08-22 03:46:39 - 181941995 - Result: Successfully redeemed
+2026-08-22 03:46:40 - Processing K1266-181942353 [79/229] for code: KS0822
+2026-08-22 03:46:40 - 181942353 - Result: Successfully redeemed
+2026-08-22 03:46:41 - Processing K1266-181957758 [80/229] for code: KS0822
+2026-08-22 03:46:41 - 181957758 - Result: Successfully redeemed
+2026-08-22 03:46:43 - Processing K1266-181958534 [81/229] for code: KS0822
+2026-08-22 03:46:43 - 181958534 - Result: Successfully redeemed
+2026-08-22 03:46:44 - Processing K1266-182013382 [82/229] for code: KS0822
+2026-08-22 03:46:44 - 182013382 - Result: Successfully redeemed
+2026-08-22 03:46:45 - Processing K1266-182022970 [83/229] for code: KS0822
+2026-08-22 03:46:45 - 182022970 - Result: Successfully redeemed
+2026-08-22 03:46:46 - Processing K1266-182072645 [84/229] for code: KS0822
+2026-08-22 03:46:47 - 182072645 - Result: Successfully redeemed
+2026-08-22 03:46:48 - Processing K1266-182138218 [85/229] for code: KS0822
+2026-08-22 03:46:48 - 182138218 - Result: Successfully redeemed
+2026-08-22 03:46:49 - Processing K1266-182138227 [86/229] for code: KS0822
+2026-08-22 03:46:49 - 182138227 - Result: Successfully redeemed
+2026-08-22 03:46:50 - Processing K1266-182144355 [87/229] for code: KS0822
+2026-08-22 03:46:50 - 182144355 - Result: Successfully redeemed
+2026-08-22 03:46:51 - Processing K1266-182203900 [88/229] for code: KS0822
+2026-08-22 03:46:52 - 182203900 - Result: Successfully redeemed
+2026-08-22 03:46:53 - Processing K1266-182210139 [89/229] for code: KS0822
+2026-08-22 03:46:53 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-22 03:46:57 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-22 03:47:05 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-22 03:47:17 - 182210139 - Result: Redemption request failed
+2026-08-22 03:47:18 - Processing K1266-182275359 [90/229] for code: KS0822
+2026-08-22 03:47:18 - 182275359 - Result: Successfully redeemed
+2026-08-22 03:47:20 - Processing K1266-182286440 [91/229] for code: KS0822
+2026-08-22 03:47:20 - 182286440 - Result: Successfully redeemed
+2026-08-22 03:47:21 - Processing K1266-182302366 [92/229] for code: KS0822
+2026-08-22 03:47:21 - 182302366 - Result: Successfully redeemed
+2026-08-22 03:47:22 - Processing K1266-182318888 [93/229] for code: KS0822
+2026-08-22 03:47:22 - 182318888 - Result: Successfully redeemed
+2026-08-22 03:47:24 - Processing K1266-182318966 [94/229] for code: KS0822
+2026-08-22 03:47:24 - 182318966 - Result: Successfully redeemed
+2026-08-22 03:47:25 - Processing K1266-182318992 [95/229] for code: KS0822
+2026-08-22 03:47:25 - 182318992 - Result: Successfully redeemed
+2026-08-22 03:47:27 - Processing K1266-182334781 [96/229] for code: KS0822
+2026-08-22 03:47:27 - 182334781 - Result: Successfully redeemed
+2026-08-22 03:47:28 - Processing K1266-182384377 [97/229] for code: KS0822
+2026-08-22 03:47:28 - 182384377 - Result: Successfully redeemed
+2026-08-22 03:47:29 - Processing K1266-182417500 [98/229] for code: KS0822
+2026-08-22 03:47:29 - 182417500 - Result: Successfully redeemed
+2026-08-22 03:47:30 - Processing K1266-182419290 [99/229] for code: KS0822
+2026-08-22 03:47:30 - 182419290 - Result: Successfully redeemed
+2026-08-22 03:47:32 - Processing K1266-182449206 [100/229] for code: KS0822
+2026-08-22 03:47:32 - 182449206 - Result: Successfully redeemed
+2026-08-22 03:47:33 - Processing K1266-182466031 [101/229] for code: KS0822
+2026-08-22 03:47:33 - 182466031 - Result: Successfully redeemed
+2026-08-22 03:47:35 - Processing K1266-182466200 [102/229] for code: KS0822
+2026-08-22 03:47:35 - 182466200 - Result: Successfully redeemed
+2026-08-22 03:47:36 - Processing K1266-182488759 [103/229] for code: KS0822
+2026-08-22 03:47:36 - 182488759 - Result: Successfully redeemed
+2026-08-22 03:47:37 - Processing K1266-182498855 [104/229] for code: KS0822
+2026-08-22 03:47:37 - 182498855 - Result: Successfully redeemed
+2026-08-22 03:47:39 - Processing K1266-182531700 [105/229] for code: KS0822
+2026-08-22 03:47:39 - 182531700 - Result: Successfully redeemed
+2026-08-22 03:47:40 - Processing K1266-182646613 [106/229] for code: KS0822
+2026-08-22 03:47:40 - 182646613 - Result: Successfully redeemed
+2026-08-22 03:47:41 - Processing K1266-182668737 [107/229] for code: KS0822
+2026-08-22 03:47:41 - 182668737 - Result: Successfully redeemed
+2026-08-22 03:47:43 - Processing K1266-182717899 [108/229] for code: KS0822
+2026-08-22 03:47:43 - 182717899 - Result: Successfully redeemed
+2026-08-22 03:47:44 - Processing K1266-182767010 [109/229] for code: KS0822
+2026-08-22 03:47:44 - 182767010 - Result: Successfully redeemed
+2026-08-22 03:47:45 - Processing K1266-182810221 [110/229] for code: KS0822
+2026-08-22 03:47:46 - 182810221 - Result: Successfully redeemed
+2026-08-22 03:47:47 - Processing K1266-182858998 [111/229] for code: KS0822
+2026-08-22 03:47:47 - 182858998 - Result: Successfully redeemed
+2026-08-22 03:47:48 - Processing K1266-182859667 [112/229] for code: KS0822
+2026-08-22 03:47:48 - 182859667 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-08-22 03:47:51 - 182859667 - Result: Successfully redeemed
+2026-08-22 03:47:52 - Processing K1266-182892106 [113/229] for code: KS0822
+2026-08-22 03:47:52 - 182892106 - Result: Successfully redeemed
+2026-08-22 03:47:53 - Processing K1266-182892217 [114/229] for code: KS0822
+2026-08-22 03:47:53 - 182892217 - Result: Successfully redeemed
+2026-08-22 03:47:55 - Processing K1266-182898057 [115/229] for code: KS0822
+2026-08-22 03:47:55 - 182898057 - Result: Successfully redeemed
+2026-08-22 03:47:56 - Processing K1266-182908483 [116/229] for code: KS0822
+2026-08-22 03:47:56 - 182908483 - Result: Already redeemed
+2026-08-22 03:47:57 - Processing K1266-182941162 [117/229] for code: KS0822
+2026-08-22 03:47:57 - 182941162 - Result: Successfully redeemed
+2026-08-22 03:47:58 - Processing K1266-182941502 [118/229] for code: KS0822
+2026-08-22 03:47:58 - 182941502 - Result: Successfully redeemed
+2026-08-22 03:48:00 - Processing K1266-183012848 [119/229] for code: KS0822
+2026-08-22 03:48:00 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-22 03:48:04 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-22 03:48:12 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-22 03:48:24 - 183012848 - Result: Redemption request failed
+2026-08-22 03:48:25 - Processing K1266-183028805 [120/229] for code: KS0822
+2026-08-22 03:48:25 - 183028805 - Result: Successfully redeemed
+2026-08-22 03:48:26 - Processing K1266-183029342 [121/229] for code: KS0822
+2026-08-22 03:48:26 - 183029342 - Result: Successfully redeemed
+2026-08-22 03:48:27 - Processing K1266-183072306 [122/229] for code: KS0822
+2026-08-22 03:48:27 - 183072306 - Result: Successfully redeemed
+2026-08-22 03:48:28 - Processing K1266-183072746 [123/229] for code: KS0822
+2026-08-22 03:48:29 - 183072746 - Result: Successfully redeemed
+2026-08-22 03:48:30 - Processing K1266-183072824 [124/229] for code: KS0822
+2026-08-22 03:48:30 - 183072824 - Result: Successfully redeemed
+2026-08-22 03:48:31 - Processing K1266-183089209 [125/229] for code: KS0822
+2026-08-22 03:48:31 - 183089209 - Result: Already redeemed
+2026-08-22 03:48:33 - Processing K1266-183121113 [126/229] for code: KS0822
+2026-08-22 03:48:33 - 183121113 - Result: Successfully redeemed
+2026-08-22 03:48:34 - Processing K1266-183137287 [127/229] for code: KS0822
+2026-08-22 03:48:34 - 183137287 - Result: Successfully redeemed
+2026-08-22 03:48:35 - Processing K1266-183154303 [128/229] for code: KS0822
+2026-08-22 03:48:35 - 183154303 - Result: Successfully redeemed
+2026-08-22 03:48:37 - Processing K1266-183170657 [129/229] for code: KS0822
+2026-08-22 03:48:37 - 183170657 - Result: Successfully redeemed
+2026-08-22 03:48:38 - Processing K1266-183176536 [130/229] for code: KS0822
+2026-08-22 03:48:38 - 183176536 - Result: Successfully redeemed
+2026-08-22 03:48:39 - Processing K1266-183219343 [131/229] for code: KS0822
+2026-08-22 03:48:40 - 183219343 - Result: Successfully redeemed
+2026-08-22 03:48:41 - Processing K1266-183252993 [132/229] for code: KS0822
+2026-08-22 03:48:41 - 183252993 - Result: Successfully redeemed
+2026-08-22 03:48:42 - Processing K1266-183285360 [133/229] for code: KS0822
+2026-08-22 03:48:42 - 183285360 - Result: Successfully redeemed
+2026-08-22 03:48:43 - Processing K1266-183366693 [134/229] for code: KS0822
+2026-08-22 03:48:44 - 183366693 - Result: Successfully redeemed
+2026-08-22 03:48:45 - Processing K1266-183367342 [135/229] for code: KS0822
+2026-08-22 03:48:45 - 183367342 - Result: Successfully redeemed
+2026-08-22 03:48:46 - Processing K1266-183383666 [136/229] for code: KS0822
+2026-08-22 03:48:46 - 183383666 - Result: Successfully redeemed
+2026-08-22 03:48:48 - Processing K1266-183384158 [137/229] for code: KS0822
+2026-08-22 03:48:48 - 183384158 - Result: Successfully redeemed
+2026-08-22 03:48:49 - Processing K1266-183449358 [138/229] for code: KS0822
+2026-08-22 03:48:49 - 183449358 - Result: Successfully redeemed
+2026-08-22 03:48:50 - Processing K1266-183455373 [139/229] for code: KS0822
+2026-08-22 03:48:50 - 183455373 - Result: Successfully redeemed
+2026-08-22 03:48:52 - Processing K1266-183465208 [140/229] for code: KS0822
+2026-08-22 03:48:52 - 183465208 - Result: Successfully redeemed
+2026-08-22 03:48:53 - Processing K1266-183514753 [141/229] for code: KS0822
+2026-08-22 03:48:53 - 183514753 - Result: Successfully redeemed
+2026-08-22 03:48:54 - Processing K1266-183531242 [142/229] for code: KS0822
+2026-08-22 03:48:54 - 183531242 - Result: Successfully redeemed
+2026-08-22 03:48:56 - Processing K1266-183563334 [143/229] for code: KS0822
+2026-08-22 03:48:56 - 183563334 - Result: Successfully redeemed
+2026-08-22 03:48:57 - Processing K1266-183579631 [144/229] for code: KS0822
+2026-08-22 03:48:57 - 183579631 - Result: Successfully redeemed
+2026-08-22 03:48:58 - Processing K1266-183579641 [145/229] for code: KS0822
+2026-08-22 03:48:59 - 183579641 - Result: Successfully redeemed
+2026-08-22 03:49:00 - Processing K1266-183602956 [146/229] for code: KS0822
+2026-08-22 03:49:00 - 183602956 - Result: Successfully redeemed
+2026-08-22 03:49:01 - Processing K1266-183635567 [147/229] for code: KS0822
+2026-08-22 03:49:01 - 183635567 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-08-22 03:49:03 - 183635567 - Result: Successfully redeemed
+2026-08-22 03:49:04 - Processing K1266-183662249 [148/229] for code: KS0822
+2026-08-22 03:49:04 - 183662249 - Result: Successfully redeemed
+2026-08-22 03:49:06 - Processing K1266-183678571 [149/229] for code: KS0822
+2026-08-22 03:49:06 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-22 03:49:10 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-22 03:49:18 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-22 03:49:30 - 183678571 - Result: Redemption request failed
+2026-08-22 03:49:31 - Processing K1266-183744074 [150/229] for code: KS0822
+2026-08-22 03:49:31 - 183744074 - Result: Successfully redeemed
+2026-08-22 03:49:32 - Processing K1266-183760133 [151/229] for code: KS0822
+2026-08-22 03:49:33 - 183760133 - Result: Successfully redeemed
+2026-08-22 03:49:34 - Processing K1266-183776526 [152/229] for code: KS0822
+2026-08-22 03:49:34 - 183776526 - Result: Successfully redeemed
+2026-08-22 03:49:35 - Processing K1266-183792859 [153/229] for code: KS0822
+2026-08-22 03:49:35 - 183792859 - Result: Successfully redeemed
+2026-08-22 03:49:36 - Processing K1266-183793260 [154/229] for code: KS0822
+2026-08-22 03:49:37 - 183793260 - Result: Successfully redeemed
+2026-08-22 03:49:38 - Processing K1266-183799231 [155/229] for code: KS0822
+2026-08-22 03:49:38 - 183799231 - Result: Successfully redeemed
+2026-08-22 03:49:39 - Processing K1266-183809202 [156/229] for code: KS0822
+2026-08-22 03:49:39 - 183809202 - Result: Already redeemed
+2026-08-22 03:49:41 - Processing K1266-183826046 [157/229] for code: KS0822
+2026-08-22 03:49:41 - 183826046 - Result: Successfully redeemed
+2026-08-22 03:49:42 - Processing K1266-183826079 [158/229] for code: KS0822
+2026-08-22 03:49:42 - 183826079 - Result: Successfully redeemed
+2026-08-22 03:49:43 - Processing K1266-183842429 [159/229] for code: KS0822
+2026-08-22 03:49:44 - 183842429 - Result: Successfully redeemed
+2026-08-22 03:49:45 - Processing K1266-183858943 [160/229] for code: KS0822
+2026-08-22 03:49:45 - 183858943 - Result: Successfully redeemed
+2026-08-22 03:49:46 - Processing K1266-183859043 [161/229] for code: KS0822
+2026-08-22 03:49:46 - 183859043 - Result: Successfully redeemed
+2026-08-22 03:49:47 - Processing K1266-183907855 [162/229] for code: KS0822
+2026-08-22 03:49:48 - 183907855 - Result: Successfully redeemed
+2026-08-22 03:49:49 - Processing K1266-183924658 [163/229] for code: KS0822
+2026-08-22 03:49:49 - 183924658 - Result: Successfully redeemed
+2026-08-22 03:49:50 - Processing K1266-183924660 [164/229] for code: KS0822
+2026-08-22 03:49:50 - 183924660 - Result: Successfully redeemed
+2026-08-22 03:49:51 - Processing K1266-183940809 [165/229] for code: KS0822
+2026-08-22 03:49:52 - 183940809 - Result: Already redeemed
+2026-08-22 03:49:53 - Processing K1266-183946385 [166/229] for code: KS0822
+2026-08-22 03:49:53 - 183946385 - Result: Successfully redeemed
+2026-08-22 03:49:54 - Processing K1266-183946804 [167/229] for code: KS0822
+2026-08-22 03:49:54 - 183946804 - Result: Successfully redeemed
+2026-08-22 03:49:56 - Processing K1266-184005794 [168/229] for code: KS0822
+2026-08-22 03:49:56 - 184005794 - Result: Successfully redeemed
+2026-08-22 03:49:57 - Processing K1266-184022781 [169/229] for code: KS0822
+2026-08-22 03:49:57 - 184022781 - Result: Successfully redeemed
+2026-08-22 03:49:58 - Processing K1266-184071743 [170/229] for code: KS0822
+2026-08-22 03:49:58 - 184071743 - Result: Successfully redeemed
+2026-08-22 03:49:59 - Processing K1266-184088377 [171/229] for code: KS0822
+2026-08-22 03:49:59 - 184088377 - Result: Successfully redeemed
+2026-08-22 03:50:01 - Processing K1266-184121399 [172/229] for code: KS0822
+2026-08-22 03:50:01 - 184121399 - Result: Successfully redeemed
+2026-08-22 03:50:02 - Processing K1266-184137674 [173/229] for code: KS0822
+2026-08-22 03:50:03 - 184137674 - Result: Successfully redeemed
+2026-08-22 03:50:04 - Processing K1266-184153916 [174/229] for code: KS0822
+2026-08-22 03:50:04 - 184153916 - Result: Successfully redeemed
+2026-08-22 03:50:05 - Processing K1266-184159552 [175/229] for code: KS0822
+2026-08-22 03:50:06 - 184159552 - Result: Successfully redeemed
+2026-08-22 03:50:07 - Processing K1266-184169916 [176/229] for code: KS0822
+2026-08-22 03:50:07 - 184169916 - Result: Successfully redeemed
+2026-08-22 03:50:08 - Processing K1266-184170263 [177/229] for code: KS0822
+2026-08-22 03:50:08 - 184170263 - Result: Successfully redeemed
+2026-08-22 03:50:09 - Processing K1266-184175883 [178/229] for code: KS0822
+2026-08-22 03:50:09 - 184175883 - Result: Successfully redeemed
+2026-08-22 03:50:11 - Processing K1266-184176072 [179/229] for code: KS0822
+2026-08-22 03:50:11 - 184176072 - Result: Successfully redeemed
+2026-08-22 03:50:12 - Processing K1266-184202442 [180/229] for code: KS0822
+2026-08-22 03:50:12 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-22 03:50:16 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-22 03:50:24 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-22 03:50:36 - 184202442 - Result: Redemption request failed
+2026-08-22 03:50:38 - Processing K1266-184202684 [181/229] for code: KS0822
+2026-08-22 03:50:38 - 184202684 - Result: Successfully redeemed
+2026-08-22 03:50:39 - Processing K1266-184219240 [182/229] for code: KS0822
+2026-08-22 03:50:39 - 184219240 - Result: Successfully redeemed
+2026-08-22 03:50:40 - Processing K1266-184235470 [183/229] for code: KS0822
+2026-08-22 03:50:40 - 184235470 - Result: Successfully redeemed
+2026-08-22 03:50:42 - Processing K1266-184252103 [184/229] for code: KS0822
+2026-08-22 03:50:42 - 184252103 - Result: Successfully redeemed
+2026-08-22 03:50:43 - Processing K1266-184257548 [185/229] for code: KS0822
+2026-08-22 03:50:43 - 184257548 - Result: Successfully redeemed
+2026-08-22 03:50:45 - Processing K1266-184268332 [186/229] for code: KS0822
+2026-08-22 03:50:45 - 184268332 - Result: Already redeemed
+2026-08-22 03:50:46 - Processing K1266-184285099 [187/229] for code: KS0822
+2026-08-22 03:50:46 - 184285099 - Result: Successfully redeemed
+2026-08-22 03:50:48 - Processing K1266-184300583 [188/229] for code: KS0822
+2026-08-22 03:50:48 - 184300583 - Result: Successfully redeemed
+2026-08-22 03:50:49 - Processing K1266-184323165 [189/229] for code: KS0822
+2026-08-22 03:50:49 - 184323165 - Result: Successfully redeemed
+2026-08-22 03:50:50 - Processing K1266-184334326 [190/229] for code: KS0822
+2026-08-22 03:50:50 - 184334326 - Result: Successfully redeemed
+2026-08-22 03:50:52 - Processing K1266-184355782 [191/229] for code: KS0822
+2026-08-22 03:50:52 - 184355782 - Result: Successfully redeemed
+2026-08-22 03:50:53 - Processing K1266-184366892 [192/229] for code: KS0822
+2026-08-22 03:50:53 - 184366892 - Result: Successfully redeemed
+2026-08-22 03:50:54 - Processing K1266-184382529 [193/229] for code: KS0822
+2026-08-22 03:50:54 - 184382529 - Result: Successfully redeemed
+2026-08-22 03:50:56 - Processing K1266-184398957 [194/229] for code: KS0822
+2026-08-22 03:50:56 - 184398957 - Result: Successfully redeemed
+2026-08-22 03:50:57 - Processing K1266-184481446 [195/229] for code: KS0822
+2026-08-22 03:50:57 - 184481446 - Result: Successfully redeemed
+2026-08-22 03:50:58 - Processing K1266-184546387 [196/229] for code: KS0822
+2026-08-22 03:50:58 - 184546387 - Result: Successfully redeemed
+2026-08-22 03:51:00 - Processing K1266-184925419 [197/229] for code: KS0822
+2026-08-22 03:51:00 - 184925419 - Result: Successfully redeemed
+2026-08-22 03:51:01 - Processing K1266-185480245 [198/229] for code: KS0822
+2026-08-22 03:51:01 - 185480245 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-08-22 03:51:03 - 185480245 - Result: Successfully redeemed
+2026-08-22 03:51:05 - Processing K1266-187102768 [199/229] for code: KS0822
+2026-08-22 03:51:05 - 187102768 - Result: Successfully redeemed
+2026-08-22 03:51:06 - Processing K1266-188087741 [200/229] for code: KS0822
+2026-08-22 03:51:06 - 188087741 - Result: Successfully redeemed
+2026-08-22 03:51:08 - Processing K1266-188470196 [201/229] for code: KS0822
+2026-08-22 03:51:08 - 188470196 - Result: Successfully redeemed
+2026-08-22 03:51:09 - Processing K1266-188862376 [202/229] for code: KS0822
+2026-08-22 03:51:09 - 188862376 - Result: Successfully redeemed
+2026-08-22 03:51:10 - Processing K1266-189063297 [203/229] for code: KS0822
+2026-08-22 03:51:10 - 189063297 - Result: Successfully redeemed
+2026-08-22 03:51:12 - Processing K1266-190234418 [204/229] for code: KS0822
+2026-08-22 03:51:12 - 190234418 - Result: Successfully redeemed
+2026-08-22 03:51:13 - Processing K1266-190553232 [205/229] for code: KS0822
+2026-08-22 03:51:13 - 190553232 - Result: Successfully redeemed
+2026-08-22 03:51:15 - Processing K1266-190573918 [206/229] for code: KS0822
+2026-08-22 03:51:15 - 190573918 - Result: Successfully redeemed
+2026-08-22 03:51:16 - Processing K1266-193365290 [207/229] for code: KS0822
+2026-08-22 03:51:16 - 193365290 - Result: Successfully redeemed
+2026-08-22 03:51:18 - Processing K1266-194962807 [208/229] for code: KS0822
+2026-08-22 03:51:18 - 194962807 - Result: Successfully redeemed
+2026-08-22 03:51:19 - Processing K1266-195609436 [209/229] for code: KS0822
+2026-08-22 03:51:19 - 195609436 - Result: Successfully redeemed
+2026-08-22 03:51:21 - Processing K1266-195708034 [210/229] for code: KS0822
+2026-08-22 03:51:21 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-22 03:51:25 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-22 03:51:33 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-22 03:51:45 - 195708034 - Result: Redemption request failed
+2026-08-22 03:51:46 - Processing K1266-197748881 [211/229] for code: KS0822
+2026-08-22 03:51:46 - 197748881 - Result: Successfully redeemed
+2026-08-22 03:51:47 - Processing K1266-198971997 [212/229] for code: KS0822
+2026-08-22 03:51:48 - 198971997 - Result: Successfully redeemed
+2026-08-22 03:51:49 - Processing K1266-199087822 [213/229] for code: KS0822
+2026-08-22 03:51:49 - 199087822 - Result: Successfully redeemed
+2026-08-22 03:51:50 - Processing K1266-199766078 [214/229] for code: KS0822
+2026-08-22 03:51:50 - 199766078 - Result: Successfully redeemed
+2026-08-22 03:51:51 - Processing K1266-202789741 [215/229] for code: KS0822
+2026-08-22 03:51:52 - 202789741 - Result: Successfully redeemed
+2026-08-22 03:51:53 - Processing K1266-214289119 [216/229] for code: KS0822
+2026-08-22 03:51:53 - 214289119 - Result: Already redeemed
+2026-08-22 03:51:54 - Processing K1266-216820126 [217/229] for code: KS0822
+2026-08-22 03:51:54 - 216820126 - Result: Successfully redeemed
+2026-08-22 03:51:55 - Processing K1266-219382121 [218/229] for code: KS0822
+2026-08-22 03:51:55 - 219382121 - Result: Successfully redeemed
+2026-08-22 03:51:56 - Processing K1266-221299698 [219/229] for code: KS0822
+2026-08-22 03:51:56 - 221299698 - Result: Successfully redeemed
+2026-08-22 03:51:58 - Processing K1266-239065229 [220/229] for code: KS0822
+2026-08-22 03:51:58 - 239065229 - Result: Successfully redeemed
+2026-08-22 03:51:59 - Processing K1266-247760465 [221/229] for code: KS0822
+2026-08-22 03:51:59 - 247760465 - Result: Successfully redeemed
+2026-08-22 03:52:01 - Processing K1266-257078077 [222/229] for code: KS0822
+2026-08-22 03:52:01 - 257078077 - Result: Successfully redeemed
+2026-08-22 03:52:02 - Processing K1266-270896390 [223/229] for code: KS0822
+2026-08-22 03:52:02 - 270896390 - Result: Successfully redeemed
+2026-08-22 03:52:04 - Processing K1266-278604391 [224/229] for code: KS0822
+2026-08-22 03:52:04 - 278604391 - Result: Successfully redeemed
+2026-08-22 03:52:05 - Processing K1266-302154974 [225/229] for code: KS0822
+2026-08-22 03:52:05 - 302154974 - Result: Successfully redeemed
+2026-08-22 03:52:06 - Processing K1266-377584801 [226/229] for code: KS0822
+2026-08-22 03:52:07 - 377584801 - Result: Successfully redeemed
+2026-08-22 03:52:08 - Processing K1266-378005527 [227/229] for code: KS0822
+2026-08-22 03:52:08 - 378005527 - Result: Successfully redeemed
+2026-08-22 03:52:09 - Processing K1266-378518775 [228/229] for code: KS0822
+2026-08-22 03:52:09 - 378518775 - Result: Successfully redeemed
+2026-08-22 03:52:10 - Processing K1266-381967745 [229/229] for code: KS0822
+2026-08-22 03:52:10 - 381967745 - Result: Successfully redeemed
+2026-08-22 03:52:12 - --- Cycle finished. Total processed: 229/229 ---
+2026-08-22 03:52:12 - 
+========================= Redemption Summary =========================
+2026-08-22 03:52:12 - Code Redeemed: KS0822
+2026-08-22 03:52:12 - Total Unique Player IDs Found: 229
+2026-08-22 03:52:12 - Total Player IDs Processed: 229
+2026-08-22 03:52:12 - Successfully redeemed: 213
+2026-08-22 03:52:12 - Already redeemed: 9
+2026-08-22 03:52:12 - Wrong kingdom: 0
+2026-08-22 03:52:12 - Other Errors/Failures: 7
+2026-08-22 03:52:12 - Rate Limit Events: 0
+2026-08-22 03:52:12 - Total execution time: 0:08:14
+2026-08-22 03:52:12 - ======================================================================
+2026-08-22 03:52:12 - Marked 'KS0822' as known.
+
+2026-08-22 03:52:12 - 
+=== Starting redemption for gift code: VIP0822 ===
+2026-08-22 03:52:12 - Read 231 player IDs from lod.csv (encoding: utf-8-sig, 231 with a kingdom)
+2026-08-22 03:52:12 - Removed 2 duplicate entries.
+2026-08-22 03:52:12 - Total unique player IDs to process: 229
+2026-08-22 03:52:12 - 
+--- Starting processing cycle. Ready player IDs: 229 ---
+2026-08-22 03:52:12 - Processing K1266-112607487 [1/229] for code: VIP0822
+2026-08-22 03:52:12 - 112607487 - Result: Requires in-game purchase
+2026-08-22 03:52:13 - Processing K1266-114993837 [2/229] for code: VIP0822
+2026-08-22 03:52:13 - 114993837 - Result: Requires in-game purchase
+2026-08-22 03:52:14 - Processing K1266-134948830 [3/229] for code: VIP0822
+2026-08-22 03:52:14 - 134948830 - Result: Requires in-game purchase
+2026-08-22 03:52:16 - Processing K1266-137354109 [4/229] for code: VIP0822
+2026-08-22 03:52:16 - 137354109 - Result: Requires in-game purchase
+2026-08-22 03:52:17 - Processing K1266-137881550 [5/229] for code: VIP0822
+2026-08-22 03:52:17 - 137881550 - Result: Requires in-game purchase
+2026-08-22 03:52:18 - Processing K1266-138078147 [6/229] for code: VIP0822
+2026-08-22 03:52:19 - 138078147 - Result: Requires in-game purchase
+2026-08-22 03:52:20 - Processing K1266-139819795 [7/229] for code: VIP0822
+2026-08-22 03:52:20 - 139819795 - Result: Requires in-game purchase
+2026-08-22 03:52:21 - Processing K1266-156477789 [8/229] for code: VIP0822
+2026-08-22 03:52:21 - 156477789 - Result: Requires in-game purchase
+2026-08-22 03:52:22 - Processing K1266-162070715 [9/229] for code: VIP0822
+2026-08-22 03:52:22 - 162070715 - Result: Requires in-game purchase
+2026-08-22 03:52:24 - Processing K1266-172135597 [10/229] for code: VIP0822
+2026-08-22 03:52:24 - 172135597 - Result: Requires in-game purchase
+2026-08-22 03:52:25 - Processing K1266-176622413 [11/229] for code: VIP0822
+2026-08-22 03:52:25 - 176622413 - Result: Requires in-game purchase
+2026-08-22 03:52:26 - Processing K1266-176730452 [12/229] for code: VIP0822
+2026-08-22 03:52:26 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-22 03:52:30 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-22 03:52:38 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-22 03:52:50 - 176730452 - Result: Redemption request failed
+2026-08-22 03:52:51 - Processing K1266-177978644 [13/229] for code: VIP0822
+2026-08-22 03:52:52 - 177978644 - Result: Requires in-game purchase
+2026-08-22 03:52:53 - Processing K1266-178188212 [14/229] for code: VIP0822
+2026-08-22 03:52:53 - 178188212 - Result: Requires in-game purchase
+2026-08-22 03:52:54 - Processing K1266-179107716 [15/229] for code: VIP0822
+2026-08-22 03:52:54 - 179107716 - Result: Requires in-game purchase
+2026-08-22 03:52:55 - Processing K1266-180368647 [16/229] for code: VIP0822
+2026-08-22 03:52:55 - 180368647 - Result: Requires in-game purchase
+2026-08-22 03:52:56 - Processing K1266-180369109 [17/229] for code: VIP0822
+2026-08-22 03:52:56 - 180369109 - Result: Requires in-game purchase
+2026-08-22 03:52:58 - Processing K1266-180369142 [18/229] for code: VIP0822
+2026-08-22 03:52:58 - 180369142 - Result: Requires in-game purchase
+2026-08-22 03:52:59 - Processing K1266-180369159 [19/229] for code: VIP0822
+2026-08-22 03:52:59 - 180369159 - Result: Requires in-game purchase
+2026-08-22 03:53:01 - Processing K1266-180385375 [20/229] for code: VIP0822
+2026-08-22 03:53:01 - 180385375 - Result: Requires in-game purchase
+2026-08-22 03:53:02 - Processing K1266-180385792 [21/229] for code: VIP0822
+2026-08-22 03:53:02 - 180385792 - Result: Already redeemed
+2026-08-22 03:53:03 - Processing K1266-180418498 [22/229] for code: VIP0822
+2026-08-22 03:53:03 - 180418498 - Result: Requires in-game purchase
+2026-08-22 03:53:04 - Processing K1266-180434357 [23/229] for code: VIP0822
+2026-08-22 03:53:04 - 180434357 - Result: Requires in-game purchase
+2026-08-22 03:53:06 - Processing K1266-180483302 [24/229] for code: VIP0822
+2026-08-22 03:53:06 - 180483302 - Result: Requires in-game purchase
+2026-08-22 03:53:07 - Processing K1266-180565782 [25/229] for code: VIP0822
+2026-08-22 03:53:07 - 180565782 - Result: Requires in-game purchase
+2026-08-22 03:53:08 - Processing K1266-180614319 [26/229] for code: VIP0822
+2026-08-22 03:53:08 - 180614319 - Result: Requires in-game purchase
+2026-08-22 03:53:09 - Processing K1266-180636958 [27/229] for code: VIP0822
+2026-08-22 03:53:09 - 180636958 - Result: Requires in-game purchase
+2026-08-22 03:53:10 - Processing K1266-180669914 [28/229] for code: VIP0822
+2026-08-22 03:53:10 - 180669914 - Result: Requires in-game purchase
+2026-08-22 03:53:12 - Processing K1266-180696652 [29/229] for code: VIP0822
+2026-08-22 03:53:12 - 180696652 - Result: Requires in-game purchase
+2026-08-22 03:53:13 - Processing K1266-180729920 [30/229] for code: VIP0822
+2026-08-22 03:53:13 - 180729920 - Result: Requires in-game purchase
+2026-08-22 03:53:14 - Processing K1266-180778760 [31/229] for code: VIP0822
+2026-08-22 03:53:14 - 180778760 - Result: Requires in-game purchase
+2026-08-22 03:53:16 - Processing K1266-180827986 [32/229] for code: VIP0822
+2026-08-22 03:53:16 - 180827986 - Result: Requires in-game purchase
+2026-08-22 03:53:17 - Processing K1266-180893335 [33/229] for code: VIP0822
+2026-08-22 03:53:17 - 180893335 - Result: Requires in-game purchase
+2026-08-22 03:53:18 - Processing K1266-180893684 [34/229] for code: VIP0822
+2026-08-22 03:53:18 - 180893684 - Result: Requires in-game purchase
+2026-08-22 03:53:19 - Processing K1266-180893765 [35/229] for code: VIP0822
+2026-08-22 03:53:20 - 180893765 - Result: Requires in-game purchase
+2026-08-22 03:53:21 - Processing K1266-180959009 [36/229] for code: VIP0822
+2026-08-22 03:53:21 - 180959009 - Result: Requires in-game purchase
+2026-08-22 03:53:22 - Processing K1266-181073393 [37/229] for code: VIP0822
+2026-08-22 03:53:22 - 181073393 - Result: Requires in-game purchase
+2026-08-22 03:53:23 - Processing K1266-181106609 [38/229] for code: VIP0822
+2026-08-22 03:53:23 - 181106609 - Result: Requires in-game purchase
+2026-08-22 03:53:25 - Processing K1266-181122260 [39/229] for code: VIP0822
+2026-08-22 03:53:25 - 181122260 - Result: Requires in-game purchase
+2026-08-22 03:53:26 - Processing K1266-181155772 [40/229] for code: VIP0822
+2026-08-22 03:53:26 - 181155772 - Result: Requires in-game purchase
+2026-08-22 03:53:27 - Processing K1266-181171461 [41/229] for code: VIP0822
+2026-08-22 03:53:27 - 181171461 - Result: Requires in-game purchase
+2026-08-22 03:53:29 - Processing K1266-181286832 [42/229] for code: VIP0822
+2026-08-22 03:53:29 - 181286832 - Result: Requires in-game purchase
+2026-08-22 03:53:30 - Processing K1266-181340930 [43/229] for code: VIP0822
+2026-08-22 03:53:30 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-22 03:53:34 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-22 03:53:42 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-22 03:53:54 - 181340930 - Result: Redemption request failed
+2026-08-22 03:53:56 - Processing K1266-181341522 [44/229] for code: VIP0822
+2026-08-22 03:53:56 - 181341522 - Result: Requires in-game purchase
+2026-08-22 03:53:57 - Processing K1266-181351852 [45/229] for code: VIP0822
+2026-08-22 03:53:57 - 181351852 - Result: Requires in-game purchase
+2026-08-22 03:53:59 - Processing K1266-181358276 [46/229] for code: VIP0822
+2026-08-22 03:53:59 - 181358276 - Result: Requires in-game purchase
+2026-08-22 03:54:00 - Processing K1266-181374419 [47/229] for code: VIP0822
+2026-08-22 03:54:00 - 181374419 - Result: Requires in-game purchase
+2026-08-22 03:54:01 - Processing K1266-181384836 [48/229] for code: VIP0822
+2026-08-22 03:54:01 - 181384836 - Result: Requires in-game purchase
+2026-08-22 03:54:03 - Processing K1266-181385198 [49/229] for code: VIP0822
+2026-08-22 03:54:03 - 181385198 - Result: Already redeemed
+2026-08-22 03:54:04 - Processing K1266-181401589 [50/229] for code: VIP0822
+2026-08-22 03:54:04 - 181401589 - Result: Requires in-game purchase
+2026-08-22 03:54:05 - Processing K1266-181407057 [51/229] for code: VIP0822
+2026-08-22 03:54:05 - 181407057 - Result: Requires in-game purchase
+2026-08-22 03:54:06 - Processing K1266-181423528 [52/229] for code: VIP0822
+2026-08-22 03:54:06 - 181423528 - Result: Requires in-game purchase
+2026-08-22 03:54:07 - Processing K1266-181440017 [53/229] for code: VIP0822
+2026-08-22 03:54:08 - 181440017 - Result: Requires in-game purchase
+2026-08-22 03:54:09 - Processing K1266-181466821 [54/229] for code: VIP0822
+2026-08-22 03:54:09 - 181466821 - Result: Requires in-game purchase
+2026-08-22 03:54:10 - Processing K1266-181515253 [55/229] for code: VIP0822
+2026-08-22 03:54:10 - 181515253 - Result: Requires in-game purchase
+2026-08-22 03:54:11 - Processing K1266-181516264 [56/229] for code: VIP0822
+2026-08-22 03:54:11 - 181516264 - Result: Requires in-game purchase
+2026-08-22 03:54:13 - Processing K1266-181521367 [57/229] for code: VIP0822
+2026-08-22 03:54:13 - 181521367 - Result: Requires in-game purchase
+2026-08-22 03:54:14 - Processing K1266-181532757 [58/229] for code: VIP0822
+2026-08-22 03:54:14 - 181532757 - Result: Requires in-game purchase
+2026-08-22 03:54:15 - Processing K1266-181565051 [59/229] for code: VIP0822
+2026-08-22 03:54:15 - 181565051 - Result: Requires in-game purchase
+2026-08-22 03:54:17 - Processing K1266-181571708 [60/229] for code: VIP0822
+2026-08-22 03:54:17 - 181571708 - Result: Requires in-game purchase
+2026-08-22 03:54:18 - Processing K1266-181614011 [61/229] for code: VIP0822
+2026-08-22 03:54:18 - 181614011 - Result: Requires in-game purchase
+2026-08-22 03:54:19 - Processing K1266-181630719 [62/229] for code: VIP0822
+2026-08-22 03:54:19 - 181630719 - Result: Requires in-game purchase
+2026-08-22 03:54:21 - Processing K1266-181646830 [63/229] for code: VIP0822
+2026-08-22 03:54:21 - 181646830 - Result: Requires in-game purchase
+2026-08-22 03:54:22 - Processing K1266-181663028 [64/229] for code: VIP0822
+2026-08-22 03:54:22 - 181663028 - Result: Requires in-game purchase
+2026-08-22 03:54:24 - Processing K1266-181669304 [65/229] for code: VIP0822
+2026-08-22 03:54:24 - 181669304 - Result: Requires in-game purchase
+2026-08-22 03:54:25 - Processing K1266-181696527 [66/229] for code: VIP0822
+2026-08-22 03:54:25 - 181696527 - Result: Requires in-game purchase
+2026-08-22 03:54:26 - Processing K1266-181734398 [67/229] for code: VIP0822
+2026-08-22 03:54:26 - 181734398 - Result: Requires in-game purchase
+2026-08-22 03:54:28 - Processing K1266-181761437 [68/229] for code: VIP0822
+2026-08-22 03:54:28 - 181761437 - Result: Requires in-game purchase
+2026-08-22 03:54:29 - Processing K1266-181778389 [69/229] for code: VIP0822
+2026-08-22 03:54:29 - 181778389 - Result: Requires in-game purchase
+2026-08-22 03:54:30 - Processing K1266-181793958 [70/229] for code: VIP0822
+2026-08-22 03:54:30 - 181793958 - Result: Requires in-game purchase
+2026-08-22 03:54:32 - Processing K1266-181794115 [71/229] for code: VIP0822
+2026-08-22 03:54:32 - 181794115 - Result: Requires in-game purchase
+2026-08-22 03:54:33 - Processing K1266-181816445 [72/229] for code: VIP0822
+2026-08-22 03:54:33 - 181816445 - Result: Requires in-game purchase
+2026-08-22 03:54:35 - Processing K1266-181859621 [73/229] for code: VIP0822
+2026-08-22 03:54:35 - 181859621 - Result: Requires in-game purchase
+2026-08-22 03:54:36 - Processing K1266-181859892 [74/229] for code: VIP0822
+2026-08-22 03:54:36 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-22 03:54:40 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-22 03:54:48 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-22 03:55:00 - 181859892 - Result: Redemption request failed
+2026-08-22 03:55:01 - Processing K1266-181859948 [75/229] for code: VIP0822
+2026-08-22 03:55:01 - 181859948 - Result: Requires in-game purchase
+2026-08-22 03:55:03 - Processing K1266-181860239 [76/229] for code: VIP0822
+2026-08-22 03:55:03 - 181860239 - Result: Requires in-game purchase
+2026-08-22 03:55:04 - Processing K1266-181892322 [77/229] for code: VIP0822
+2026-08-22 03:55:04 - 181892322 - Result: Requires in-game purchase
+2026-08-22 03:55:05 - Processing K1266-181941995 [78/229] for code: VIP0822
+2026-08-22 03:55:06 - 181941995 - Result: Requires in-game purchase
+2026-08-22 03:55:07 - Processing K1266-181942353 [79/229] for code: VIP0822
+2026-08-22 03:55:07 - 181942353 - Result: Requires in-game purchase
+2026-08-22 03:55:08 - Processing K1266-181957758 [80/229] for code: VIP0822
+2026-08-22 03:55:08 - 181957758 - Result: Requires in-game purchase
+2026-08-22 03:55:10 - Processing K1266-181958534 [81/229] for code: VIP0822
+2026-08-22 03:55:10 - 181958534 - Result: Requires in-game purchase
+2026-08-22 03:55:11 - Processing K1266-182013382 [82/229] for code: VIP0822
+2026-08-22 03:55:11 - 182013382 - Result: Requires in-game purchase
+2026-08-22 03:55:12 - Processing K1266-182022970 [83/229] for code: VIP0822
+2026-08-22 03:55:12 - 182022970 - Result: Requires in-game purchase
+2026-08-22 03:55:13 - Processing K1266-182072645 [84/229] for code: VIP0822
+2026-08-22 03:55:13 - 182072645 - Result: Requires in-game purchase
+2026-08-22 03:55:15 - Processing K1266-182138218 [85/229] for code: VIP0822
+2026-08-22 03:55:15 - 182138218 - Result: Requires in-game purchase
+2026-08-22 03:55:16 - Processing K1266-182138227 [86/229] for code: VIP0822
+2026-08-22 03:55:16 - 182138227 - Result: Requires in-game purchase
+2026-08-22 03:55:17 - Processing K1266-182144355 [87/229] for code: VIP0822
+2026-08-22 03:55:17 - 182144355 - Result: Requires in-game purchase
+2026-08-22 03:55:19 - Processing K1266-182203900 [88/229] for code: VIP0822
+2026-08-22 03:55:19 - 182203900 - Result: Requires in-game purchase
+2026-08-22 03:55:20 - Processing K1266-182210139 [89/229] for code: VIP0822
+2026-08-22 03:55:20 - 182210139 - Result: Requires in-game purchase
+2026-08-22 03:55:21 - Processing K1266-182275359 [90/229] for code: VIP0822
+2026-08-22 03:55:21 - 182275359 - Result: Requires in-game purchase
+2026-08-22 03:55:23 - Processing K1266-182286440 [91/229] for code: VIP0822
+2026-08-22 03:55:23 - 182286440 - Result: Requires in-game purchase
+2026-08-22 03:55:24 - Processing K1266-182302366 [92/229] for code: VIP0822
+2026-08-22 03:55:24 - 182302366 - Result: Requires in-game purchase
+2026-08-22 03:55:25 - Processing K1266-182318888 [93/229] for code: VIP0822
+2026-08-22 03:55:25 - 182318888 - Result: Requires in-game purchase
+2026-08-22 03:55:27 - Processing K1266-182318966 [94/229] for code: VIP0822
+2026-08-22 03:55:27 - 182318966 - Result: Requires in-game purchase
+2026-08-22 03:55:28 - Processing K1266-182318992 [95/229] for code: VIP0822
+2026-08-22 03:55:28 - 182318992 - Result: Requires in-game purchase
+2026-08-22 03:55:29 - Processing K1266-182334781 [96/229] for code: VIP0822
+2026-08-22 03:55:29 - 182334781 - Result: Requires in-game purchase
+2026-08-22 03:55:31 - Processing K1266-182384377 [97/229] for code: VIP0822
+2026-08-22 03:55:31 - 182384377 - Result: Requires in-game purchase
+2026-08-22 03:55:32 - Processing K1266-182417500 [98/229] for code: VIP0822
+2026-08-22 03:55:32 - 182417500 - Result: Requires in-game purchase
+2026-08-22 03:55:33 - Processing K1266-182419290 [99/229] for code: VIP0822
+2026-08-22 03:55:33 - 182419290 - Result: Requires in-game purchase
+2026-08-22 03:55:35 - Processing K1266-182449206 [100/229] for code: VIP0822
+2026-08-22 03:55:35 - 182449206 - Result: Requires in-game purchase
+2026-08-22 03:55:36 - Processing K1266-182466031 [101/229] for code: VIP0822
+2026-08-22 03:55:36 - 182466031 - Result: Requires in-game purchase
+2026-08-22 03:55:37 - Processing K1266-182466200 [102/229] for code: VIP0822
+2026-08-22 03:55:37 - 182466200 - Result: Requires in-game purchase
+2026-08-22 03:55:38 - Processing K1266-182488759 [103/229] for code: VIP0822
+2026-08-22 03:55:38 - 182488759 - Result: Requires in-game purchase
+2026-08-22 03:55:40 - Processing K1266-182498855 [104/229] for code: VIP0822
+2026-08-22 03:55:40 - 182498855 - Result: Requires in-game purchase
+2026-08-22 03:55:41 - Processing K1266-182531700 [105/229] for code: VIP0822
+2026-08-22 03:55:41 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-22 03:55:45 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-22 03:55:53 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-22 03:56:05 - 182531700 - Result: Redemption request failed
+2026-08-22 03:56:07 - Processing K1266-182646613 [106/229] for code: VIP0822
+2026-08-22 03:56:07 - 182646613 - Result: Successfully redeemed
+2026-08-22 03:56:08 - Processing K1266-182668737 [107/229] for code: VIP0822
+2026-08-22 03:56:08 - 182668737 - Result: Requires in-game purchase
+2026-08-22 03:56:09 - Processing K1266-182717899 [108/229] for code: VIP0822
+2026-08-22 03:56:10 - 182717899 - Result: Requires in-game purchase
+2026-08-22 03:56:11 - Processing K1266-182767010 [109/229] for code: VIP0822
+2026-08-22 03:56:11 - 182767010 - Result: Requires in-game purchase
+2026-08-22 03:56:12 - Processing K1266-182810221 [110/229] for code: VIP0822
+2026-08-22 03:56:12 - 182810221 - Result: Requires in-game purchase
+2026-08-22 03:56:13 - Processing K1266-182858998 [111/229] for code: VIP0822
+2026-08-22 03:56:14 - 182858998 - Result: Requires in-game purchase
+2026-08-22 03:56:15 - Processing K1266-182859667 [112/229] for code: VIP0822
+2026-08-22 03:56:15 - 182859667 - Result: Requires in-game purchase
+2026-08-22 03:56:16 - Processing K1266-182892106 [113/229] for code: VIP0822
+2026-08-22 03:56:16 - 182892106 - Result: Requires in-game purchase
+2026-08-22 03:56:17 - Processing K1266-182892217 [114/229] for code: VIP0822
+2026-08-22 03:56:17 - 182892217 - Result: Requires in-game purchase
+2026-08-22 03:56:18 - Processing K1266-182898057 [115/229] for code: VIP0822
+2026-08-22 03:56:19 - 182898057 - Result: Requires in-game purchase
+2026-08-22 03:56:20 - Processing K1266-182908483 [116/229] for code: VIP0822
+2026-08-22 03:56:20 - 182908483 - Result: Requires in-game purchase
+2026-08-22 03:56:21 - Processing K1266-182941162 [117/229] for code: VIP0822
+2026-08-22 03:56:21 - 182941162 - Result: Requires in-game purchase
+2026-08-22 03:56:23 - Processing K1266-182941502 [118/229] for code: VIP0822
+2026-08-22 03:56:23 - 182941502 - Result: Requires in-game purchase
+2026-08-22 03:56:24 - Processing K1266-183012848 [119/229] for code: VIP0822
+2026-08-22 03:56:24 - 183012848 - Result: Requires in-game purchase
+2026-08-22 03:56:25 - Processing K1266-183028805 [120/229] for code: VIP0822
+2026-08-22 03:56:25 - 183028805 - Result: Requires in-game purchase
+2026-08-22 03:56:27 - Processing K1266-183029342 [121/229] for code: VIP0822
+2026-08-22 03:56:27 - 183029342 - Result: Requires in-game purchase
+2026-08-22 03:56:28 - Processing K1266-183072306 [122/229] for code: VIP0822
+2026-08-22 03:56:28 - 183072306 - Result: Requires in-game purchase
+2026-08-22 03:56:29 - Processing K1266-183072746 [123/229] for code: VIP0822
+2026-08-22 03:56:30 - 183072746 - Result: Requires in-game purchase
+2026-08-22 03:56:31 - Processing K1266-183072824 [124/229] for code: VIP0822
+2026-08-22 03:56:31 - 183072824 - Result: Requires in-game purchase
+2026-08-22 03:56:32 - Processing K1266-183089209 [125/229] for code: VIP0822
+2026-08-22 03:56:32 - 183089209 - Result: Requires in-game purchase
+2026-08-22 03:56:33 - Processing K1266-183121113 [126/229] for code: VIP0822
+2026-08-22 03:56:33 - 183121113 - Result: Requires in-game purchase
+2026-08-22 03:56:34 - Processing K1266-183137287 [127/229] for code: VIP0822
+2026-08-22 03:56:35 - 183137287 - Result: Requires in-game purchase
+2026-08-22 03:56:36 - Processing K1266-183154303 [128/229] for code: VIP0822
+2026-08-22 03:56:36 - 183154303 - Result: Requires in-game purchase
+2026-08-22 03:56:37 - Processing K1266-183170657 [129/229] for code: VIP0822
+2026-08-22 03:56:38 - 183170657 - Result: Requires in-game purchase
+2026-08-22 03:56:39 - Processing K1266-183176536 [130/229] for code: VIP0822
+2026-08-22 03:56:39 - 183176536 - Result: Requires in-game purchase
+2026-08-22 03:56:40 - Processing K1266-183219343 [131/229] for code: VIP0822
+2026-08-22 03:56:40 - 183219343 - Result: Requires in-game purchase
+2026-08-22 03:56:41 - Processing K1266-183252993 [132/229] for code: VIP0822
+2026-08-22 03:56:41 - 183252993 - Result: Requires in-game purchase
+2026-08-22 03:56:42 - Processing K1266-183285360 [133/229] for code: VIP0822
+2026-08-22 03:56:43 - 183285360 - Result: Requires in-game purchase
+2026-08-22 03:56:44 - Processing K1266-183366693 [134/229] for code: VIP0822
+2026-08-22 03:56:44 - 183366693 - Result: Requires in-game purchase
+2026-08-22 03:56:45 - Processing K1266-183367342 [135/229] for code: VIP0822
+2026-08-22 03:56:45 - 183367342 - Result: Requires in-game purchase
+2026-08-22 03:56:46 - Processing K1266-183383666 [136/229] for code: VIP0822
+2026-08-22 03:56:47 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-22 03:56:51 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-22 03:56:59 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-22 03:57:11 - 183383666 - Result: Redemption request failed
+2026-08-22 03:57:12 - Processing K1266-183384158 [137/229] for code: VIP0822
+2026-08-22 03:57:12 - 183384158 - Result: Requires in-game purchase
+2026-08-22 03:57:14 - Processing K1266-183449358 [138/229] for code: VIP0822
+2026-08-22 03:57:14 - 183449358 - Result: Requires in-game purchase
+2026-08-22 03:57:15 - Processing K1266-183455373 [139/229] for code: VIP0822
+2026-08-22 03:57:15 - 183455373 - Result: Requires in-game purchase
+2026-08-22 03:57:16 - Processing K1266-183465208 [140/229] for code: VIP0822
+2026-08-22 03:57:16 - 183465208 - Result: Requires in-game purchase
+2026-08-22 03:57:18 - Processing K1266-183514753 [141/229] for code: VIP0822
+2026-08-22 03:57:18 - 183514753 - Result: Requires in-game purchase
+2026-08-22 03:57:19 - Processing K1266-183531242 [142/229] for code: VIP0822
+2026-08-22 03:57:19 - 183531242 - Result: Requires in-game purchase
+2026-08-22 03:57:20 - Processing K1266-183563334 [143/229] for code: VIP0822
+2026-08-22 03:57:20 - 183563334 - Result: Requires in-game purchase
+2026-08-22 03:57:22 - Processing K1266-183579631 [144/229] for code: VIP0822
+2026-08-22 03:57:22 - 183579631 - Result: Requires in-game purchase
+2026-08-22 03:57:23 - Processing K1266-183579641 [145/229] for code: VIP0822
+2026-08-22 03:57:23 - 183579641 - Result: Requires in-game purchase
+2026-08-22 03:57:24 - Processing K1266-183602956 [146/229] for code: VIP0822
+2026-08-22 03:57:24 - 183602956 - Result: Requires in-game purchase
+2026-08-22 03:57:26 - Processing K1266-183635567 [147/229] for code: VIP0822
+2026-08-22 03:57:26 - 183635567 - Result: Requires in-game purchase
+2026-08-22 03:57:27 - Processing K1266-183662249 [148/229] for code: VIP0822
+2026-08-22 03:57:27 - 183662249 - Result: Requires in-game purchase
+2026-08-22 03:57:28 - Processing K1266-183678571 [149/229] for code: VIP0822
+2026-08-22 03:57:28 - 183678571 - Result: Requires in-game purchase
+2026-08-22 03:57:30 - Processing K1266-183744074 [150/229] for code: VIP0822
+2026-08-22 03:57:30 - 183744074 - Result: Requires in-game purchase
+2026-08-22 03:57:31 - Processing K1266-183760133 [151/229] for code: VIP0822
+2026-08-22 03:57:31 - 183760133 - Result: Requires in-game purchase
+2026-08-22 03:57:33 - Processing K1266-183776526 [152/229] for code: VIP0822
+2026-08-22 03:57:33 - 183776526 - Result: Requires in-game purchase
+2026-08-22 03:57:34 - Processing K1266-183792859 [153/229] for code: VIP0822
+2026-08-22 03:57:34 - 183792859 - Result: Requires in-game purchase
+2026-08-22 03:57:35 - Processing K1266-183793260 [154/229] for code: VIP0822
+2026-08-22 03:57:35 - 183793260 - Result: Requires in-game purchase
+2026-08-22 03:57:37 - Processing K1266-183799231 [155/229] for code: VIP0822
+2026-08-22 03:57:37 - 183799231 - Result: Requires in-game purchase
+2026-08-22 03:57:38 - Processing K1266-183809202 [156/229] for code: VIP0822
+2026-08-22 03:57:39 - 183809202 - Result: Requires in-game purchase
+2026-08-22 03:57:40 - Processing K1266-183826046 [157/229] for code: VIP0822
+2026-08-22 03:57:40 - 183826046 - Result: Requires in-game purchase
+2026-08-22 03:57:41 - Processing K1266-183826079 [158/229] for code: VIP0822
+2026-08-22 03:57:41 - 183826079 - Result: Requires in-game purchase
+2026-08-22 03:57:43 - Processing K1266-183842429 [159/229] for code: VIP0822
+2026-08-22 03:57:43 - 183842429 - Result: Requires in-game purchase
+2026-08-22 03:57:44 - Processing K1266-183858943 [160/229] for code: VIP0822
+2026-08-22 03:57:44 - 183858943 - Result: Requires in-game purchase
+2026-08-22 03:57:45 - Processing K1266-183859043 [161/229] for code: VIP0822
+2026-08-22 03:57:46 - 183859043 - Result: Requires in-game purchase
+2026-08-22 03:57:47 - Processing K1266-183907855 [162/229] for code: VIP0822
+2026-08-22 03:57:47 - 183907855 - Result: Requires in-game purchase
+2026-08-22 03:57:48 - Processing K1266-183924658 [163/229] for code: VIP0822
+2026-08-22 03:57:48 - 183924658 - Result: Requires in-game purchase
+2026-08-22 03:57:50 - Processing K1266-183924660 [164/229] for code: VIP0822
+2026-08-22 03:57:50 - 183924660 - Result: Requires in-game purchase
+2026-08-22 03:57:51 - Processing K1266-183940809 [165/229] for code: VIP0822
+2026-08-22 03:57:51 - 183940809 - Result: Already redeemed
+2026-08-22 03:57:52 - Processing K1266-183946385 [166/229] for code: VIP0822
+2026-08-22 03:57:52 - 183946385 - Result: Requires in-game purchase
+2026-08-22 03:57:54 - Processing K1266-183946804 [167/229] for code: VIP0822
+2026-08-22 03:57:54 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-22 03:57:58 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-22 03:58:06 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-22 03:58:18 - 183946804 - Result: Redemption request failed
+2026-08-22 03:58:19 - Processing K1266-184005794 [168/229] for code: VIP0822
+2026-08-22 03:58:19 - 184005794 - Result: Requires in-game purchase
+2026-08-22 03:58:20 - Processing K1266-184022781 [169/229] for code: VIP0822
+2026-08-22 03:58:20 - 184022781 - Result: Requires in-game purchase
+2026-08-22 03:58:22 - Processing K1266-184071743 [170/229] for code: VIP0822
+2026-08-22 03:58:22 - 184071743 - Result: Requires in-game purchase
+2026-08-22 03:58:23 - Processing K1266-184088377 [171/229] for code: VIP0822
+2026-08-22 03:58:23 - 184088377 - Result: Requires in-game purchase
+2026-08-22 03:58:24 - Processing K1266-184121399 [172/229] for code: VIP0822
+2026-08-22 03:58:24 - 184121399 - Result: Requires in-game purchase
+2026-08-22 03:58:25 - Processing K1266-184137674 [173/229] for code: VIP0822
+2026-08-22 03:58:25 - 184137674 - Result: Requires in-game purchase
+2026-08-22 03:58:27 - Processing K1266-184153916 [174/229] for code: VIP0822
+2026-08-22 03:58:27 - 184153916 - Result: Requires in-game purchase
+2026-08-22 03:58:28 - Processing K1266-184159552 [175/229] for code: VIP0822
+2026-08-22 03:58:28 - 184159552 - Result: Requires in-game purchase
+2026-08-22 03:58:29 - Processing K1266-184169916 [176/229] for code: VIP0822
+2026-08-22 03:58:29 - 184169916 - Result: Requires in-game purchase
+2026-08-22 03:58:30 - Processing K1266-184170263 [177/229] for code: VIP0822
+2026-08-22 03:58:31 - 184170263 - Result: Requires in-game purchase
+2026-08-22 03:58:32 - Processing K1266-184175883 [178/229] for code: VIP0822
+2026-08-22 03:58:32 - 184175883 - Result: Requires in-game purchase
+2026-08-22 03:58:33 - Processing K1266-184176072 [179/229] for code: VIP0822
+2026-08-22 03:58:33 - 184176072 - Result: Requires in-game purchase
+2026-08-22 03:58:34 - Processing K1266-184202442 [180/229] for code: VIP0822
+2026-08-22 03:58:34 - 184202442 - Result: Requires in-game purchase
+2026-08-22 03:58:35 - Processing K1266-184202684 [181/229] for code: VIP0822
+2026-08-22 03:58:36 - 184202684 - Result: Requires in-game purchase
+2026-08-22 03:58:37 - Processing K1266-184219240 [182/229] for code: VIP0822
+2026-08-22 03:58:37 - 184219240 - Result: Requires in-game purchase
+2026-08-22 03:58:38 - Processing K1266-184235470 [183/229] for code: VIP0822
+2026-08-22 03:58:38 - 184235470 - Result: Requires in-game purchase
+2026-08-22 03:58:40 - Processing K1266-184252103 [184/229] for code: VIP0822
+2026-08-22 03:58:40 - 184252103 - Result: Already redeemed
+2026-08-22 03:58:41 - Processing K1266-184257548 [185/229] for code: VIP0822
+2026-08-22 03:58:41 - 184257548 - Result: Requires in-game purchase
+2026-08-22 03:58:42 - Processing K1266-184268332 [186/229] for code: VIP0822
+2026-08-22 03:58:42 - 184268332 - Result: Requires in-game purchase
+2026-08-22 03:58:44 - Processing K1266-184285099 [187/229] for code: VIP0822
+2026-08-22 03:58:44 - 184285099 - Result: Requires in-game purchase
+2026-08-22 03:58:45 - Processing K1266-184300583 [188/229] for code: VIP0822
+2026-08-22 03:58:45 - 184300583 - Result: Requires in-game purchase
+2026-08-22 03:58:46 - Processing K1266-184323165 [189/229] for code: VIP0822
+2026-08-22 03:58:46 - 184323165 - Result: Requires in-game purchase
+2026-08-22 03:58:48 - Processing K1266-184334326 [190/229] for code: VIP0822
+2026-08-22 03:58:48 - 184334326 - Result: Requires in-game purchase
+2026-08-22 03:58:49 - Processing K1266-184355782 [191/229] for code: VIP0822
+2026-08-22 03:58:49 - 184355782 - Result: Requires in-game purchase
+2026-08-22 03:58:50 - Processing K1266-184366892 [192/229] for code: VIP0822
+2026-08-22 03:58:50 - 184366892 - Result: Requires in-game purchase
+2026-08-22 03:58:52 - Processing K1266-184382529 [193/229] for code: VIP0822
+2026-08-22 03:58:52 - 184382529 - Result: Requires in-game purchase
+2026-08-22 03:58:53 - Processing K1266-184398957 [194/229] for code: VIP0822
+2026-08-22 03:58:53 - 184398957 - Result: Requires in-game purchase
+2026-08-22 03:58:54 - Processing K1266-184481446 [195/229] for code: VIP0822
+2026-08-22 03:58:55 - 184481446 - Result: Requires in-game purchase
+2026-08-22 03:58:56 - Processing K1266-184546387 [196/229] for code: VIP0822
+2026-08-22 03:58:56 - 184546387 - Result: Requires in-game purchase
+2026-08-22 03:58:57 - Processing K1266-184925419 [197/229] for code: VIP0822
+2026-08-22 03:58:57 - 184925419 - Result: Requires in-game purchase
+2026-08-22 03:58:58 - Processing K1266-185480245 [198/229] for code: VIP0822
+2026-08-22 03:58:58 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-22 03:59:02 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-22 03:59:11 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-22 03:59:23 - 185480245 - Result: Redemption request failed
+2026-08-22 03:59:24 - Processing K1266-187102768 [199/229] for code: VIP0822
+2026-08-22 03:59:24 - 187102768 - Result: Requires in-game purchase
+2026-08-22 03:59:25 - Processing K1266-188087741 [200/229] for code: VIP0822
+2026-08-22 03:59:25 - 188087741 - Result: Requires in-game purchase
+2026-08-22 03:59:26 - Processing K1266-188470196 [201/229] for code: VIP0822
+2026-08-22 03:59:26 - 188470196 - Result: Requires in-game purchase
+2026-08-22 03:59:27 - Processing K1266-188862376 [202/229] for code: VIP0822
+2026-08-22 03:59:27 - 188862376 - Result: Requires in-game purchase
+2026-08-22 03:59:29 - Processing K1266-189063297 [203/229] for code: VIP0822
+2026-08-22 03:59:29 - 189063297 - Result: Requires in-game purchase
+2026-08-22 03:59:30 - Processing K1266-190234418 [204/229] for code: VIP0822
+2026-08-22 03:59:30 - 190234418 - Result: Requires in-game purchase
+2026-08-22 03:59:31 - Processing K1266-190553232 [205/229] for code: VIP0822
+2026-08-22 03:59:31 - 190553232 - Result: Requires in-game purchase
+2026-08-22 03:59:32 - Processing K1266-190573918 [206/229] for code: VIP0822
+2026-08-22 03:59:33 - 190573918 - Result: Requires in-game purchase
+2026-08-22 03:59:34 - Processing K1266-193365290 [207/229] for code: VIP0822
+2026-08-22 03:59:34 - 193365290 - Result: Requires in-game purchase
+2026-08-22 03:59:35 - Processing K1266-194962807 [208/229] for code: VIP0822
+2026-08-22 03:59:35 - 194962807 - Result: Requires in-game purchase
+2026-08-22 03:59:36 - Processing K1266-195609436 [209/229] for code: VIP0822
+2026-08-22 03:59:36 - 195609436 - Result: Requires in-game purchase
+2026-08-22 03:59:37 - Processing K1266-195708034 [210/229] for code: VIP0822
+2026-08-22 03:59:38 - 195708034 - Result: Requires in-game purchase
+2026-08-22 03:59:39 - Processing K1266-197748881 [211/229] for code: VIP0822
+2026-08-22 03:59:39 - 197748881 - Result: Requires in-game purchase
+2026-08-22 03:59:40 - Processing K1266-198971997 [212/229] for code: VIP0822
+2026-08-22 03:59:40 - 198971997 - Result: Requires in-game purchase
+2026-08-22 03:59:42 - Processing K1266-199087822 [213/229] for code: VIP0822
+2026-08-22 03:59:42 - 199087822 - Result: Requires in-game purchase
+2026-08-22 03:59:43 - Processing K1266-199766078 [214/229] for code: VIP0822
+2026-08-22 03:59:43 - 199766078 - Result: Requires in-game purchase
+2026-08-22 03:59:44 - Processing K1266-202789741 [215/229] for code: VIP0822
+2026-08-22 03:59:44 - 202789741 - Result: Requires in-game purchase
+2026-08-22 03:59:45 - Processing K1266-214289119 [216/229] for code: VIP0822
+2026-08-22 03:59:45 - 214289119 - Result: Requires in-game purchase
+2026-08-22 03:59:47 - Processing K1266-216820126 [217/229] for code: VIP0822
+2026-08-22 03:59:47 - 216820126 - Result: Requires in-game purchase
+2026-08-22 03:59:48 - Processing K1266-219382121 [218/229] for code: VIP0822
+2026-08-22 03:59:48 - 219382121 - Result: Requires in-game purchase
+2026-08-22 03:59:49 - Processing K1266-221299698 [219/229] for code: VIP0822
+2026-08-22 03:59:49 - 221299698 - Result: Requires in-game purchase
+2026-08-22 03:59:51 - Processing K1266-239065229 [220/229] for code: VIP0822
+2026-08-22 03:59:51 - 239065229 - Result: Requires in-game purchase
+2026-08-22 03:59:52 - Processing K1266-247760465 [221/229] for code: VIP0822
+2026-08-22 03:59:52 - 247760465 - Result: Requires in-game purchase
+2026-08-22 03:59:54 - Processing K1266-257078077 [222/229] for code: VIP0822
+2026-08-22 03:59:54 - 257078077 - Result: Requires in-game purchase
+2026-08-22 03:59:55 - Processing K1266-270896390 [223/229] for code: VIP0822
+2026-08-22 03:59:55 - 270896390 - Result: Requires in-game purchase
+2026-08-22 03:59:56 - Processing K1266-278604391 [224/229] for code: VIP0822
+2026-08-22 03:59:56 - 278604391 - Result: Requires in-game purchase
+2026-08-22 03:59:57 - Processing K1266-302154974 [225/229] for code: VIP0822
+2026-08-22 03:59:58 - 302154974 - Result: Requires in-game purchase
+2026-08-22 03:59:59 - Processing K1266-377584801 [226/229] for code: VIP0822
+2026-08-22 03:59:59 - 377584801 - Result: Requires in-game purchase
+2026-08-22 04:00:00 - Processing K1266-378005527 [227/229] for code: VIP0822
+2026-08-22 04:00:00 - 378005527 - Result: Requires in-game purchase
+2026-08-22 04:00:02 - Processing K1266-378518775 [228/229] for code: VIP0822
+2026-08-22 04:00:02 - 378518775 - Result: Requires in-game purchase
+2026-08-22 04:00:03 - Processing K1266-381967745 [229/229] for code: VIP0822
+2026-08-22 04:00:03 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-22 04:00:07 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-22 04:00:15 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-22 04:00:27 - 381967745 - Result: Redemption request failed
+2026-08-22 04:00:28 - --- Cycle finished. Total processed: 229/229 ---
+2026-08-22 04:00:28 - 
+========================= Redemption Summary =========================
+2026-08-22 04:00:28 - Code Redeemed: VIP0822
+2026-08-22 04:00:28 - Total Unique Player IDs Found: 229
+2026-08-22 04:00:28 - Total Player IDs Processed: 229
+2026-08-22 04:00:28 - Successfully redeemed: 1
+2026-08-22 04:00:28 - Already redeemed: 4
+2026-08-22 04:00:28 - Wrong kingdom: 0
+2026-08-22 04:00:28 - Other Errors/Failures: 224
+2026-08-22 04:00:28 - Rate Limit Events: 0
+2026-08-22 04:00:28 - Total execution time: 0:08:16
+2026-08-22 04:00:28 - ======================================================================
+2026-08-22 04:00:28 - Marked 'VIP0822' as known.
+
