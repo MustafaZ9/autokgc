@@ -26643,3 +26643,527 @@
 2026-08-22 00:35:08 - Success with chrome124 impersonation
 2026-08-22 00:35:08 - No new gift codes found. All codes have been seen previously.
 2026-08-22 00:35:08 - Nothing to redeem.
+2026-08-22 02:13:23 - Checking https://kingshot.net/gift-codes for new gift codes...
+2026-08-22 02:13:24 - Using curl_cffi for Cloudflare bypass...
+2026-08-22 02:13:24 - Success with chrome124 impersonation
+2026-08-22 02:13:24 - 
+🎉 NEW GIFT CODES FOUND: FB2500KT
+2026-08-22 02:13:24 - 
+=== Starting redemption for gift code: FB2500KT ===
+2026-08-22 02:13:24 - Read 231 player IDs from lod.csv (encoding: utf-8-sig, 231 with a kingdom)
+2026-08-22 02:13:24 - Removed 2 duplicate entries.
+2026-08-22 02:13:24 - Total unique player IDs to process: 229
+2026-08-22 02:13:24 - 
+--- Starting processing cycle. Ready player IDs: 229 ---
+2026-08-22 02:13:24 - Processing K1266-112607487 [1/229] for code: FB2500KT
+2026-08-22 02:13:25 - 112607487 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-08-22 02:13:27 - 112607487 - Result: Successfully redeemed
+2026-08-22 02:13:28 - Processing K1266-114993837 [2/229] for code: FB2500KT
+2026-08-22 02:13:28 - 114993837 - Result: Successfully redeemed
+2026-08-22 02:13:30 - Processing K1266-134948830 [3/229] for code: FB2500KT
+2026-08-22 02:13:30 - 134948830 - Result: Successfully redeemed
+2026-08-22 02:13:31 - Processing K1266-137354109 [4/229] for code: FB2500KT
+2026-08-22 02:13:31 - 137354109 - Result: Successfully redeemed
+2026-08-22 02:13:32 - Processing K1266-137881550 [5/229] for code: FB2500KT
+2026-08-22 02:13:33 - 137881550 - Result: Successfully redeemed
+2026-08-22 02:13:34 - Processing K1266-138078147 [6/229] for code: FB2500KT
+2026-08-22 02:13:34 - 138078147 - Result: Successfully redeemed
+2026-08-22 02:13:35 - Processing K1266-139819795 [7/229] for code: FB2500KT
+2026-08-22 02:13:36 - 139819795 - Result: Successfully redeemed
+2026-08-22 02:13:37 - Processing K1266-156477789 [8/229] for code: FB2500KT
+2026-08-22 02:13:37 - 156477789 - Result: Successfully redeemed
+2026-08-22 02:13:38 - Processing K1266-162070715 [9/229] for code: FB2500KT
+2026-08-22 02:13:38 - 162070715 - Result: Successfully redeemed
+2026-08-22 02:13:40 - Processing K1266-172135597 [10/229] for code: FB2500KT
+2026-08-22 02:13:40 - 172135597 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-08-22 02:13:42 - 172135597 - Result: Successfully redeemed
+2026-08-22 02:13:43 - Processing K1266-176622413 [11/229] for code: FB2500KT
+2026-08-22 02:13:43 - 176622413 - Result: Successfully redeemed
+2026-08-22 02:13:45 - Processing K1266-176730452 [12/229] for code: FB2500KT
+2026-08-22 02:13:45 - 176730452 - Result: Successfully redeemed
+2026-08-22 02:13:46 - Processing K1266-177978644 [13/229] for code: FB2500KT
+2026-08-22 02:13:46 - 177978644 - Result: Successfully redeemed
+2026-08-22 02:13:47 - Processing K1266-178188212 [14/229] for code: FB2500KT
+2026-08-22 02:13:47 - 178188212 - Result: Successfully redeemed
+2026-08-22 02:13:49 - Processing K1266-179107716 [15/229] for code: FB2500KT
+2026-08-22 02:13:49 - 179107716 - Result: Successfully redeemed
+2026-08-22 02:13:50 - Processing K1266-180368647 [16/229] for code: FB2500KT
+2026-08-22 02:13:50 - 180368647 - Result: Successfully redeemed
+2026-08-22 02:13:51 - Processing K1266-180369109 [17/229] for code: FB2500KT
+2026-08-22 02:13:51 - 180369109 - Result: Successfully redeemed
+2026-08-22 02:13:52 - Processing K1266-180369142 [18/229] for code: FB2500KT
+2026-08-22 02:13:52 - 180369142 - Result: Successfully redeemed
+2026-08-22 02:13:54 - Processing K1266-180369159 [19/229] for code: FB2500KT
+2026-08-22 02:13:54 - 180369159 - Result: Successfully redeemed
+2026-08-22 02:13:55 - Processing K1266-180385375 [20/229] for code: FB2500KT
+2026-08-22 02:13:55 - 180385375 - Result: Successfully redeemed
+2026-08-22 02:13:56 - Processing K1266-180385792 [21/229] for code: FB2500KT
+2026-08-22 02:13:56 - 180385792 - Result: Successfully redeemed
+2026-08-22 02:13:58 - Processing K1266-180418498 [22/229] for code: FB2500KT
+2026-08-22 02:13:58 - 180418498 - Result: Successfully redeemed
+2026-08-22 02:13:59 - Processing K1266-180434357 [23/229] for code: FB2500KT
+2026-08-22 02:13:59 - 180434357 - Result: Successfully redeemed
+2026-08-22 02:14:00 - Processing K1266-180483302 [24/229] for code: FB2500KT
+2026-08-22 02:14:00 - 180483302 - Result: Successfully redeemed
+2026-08-22 02:14:02 - Processing K1266-180565782 [25/229] for code: FB2500KT
+2026-08-22 02:14:02 - 180565782 - Result: Successfully redeemed
+2026-08-22 02:14:03 - Processing K1266-180614319 [26/229] for code: FB2500KT
+2026-08-22 02:14:03 - 180614319 - Result: Successfully redeemed
+2026-08-22 02:14:04 - Processing K1266-180636958 [27/229] for code: FB2500KT
+2026-08-22 02:14:05 - 180636958 - Result: Successfully redeemed
+2026-08-22 02:14:06 - Processing K1266-180669914 [28/229] for code: FB2500KT
+2026-08-22 02:14:06 - 180669914 - Result: Successfully redeemed
+2026-08-22 02:14:08 - Processing K1266-180696652 [29/229] for code: FB2500KT
+2026-08-22 02:14:08 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-22 02:14:12 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-22 02:14:20 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-22 02:14:32 - 180696652 - Result: Redemption request failed
+2026-08-22 02:14:33 - Processing K1266-180729920 [30/229] for code: FB2500KT
+2026-08-22 02:14:33 - 180729920 - Result: Successfully redeemed
+2026-08-22 02:14:34 - Processing K1266-180778760 [31/229] for code: FB2500KT
+2026-08-22 02:14:35 - 180778760 - Result: Successfully redeemed
+2026-08-22 02:14:36 - Processing K1266-180827986 [32/229] for code: FB2500KT
+2026-08-22 02:14:36 - 180827986 - Result: Successfully redeemed
+2026-08-22 02:14:37 - Processing K1266-180893335 [33/229] for code: FB2500KT
+2026-08-22 02:14:37 - 180893335 - Result: Successfully redeemed
+2026-08-22 02:14:38 - Processing K1266-180893684 [34/229] for code: FB2500KT
+2026-08-22 02:14:38 - 180893684 - Result: Successfully redeemed
+2026-08-22 02:14:40 - Processing K1266-180893765 [35/229] for code: FB2500KT
+2026-08-22 02:14:40 - 180893765 - Result: Successfully redeemed
+2026-08-22 02:14:41 - Processing K1266-180959009 [36/229] for code: FB2500KT
+2026-08-22 02:14:41 - 180959009 - Result: Successfully redeemed
+2026-08-22 02:14:42 - Processing K1266-181073393 [37/229] for code: FB2500KT
+2026-08-22 02:14:42 - 181073393 - Result: Successfully redeemed
+2026-08-22 02:14:44 - Processing K1266-181106609 [38/229] for code: FB2500KT
+2026-08-22 02:14:44 - 181106609 - Result: Successfully redeemed
+2026-08-22 02:14:45 - Processing K1266-181122260 [39/229] for code: FB2500KT
+2026-08-22 02:14:45 - 181122260 - Result: Successfully redeemed
+2026-08-22 02:14:46 - Processing K1266-181155772 [40/229] for code: FB2500KT
+2026-08-22 02:14:46 - 181155772 - Result: Successfully redeemed
+2026-08-22 02:14:48 - Processing K1266-181171461 [41/229] for code: FB2500KT
+2026-08-22 02:14:48 - 181171461 - Result: Successfully redeemed
+2026-08-22 02:14:49 - Processing K1266-181286832 [42/229] for code: FB2500KT
+2026-08-22 02:14:49 - 181286832 - Result: Successfully redeemed
+2026-08-22 02:14:50 - Processing K1266-181340930 [43/229] for code: FB2500KT
+2026-08-22 02:14:51 - 181340930 - Result: Successfully redeemed
+2026-08-22 02:14:52 - Processing K1266-181341522 [44/229] for code: FB2500KT
+2026-08-22 02:14:52 - 181341522 - Result: Successfully redeemed
+2026-08-22 02:14:53 - Processing K1266-181351852 [45/229] for code: FB2500KT
+2026-08-22 02:14:53 - 181351852 - Result: Successfully redeemed
+2026-08-22 02:14:55 - Processing K1266-181358276 [46/229] for code: FB2500KT
+2026-08-22 02:14:55 - 181358276 - Result: Successfully redeemed
+2026-08-22 02:14:56 - Processing K1266-181374419 [47/229] for code: FB2500KT
+2026-08-22 02:14:56 - 181374419 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-08-22 02:14:58 - 181374419 - Result: Successfully redeemed
+2026-08-22 02:14:59 - Processing K1266-181384836 [48/229] for code: FB2500KT
+2026-08-22 02:14:59 - 181384836 - Result: Successfully redeemed
+2026-08-22 02:15:00 - Processing K1266-181385198 [49/229] for code: FB2500KT
+2026-08-22 02:15:00 - 181385198 - Result: Successfully redeemed
+2026-08-22 02:15:02 - Processing K1266-181401589 [50/229] for code: FB2500KT
+2026-08-22 02:15:02 - 181401589 - Result: Successfully redeemed
+2026-08-22 02:15:03 - Processing K1266-181407057 [51/229] for code: FB2500KT
+2026-08-22 02:15:03 - 181407057 - Result: Successfully redeemed
+2026-08-22 02:15:05 - Processing K1266-181423528 [52/229] for code: FB2500KT
+2026-08-22 02:15:05 - 181423528 - Result: Successfully redeemed
+2026-08-22 02:15:06 - Processing K1266-181440017 [53/229] for code: FB2500KT
+2026-08-22 02:15:06 - 181440017 - Result: Successfully redeemed
+2026-08-22 02:15:08 - Processing K1266-181466821 [54/229] for code: FB2500KT
+2026-08-22 02:15:08 - 181466821 - Result: Successfully redeemed
+2026-08-22 02:15:09 - Processing K1266-181515253 [55/229] for code: FB2500KT
+2026-08-22 02:15:09 - 181515253 - Result: Successfully redeemed
+2026-08-22 02:15:10 - Processing K1266-181516264 [56/229] for code: FB2500KT
+2026-08-22 02:15:11 - 181516264 - Result: Successfully redeemed
+2026-08-22 02:15:12 - Processing K1266-181521367 [57/229] for code: FB2500KT
+2026-08-22 02:15:12 - 181521367 - Result: Successfully redeemed
+2026-08-22 02:15:13 - Processing K1266-181532757 [58/229] for code: FB2500KT
+2026-08-22 02:15:13 - 181532757 - Result: Successfully redeemed
+2026-08-22 02:15:14 - Processing K1266-181565051 [59/229] for code: FB2500KT
+2026-08-22 02:15:14 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-22 02:15:18 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-22 02:15:26 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-22 02:15:38 - 181565051 - Result: Redemption request failed
+2026-08-22 02:15:40 - Processing K1266-181571708 [60/229] for code: FB2500KT
+2026-08-22 02:15:40 - 181571708 - Result: Successfully redeemed
+2026-08-22 02:15:41 - Processing K1266-181614011 [61/229] for code: FB2500KT
+2026-08-22 02:15:41 - 181614011 - Result: Successfully redeemed
+2026-08-22 02:15:43 - Processing K1266-181630719 [62/229] for code: FB2500KT
+2026-08-22 02:15:43 - 181630719 - Result: Successfully redeemed
+2026-08-22 02:15:44 - Processing K1266-181646830 [63/229] for code: FB2500KT
+2026-08-22 02:15:44 - 181646830 - Result: Successfully redeemed
+2026-08-22 02:15:45 - Processing K1266-181663028 [64/229] for code: FB2500KT
+2026-08-22 02:15:46 - 181663028 - Result: Successfully redeemed
+2026-08-22 02:15:47 - Processing K1266-181669304 [65/229] for code: FB2500KT
+2026-08-22 02:15:47 - 181669304 - Result: Successfully redeemed
+2026-08-22 02:15:48 - Processing K1266-181696527 [66/229] for code: FB2500KT
+2026-08-22 02:15:48 - 181696527 - Result: Successfully redeemed
+2026-08-22 02:15:49 - Processing K1266-181734398 [67/229] for code: FB2500KT
+2026-08-22 02:15:49 - 181734398 - Result: Successfully redeemed
+2026-08-22 02:15:50 - Processing K1266-181761437 [68/229] for code: FB2500KT
+2026-08-22 02:15:50 - 181761437 - Result: Successfully redeemed
+2026-08-22 02:15:52 - Processing K1266-181778389 [69/229] for code: FB2500KT
+2026-08-22 02:15:52 - 181778389 - Result: Successfully redeemed
+2026-08-22 02:15:53 - Processing K1266-181793958 [70/229] for code: FB2500KT
+2026-08-22 02:15:53 - 181793958 - Result: Successfully redeemed
+2026-08-22 02:15:54 - Processing K1266-181794115 [71/229] for code: FB2500KT
+2026-08-22 02:15:54 - 181794115 - Result: Successfully redeemed
+2026-08-22 02:15:56 - Processing K1266-181816445 [72/229] for code: FB2500KT
+2026-08-22 02:15:56 - 181816445 - Result: Successfully redeemed
+2026-08-22 02:15:57 - Processing K1266-181859621 [73/229] for code: FB2500KT
+2026-08-22 02:15:57 - 181859621 - Result: Successfully redeemed
+2026-08-22 02:15:58 - Processing K1266-181859892 [74/229] for code: FB2500KT
+2026-08-22 02:15:58 - 181859892 - Result: Successfully redeemed
+2026-08-22 02:16:00 - Processing K1266-181859948 [75/229] for code: FB2500KT
+2026-08-22 02:16:00 - 181859948 - Result: Successfully redeemed
+2026-08-22 02:16:01 - Processing K1266-181860239 [76/229] for code: FB2500KT
+2026-08-22 02:16:01 - 181860239 - Result: Successfully redeemed
+2026-08-22 02:16:02 - Processing K1266-181892322 [77/229] for code: FB2500KT
+2026-08-22 02:16:02 - 181892322 - Result: Successfully redeemed
+2026-08-22 02:16:04 - Processing K1266-181941995 [78/229] for code: FB2500KT
+2026-08-22 02:16:04 - 181941995 - Result: Successfully redeemed
+2026-08-22 02:16:05 - Processing K1266-181942353 [79/229] for code: FB2500KT
+2026-08-22 02:16:05 - 181942353 - Result: Successfully redeemed
+2026-08-22 02:16:06 - Processing K1266-181957758 [80/229] for code: FB2500KT
+2026-08-22 02:16:06 - 181957758 - Result: Successfully redeemed
+2026-08-22 02:16:07 - Processing K1266-181958534 [81/229] for code: FB2500KT
+2026-08-22 02:16:07 - 181958534 - Result: Successfully redeemed
+2026-08-22 02:16:09 - Processing K1266-182013382 [82/229] for code: FB2500KT
+2026-08-22 02:16:09 - 182013382 - Result: Successfully redeemed
+2026-08-22 02:16:10 - Processing K1266-182022970 [83/229] for code: FB2500KT
+2026-08-22 02:16:10 - 182022970 - Result: Successfully redeemed
+2026-08-22 02:16:11 - Processing K1266-182072645 [84/229] for code: FB2500KT
+2026-08-22 02:16:12 - 182072645 - Result: Successfully redeemed
+2026-08-22 02:16:13 - Processing K1266-182138218 [85/229] for code: FB2500KT
+2026-08-22 02:16:13 - 182138218 - Result: Successfully redeemed
+2026-08-22 02:16:14 - Processing K1266-182138227 [86/229] for code: FB2500KT
+2026-08-22 02:16:14 - 182138227 - Result: Successfully redeemed
+2026-08-22 02:16:15 - Processing K1266-182144355 [87/229] for code: FB2500KT
+2026-08-22 02:16:15 - 182144355 - Result: Successfully redeemed
+2026-08-22 02:16:17 - Processing K1266-182203900 [88/229] for code: FB2500KT
+2026-08-22 02:16:17 - 182203900 - Result: Successfully redeemed
+2026-08-22 02:16:18 - Processing K1266-182210139 [89/229] for code: FB2500KT
+2026-08-22 02:16:18 - 182210139 - Result: Successfully redeemed
+2026-08-22 02:16:19 - Processing K1266-182275359 [90/229] for code: FB2500KT
+2026-08-22 02:16:19 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-22 02:16:23 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-22 02:16:31 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-22 02:16:43 - 182275359 - Result: Redemption request failed
+2026-08-22 02:16:45 - Processing K1266-182286440 [91/229] for code: FB2500KT
+2026-08-22 02:16:45 - 182286440 - Result: Successfully redeemed
+2026-08-22 02:16:46 - Processing K1266-182302366 [92/229] for code: FB2500KT
+2026-08-22 02:16:46 - 182302366 - Result: Successfully redeemed
+2026-08-22 02:16:48 - Processing K1266-182318888 [93/229] for code: FB2500KT
+2026-08-22 02:16:48 - 182318888 - Result: Successfully redeemed
+2026-08-22 02:16:49 - Processing K1266-182318966 [94/229] for code: FB2500KT
+2026-08-22 02:16:49 - 182318966 - Result: Successfully redeemed
+2026-08-22 02:16:50 - Processing K1266-182318992 [95/229] for code: FB2500KT
+2026-08-22 02:16:50 - 182318992 - Result: Successfully redeemed
+2026-08-22 02:16:51 - Processing K1266-182334781 [96/229] for code: FB2500KT
+2026-08-22 02:16:51 - 182334781 - Result: Successfully redeemed
+2026-08-22 02:16:53 - Processing K1266-182384377 [97/229] for code: FB2500KT
+2026-08-22 02:16:53 - 182384377 - Result: Successfully redeemed
+2026-08-22 02:16:54 - Processing K1266-182417500 [98/229] for code: FB2500KT
+2026-08-22 02:16:54 - 182417500 - Result: Successfully redeemed
+2026-08-22 02:16:55 - Processing K1266-182419290 [99/229] for code: FB2500KT
+2026-08-22 02:16:55 - 182419290 - Result: Successfully redeemed
+2026-08-22 02:16:56 - Processing K1266-182449206 [100/229] for code: FB2500KT
+2026-08-22 02:16:56 - 182449206 - Result: Successfully redeemed
+2026-08-22 02:16:57 - Processing K1266-182466031 [101/229] for code: FB2500KT
+2026-08-22 02:16:57 - 182466031 - Result: Successfully redeemed
+2026-08-22 02:16:59 - Processing K1266-182466200 [102/229] for code: FB2500KT
+2026-08-22 02:16:59 - 182466200 - Result: Successfully redeemed
+2026-08-22 02:17:00 - Processing K1266-182488759 [103/229] for code: FB2500KT
+2026-08-22 02:17:01 - 182488759 - Result: Successfully redeemed
+2026-08-22 02:17:02 - Processing K1266-182498855 [104/229] for code: FB2500KT
+2026-08-22 02:17:02 - 182498855 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-08-22 02:17:04 - 182498855 - [Attempt 2/3] TIMEOUT RETRY. Retrying...
+2026-08-22 02:17:08 - 182498855 - Result: Successfully redeemed
+2026-08-22 02:17:09 - Processing K1266-182531700 [105/229] for code: FB2500KT
+2026-08-22 02:17:09 - 182531700 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-08-22 02:17:12 - 182531700 - Result: Successfully redeemed
+2026-08-22 02:17:13 - Processing K1266-182646613 [106/229] for code: FB2500KT
+2026-08-22 02:17:13 - 182646613 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-08-22 02:17:15 - 182646613 - Result: Successfully redeemed
+2026-08-22 02:17:16 - Processing K1266-182668737 [107/229] for code: FB2500KT
+2026-08-22 02:17:17 - 182668737 - Result: Successfully redeemed
+2026-08-22 02:17:18 - Processing K1266-182717899 [108/229] for code: FB2500KT
+2026-08-22 02:17:18 - 182717899 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-08-22 02:17:20 - 182717899 - Result: Successfully redeemed
+2026-08-22 02:17:21 - Processing K1266-182767010 [109/229] for code: FB2500KT
+2026-08-22 02:17:21 - 182767010 - Result: Successfully redeemed
+2026-08-22 02:17:23 - Processing K1266-182810221 [110/229] for code: FB2500KT
+2026-08-22 02:17:23 - 182810221 - Result: Successfully redeemed
+2026-08-22 02:17:24 - Processing K1266-182858998 [111/229] for code: FB2500KT
+2026-08-22 02:17:24 - 182858998 - Result: Successfully redeemed
+2026-08-22 02:17:25 - Processing K1266-182859667 [112/229] for code: FB2500KT
+2026-08-22 02:17:25 - 182859667 - Result: Successfully redeemed
+2026-08-22 02:17:27 - Processing K1266-182892106 [113/229] for code: FB2500KT
+2026-08-22 02:17:27 - 182892106 - Result: Successfully redeemed
+2026-08-22 02:17:28 - Processing K1266-182892217 [114/229] for code: FB2500KT
+2026-08-22 02:17:28 - 182892217 - Result: Successfully redeemed
+2026-08-22 02:17:29 - Processing K1266-182898057 [115/229] for code: FB2500KT
+2026-08-22 02:17:29 - 182898057 - Result: Successfully redeemed
+2026-08-22 02:17:31 - Processing K1266-182908483 [116/229] for code: FB2500KT
+2026-08-22 02:17:31 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-22 02:17:35 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-22 02:17:43 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-22 02:17:55 - 182908483 - Result: Redemption request failed
+2026-08-22 02:17:56 - Processing K1266-182941162 [117/229] for code: FB2500KT
+2026-08-22 02:17:56 - 182941162 - Result: Successfully redeemed
+2026-08-22 02:17:58 - Processing K1266-182941502 [118/229] for code: FB2500KT
+2026-08-22 02:17:58 - 182941502 - Result: Successfully redeemed
+2026-08-22 02:17:59 - Processing K1266-183012848 [119/229] for code: FB2500KT
+2026-08-22 02:17:59 - 183012848 - Result: Successfully redeemed
+2026-08-22 02:18:00 - Processing K1266-183028805 [120/229] for code: FB2500KT
+2026-08-22 02:18:00 - 183028805 - Result: Successfully redeemed
+2026-08-22 02:18:02 - Processing K1266-183029342 [121/229] for code: FB2500KT
+2026-08-22 02:18:02 - 183029342 - Result: Successfully redeemed
+2026-08-22 02:18:03 - Processing K1266-183072306 [122/229] for code: FB2500KT
+2026-08-22 02:18:03 - 183072306 - Result: Successfully redeemed
+2026-08-22 02:18:05 - Processing K1266-183072746 [123/229] for code: FB2500KT
+2026-08-22 02:18:05 - 183072746 - Result: Successfully redeemed
+2026-08-22 02:18:06 - Processing K1266-183072824 [124/229] for code: FB2500KT
+2026-08-22 02:18:06 - 183072824 - Result: Successfully redeemed
+2026-08-22 02:18:08 - Processing K1266-183089209 [125/229] for code: FB2500KT
+2026-08-22 02:18:08 - 183089209 - Result: Successfully redeemed
+2026-08-22 02:18:09 - Processing K1266-183121113 [126/229] for code: FB2500KT
+2026-08-22 02:18:09 - 183121113 - Result: Successfully redeemed
+2026-08-22 02:18:10 - Processing K1266-183137287 [127/229] for code: FB2500KT
+2026-08-22 02:18:10 - 183137287 - Result: Successfully redeemed
+2026-08-22 02:18:11 - Processing K1266-183154303 [128/229] for code: FB2500KT
+2026-08-22 02:18:11 - 183154303 - Result: Successfully redeemed
+2026-08-22 02:18:13 - Processing K1266-183170657 [129/229] for code: FB2500KT
+2026-08-22 02:18:13 - 183170657 - Result: Successfully redeemed
+2026-08-22 02:18:14 - Processing K1266-183176536 [130/229] for code: FB2500KT
+2026-08-22 02:18:14 - 183176536 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-08-22 02:18:16 - 183176536 - Result: Successfully redeemed
+2026-08-22 02:18:18 - Processing K1266-183219343 [131/229] for code: FB2500KT
+2026-08-22 02:18:18 - 183219343 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-08-22 02:18:20 - 183219343 - Result: Successfully redeemed
+2026-08-22 02:18:21 - Processing K1266-183252993 [132/229] for code: FB2500KT
+2026-08-22 02:18:21 - 183252993 - Result: Successfully redeemed
+2026-08-22 02:18:23 - Processing K1266-183285360 [133/229] for code: FB2500KT
+2026-08-22 02:18:23 - 183285360 - Result: Successfully redeemed
+2026-08-22 02:18:24 - Processing K1266-183366693 [134/229] for code: FB2500KT
+2026-08-22 02:18:24 - 183366693 - Result: Successfully redeemed
+2026-08-22 02:18:25 - Processing K1266-183367342 [135/229] for code: FB2500KT
+2026-08-22 02:18:25 - 183367342 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-08-22 02:18:28 - 183367342 - Result: Successfully redeemed
+2026-08-22 02:18:29 - Processing K1266-183383666 [136/229] for code: FB2500KT
+2026-08-22 02:18:29 - 183383666 - Result: Successfully redeemed
+2026-08-22 02:18:31 - Processing K1266-183384158 [137/229] for code: FB2500KT
+2026-08-22 02:18:31 - 183384158 - Result: Successfully redeemed
+2026-08-22 02:18:32 - Processing K1266-183449358 [138/229] for code: FB2500KT
+2026-08-22 02:18:32 - 183449358 - Result: Successfully redeemed
+2026-08-22 02:18:33 - Processing K1266-183455373 [139/229] for code: FB2500KT
+2026-08-22 02:18:33 - 183455373 - Result: Successfully redeemed
+2026-08-22 02:18:34 - Processing K1266-183465208 [140/229] for code: FB2500KT
+2026-08-22 02:18:34 - 183465208 - Result: Successfully redeemed
+2026-08-22 02:18:36 - Processing K1266-183514753 [141/229] for code: FB2500KT
+2026-08-22 02:18:36 - 183514753 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-08-22 02:18:38 - 183514753 - Result: Successfully redeemed
+2026-08-22 02:18:39 - Processing K1266-183531242 [142/229] for code: FB2500KT
+2026-08-22 02:18:39 - 183531242 - Result: Successfully redeemed
+2026-08-22 02:18:40 - Processing K1266-183563334 [143/229] for code: FB2500KT
+2026-08-22 02:18:40 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-22 02:18:44 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-22 02:18:52 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-22 02:19:04 - 183563334 - Result: Redemption request failed
+2026-08-22 02:19:06 - Processing K1266-183579631 [144/229] for code: FB2500KT
+2026-08-22 02:19:06 - 183579631 - Result: Successfully redeemed
+2026-08-22 02:19:07 - Processing K1266-183579641 [145/229] for code: FB2500KT
+2026-08-22 02:19:07 - 183579641 - Result: Successfully redeemed
+2026-08-22 02:19:08 - Processing K1266-183602956 [146/229] for code: FB2500KT
+2026-08-22 02:19:08 - 183602956 - Result: Successfully redeemed
+2026-08-22 02:19:09 - Processing K1266-183635567 [147/229] for code: FB2500KT
+2026-08-22 02:19:09 - 183635567 - Result: Successfully redeemed
+2026-08-22 02:19:11 - Processing K1266-183662249 [148/229] for code: FB2500KT
+2026-08-22 02:19:11 - 183662249 - Result: Successfully redeemed
+2026-08-22 02:19:12 - Processing K1266-183678571 [149/229] for code: FB2500KT
+2026-08-22 02:19:12 - 183678571 - Result: Successfully redeemed
+2026-08-22 02:19:14 - Processing K1266-183744074 [150/229] for code: FB2500KT
+2026-08-22 02:19:14 - 183744074 - Result: Successfully redeemed
+2026-08-22 02:19:15 - Processing K1266-183760133 [151/229] for code: FB2500KT
+2026-08-22 02:19:15 - 183760133 - Result: Successfully redeemed
+2026-08-22 02:19:16 - Processing K1266-183776526 [152/229] for code: FB2500KT
+2026-08-22 02:19:17 - 183776526 - Result: Successfully redeemed
+2026-08-22 02:19:18 - Processing K1266-183792859 [153/229] for code: FB2500KT
+2026-08-22 02:19:18 - 183792859 - Result: Successfully redeemed
+2026-08-22 02:19:19 - Processing K1266-183793260 [154/229] for code: FB2500KT
+2026-08-22 02:19:19 - 183793260 - Result: Successfully redeemed
+2026-08-22 02:19:20 - Processing K1266-183799231 [155/229] for code: FB2500KT
+2026-08-22 02:19:21 - 183799231 - Result: Successfully redeemed
+2026-08-22 02:19:22 - Processing K1266-183809202 [156/229] for code: FB2500KT
+2026-08-22 02:19:22 - 183809202 - Result: Successfully redeemed
+2026-08-22 02:19:23 - Processing K1266-183826046 [157/229] for code: FB2500KT
+2026-08-22 02:19:23 - 183826046 - Result: Successfully redeemed
+2026-08-22 02:19:25 - Processing K1266-183826079 [158/229] for code: FB2500KT
+2026-08-22 02:19:25 - 183826079 - Result: Successfully redeemed
+2026-08-22 02:19:26 - Processing K1266-183842429 [159/229] for code: FB2500KT
+2026-08-22 02:19:26 - 183842429 - Result: Successfully redeemed
+2026-08-22 02:19:27 - Processing K1266-183858943 [160/229] for code: FB2500KT
+2026-08-22 02:19:27 - 183858943 - Result: Successfully redeemed
+2026-08-22 02:19:29 - Processing K1266-183859043 [161/229] for code: FB2500KT
+2026-08-22 02:19:29 - 183859043 - Result: Successfully redeemed
+2026-08-22 02:19:30 - Processing K1266-183907855 [162/229] for code: FB2500KT
+2026-08-22 02:19:30 - 183907855 - Result: Successfully redeemed
+2026-08-22 02:19:31 - Processing K1266-183924658 [163/229] for code: FB2500KT
+2026-08-22 02:19:31 - 183924658 - Result: Successfully redeemed
+2026-08-22 02:19:33 - Processing K1266-183924660 [164/229] for code: FB2500KT
+2026-08-22 02:19:33 - 183924660 - Result: Successfully redeemed
+2026-08-22 02:19:34 - Processing K1266-183940809 [165/229] for code: FB2500KT
+2026-08-22 02:19:34 - 183940809 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-08-22 02:19:36 - 183940809 - Result: Successfully redeemed
+2026-08-22 02:19:37 - Processing K1266-183946385 [166/229] for code: FB2500KT
+2026-08-22 02:19:37 - 183946385 - Result: Successfully redeemed
+2026-08-22 02:19:39 - Processing K1266-183946804 [167/229] for code: FB2500KT
+2026-08-22 02:19:39 - 183946804 - Result: Successfully redeemed
+2026-08-22 02:19:40 - Processing K1266-184005794 [168/229] for code: FB2500KT
+2026-08-22 02:19:40 - 184005794 - Result: Successfully redeemed
+2026-08-22 02:19:41 - Processing K1266-184022781 [169/229] for code: FB2500KT
+2026-08-22 02:19:41 - 184022781 - Result: Successfully redeemed
+2026-08-22 02:19:42 - Processing K1266-184071743 [170/229] for code: FB2500KT
+2026-08-22 02:19:42 - 184071743 - Result: Successfully redeemed
+2026-08-22 02:19:43 - Processing K1266-184088377 [171/229] for code: FB2500KT
+2026-08-22 02:19:44 - 184088377 - Result: Successfully redeemed
+2026-08-22 02:19:45 - Processing K1266-184121399 [172/229] for code: FB2500KT
+2026-08-22 02:19:45 - 184121399 - Result: Successfully redeemed
+2026-08-22 02:19:46 - Processing K1266-184137674 [173/229] for code: FB2500KT
+2026-08-22 02:19:46 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-22 02:19:50 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-22 02:19:58 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-22 02:20:10 - 184137674 - Result: Redemption request failed
+2026-08-22 02:20:12 - Processing K1266-184153916 [174/229] for code: FB2500KT
+2026-08-22 02:20:12 - 184153916 - Result: Successfully redeemed
+2026-08-22 02:20:13 - Processing K1266-184159552 [175/229] for code: FB2500KT
+2026-08-22 02:20:13 - 184159552 - Result: Successfully redeemed
+2026-08-22 02:20:15 - Processing K1266-184169916 [176/229] for code: FB2500KT
+2026-08-22 02:20:15 - 184169916 - Result: Successfully redeemed
+2026-08-22 02:20:16 - Processing K1266-184170263 [177/229] for code: FB2500KT
+2026-08-22 02:20:16 - 184170263 - Result: Successfully redeemed
+2026-08-22 02:20:17 - Processing K1266-184175883 [178/229] for code: FB2500KT
+2026-08-22 02:20:17 - 184175883 - Result: Successfully redeemed
+2026-08-22 02:20:19 - Processing K1266-184176072 [179/229] for code: FB2500KT
+2026-08-22 02:20:19 - 184176072 - Result: Successfully redeemed
+2026-08-22 02:20:20 - Processing K1266-184202442 [180/229] for code: FB2500KT
+2026-08-22 02:20:20 - 184202442 - Result: Successfully redeemed
+2026-08-22 02:20:21 - Processing K1266-184202684 [181/229] for code: FB2500KT
+2026-08-22 02:20:21 - 184202684 - Result: Successfully redeemed
+2026-08-22 02:20:22 - Processing K1266-184219240 [182/229] for code: FB2500KT
+2026-08-22 02:20:23 - 184219240 - Result: Successfully redeemed
+2026-08-22 02:20:24 - Processing K1266-184235470 [183/229] for code: FB2500KT
+2026-08-22 02:20:24 - 184235470 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-08-22 02:20:26 - 184235470 - Result: Successfully redeemed
+2026-08-22 02:20:27 - Processing K1266-184252103 [184/229] for code: FB2500KT
+2026-08-22 02:20:27 - 184252103 - Result: Successfully redeemed
+2026-08-22 02:20:28 - Processing K1266-184257548 [185/229] for code: FB2500KT
+2026-08-22 02:20:28 - 184257548 - Result: Successfully redeemed
+2026-08-22 02:20:30 - Processing K1266-184268332 [186/229] for code: FB2500KT
+2026-08-22 02:20:30 - 184268332 - Result: Successfully redeemed
+2026-08-22 02:20:31 - Processing K1266-184285099 [187/229] for code: FB2500KT
+2026-08-22 02:20:31 - 184285099 - Result: Successfully redeemed
+2026-08-22 02:20:32 - Processing K1266-184300583 [188/229] for code: FB2500KT
+2026-08-22 02:20:32 - 184300583 - Result: Successfully redeemed
+2026-08-22 02:20:34 - Processing K1266-184323165 [189/229] for code: FB2500KT
+2026-08-22 02:20:34 - 184323165 - Result: Successfully redeemed
+2026-08-22 02:20:35 - Processing K1266-184334326 [190/229] for code: FB2500KT
+2026-08-22 02:20:35 - 184334326 - Result: Successfully redeemed
+2026-08-22 02:20:37 - Processing K1266-184355782 [191/229] for code: FB2500KT
+2026-08-22 02:20:37 - 184355782 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-08-22 02:20:39 - 184355782 - Result: Successfully redeemed
+2026-08-22 02:20:40 - Processing K1266-184366892 [192/229] for code: FB2500KT
+2026-08-22 02:20:40 - 184366892 - Result: Successfully redeemed
+2026-08-22 02:20:41 - Processing K1266-184382529 [193/229] for code: FB2500KT
+2026-08-22 02:20:41 - 184382529 - Result: Successfully redeemed
+2026-08-22 02:20:43 - Processing K1266-184398957 [194/229] for code: FB2500KT
+2026-08-22 02:20:43 - 184398957 - Result: Successfully redeemed
+2026-08-22 02:20:44 - Processing K1266-184481446 [195/229] for code: FB2500KT
+2026-08-22 02:20:44 - 184481446 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-08-22 02:20:46 - 184481446 - Result: Successfully redeemed
+2026-08-22 02:20:48 - Processing K1266-184546387 [196/229] for code: FB2500KT
+2026-08-22 02:20:48 - 184546387 - Result: Successfully redeemed
+2026-08-22 02:20:49 - Processing K1266-184925419 [197/229] for code: FB2500KT
+2026-08-22 02:20:49 - 184925419 - Result: Successfully redeemed
+2026-08-22 02:20:50 - Processing K1266-185480245 [198/229] for code: FB2500KT
+2026-08-22 02:20:50 - 185480245 - Result: Successfully redeemed
+2026-08-22 02:20:51 - Processing K1266-187102768 [199/229] for code: FB2500KT
+2026-08-22 02:20:52 - 187102768 - Result: Successfully redeemed
+2026-08-22 02:20:53 - Processing K1266-188087741 [200/229] for code: FB2500KT
+2026-08-22 02:20:53 - 188087741 - Result: Successfully redeemed
+2026-08-22 02:20:54 - Processing K1266-188470196 [201/229] for code: FB2500KT
+2026-08-22 02:20:54 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-22 02:20:58 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-22 02:21:06 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-22 02:21:18 - 188470196 - Result: Redemption request failed
+2026-08-22 02:21:20 - Processing K1266-188862376 [202/229] for code: FB2500KT
+2026-08-22 02:21:20 - 188862376 - Result: Successfully redeemed
+2026-08-22 02:21:21 - Processing K1266-189063297 [203/229] for code: FB2500KT
+2026-08-22 02:21:21 - 189063297 - Result: Successfully redeemed
+2026-08-22 02:21:22 - Processing K1266-190234418 [204/229] for code: FB2500KT
+2026-08-22 02:21:22 - 190234418 - Result: Successfully redeemed
+2026-08-22 02:21:23 - Processing K1266-190553232 [205/229] for code: FB2500KT
+2026-08-22 02:21:23 - 190553232 - Result: Successfully redeemed
+2026-08-22 02:21:25 - Processing K1266-190573918 [206/229] for code: FB2500KT
+2026-08-22 02:21:25 - 190573918 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-08-22 02:21:27 - 190573918 - Result: Successfully redeemed
+2026-08-22 02:21:28 - Processing K1266-193365290 [207/229] for code: FB2500KT
+2026-08-22 02:21:28 - 193365290 - Result: Successfully redeemed
+2026-08-22 02:21:29 - Processing K1266-194962807 [208/229] for code: FB2500KT
+2026-08-22 02:21:30 - 194962807 - Result: Successfully redeemed
+2026-08-22 02:21:31 - Processing K1266-195609436 [209/229] for code: FB2500KT
+2026-08-22 02:21:31 - 195609436 - Result: Successfully redeemed
+2026-08-22 02:21:32 - Processing K1266-195708034 [210/229] for code: FB2500KT
+2026-08-22 02:21:32 - 195708034 - Result: Successfully redeemed
+2026-08-22 02:21:33 - Processing K1266-197748881 [211/229] for code: FB2500KT
+2026-08-22 02:21:33 - 197748881 - Result: Successfully redeemed
+2026-08-22 02:21:34 - Processing K1266-198971997 [212/229] for code: FB2500KT
+2026-08-22 02:21:34 - 198971997 - Result: Successfully redeemed
+2026-08-22 02:21:36 - Processing K1266-199087822 [213/229] for code: FB2500KT
+2026-08-22 02:21:36 - 199087822 - Result: Successfully redeemed
+2026-08-22 02:21:37 - Processing K1266-199766078 [214/229] for code: FB2500KT
+2026-08-22 02:21:37 - 199766078 - Result: Successfully redeemed
+2026-08-22 02:21:39 - Processing K1266-202789741 [215/229] for code: FB2500KT
+2026-08-22 02:21:39 - 202789741 - Result: Successfully redeemed
+2026-08-22 02:21:40 - Processing K1266-214289119 [216/229] for code: FB2500KT
+2026-08-22 02:21:40 - 214289119 - Result: Successfully redeemed
+2026-08-22 02:21:41 - Processing K1266-216820126 [217/229] for code: FB2500KT
+2026-08-22 02:21:41 - 216820126 - Result: Successfully redeemed
+2026-08-22 02:21:43 - Processing K1266-219382121 [218/229] for code: FB2500KT
+2026-08-22 02:21:43 - 219382121 - Result: Successfully redeemed
+2026-08-22 02:21:44 - Processing K1266-221299698 [219/229] for code: FB2500KT
+2026-08-22 02:21:44 - 221299698 - Result: Successfully redeemed
+2026-08-22 02:21:45 - Processing K1266-239065229 [220/229] for code: FB2500KT
+2026-08-22 02:21:45 - 239065229 - Result: Successfully redeemed
+2026-08-22 02:21:47 - Processing K1266-247760465 [221/229] for code: FB2500KT
+2026-08-22 02:21:47 - 247760465 - Result: Successfully redeemed
+2026-08-22 02:21:48 - Processing K1266-257078077 [222/229] for code: FB2500KT
+2026-08-22 02:21:48 - 257078077 - Result: Successfully redeemed
+2026-08-22 02:21:49 - Processing K1266-270896390 [223/229] for code: FB2500KT
+2026-08-22 02:21:49 - 270896390 - Result: Successfully redeemed
+2026-08-22 02:21:51 - Processing K1266-278604391 [224/229] for code: FB2500KT
+2026-08-22 02:21:51 - 278604391 - Result: Successfully redeemed
+2026-08-22 02:21:52 - Processing K1266-302154974 [225/229] for code: FB2500KT
+2026-08-22 02:21:52 - 302154974 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-08-22 02:21:54 - 302154974 - Result: Successfully redeemed
+2026-08-22 02:21:55 - Processing K1266-377584801 [226/229] for code: FB2500KT
+2026-08-22 02:21:55 - 377584801 - Result: Successfully redeemed
+2026-08-22 02:21:57 - Processing K1266-378005527 [227/229] for code: FB2500KT
+2026-08-22 02:21:57 - 378005527 - Result: Successfully redeemed
+2026-08-22 02:21:58 - Processing K1266-378518775 [228/229] for code: FB2500KT
+2026-08-22 02:21:58 - 378518775 - Result: Successfully redeemed
+2026-08-22 02:21:59 - Processing K1266-381967745 [229/229] for code: FB2500KT
+2026-08-22 02:21:59 - 381967745 - Result: Successfully redeemed
+2026-08-22 02:22:01 - --- Cycle finished. Total processed: 229/229 ---
+2026-08-22 02:22:01 - 
+========================= Redemption Summary =========================
+2026-08-22 02:22:01 - Code Redeemed: FB2500KT
+2026-08-22 02:22:01 - Total Unique Player IDs Found: 229
+2026-08-22 02:22:01 - Total Player IDs Processed: 229
+2026-08-22 02:22:01 - Successfully redeemed: 222
+2026-08-22 02:22:01 - Already redeemed: 0
+2026-08-22 02:22:01 - Wrong kingdom: 0
+2026-08-22 02:22:01 - Other Errors/Failures: 7
+2026-08-22 02:22:01 - Rate Limit Events: 0
+2026-08-22 02:22:01 - Total execution time: 0:08:36
+2026-08-22 02:22:01 - ======================================================================
+2026-08-22 02:22:01 - Marked 'FB2500KT' as known.
+
