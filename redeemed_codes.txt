@@ -28289,3 +28289,34 @@
 2026-08-25 12:24:23 - Success with chrome124 impersonation
 2026-08-25 12:24:23 - No new gift codes found. All codes have been seen previously.
 2026-08-25 12:24:23 - Nothing to redeem.
+2026-08-25 16:23:08 - Checking https://kingshot.net/gift-codes for new gift codes...
+2026-08-25 16:23:08 - Using curl_cffi for Cloudflare bypass...
+2026-08-25 16:23:09 - Success with chrome124 impersonation
+2026-08-25 16:23:09 - 
+🎉 NEW GIFT CODES FOUND: v4nyYrew4
+2026-08-25 16:23:09 - 
+=== Starting redemption for gift code: v4nyYrew4 ===
+2026-08-25 16:23:09 - Read 231 player IDs from lod.csv (encoding: utf-8-sig, 231 with a kingdom)
+2026-08-25 16:23:09 - Removed 2 duplicate entries.
+2026-08-25 16:23:09 - Total unique player IDs to process: 229
+2026-08-25 16:23:09 - 
+--- Starting processing cycle. Ready player IDs: 229 ---
+2026-08-25 16:23:09 - Processing K1266-112607487 [1/229] for code: v4nyYrew4
+2026-08-25 16:23:09 - 112607487 - Result: Claim limit reached, unable to claim
+2026-08-25 16:23:09 - 
+ *** Claim limit reached, unable to claim! Stopping further processing. ***
+2026-08-25 16:23:09 - --- Cycle finished. Total processed: 1/229 ---
+2026-08-25 16:23:09 - 
+========================= Redemption Summary =========================
+2026-08-25 16:23:09 - Code Redeemed: v4nyYrew4
+2026-08-25 16:23:09 - Total Unique Player IDs Found: 229
+2026-08-25 16:23:09 - Total Player IDs Processed: 1
+2026-08-25 16:23:09 - Successfully redeemed: 0
+2026-08-25 16:23:09 - Already redeemed: 0
+2026-08-25 16:23:09 - Wrong kingdom: 0
+2026-08-25 16:23:09 - Other Errors/Failures: 0
+2026-08-25 16:23:09 - Rate Limit Events: 0
+2026-08-25 16:23:09 - Total execution time: 0:00:00
+2026-08-25 16:23:09 - ======================================================================
+2026-08-25 16:23:09 - Marked 'v4nyYrew4' as known.
+
