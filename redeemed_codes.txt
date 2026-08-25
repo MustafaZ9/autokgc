@@ -28320,3 +28320,8 @@
 2026-08-25 16:23:09 - ======================================================================
 2026-08-25 16:23:09 - Marked 'v4nyYrew4' as known.
 
+2026-08-25 20:15:57 - Checking https://kingshot.net/gift-codes for new gift codes...
+2026-08-25 20:15:58 - Using curl_cffi for Cloudflare bypass...
+2026-08-25 20:15:58 - Success with chrome124 impersonation
+2026-08-25 20:15:58 - No new gift codes found. All codes have been seen previously.
+2026-08-25 20:15:58 - Nothing to redeem.
