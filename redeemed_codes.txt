@@ -28385,3 +28385,536 @@
 2026-08-29 10:33:24 - Success with chrome124 impersonation
 2026-08-29 10:33:24 - No new gift codes found. All codes have been seen previously.
 2026-08-29 10:33:24 - Nothing to redeem.
+2026-08-29 12:10:53 - Checking https://kingshot.net/gift-codes for new gift codes...
+2026-08-29 12:10:53 - Using curl_cffi for Cloudflare bypass...
+2026-08-29 12:10:53 - Success with chrome124 impersonation
+2026-08-29 12:10:53 - 
+🎉 NEW GIFT CODES FOUND: CHILLWEEKEND
+2026-08-29 12:10:53 - 
+=== Starting redemption for gift code: CHILLWEEKEND ===
+2026-08-29 12:10:53 - Read 231 player IDs from lod.csv (encoding: utf-8-sig, 231 with a kingdom)
+2026-08-29 12:10:53 - Removed 2 duplicate entries.
+2026-08-29 12:10:53 - Total unique player IDs to process: 229
+2026-08-29 12:10:53 - 
+--- Starting processing cycle. Ready player IDs: 229 ---
+2026-08-29 12:10:53 - Processing K1266-112607487 [1/229] for code: CHILLWEEKEND
+2026-08-29 12:10:54 - 112607487 - Result: Successfully redeemed
+2026-08-29 12:10:55 - Processing K1266-114993837 [2/229] for code: CHILLWEEKEND
+2026-08-29 12:10:55 - 114993837 - Result: Successfully redeemed
+2026-08-29 12:10:56 - Processing K1266-134948830 [3/229] for code: CHILLWEEKEND
+2026-08-29 12:10:56 - 134948830 - Result: Successfully redeemed
+2026-08-29 12:10:58 - Processing K1266-137354109 [4/229] for code: CHILLWEEKEND
+2026-08-29 12:10:58 - 137354109 - Result: Successfully redeemed
+2026-08-29 12:10:59 - Processing K1266-137881550 [5/229] for code: CHILLWEEKEND
+2026-08-29 12:10:59 - 137881550 - Result: Successfully redeemed
+2026-08-29 12:11:01 - Processing K1266-138078147 [6/229] for code: CHILLWEEKEND
+2026-08-29 12:11:01 - 138078147 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-08-29 12:11:03 - 138078147 - Result: Successfully redeemed
+2026-08-29 12:11:04 - Processing K1266-139819795 [7/229] for code: CHILLWEEKEND
+2026-08-29 12:11:04 - 139819795 - Result: Successfully redeemed
+2026-08-29 12:11:05 - Processing K1266-156477789 [8/229] for code: CHILLWEEKEND
+2026-08-29 12:11:05 - 156477789 - Result: Successfully redeemed
+2026-08-29 12:11:07 - Processing K1266-162070715 [9/229] for code: CHILLWEEKEND
+2026-08-29 12:11:07 - 162070715 - Result: Successfully redeemed
+2026-08-29 12:11:08 - Processing K1266-172135597 [10/229] for code: CHILLWEEKEND
+2026-08-29 12:11:08 - 172135597 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-08-29 12:11:10 - 172135597 - Result: Successfully redeemed
+2026-08-29 12:11:12 - Processing K1266-176622413 [11/229] for code: CHILLWEEKEND
+2026-08-29 12:11:12 - 176622413 - Result: Successfully redeemed
+2026-08-29 12:11:13 - Processing K1266-176730452 [12/229] for code: CHILLWEEKEND
+2026-08-29 12:11:13 - 176730452 - Result: Successfully redeemed
+2026-08-29 12:11:15 - Processing K1266-177978644 [13/229] for code: CHILLWEEKEND
+2026-08-29 12:11:15 - 177978644 - Result: Successfully redeemed
+2026-08-29 12:11:16 - Processing K1266-178188212 [14/229] for code: CHILLWEEKEND
+2026-08-29 12:11:16 - 178188212 - Result: Successfully redeemed
+2026-08-29 12:11:18 - Processing K1266-179107716 [15/229] for code: CHILLWEEKEND
+2026-08-29 12:11:18 - 179107716 - Result: Successfully redeemed
+2026-08-29 12:11:19 - Processing K1266-180368647 [16/229] for code: CHILLWEEKEND
+2026-08-29 12:11:19 - 180368647 - Result: Successfully redeemed
+2026-08-29 12:11:20 - Processing K1266-180369109 [17/229] for code: CHILLWEEKEND
+2026-08-29 12:11:20 - 180369109 - Result: Successfully redeemed
+2026-08-29 12:11:22 - Processing K1266-180369142 [18/229] for code: CHILLWEEKEND
+2026-08-29 12:11:22 - 180369142 - Result: Successfully redeemed
+2026-08-29 12:11:23 - Processing K1266-180369159 [19/229] for code: CHILLWEEKEND
+2026-08-29 12:11:23 - 180369159 - Result: Successfully redeemed
+2026-08-29 12:11:24 - Processing K1266-180385375 [20/229] for code: CHILLWEEKEND
+2026-08-29 12:11:25 - 180385375 - Result: Successfully redeemed
+2026-08-29 12:11:26 - Processing K1266-180385792 [21/229] for code: CHILLWEEKEND
+2026-08-29 12:11:26 - 180385792 - Result: Successfully redeemed
+2026-08-29 12:11:27 - Processing K1266-180418498 [22/229] for code: CHILLWEEKEND
+2026-08-29 12:11:27 - 180418498 - Result: Successfully redeemed
+2026-08-29 12:11:28 - Processing K1266-180434357 [23/229] for code: CHILLWEEKEND
+2026-08-29 12:11:29 - 180434357 - Result: Successfully redeemed
+2026-08-29 12:11:30 - Processing K1266-180483302 [24/229] for code: CHILLWEEKEND
+2026-08-29 12:11:30 - 180483302 - Result: Successfully redeemed
+2026-08-29 12:11:31 - Processing K1266-180565782 [25/229] for code: CHILLWEEKEND
+2026-08-29 12:11:32 - 180565782 - Result: Successfully redeemed
+2026-08-29 12:11:33 - Processing K1266-180614319 [26/229] for code: CHILLWEEKEND
+2026-08-29 12:11:33 - 180614319 - Result: Successfully redeemed
+2026-08-29 12:11:34 - Processing K1266-180636958 [27/229] for code: CHILLWEEKEND
+2026-08-29 12:11:35 - 180636958 - Result: Successfully redeemed
+2026-08-29 12:11:36 - Processing K1266-180669914 [28/229] for code: CHILLWEEKEND
+2026-08-29 12:11:36 - 180669914 - Result: Successfully redeemed
+2026-08-29 12:11:38 - Processing K1266-180696652 [29/229] for code: CHILLWEEKEND
+2026-08-29 12:11:38 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-29 12:11:42 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-29 12:11:50 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-29 12:12:02 - 180696652 - Result: Redemption request failed
+2026-08-29 12:12:03 - Processing K1266-180729920 [30/229] for code: CHILLWEEKEND
+2026-08-29 12:12:04 - 180729920 - Result: Successfully redeemed
+2026-08-29 12:12:05 - Processing K1266-180778760 [31/229] for code: CHILLWEEKEND
+2026-08-29 12:12:05 - 180778760 - Result: Successfully redeemed
+2026-08-29 12:12:06 - Processing K1266-180827986 [32/229] for code: CHILLWEEKEND
+2026-08-29 12:12:06 - 180827986 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-08-29 12:12:09 - 180827986 - Result: Successfully redeemed
+2026-08-29 12:12:10 - Processing K1266-180893335 [33/229] for code: CHILLWEEKEND
+2026-08-29 12:12:10 - 180893335 - Result: Successfully redeemed
+2026-08-29 12:12:11 - Processing K1266-180893684 [34/229] for code: CHILLWEEKEND
+2026-08-29 12:12:11 - 180893684 - Result: Successfully redeemed
+2026-08-29 12:12:13 - Processing K1266-180893765 [35/229] for code: CHILLWEEKEND
+2026-08-29 12:12:13 - 180893765 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-08-29 12:12:15 - 180893765 - Result: Successfully redeemed
+2026-08-29 12:12:16 - Processing K1266-180959009 [36/229] for code: CHILLWEEKEND
+2026-08-29 12:12:16 - 180959009 - Result: Successfully redeemed
+2026-08-29 12:12:18 - Processing K1266-181073393 [37/229] for code: CHILLWEEKEND
+2026-08-29 12:12:18 - 181073393 - Result: Successfully redeemed
+2026-08-29 12:12:19 - Processing K1266-181106609 [38/229] for code: CHILLWEEKEND
+2026-08-29 12:12:19 - 181106609 - Result: Successfully redeemed
+2026-08-29 12:12:21 - Processing K1266-181122260 [39/229] for code: CHILLWEEKEND
+2026-08-29 12:12:21 - 181122260 - Result: Successfully redeemed
+2026-08-29 12:12:22 - Processing K1266-181155772 [40/229] for code: CHILLWEEKEND
+2026-08-29 12:12:22 - 181155772 - Result: Successfully redeemed
+2026-08-29 12:12:23 - Processing K1266-181171461 [41/229] for code: CHILLWEEKEND
+2026-08-29 12:12:23 - 181171461 - Result: Successfully redeemed
+2026-08-29 12:12:25 - Processing K1266-181286832 [42/229] for code: CHILLWEEKEND
+2026-08-29 12:12:25 - 181286832 - Result: Successfully redeemed
+2026-08-29 12:12:26 - Processing K1266-181340930 [43/229] for code: CHILLWEEKEND
+2026-08-29 12:12:26 - 181340930 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-08-29 12:12:28 - 181340930 - Result: Successfully redeemed
+2026-08-29 12:12:29 - Processing K1266-181341522 [44/229] for code: CHILLWEEKEND
+2026-08-29 12:12:30 - 181341522 - Result: Successfully redeemed
+2026-08-29 12:12:31 - Processing K1266-181351852 [45/229] for code: CHILLWEEKEND
+2026-08-29 12:12:31 - 181351852 - Result: Successfully redeemed
+2026-08-29 12:12:32 - Processing K1266-181358276 [46/229] for code: CHILLWEEKEND
+2026-08-29 12:12:32 - 181358276 - Result: Successfully redeemed
+2026-08-29 12:12:34 - Processing K1266-181374419 [47/229] for code: CHILLWEEKEND
+2026-08-29 12:12:34 - 181374419 - Result: Successfully redeemed
+2026-08-29 12:12:35 - Processing K1266-181384836 [48/229] for code: CHILLWEEKEND
+2026-08-29 12:12:35 - 181384836 - Result: Successfully redeemed
+2026-08-29 12:12:36 - Processing K1266-181385198 [49/229] for code: CHILLWEEKEND
+2026-08-29 12:12:37 - 181385198 - Result: Successfully redeemed
+2026-08-29 12:12:38 - Processing K1266-181401589 [50/229] for code: CHILLWEEKEND
+2026-08-29 12:12:38 - 181401589 - Result: Successfully redeemed
+2026-08-29 12:12:39 - Processing K1266-181407057 [51/229] for code: CHILLWEEKEND
+2026-08-29 12:12:39 - 181407057 - Result: Successfully redeemed
+2026-08-29 12:12:41 - Processing K1266-181423528 [52/229] for code: CHILLWEEKEND
+2026-08-29 12:12:41 - 181423528 - Result: Successfully redeemed
+2026-08-29 12:12:42 - Processing K1266-181440017 [53/229] for code: CHILLWEEKEND
+2026-08-29 12:12:42 - 181440017 - Result: Successfully redeemed
+2026-08-29 12:12:43 - Processing K1266-181466821 [54/229] for code: CHILLWEEKEND
+2026-08-29 12:12:43 - 181466821 - Result: Successfully redeemed
+2026-08-29 12:12:45 - Processing K1266-181515253 [55/229] for code: CHILLWEEKEND
+2026-08-29 12:12:45 - 181515253 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-08-29 12:12:47 - 181515253 - Result: Successfully redeemed
+2026-08-29 12:12:48 - Processing K1266-181516264 [56/229] for code: CHILLWEEKEND
+2026-08-29 12:12:48 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-29 12:12:52 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-29 12:13:00 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-29 12:13:12 - 181516264 - Result: Redemption request failed
+2026-08-29 12:13:14 - Processing K1266-181521367 [57/229] for code: CHILLWEEKEND
+2026-08-29 12:13:14 - 181521367 - Result: Successfully redeemed
+2026-08-29 12:13:15 - Processing K1266-181532757 [58/229] for code: CHILLWEEKEND
+2026-08-29 12:13:15 - 181532757 - Result: Successfully redeemed
+2026-08-29 12:13:16 - Processing K1266-181565051 [59/229] for code: CHILLWEEKEND
+2026-08-29 12:13:16 - 181565051 - Result: Successfully redeemed
+2026-08-29 12:13:17 - Processing K1266-181571708 [60/229] for code: CHILLWEEKEND
+2026-08-29 12:13:17 - 181571708 - Result: Successfully redeemed
+2026-08-29 12:13:19 - Processing K1266-181614011 [61/229] for code: CHILLWEEKEND
+2026-08-29 12:13:19 - 181614011 - Result: Successfully redeemed
+2026-08-29 12:13:21 - Processing K1266-181630719 [62/229] for code: CHILLWEEKEND
+2026-08-29 12:13:21 - 181630719 - Result: Successfully redeemed
+2026-08-29 12:13:22 - Processing K1266-181646830 [63/229] for code: CHILLWEEKEND
+2026-08-29 12:13:22 - 181646830 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-08-29 12:13:24 - 181646830 - Result: Successfully redeemed
+2026-08-29 12:13:25 - Processing K1266-181663028 [64/229] for code: CHILLWEEKEND
+2026-08-29 12:13:26 - 181663028 - Result: Successfully redeemed
+2026-08-29 12:13:27 - Processing K1266-181669304 [65/229] for code: CHILLWEEKEND
+2026-08-29 12:13:27 - 181669304 - Result: Successfully redeemed
+2026-08-29 12:13:28 - Processing K1266-181696527 [66/229] for code: CHILLWEEKEND
+2026-08-29 12:13:28 - 181696527 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-08-29 12:13:30 - 181696527 - Result: Successfully redeemed
+2026-08-29 12:13:31 - Processing K1266-181734398 [67/229] for code: CHILLWEEKEND
+2026-08-29 12:13:31 - 181734398 - Result: Successfully redeemed
+2026-08-29 12:13:32 - Processing K1266-181761437 [68/229] for code: CHILLWEEKEND
+2026-08-29 12:13:33 - 181761437 - Result: Successfully redeemed
+2026-08-29 12:13:34 - Processing K1266-181778389 [69/229] for code: CHILLWEEKEND
+2026-08-29 12:13:34 - 181778389 - Result: Successfully redeemed
+2026-08-29 12:13:35 - Processing K1266-181793958 [70/229] for code: CHILLWEEKEND
+2026-08-29 12:13:36 - 181793958 - Result: Successfully redeemed
+2026-08-29 12:13:37 - Processing K1266-181794115 [71/229] for code: CHILLWEEKEND
+2026-08-29 12:13:37 - 181794115 - Result: Successfully redeemed
+2026-08-29 12:13:38 - Processing K1266-181816445 [72/229] for code: CHILLWEEKEND
+2026-08-29 12:13:38 - 181816445 - Result: Successfully redeemed
+2026-08-29 12:13:40 - Processing K1266-181859621 [73/229] for code: CHILLWEEKEND
+2026-08-29 12:13:40 - 181859621 - Result: Successfully redeemed
+2026-08-29 12:13:41 - Processing K1266-181859892 [74/229] for code: CHILLWEEKEND
+2026-08-29 12:13:41 - 181859892 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-08-29 12:13:44 - 181859892 - [Attempt 2/3] TIMEOUT RETRY. Retrying...
+2026-08-29 12:13:48 - 181859892 - Result: Successfully redeemed
+2026-08-29 12:13:49 - Processing K1266-181859948 [75/229] for code: CHILLWEEKEND
+2026-08-29 12:13:49 - 181859948 - Result: Successfully redeemed
+2026-08-29 12:13:50 - Processing K1266-181860239 [76/229] for code: CHILLWEEKEND
+2026-08-29 12:13:50 - 181860239 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-08-29 12:13:52 - 181860239 - Result: Successfully redeemed
+2026-08-29 12:13:54 - Processing K1266-181892322 [77/229] for code: CHILLWEEKEND
+2026-08-29 12:13:54 - 181892322 - Result: Successfully redeemed
+2026-08-29 12:13:55 - Processing K1266-181941995 [78/229] for code: CHILLWEEKEND
+2026-08-29 12:13:55 - 181941995 - Result: Successfully redeemed
+2026-08-29 12:13:56 - Processing K1266-181942353 [79/229] for code: CHILLWEEKEND
+2026-08-29 12:13:57 - 181942353 - Result: Successfully redeemed
+2026-08-29 12:13:58 - Processing K1266-181957758 [80/229] for code: CHILLWEEKEND
+2026-08-29 12:13:58 - 181957758 - Result: Successfully redeemed
+2026-08-29 12:13:59 - Processing K1266-181958534 [81/229] for code: CHILLWEEKEND
+2026-08-29 12:13:59 - 181958534 - Result: Successfully redeemed
+2026-08-29 12:14:00 - Processing K1266-182013382 [82/229] for code: CHILLWEEKEND
+2026-08-29 12:14:00 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-29 12:14:04 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-29 12:14:13 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-29 12:14:25 - 182013382 - Result: Redemption request failed
+2026-08-29 12:14:26 - Processing K1266-182022970 [83/229] for code: CHILLWEEKEND
+2026-08-29 12:14:26 - 182022970 - Result: Successfully redeemed
+2026-08-29 12:14:27 - Processing K1266-182072645 [84/229] for code: CHILLWEEKEND
+2026-08-29 12:14:27 - 182072645 - Result: Successfully redeemed
+2026-08-29 12:14:29 - Processing K1266-182138218 [85/229] for code: CHILLWEEKEND
+2026-08-29 12:14:29 - 182138218 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-08-29 12:14:31 - 182138218 - [Attempt 2/3] TIMEOUT RETRY. Retrying...
+2026-08-29 12:14:35 - 182138218 - Max attempts reached after TIMEOUT RETRY.
+2026-08-29 12:14:35 - 182138218 - Result: Server requested retry
+2026-08-29 12:14:36 - Processing K1266-182138227 [86/229] for code: CHILLWEEKEND
+2026-08-29 12:14:36 - 182138227 - Result: Successfully redeemed
+2026-08-29 12:14:38 - Processing K1266-182144355 [87/229] for code: CHILLWEEKEND
+2026-08-29 12:14:38 - 182144355 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-08-29 12:14:40 - 182144355 - Result: Successfully redeemed
+2026-08-29 12:14:41 - Processing K1266-182203900 [88/229] for code: CHILLWEEKEND
+2026-08-29 12:14:41 - 182203900 - Result: Successfully redeemed
+2026-08-29 12:14:43 - Processing K1266-182210139 [89/229] for code: CHILLWEEKEND
+2026-08-29 12:14:43 - 182210139 - Result: Successfully redeemed
+2026-08-29 12:14:44 - Processing K1266-182275359 [90/229] for code: CHILLWEEKEND
+2026-08-29 12:14:44 - 182275359 - Result: Successfully redeemed
+2026-08-29 12:14:46 - Processing K1266-182286440 [91/229] for code: CHILLWEEKEND
+2026-08-29 12:14:46 - 182286440 - Result: Successfully redeemed
+2026-08-29 12:14:47 - Processing K1266-182302366 [92/229] for code: CHILLWEEKEND
+2026-08-29 12:14:47 - 182302366 - Result: Successfully redeemed
+2026-08-29 12:14:48 - Processing K1266-182318888 [93/229] for code: CHILLWEEKEND
+2026-08-29 12:14:48 - 182318888 - Result: Successfully redeemed
+2026-08-29 12:14:50 - Processing K1266-182318966 [94/229] for code: CHILLWEEKEND
+2026-08-29 12:14:50 - 182318966 - Result: Successfully redeemed
+2026-08-29 12:14:51 - Processing K1266-182318992 [95/229] for code: CHILLWEEKEND
+2026-08-29 12:14:51 - 182318992 - Result: Successfully redeemed
+2026-08-29 12:14:52 - Processing K1266-182334781 [96/229] for code: CHILLWEEKEND
+2026-08-29 12:14:53 - 182334781 - Result: Successfully redeemed
+2026-08-29 12:14:54 - Processing K1266-182384377 [97/229] for code: CHILLWEEKEND
+2026-08-29 12:14:54 - 182384377 - Result: Successfully redeemed
+2026-08-29 12:14:55 - Processing K1266-182417500 [98/229] for code: CHILLWEEKEND
+2026-08-29 12:14:55 - 182417500 - Result: Successfully redeemed
+2026-08-29 12:14:57 - Processing K1266-182419290 [99/229] for code: CHILLWEEKEND
+2026-08-29 12:14:57 - 182419290 - Result: Successfully redeemed
+2026-08-29 12:14:58 - Processing K1266-182449206 [100/229] for code: CHILLWEEKEND
+2026-08-29 12:14:58 - 182449206 - Result: Successfully redeemed
+2026-08-29 12:14:59 - Processing K1266-182466031 [101/229] for code: CHILLWEEKEND
+2026-08-29 12:14:59 - 182466031 - Result: Successfully redeemed
+2026-08-29 12:15:01 - Processing K1266-182466200 [102/229] for code: CHILLWEEKEND
+2026-08-29 12:15:01 - 182466200 - Result: Successfully redeemed
+2026-08-29 12:15:02 - Processing K1266-182488759 [103/229] for code: CHILLWEEKEND
+2026-08-29 12:15:02 - 182488759 - Result: Successfully redeemed
+2026-08-29 12:15:03 - Processing K1266-182498855 [104/229] for code: CHILLWEEKEND
+2026-08-29 12:15:03 - 182498855 - Result: Successfully redeemed
+2026-08-29 12:15:05 - Processing K1266-182531700 [105/229] for code: CHILLWEEKEND
+2026-08-29 12:15:05 - 182531700 - Result: Successfully redeemed
+2026-08-29 12:15:06 - Processing K1266-182646613 [106/229] for code: CHILLWEEKEND
+2026-08-29 12:15:06 - 182646613 - Result: Successfully redeemed
+2026-08-29 12:15:08 - Processing K1266-182668737 [107/229] for code: CHILLWEEKEND
+2026-08-29 12:15:08 - 182668737 - Result: Successfully redeemed
+2026-08-29 12:15:09 - Processing K1266-182717899 [108/229] for code: CHILLWEEKEND
+2026-08-29 12:15:09 - 182717899 - Result: Successfully redeemed
+2026-08-29 12:15:10 - Processing K1266-182767010 [109/229] for code: CHILLWEEKEND
+2026-08-29 12:15:10 - 182767010 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-08-29 12:15:12 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-29 12:15:17 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-29 12:15:25 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-29 12:15:37 - 182767010 - Result: Redemption request failed
+2026-08-29 12:15:38 - Processing K1266-182810221 [110/229] for code: CHILLWEEKEND
+2026-08-29 12:15:38 - 182810221 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-08-29 12:15:40 - 182810221 - Result: Successfully redeemed
+2026-08-29 12:15:41 - Processing K1266-182858998 [111/229] for code: CHILLWEEKEND
+2026-08-29 12:15:41 - 182858998 - Result: Successfully redeemed
+2026-08-29 12:15:42 - Processing K1266-182859667 [112/229] for code: CHILLWEEKEND
+2026-08-29 12:15:42 - 182859667 - Result: Successfully redeemed
+2026-08-29 12:15:44 - Processing K1266-182892106 [113/229] for code: CHILLWEEKEND
+2026-08-29 12:15:44 - 182892106 - Result: Successfully redeemed
+2026-08-29 12:15:45 - Processing K1266-182892217 [114/229] for code: CHILLWEEKEND
+2026-08-29 12:15:45 - 182892217 - Result: Successfully redeemed
+2026-08-29 12:15:46 - Processing K1266-182898057 [115/229] for code: CHILLWEEKEND
+2026-08-29 12:15:46 - 182898057 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-08-29 12:15:49 - 182898057 - Result: Successfully redeemed
+2026-08-29 12:15:50 - Processing K1266-182908483 [116/229] for code: CHILLWEEKEND
+2026-08-29 12:15:50 - 182908483 - Result: Successfully redeemed
+2026-08-29 12:15:51 - Processing K1266-182941162 [117/229] for code: CHILLWEEKEND
+2026-08-29 12:15:51 - 182941162 - Result: Successfully redeemed
+2026-08-29 12:15:52 - Processing K1266-182941502 [118/229] for code: CHILLWEEKEND
+2026-08-29 12:15:52 - 182941502 - Result: Successfully redeemed
+2026-08-29 12:15:53 - Processing K1266-183012848 [119/229] for code: CHILLWEEKEND
+2026-08-29 12:15:54 - 183012848 - Result: Successfully redeemed
+2026-08-29 12:15:55 - Processing K1266-183028805 [120/229] for code: CHILLWEEKEND
+2026-08-29 12:15:55 - 183028805 - Result: Successfully redeemed
+2026-08-29 12:15:56 - Processing K1266-183029342 [121/229] for code: CHILLWEEKEND
+2026-08-29 12:15:56 - 183029342 - Result: Successfully redeemed
+2026-08-29 12:15:58 - Processing K1266-183072306 [122/229] for code: CHILLWEEKEND
+2026-08-29 12:15:58 - 183072306 - Result: Successfully redeemed
+2026-08-29 12:15:59 - Processing K1266-183072746 [123/229] for code: CHILLWEEKEND
+2026-08-29 12:15:59 - 183072746 - Result: Successfully redeemed
+2026-08-29 12:16:01 - Processing K1266-183072824 [124/229] for code: CHILLWEEKEND
+2026-08-29 12:16:01 - 183072824 - Result: Successfully redeemed
+2026-08-29 12:16:02 - Processing K1266-183089209 [125/229] for code: CHILLWEEKEND
+2026-08-29 12:16:02 - 183089209 - Result: Successfully redeemed
+2026-08-29 12:16:04 - Processing K1266-183121113 [126/229] for code: CHILLWEEKEND
+2026-08-29 12:16:04 - 183121113 - Result: Successfully redeemed
+2026-08-29 12:16:05 - Processing K1266-183137287 [127/229] for code: CHILLWEEKEND
+2026-08-29 12:16:05 - 183137287 - Result: Already redeemed
+2026-08-29 12:16:07 - Processing K1266-183154303 [128/229] for code: CHILLWEEKEND
+2026-08-29 12:16:07 - 183154303 - Result: Successfully redeemed
+2026-08-29 12:16:08 - Processing K1266-183170657 [129/229] for code: CHILLWEEKEND
+2026-08-29 12:16:08 - 183170657 - Result: Successfully redeemed
+2026-08-29 12:16:09 - Processing K1266-183176536 [130/229] for code: CHILLWEEKEND
+2026-08-29 12:16:09 - 183176536 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-08-29 12:16:12 - 183176536 - Result: Successfully redeemed
+2026-08-29 12:16:13 - Processing K1266-183219343 [131/229] for code: CHILLWEEKEND
+2026-08-29 12:16:13 - 183219343 - Result: Successfully redeemed
+2026-08-29 12:16:14 - Processing K1266-183252993 [132/229] for code: CHILLWEEKEND
+2026-08-29 12:16:14 - 183252993 - Result: Successfully redeemed
+2026-08-29 12:16:15 - Processing K1266-183285360 [133/229] for code: CHILLWEEKEND
+2026-08-29 12:16:16 - 183285360 - Result: Successfully redeemed
+2026-08-29 12:16:17 - Processing K1266-183366693 [134/229] for code: CHILLWEEKEND
+2026-08-29 12:16:17 - 183366693 - Result: Successfully redeemed
+2026-08-29 12:16:18 - Processing K1266-183367342 [135/229] for code: CHILLWEEKEND
+2026-08-29 12:16:18 - 183367342 - Result: Successfully redeemed
+2026-08-29 12:16:20 - Processing K1266-183383666 [136/229] for code: CHILLWEEKEND
+2026-08-29 12:16:20 - 183383666 - Result: Successfully redeemed
+2026-08-29 12:16:21 - Processing K1266-183384158 [137/229] for code: CHILLWEEKEND
+2026-08-29 12:16:21 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-29 12:16:25 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-29 12:16:33 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-29 12:16:45 - 183384158 - Result: Redemption request failed
+2026-08-29 12:16:47 - Processing K1266-183449358 [138/229] for code: CHILLWEEKEND
+2026-08-29 12:16:47 - 183449358 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-08-29 12:16:49 - 183449358 - Result: Successfully redeemed
+2026-08-29 12:16:50 - Processing K1266-183455373 [139/229] for code: CHILLWEEKEND
+2026-08-29 12:16:50 - 183455373 - Result: Successfully redeemed
+2026-08-29 12:16:51 - Processing K1266-183465208 [140/229] for code: CHILLWEEKEND
+2026-08-29 12:16:51 - 183465208 - Result: Successfully redeemed
+2026-08-29 12:16:53 - Processing K1266-183514753 [141/229] for code: CHILLWEEKEND
+2026-08-29 12:16:53 - 183514753 - Result: Successfully redeemed
+2026-08-29 12:16:54 - Processing K1266-183531242 [142/229] for code: CHILLWEEKEND
+2026-08-29 12:16:54 - 183531242 - Result: Successfully redeemed
+2026-08-29 12:16:56 - Processing K1266-183563334 [143/229] for code: CHILLWEEKEND
+2026-08-29 12:16:56 - 183563334 - Result: Successfully redeemed
+2026-08-29 12:16:57 - Processing K1266-183579631 [144/229] for code: CHILLWEEKEND
+2026-08-29 12:16:57 - 183579631 - Result: Successfully redeemed
+2026-08-29 12:16:59 - Processing K1266-183579641 [145/229] for code: CHILLWEEKEND
+2026-08-29 12:16:59 - 183579641 - Result: Successfully redeemed
+2026-08-29 12:17:00 - Processing K1266-183602956 [146/229] for code: CHILLWEEKEND
+2026-08-29 12:17:00 - 183602956 - Result: Successfully redeemed
+2026-08-29 12:17:01 - Processing K1266-183635567 [147/229] for code: CHILLWEEKEND
+2026-08-29 12:17:02 - 183635567 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-08-29 12:17:04 - 183635567 - [Attempt 2/3] TIMEOUT RETRY. Retrying...
+2026-08-29 12:17:08 - 183635567 - Result: Successfully redeemed
+2026-08-29 12:17:09 - Processing K1266-183662249 [148/229] for code: CHILLWEEKEND
+2026-08-29 12:17:09 - 183662249 - Result: Successfully redeemed
+2026-08-29 12:17:11 - Processing K1266-183678571 [149/229] for code: CHILLWEEKEND
+2026-08-29 12:17:11 - 183678571 - Result: Successfully redeemed
+2026-08-29 12:17:12 - Processing K1266-183744074 [150/229] for code: CHILLWEEKEND
+2026-08-29 12:17:12 - 183744074 - Result: Successfully redeemed
+2026-08-29 12:17:13 - Processing K1266-183760133 [151/229] for code: CHILLWEEKEND
+2026-08-29 12:17:14 - 183760133 - Result: Successfully redeemed
+2026-08-29 12:17:15 - Processing K1266-183776526 [152/229] for code: CHILLWEEKEND
+2026-08-29 12:17:15 - 183776526 - Result: Successfully redeemed
+2026-08-29 12:17:16 - Processing K1266-183792859 [153/229] for code: CHILLWEEKEND
+2026-08-29 12:17:16 - 183792859 - Result: Successfully redeemed
+2026-08-29 12:17:18 - Processing K1266-183793260 [154/229] for code: CHILLWEEKEND
+2026-08-29 12:17:18 - 183793260 - Result: Successfully redeemed
+2026-08-29 12:17:19 - Processing K1266-183799231 [155/229] for code: CHILLWEEKEND
+2026-08-29 12:17:19 - 183799231 - Result: Successfully redeemed
+2026-08-29 12:17:20 - Processing K1266-183809202 [156/229] for code: CHILLWEEKEND
+2026-08-29 12:17:20 - 183809202 - Result: Successfully redeemed
+2026-08-29 12:17:22 - Processing K1266-183826046 [157/229] for code: CHILLWEEKEND
+2026-08-29 12:17:22 - 183826046 - Result: Successfully redeemed
+2026-08-29 12:17:23 - Processing K1266-183826079 [158/229] for code: CHILLWEEKEND
+2026-08-29 12:17:23 - 183826079 - Result: Successfully redeemed
+2026-08-29 12:17:24 - Processing K1266-183842429 [159/229] for code: CHILLWEEKEND
+2026-08-29 12:17:25 - 183842429 - Result: Successfully redeemed
+2026-08-29 12:17:26 - Processing K1266-183858943 [160/229] for code: CHILLWEEKEND
+2026-08-29 12:17:26 - 183858943 - Result: Successfully redeemed
+2026-08-29 12:17:27 - Processing K1266-183859043 [161/229] for code: CHILLWEEKEND
+2026-08-29 12:17:27 - 183859043 - Result: Successfully redeemed
+2026-08-29 12:17:28 - Processing K1266-183907855 [162/229] for code: CHILLWEEKEND
+2026-08-29 12:17:28 - 183907855 - Result: Successfully redeemed
+2026-08-29 12:17:30 - Processing K1266-183924658 [163/229] for code: CHILLWEEKEND
+2026-08-29 12:17:30 - 183924658 - Result: Successfully redeemed
+2026-08-29 12:17:31 - Processing K1266-183924660 [164/229] for code: CHILLWEEKEND
+2026-08-29 12:17:31 - 183924660 - Result: Successfully redeemed
+2026-08-29 12:17:32 - Processing K1266-183940809 [165/229] for code: CHILLWEEKEND
+2026-08-29 12:17:32 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-29 12:17:37 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-29 12:17:45 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-29 12:17:57 - 183940809 - Result: Redemption request failed
+2026-08-29 12:17:58 - Processing K1266-183946385 [166/229] for code: CHILLWEEKEND
+2026-08-29 12:17:58 - 183946385 - Result: Successfully redeemed
+2026-08-29 12:17:59 - Processing K1266-183946804 [167/229] for code: CHILLWEEKEND
+2026-08-29 12:17:59 - 183946804 - Result: Successfully redeemed
+2026-08-29 12:18:01 - Processing K1266-184005794 [168/229] for code: CHILLWEEKEND
+2026-08-29 12:18:01 - 184005794 - Result: Successfully redeemed
+2026-08-29 12:18:02 - Processing K1266-184022781 [169/229] for code: CHILLWEEKEND
+2026-08-29 12:18:02 - 184022781 - Result: Successfully redeemed
+2026-08-29 12:18:04 - Processing K1266-184071743 [170/229] for code: CHILLWEEKEND
+2026-08-29 12:18:04 - 184071743 - Result: Successfully redeemed
+2026-08-29 12:18:05 - Processing K1266-184088377 [171/229] for code: CHILLWEEKEND
+2026-08-29 12:18:05 - 184088377 - Result: Successfully redeemed
+2026-08-29 12:18:06 - Processing K1266-184121399 [172/229] for code: CHILLWEEKEND
+2026-08-29 12:18:07 - 184121399 - Result: Successfully redeemed
+2026-08-29 12:18:08 - Processing K1266-184137674 [173/229] for code: CHILLWEEKEND
+2026-08-29 12:18:08 - 184137674 - Result: Successfully redeemed
+2026-08-29 12:18:09 - Processing K1266-184153916 [174/229] for code: CHILLWEEKEND
+2026-08-29 12:18:10 - 184153916 - Result: Successfully redeemed
+2026-08-29 12:18:11 - Processing K1266-184159552 [175/229] for code: CHILLWEEKEND
+2026-08-29 12:18:11 - 184159552 - Result: Successfully redeemed
+2026-08-29 12:18:12 - Processing K1266-184169916 [176/229] for code: CHILLWEEKEND
+2026-08-29 12:18:12 - 184169916 - Result: Successfully redeemed
+2026-08-29 12:18:14 - Processing K1266-184170263 [177/229] for code: CHILLWEEKEND
+2026-08-29 12:18:14 - 184170263 - Result: Successfully redeemed
+2026-08-29 12:18:15 - Processing K1266-184175883 [178/229] for code: CHILLWEEKEND
+2026-08-29 12:18:15 - 184175883 - Result: Successfully redeemed
+2026-08-29 12:18:16 - Processing K1266-184176072 [179/229] for code: CHILLWEEKEND
+2026-08-29 12:18:16 - 184176072 - Result: Successfully redeemed
+2026-08-29 12:18:17 - Processing K1266-184202442 [180/229] for code: CHILLWEEKEND
+2026-08-29 12:18:17 - 184202442 - Result: Successfully redeemed
+2026-08-29 12:18:19 - Processing K1266-184202684 [181/229] for code: CHILLWEEKEND
+2026-08-29 12:18:19 - 184202684 - Result: Successfully redeemed
+2026-08-29 12:18:20 - Processing K1266-184219240 [182/229] for code: CHILLWEEKEND
+2026-08-29 12:18:20 - 184219240 - Result: Successfully redeemed
+2026-08-29 12:18:21 - Processing K1266-184235470 [183/229] for code: CHILLWEEKEND
+2026-08-29 12:18:21 - 184235470 - Result: Successfully redeemed
+2026-08-29 12:18:22 - Processing K1266-184252103 [184/229] for code: CHILLWEEKEND
+2026-08-29 12:18:23 - 184252103 - Result: Successfully redeemed
+2026-08-29 12:18:24 - Processing K1266-184257548 [185/229] for code: CHILLWEEKEND
+2026-08-29 12:18:24 - 184257548 - Result: Successfully redeemed
+2026-08-29 12:18:25 - Processing K1266-184268332 [186/229] for code: CHILLWEEKEND
+2026-08-29 12:18:25 - 184268332 - Result: Successfully redeemed
+2026-08-29 12:18:26 - Processing K1266-184285099 [187/229] for code: CHILLWEEKEND
+2026-08-29 12:18:27 - 184285099 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-08-29 12:18:29 - 184285099 - Result: Successfully redeemed
+2026-08-29 12:18:30 - Processing K1266-184300583 [188/229] for code: CHILLWEEKEND
+2026-08-29 12:18:30 - 184300583 - Result: Successfully redeemed
+2026-08-29 12:18:31 - Processing K1266-184323165 [189/229] for code: CHILLWEEKEND
+2026-08-29 12:18:32 - 184323165 - Result: Successfully redeemed
+2026-08-29 12:18:33 - Processing K1266-184334326 [190/229] for code: CHILLWEEKEND
+2026-08-29 12:18:33 - 184334326 - Result: Successfully redeemed
+2026-08-29 12:18:34 - Processing K1266-184355782 [191/229] for code: CHILLWEEKEND
+2026-08-29 12:18:34 - 184355782 - Result: Successfully redeemed
+2026-08-29 12:18:35 - Processing K1266-184366892 [192/229] for code: CHILLWEEKEND
+2026-08-29 12:18:35 - 184366892 - Result: Successfully redeemed
+2026-08-29 12:18:37 - Processing K1266-184382529 [193/229] for code: CHILLWEEKEND
+2026-08-29 12:18:37 - 184382529 - Result: Successfully redeemed
+2026-08-29 12:18:38 - Processing K1266-184398957 [194/229] for code: CHILLWEEKEND
+2026-08-29 12:18:38 - 184398957 - Result: Successfully redeemed
+2026-08-29 12:18:40 - Processing K1266-184481446 [195/229] for code: CHILLWEEKEND
+2026-08-29 12:18:40 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-29 12:18:44 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-29 12:18:52 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-29 12:19:04 - 184481446 - Result: Redemption request failed
+2026-08-29 12:19:05 - Processing K1266-184546387 [196/229] for code: CHILLWEEKEND
+2026-08-29 12:19:05 - 184546387 - Result: Successfully redeemed
+2026-08-29 12:19:06 - Processing K1266-184925419 [197/229] for code: CHILLWEEKEND
+2026-08-29 12:19:07 - 184925419 - Result: Successfully redeemed
+2026-08-29 12:19:08 - Processing K1266-185480245 [198/229] for code: CHILLWEEKEND
+2026-08-29 12:19:08 - 185480245 - Result: Successfully redeemed
+2026-08-29 12:19:09 - Processing K1266-187102768 [199/229] for code: CHILLWEEKEND
+2026-08-29 12:19:10 - 187102768 - Result: Successfully redeemed
+2026-08-29 12:19:11 - Processing K1266-188087741 [200/229] for code: CHILLWEEKEND
+2026-08-29 12:19:11 - 188087741 - Result: Successfully redeemed
+2026-08-29 12:19:12 - Processing K1266-188470196 [201/229] for code: CHILLWEEKEND
+2026-08-29 12:19:12 - 188470196 - Result: Successfully redeemed
+2026-08-29 12:19:13 - Processing K1266-188862376 [202/229] for code: CHILLWEEKEND
+2026-08-29 12:19:14 - 188862376 - Result: Successfully redeemed
+2026-08-29 12:19:15 - Processing K1266-189063297 [203/229] for code: CHILLWEEKEND
+2026-08-29 12:19:15 - 189063297 - Result: Successfully redeemed
+2026-08-29 12:19:16 - Processing K1266-190234418 [204/229] for code: CHILLWEEKEND
+2026-08-29 12:19:16 - 190234418 - Result: Successfully redeemed
+2026-08-29 12:19:18 - Processing K1266-190553232 [205/229] for code: CHILLWEEKEND
+2026-08-29 12:19:18 - 190553232 - Result: Successfully redeemed
+2026-08-29 12:19:19 - Processing K1266-190573918 [206/229] for code: CHILLWEEKEND
+2026-08-29 12:19:19 - 190573918 - Result: Wrong kingdom for this player ID
+2026-08-29 12:19:21 - Processing K1266-193365290 [207/229] for code: CHILLWEEKEND
+2026-08-29 12:19:21 - 193365290 - Result: Successfully redeemed
+2026-08-29 12:19:22 - Processing K1266-194962807 [208/229] for code: CHILLWEEKEND
+2026-08-29 12:19:23 - 194962807 - Result: Successfully redeemed
+2026-08-29 12:19:24 - Processing K1266-195609436 [209/229] for code: CHILLWEEKEND
+2026-08-29 12:19:24 - 195609436 - Result: Successfully redeemed
+2026-08-29 12:19:25 - Processing K1266-195708034 [210/229] for code: CHILLWEEKEND
+2026-08-29 12:19:25 - 195708034 - Result: Successfully redeemed
+2026-08-29 12:19:27 - Processing K1266-197748881 [211/229] for code: CHILLWEEKEND
+2026-08-29 12:19:27 - 197748881 - Result: Successfully redeemed
+2026-08-29 12:19:28 - Processing K1266-198971997 [212/229] for code: CHILLWEEKEND
+2026-08-29 12:19:28 - 198971997 - Result: Successfully redeemed
+2026-08-29 12:19:30 - Processing K1266-199087822 [213/229] for code: CHILLWEEKEND
+2026-08-29 12:19:30 - 199087822 - Result: Successfully redeemed
+2026-08-29 12:19:31 - Processing K1266-199766078 [214/229] for code: CHILLWEEKEND
+2026-08-29 12:19:31 - 199766078 - Result: Successfully redeemed
+2026-08-29 12:19:33 - Processing K1266-202789741 [215/229] for code: CHILLWEEKEND
+2026-08-29 12:19:33 - 202789741 - Result: Successfully redeemed
+2026-08-29 12:19:34 - Processing K1266-214289119 [216/229] for code: CHILLWEEKEND
+2026-08-29 12:19:34 - 214289119 - Result: Successfully redeemed
+2026-08-29 12:19:36 - Processing K1266-216820126 [217/229] for code: CHILLWEEKEND
+2026-08-29 12:19:36 - 216820126 - Result: Successfully redeemed
+2026-08-29 12:19:37 - Processing K1266-219382121 [218/229] for code: CHILLWEEKEND
+2026-08-29 12:19:37 - 219382121 - Result: Successfully redeemed
+2026-08-29 12:19:38 - Processing K1266-221299698 [219/229] for code: CHILLWEEKEND
+2026-08-29 12:19:38 - 221299698 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-08-29 12:19:40 - 221299698 - Result: Successfully redeemed
+2026-08-29 12:19:42 - Processing K1266-239065229 [220/229] for code: CHILLWEEKEND
+2026-08-29 12:19:42 - 239065229 - Result: Successfully redeemed
+2026-08-29 12:19:43 - Processing K1266-247760465 [221/229] for code: CHILLWEEKEND
+2026-08-29 12:19:43 - 247760465 - Result: Successfully redeemed
+2026-08-29 12:19:44 - Processing K1266-257078077 [222/229] for code: CHILLWEEKEND
+2026-08-29 12:19:45 - 257078077 - Result: Successfully redeemed
+2026-08-29 12:19:46 - Processing K1266-270896390 [223/229] for code: CHILLWEEKEND
+2026-08-29 12:19:46 - 270896390 - Result: Successfully redeemed
+2026-08-29 12:19:47 - Processing K1266-278604391 [224/229] for code: CHILLWEEKEND
+2026-08-29 12:19:47 - 278604391 - Result: Successfully redeemed
+2026-08-29 12:19:49 - Processing K1266-302154974 [225/229] for code: CHILLWEEKEND
+2026-08-29 12:19:49 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-29 12:19:53 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-29 12:20:01 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-08-29 12:20:13 - 302154974 - Result: Redemption request failed
+2026-08-29 12:20:14 - Processing K1266-377584801 [226/229] for code: CHILLWEEKEND
+2026-08-29 12:20:14 - 377584801 - Result: Successfully redeemed
+2026-08-29 12:20:15 - Processing K1266-378005527 [227/229] for code: CHILLWEEKEND
+2026-08-29 12:20:16 - 378005527 - Result: Successfully redeemed
+2026-08-29 12:20:17 - Processing K1266-378518775 [228/229] for code: CHILLWEEKEND
+2026-08-29 12:20:17 - 378518775 - Result: Successfully redeemed
+2026-08-29 12:20:18 - Processing K1266-381967745 [229/229] for code: CHILLWEEKEND
+2026-08-29 12:20:18 - 381967745 - Result: Successfully redeemed
+2026-08-29 12:20:19 - --- Cycle finished. Total processed: 229/229 ---
+2026-08-29 12:20:19 - 
+========================= Redemption Summary =========================
+2026-08-29 12:20:19 - Code Redeemed: CHILLWEEKEND
+2026-08-29 12:20:19 - Total Unique Player IDs Found: 229
+2026-08-29 12:20:19 - Total Player IDs Processed: 229
+2026-08-29 12:20:19 - Successfully redeemed: 218
+2026-08-29 12:20:19 - Already redeemed: 1
+2026-08-29 12:20:19 - Wrong kingdom: 1
+2026-08-29 12:20:19 - Other Errors/Failures: 9
+2026-08-29 12:20:19 - Rate Limit Events: 0
+2026-08-29 12:20:19 - Total execution time: 0:09:25
+2026-08-29 12:20:19 - ======================================================================
+2026-08-29 12:20:19 - Marked 'CHILLWEEKEND' as known.
+
