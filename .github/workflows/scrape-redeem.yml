@@ -36,6 +36,12 @@ jobs:
       run: |
         python -c "from curl_cffi import requests; print('✅ curl_cffi imported successfully')"
 
+    - name: Sync player IDs from Google Sheet
+      run: |
+        curl -sL "https://docs.google.com/spreadsheets/d/1GS08T9-VhX-o2596s1-pAUZbMUMsY3U1HU-mZSgcP8c/gviz/tq?tqx=out:csv&gid=295962408" \
+          | tr -d '"' > lod.csv
+        echo "✅ Synced $(wc -l < lod.csv) player IDs from Google Sheet"
+
     - name: Run Kingshot Scraper & Redeemer
       run: |
         # Run the auto script using the user's config.json / default CSV
