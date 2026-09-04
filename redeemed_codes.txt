@@ -29068,3 +29068,548 @@
 2026-09-04 08:17:47 - Success with chrome124 impersonation
 2026-09-04 08:17:47 - No new gift codes found. All codes have been seen previously.
 2026-09-04 08:17:47 - Nothing to redeem.
+2026-09-04 12:07:31 - Checking https://kingshot.net/gift-codes for new gift codes...
+2026-09-04 12:07:31 - Using curl_cffi for Cloudflare bypass...
+2026-09-04 12:07:32 - Success with chrome124 impersonation
+2026-09-04 12:07:32 - 
+🎉 NEW GIFT CODES FOUND: OFFICIALSTORE0904
+2026-09-04 12:07:32 - 
+=== Starting redemption for gift code: OFFICIALSTORE0904 ===
+2026-09-04 12:07:32 - Read 231 player IDs from lod.csv (encoding: utf-8-sig, 231 with a kingdom)
+2026-09-04 12:07:32 - Removed 2 duplicate entries.
+2026-09-04 12:07:32 - Total unique player IDs to process: 229
+2026-09-04 12:07:32 - 
+--- Starting processing cycle. Ready player IDs: 229 ---
+2026-09-04 12:07:32 - Processing K1266-112607487 [1/229] for code: OFFICIALSTORE0904
+2026-09-04 12:07:33 - 112607487 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-04 12:07:35 - 112607487 - [Attempt 2/3] TIMEOUT RETRY. Retrying...
+2026-09-04 12:07:39 - 112607487 - Result: Successfully redeemed
+2026-09-04 12:07:40 - Processing K1266-114993837 [2/229] for code: OFFICIALSTORE0904
+2026-09-04 12:07:40 - 114993837 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-04 12:07:42 - 114993837 - Result: Successfully redeemed
+2026-09-04 12:07:44 - Processing K1266-134948830 [3/229] for code: OFFICIALSTORE0904
+2026-09-04 12:07:44 - 134948830 - Result: Successfully redeemed
+2026-09-04 12:07:45 - Processing K1266-137354109 [4/229] for code: OFFICIALSTORE0904
+2026-09-04 12:07:45 - 137354109 - Result: Successfully redeemed
+2026-09-04 12:07:46 - Processing K1266-137881550 [5/229] for code: OFFICIALSTORE0904
+2026-09-04 12:07:46 - 137881550 - Result: Successfully redeemed
+2026-09-04 12:07:48 - Processing K1266-138078147 [6/229] for code: OFFICIALSTORE0904
+2026-09-04 12:07:48 - 138078147 - Result: Successfully redeemed
+2026-09-04 12:07:49 - Processing K1266-139819795 [7/229] for code: OFFICIALSTORE0904
+2026-09-04 12:07:49 - 139819795 - Result: Successfully redeemed
+2026-09-04 12:07:51 - Processing K1266-156477789 [8/229] for code: OFFICIALSTORE0904
+2026-09-04 12:07:51 - 156477789 - Result: Successfully redeemed
+2026-09-04 12:07:52 - Processing K1266-162070715 [9/229] for code: OFFICIALSTORE0904
+2026-09-04 12:07:52 - 162070715 - Result: Successfully redeemed
+2026-09-04 12:07:53 - Processing K1266-172135597 [10/229] for code: OFFICIALSTORE0904
+2026-09-04 12:07:53 - 172135597 - Result: Successfully redeemed
+2026-09-04 12:07:55 - Processing K1266-176622413 [11/229] for code: OFFICIALSTORE0904
+2026-09-04 12:07:55 - 176622413 - Result: Successfully redeemed
+2026-09-04 12:07:56 - Processing K1266-176730452 [12/229] for code: OFFICIALSTORE0904
+2026-09-04 12:07:56 - 176730452 - Result: Successfully redeemed
+2026-09-04 12:07:58 - Processing K1266-177978644 [13/229] for code: OFFICIALSTORE0904
+2026-09-04 12:07:58 - 177978644 - Result: Successfully redeemed
+2026-09-04 12:07:59 - Processing K1266-178188212 [14/229] for code: OFFICIALSTORE0904
+2026-09-04 12:07:59 - 178188212 - Result: Successfully redeemed
+2026-09-04 12:08:00 - Processing K1266-179107716 [15/229] for code: OFFICIALSTORE0904
+2026-09-04 12:08:01 - 179107716 - Result: Successfully redeemed
+2026-09-04 12:08:02 - Processing K1266-180368647 [16/229] for code: OFFICIALSTORE0904
+2026-09-04 12:08:02 - 180368647 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-04 12:08:04 - 180368647 - Result: Successfully redeemed
+2026-09-04 12:08:05 - Processing K1266-180369109 [17/229] for code: OFFICIALSTORE0904
+2026-09-04 12:08:05 - 180369109 - Result: Successfully redeemed
+2026-09-04 12:08:07 - Processing K1266-180369142 [18/229] for code: OFFICIALSTORE0904
+2026-09-04 12:08:07 - 180369142 - Result: Successfully redeemed
+2026-09-04 12:08:08 - Processing K1266-180369159 [19/229] for code: OFFICIALSTORE0904
+2026-09-04 12:08:08 - 180369159 - Result: Successfully redeemed
+2026-09-04 12:08:09 - Processing K1266-180385375 [20/229] for code: OFFICIALSTORE0904
+2026-09-04 12:08:09 - 180385375 - Result: Successfully redeemed
+2026-09-04 12:08:10 - Processing K1266-180385792 [21/229] for code: OFFICIALSTORE0904
+2026-09-04 12:08:11 - 180385792 - Result: Successfully redeemed
+2026-09-04 12:08:12 - Processing K1266-180418498 [22/229] for code: OFFICIALSTORE0904
+2026-09-04 12:08:12 - 180418498 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-04 12:08:14 - 180418498 - Result: Successfully redeemed
+2026-09-04 12:08:15 - Processing K1266-180434357 [23/229] for code: OFFICIALSTORE0904
+2026-09-04 12:08:15 - 180434357 - Result: Successfully redeemed
+2026-09-04 12:08:17 - Processing K1266-180483302 [24/229] for code: OFFICIALSTORE0904
+2026-09-04 12:08:17 - 180483302 - Result: Successfully redeemed
+2026-09-04 12:08:18 - Processing K1266-180565782 [25/229] for code: OFFICIALSTORE0904
+2026-09-04 12:08:18 - 180565782 - Result: Successfully redeemed
+2026-09-04 12:08:19 - Processing K1266-180614319 [26/229] for code: OFFICIALSTORE0904
+2026-09-04 12:08:19 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-04 12:08:23 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-04 12:08:31 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-04 12:08:43 - 180614319 - Result: Redemption request failed
+2026-09-04 12:08:44 - Processing K1266-180636958 [27/229] for code: OFFICIALSTORE0904
+2026-09-04 12:08:44 - 180636958 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-04 12:08:46 - 180636958 - Result: Successfully redeemed
+2026-09-04 12:08:48 - Processing K1266-180669914 [28/229] for code: OFFICIALSTORE0904
+2026-09-04 12:08:48 - 180669914 - Result: Successfully redeemed
+2026-09-04 12:08:49 - Processing K1266-180696652 [29/229] for code: OFFICIALSTORE0904
+2026-09-04 12:08:49 - 180696652 - Result: Successfully redeemed
+2026-09-04 12:08:51 - Processing K1266-180729920 [30/229] for code: OFFICIALSTORE0904
+2026-09-04 12:08:51 - 180729920 - Result: Successfully redeemed
+2026-09-04 12:08:52 - Processing K1266-180778760 [31/229] for code: OFFICIALSTORE0904
+2026-09-04 12:08:52 - 180778760 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-04 12:08:54 - 180778760 - Result: Successfully redeemed
+2026-09-04 12:08:56 - Processing K1266-180827986 [32/229] for code: OFFICIALSTORE0904
+2026-09-04 12:08:56 - 180827986 - Result: Successfully redeemed
+2026-09-04 12:08:57 - Processing K1266-180893335 [33/229] for code: OFFICIALSTORE0904
+2026-09-04 12:08:57 - 180893335 - Result: Successfully redeemed
+2026-09-04 12:08:58 - Processing K1266-180893684 [34/229] for code: OFFICIALSTORE0904
+2026-09-04 12:08:58 - 180893684 - Result: Successfully redeemed
+2026-09-04 12:08:59 - Processing K1266-180893765 [35/229] for code: OFFICIALSTORE0904
+2026-09-04 12:08:59 - 180893765 - Result: Successfully redeemed
+2026-09-04 12:09:01 - Processing K1266-180959009 [36/229] for code: OFFICIALSTORE0904
+2026-09-04 12:09:01 - 180959009 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-04 12:09:03 - 180959009 - Result: Successfully redeemed
+2026-09-04 12:09:04 - Processing K1266-181073393 [37/229] for code: OFFICIALSTORE0904
+2026-09-04 12:09:04 - 181073393 - Result: Successfully redeemed
+2026-09-04 12:09:06 - Processing K1266-181106609 [38/229] for code: OFFICIALSTORE0904
+2026-09-04 12:09:06 - 181106609 - Result: Successfully redeemed
+2026-09-04 12:09:07 - Processing K1266-181122260 [39/229] for code: OFFICIALSTORE0904
+2026-09-04 12:09:07 - 181122260 - Result: Successfully redeemed
+2026-09-04 12:09:09 - Processing K1266-181155772 [40/229] for code: OFFICIALSTORE0904
+2026-09-04 12:09:09 - 181155772 - Result: Successfully redeemed
+2026-09-04 12:09:10 - Processing K1266-181171461 [41/229] for code: OFFICIALSTORE0904
+2026-09-04 12:09:10 - 181171461 - Result: Successfully redeemed
+2026-09-04 12:09:11 - Processing K1266-181286832 [42/229] for code: OFFICIALSTORE0904
+2026-09-04 12:09:11 - 181286832 - Result: Successfully redeemed
+2026-09-04 12:09:12 - Processing K1266-181340930 [43/229] for code: OFFICIALSTORE0904
+2026-09-04 12:09:13 - 181340930 - Result: Successfully redeemed
+2026-09-04 12:09:14 - Processing K1266-181341522 [44/229] for code: OFFICIALSTORE0904
+2026-09-04 12:09:14 - 181341522 - Result: Successfully redeemed
+2026-09-04 12:09:15 - Processing K1266-181351852 [45/229] for code: OFFICIALSTORE0904
+2026-09-04 12:09:16 - 181351852 - Result: Successfully redeemed
+2026-09-04 12:09:17 - Processing K1266-181358276 [46/229] for code: OFFICIALSTORE0904
+2026-09-04 12:09:17 - 181358276 - Result: Successfully redeemed
+2026-09-04 12:09:18 - Processing K1266-181374419 [47/229] for code: OFFICIALSTORE0904
+2026-09-04 12:09:18 - 181374419 - Result: Successfully redeemed
+2026-09-04 12:09:20 - Processing K1266-181384836 [48/229] for code: OFFICIALSTORE0904
+2026-09-04 12:09:20 - 181384836 - Result: Successfully redeemed
+2026-09-04 12:09:21 - Processing K1266-181385198 [49/229] for code: OFFICIALSTORE0904
+2026-09-04 12:09:21 - 181385198 - Result: Successfully redeemed
+2026-09-04 12:09:22 - Processing K1266-181401589 [50/229] for code: OFFICIALSTORE0904
+2026-09-04 12:09:22 - 181401589 - Result: Successfully redeemed
+2026-09-04 12:09:23 - Processing K1266-181407057 [51/229] for code: OFFICIALSTORE0904
+2026-09-04 12:09:24 - 181407057 - Result: Successfully redeemed
+2026-09-04 12:09:25 - Processing K1266-181423528 [52/229] for code: OFFICIALSTORE0904
+2026-09-04 12:09:25 - 181423528 - Result: Successfully redeemed
+2026-09-04 12:09:26 - Processing K1266-181440017 [53/229] for code: OFFICIALSTORE0904
+2026-09-04 12:09:26 - 181440017 - Result: Successfully redeemed
+2026-09-04 12:09:27 - Processing K1266-181466821 [54/229] for code: OFFICIALSTORE0904
+2026-09-04 12:09:27 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-04 12:09:31 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-04 12:09:40 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-04 12:09:52 - 181466821 - Result: Redemption request failed
+2026-09-04 12:09:53 - Processing K1266-181515253 [55/229] for code: OFFICIALSTORE0904
+2026-09-04 12:09:53 - 181515253 - Result: Successfully redeemed
+2026-09-04 12:09:54 - Processing K1266-181516264 [56/229] for code: OFFICIALSTORE0904
+2026-09-04 12:09:54 - 181516264 - Result: Successfully redeemed
+2026-09-04 12:09:56 - Processing K1266-181521367 [57/229] for code: OFFICIALSTORE0904
+2026-09-04 12:09:56 - 181521367 - Result: Successfully redeemed
+2026-09-04 12:09:57 - Processing K1266-181532757 [58/229] for code: OFFICIALSTORE0904
+2026-09-04 12:09:57 - 181532757 - Result: Successfully redeemed
+2026-09-04 12:09:58 - Processing K1266-181565051 [59/229] for code: OFFICIALSTORE0904
+2026-09-04 12:09:58 - 181565051 - Result: Successfully redeemed
+2026-09-04 12:10:00 - Processing K1266-181571708 [60/229] for code: OFFICIALSTORE0904
+2026-09-04 12:10:00 - 181571708 - Result: Successfully redeemed
+2026-09-04 12:10:01 - Processing K1266-181614011 [61/229] for code: OFFICIALSTORE0904
+2026-09-04 12:10:01 - 181614011 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-04 12:10:03 - 181614011 - Result: Successfully redeemed
+2026-09-04 12:10:04 - Processing K1266-181630719 [62/229] for code: OFFICIALSTORE0904
+2026-09-04 12:10:05 - 181630719 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-04 12:10:07 - 181630719 - Result: Successfully redeemed
+2026-09-04 12:10:08 - Processing K1266-181646830 [63/229] for code: OFFICIALSTORE0904
+2026-09-04 12:10:08 - 181646830 - Result: Successfully redeemed
+2026-09-04 12:10:09 - Processing K1266-181663028 [64/229] for code: OFFICIALSTORE0904
+2026-09-04 12:10:09 - 181663028 - Result: Successfully redeemed
+2026-09-04 12:10:11 - Processing K1266-181669304 [65/229] for code: OFFICIALSTORE0904
+2026-09-04 12:10:11 - 181669304 - Result: Successfully redeemed
+2026-09-04 12:10:12 - Processing K1266-181696527 [66/229] for code: OFFICIALSTORE0904
+2026-09-04 12:10:13 - 181696527 - Result: Successfully redeemed
+2026-09-04 12:10:14 - Processing K1266-181734398 [67/229] for code: OFFICIALSTORE0904
+2026-09-04 12:10:14 - 181734398 - Result: Successfully redeemed
+2026-09-04 12:10:15 - Processing K1266-181761437 [68/229] for code: OFFICIALSTORE0904
+2026-09-04 12:10:15 - 181761437 - Result: Successfully redeemed
+2026-09-04 12:10:16 - Processing K1266-181778389 [69/229] for code: OFFICIALSTORE0904
+2026-09-04 12:10:17 - 181778389 - Result: Successfully redeemed
+2026-09-04 12:10:18 - Processing K1266-181793958 [70/229] for code: OFFICIALSTORE0904
+2026-09-04 12:10:18 - 181793958 - Result: Successfully redeemed
+2026-09-04 12:10:19 - Processing K1266-181794115 [71/229] for code: OFFICIALSTORE0904
+2026-09-04 12:10:19 - 181794115 - Result: Successfully redeemed
+2026-09-04 12:10:20 - Processing K1266-181816445 [72/229] for code: OFFICIALSTORE0904
+2026-09-04 12:10:20 - 181816445 - Result: Successfully redeemed
+2026-09-04 12:10:21 - Processing K1266-181859621 [73/229] for code: OFFICIALSTORE0904
+2026-09-04 12:10:22 - 181859621 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-04 12:10:24 - 181859621 - Result: Successfully redeemed
+2026-09-04 12:10:25 - Processing K1266-181859892 [74/229] for code: OFFICIALSTORE0904
+2026-09-04 12:10:25 - 181859892 - Result: Successfully redeemed
+2026-09-04 12:10:26 - Processing K1266-181859948 [75/229] for code: OFFICIALSTORE0904
+2026-09-04 12:10:26 - 181859948 - Result: Successfully redeemed
+2026-09-04 12:10:28 - Processing K1266-181860239 [76/229] for code: OFFICIALSTORE0904
+2026-09-04 12:10:28 - 181860239 - Result: Successfully redeemed
+2026-09-04 12:10:29 - Processing K1266-181892322 [77/229] for code: OFFICIALSTORE0904
+2026-09-04 12:10:29 - 181892322 - Result: Successfully redeemed
+2026-09-04 12:10:30 - Processing K1266-181941995 [78/229] for code: OFFICIALSTORE0904
+2026-09-04 12:10:31 - 181941995 - Result: Successfully redeemed
+2026-09-04 12:10:32 - Processing K1266-181942353 [79/229] for code: OFFICIALSTORE0904
+2026-09-04 12:10:32 - 181942353 - Result: Successfully redeemed
+2026-09-04 12:10:33 - Processing K1266-181957758 [80/229] for code: OFFICIALSTORE0904
+2026-09-04 12:10:33 - 181957758 - Result: Successfully redeemed
+2026-09-04 12:10:34 - Processing K1266-181958534 [81/229] for code: OFFICIALSTORE0904
+2026-09-04 12:10:34 - 181958534 - Result: Successfully redeemed
+2026-09-04 12:10:36 - Processing K1266-182013382 [82/229] for code: OFFICIALSTORE0904
+2026-09-04 12:10:36 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-04 12:10:40 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-04 12:10:48 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-04 12:11:00 - 182013382 - Result: Redemption request failed
+2026-09-04 12:11:02 - Processing K1266-182022970 [83/229] for code: OFFICIALSTORE0904
+2026-09-04 12:11:02 - 182022970 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-04 12:11:04 - 182022970 - [Attempt 2/3] TIMEOUT RETRY. Retrying...
+2026-09-04 12:11:08 - 182022970 - Result: Successfully redeemed
+2026-09-04 12:11:09 - Processing K1266-182072645 [84/229] for code: OFFICIALSTORE0904
+2026-09-04 12:11:09 - 182072645 - Result: Successfully redeemed
+2026-09-04 12:11:11 - Processing K1266-182138218 [85/229] for code: OFFICIALSTORE0904
+2026-09-04 12:11:11 - 182138218 - Result: Successfully redeemed
+2026-09-04 12:11:12 - Processing K1266-182138227 [86/229] for code: OFFICIALSTORE0904
+2026-09-04 12:11:12 - 182138227 - Result: Successfully redeemed
+2026-09-04 12:11:14 - Processing K1266-182144355 [87/229] for code: OFFICIALSTORE0904
+2026-09-04 12:11:14 - 182144355 - Result: Successfully redeemed
+2026-09-04 12:11:15 - Processing K1266-182203900 [88/229] for code: OFFICIALSTORE0904
+2026-09-04 12:11:15 - 182203900 - Result: Successfully redeemed
+2026-09-04 12:11:16 - Processing K1266-182210139 [89/229] for code: OFFICIALSTORE0904
+2026-09-04 12:11:16 - 182210139 - Result: Successfully redeemed
+2026-09-04 12:11:18 - Processing K1266-182275359 [90/229] for code: OFFICIALSTORE0904
+2026-09-04 12:11:18 - 182275359 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-04 12:11:20 - 182275359 - Result: Successfully redeemed
+2026-09-04 12:11:21 - Processing K1266-182286440 [91/229] for code: OFFICIALSTORE0904
+2026-09-04 12:11:21 - 182286440 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-04 12:11:23 - 182286440 - Result: Successfully redeemed
+2026-09-04 12:11:25 - Processing K1266-182302366 [92/229] for code: OFFICIALSTORE0904
+2026-09-04 12:11:25 - 182302366 - Result: Successfully redeemed
+2026-09-04 12:11:26 - Processing K1266-182318888 [93/229] for code: OFFICIALSTORE0904
+2026-09-04 12:11:26 - 182318888 - Result: Successfully redeemed
+2026-09-04 12:11:28 - Processing K1266-182318966 [94/229] for code: OFFICIALSTORE0904
+2026-09-04 12:11:28 - 182318966 - Result: Successfully redeemed
+2026-09-04 12:11:29 - Processing K1266-182318992 [95/229] for code: OFFICIALSTORE0904
+2026-09-04 12:11:29 - 182318992 - Result: Successfully redeemed
+2026-09-04 12:11:30 - Processing K1266-182334781 [96/229] for code: OFFICIALSTORE0904
+2026-09-04 12:11:30 - 182334781 - Result: Successfully redeemed
+2026-09-04 12:11:31 - Processing K1266-182384377 [97/229] for code: OFFICIALSTORE0904
+2026-09-04 12:11:31 - 182384377 - Result: Successfully redeemed
+2026-09-04 12:11:32 - Processing K1266-182417500 [98/229] for code: OFFICIALSTORE0904
+2026-09-04 12:11:32 - 182417500 - Result: Successfully redeemed
+2026-09-04 12:11:34 - Processing K1266-182419290 [99/229] for code: OFFICIALSTORE0904
+2026-09-04 12:11:34 - 182419290 - Result: Successfully redeemed
+2026-09-04 12:11:35 - Processing K1266-182449206 [100/229] for code: OFFICIALSTORE0904
+2026-09-04 12:11:35 - 182449206 - Result: Successfully redeemed
+2026-09-04 12:11:36 - Processing K1266-182466031 [101/229] for code: OFFICIALSTORE0904
+2026-09-04 12:11:37 - 182466031 - Result: Successfully redeemed
+2026-09-04 12:11:38 - Processing K1266-182466200 [102/229] for code: OFFICIALSTORE0904
+2026-09-04 12:11:38 - 182466200 - Result: Successfully redeemed
+2026-09-04 12:11:39 - Processing K1266-182488759 [103/229] for code: OFFICIALSTORE0904
+2026-09-04 12:11:39 - 182488759 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-04 12:11:42 - 182488759 - Result: Successfully redeemed
+2026-09-04 12:11:43 - Processing K1266-182498855 [104/229] for code: OFFICIALSTORE0904
+2026-09-04 12:11:43 - 182498855 - Result: Successfully redeemed
+2026-09-04 12:11:44 - Processing K1266-182531700 [105/229] for code: OFFICIALSTORE0904
+2026-09-04 12:11:45 - 182531700 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-04 12:11:47 - 182531700 - Result: Successfully redeemed
+2026-09-04 12:11:48 - Processing K1266-182646613 [106/229] for code: OFFICIALSTORE0904
+2026-09-04 12:11:48 - 182646613 - Result: Successfully redeemed
+2026-09-04 12:11:49 - Processing K1266-182668737 [107/229] for code: OFFICIALSTORE0904
+2026-09-04 12:11:49 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-04 12:11:53 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-04 12:12:01 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-04 12:12:13 - 182668737 - Result: Redemption request failed
+2026-09-04 12:12:15 - Processing K1266-182717899 [108/229] for code: OFFICIALSTORE0904
+2026-09-04 12:12:15 - 182717899 - Result: Successfully redeemed
+2026-09-04 12:12:16 - Processing K1266-182767010 [109/229] for code: OFFICIALSTORE0904
+2026-09-04 12:12:16 - 182767010 - Result: Successfully redeemed
+2026-09-04 12:12:18 - Processing K1266-182810221 [110/229] for code: OFFICIALSTORE0904
+2026-09-04 12:12:18 - 182810221 - Result: Successfully redeemed
+2026-09-04 12:12:19 - Processing K1266-182858998 [111/229] for code: OFFICIALSTORE0904
+2026-09-04 12:12:19 - 182858998 - Result: Successfully redeemed
+2026-09-04 12:12:20 - Processing K1266-182859667 [112/229] for code: OFFICIALSTORE0904
+2026-09-04 12:12:20 - 182859667 - Result: Successfully redeemed
+2026-09-04 12:12:21 - Processing K1266-182892106 [113/229] for code: OFFICIALSTORE0904
+2026-09-04 12:12:22 - 182892106 - Result: Successfully redeemed
+2026-09-04 12:12:23 - Processing K1266-182892217 [114/229] for code: OFFICIALSTORE0904
+2026-09-04 12:12:23 - 182892217 - Result: Successfully redeemed
+2026-09-04 12:12:24 - Processing K1266-182898057 [115/229] for code: OFFICIALSTORE0904
+2026-09-04 12:12:24 - 182898057 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-04 12:12:27 - 182898057 - Result: Successfully redeemed
+2026-09-04 12:12:28 - Processing K1266-182908483 [116/229] for code: OFFICIALSTORE0904
+2026-09-04 12:12:28 - 182908483 - Result: Successfully redeemed
+2026-09-04 12:12:29 - Processing K1266-182941162 [117/229] for code: OFFICIALSTORE0904
+2026-09-04 12:12:29 - 182941162 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-04 12:12:31 - 182941162 - Result: Successfully redeemed
+2026-09-04 12:12:33 - Processing K1266-182941502 [118/229] for code: OFFICIALSTORE0904
+2026-09-04 12:12:33 - 182941502 - Result: Successfully redeemed
+2026-09-04 12:12:34 - Processing K1266-183012848 [119/229] for code: OFFICIALSTORE0904
+2026-09-04 12:12:34 - 183012848 - Result: Successfully redeemed
+2026-09-04 12:12:35 - Processing K1266-183028805 [120/229] for code: OFFICIALSTORE0904
+2026-09-04 12:12:35 - 183028805 - Result: Successfully redeemed
+2026-09-04 12:12:37 - Processing K1266-183029342 [121/229] for code: OFFICIALSTORE0904
+2026-09-04 12:12:37 - 183029342 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-04 12:12:39 - 183029342 - Result: Successfully redeemed
+2026-09-04 12:12:40 - Processing K1266-183072306 [122/229] for code: OFFICIALSTORE0904
+2026-09-04 12:12:40 - 183072306 - Result: Successfully redeemed
+2026-09-04 12:12:42 - Processing K1266-183072746 [123/229] for code: OFFICIALSTORE0904
+2026-09-04 12:12:42 - 183072746 - Result: Successfully redeemed
+2026-09-04 12:12:43 - Processing K1266-183072824 [124/229] for code: OFFICIALSTORE0904
+2026-09-04 12:12:43 - 183072824 - Result: Successfully redeemed
+2026-09-04 12:12:45 - Processing K1266-183089209 [125/229] for code: OFFICIALSTORE0904
+2026-09-04 12:12:45 - 183089209 - Result: Successfully redeemed
+2026-09-04 12:12:46 - Processing K1266-183121113 [126/229] for code: OFFICIALSTORE0904
+2026-09-04 12:12:46 - 183121113 - Result: Successfully redeemed
+2026-09-04 12:12:48 - Processing K1266-183137287 [127/229] for code: OFFICIALSTORE0904
+2026-09-04 12:12:48 - 183137287 - Result: Successfully redeemed
+2026-09-04 12:12:49 - Processing K1266-183154303 [128/229] for code: OFFICIALSTORE0904
+2026-09-04 12:12:49 - 183154303 - Result: Successfully redeemed
+2026-09-04 12:12:50 - Processing K1266-183170657 [129/229] for code: OFFICIALSTORE0904
+2026-09-04 12:12:50 - 183170657 - Result: Successfully redeemed
+2026-09-04 12:12:51 - Processing K1266-183176536 [130/229] for code: OFFICIALSTORE0904
+2026-09-04 12:12:51 - 183176536 - Result: Successfully redeemed
+2026-09-04 12:12:53 - Processing K1266-183219343 [131/229] for code: OFFICIALSTORE0904
+2026-09-04 12:12:53 - 183219343 - Result: Successfully redeemed
+2026-09-04 12:12:54 - Processing K1266-183252993 [132/229] for code: OFFICIALSTORE0904
+2026-09-04 12:12:54 - 183252993 - Result: Successfully redeemed
+2026-09-04 12:12:56 - Processing K1266-183285360 [133/229] for code: OFFICIALSTORE0904
+2026-09-04 12:12:56 - 183285360 - Result: Successfully redeemed
+2026-09-04 12:12:57 - Processing K1266-183366693 [134/229] for code: OFFICIALSTORE0904
+2026-09-04 12:12:57 - 183366693 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-04 12:12:59 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-04 12:13:03 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-04 12:13:11 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-04 12:13:23 - 183366693 - Result: Redemption request failed
+2026-09-04 12:13:24 - Processing K1266-183367342 [135/229] for code: OFFICIALSTORE0904
+2026-09-04 12:13:24 - 183367342 - Result: Successfully redeemed
+2026-09-04 12:13:26 - Processing K1266-183383666 [136/229] for code: OFFICIALSTORE0904
+2026-09-04 12:13:26 - 183383666 - Result: Successfully redeemed
+2026-09-04 12:13:27 - Processing K1266-183384158 [137/229] for code: OFFICIALSTORE0904
+2026-09-04 12:13:27 - 183384158 - Result: Successfully redeemed
+2026-09-04 12:13:28 - Processing K1266-183449358 [138/229] for code: OFFICIALSTORE0904
+2026-09-04 12:13:29 - 183449358 - Result: Successfully redeemed
+2026-09-04 12:13:30 - Processing K1266-183455373 [139/229] for code: OFFICIALSTORE0904
+2026-09-04 12:13:30 - 183455373 - Result: Successfully redeemed
+2026-09-04 12:13:31 - Processing K1266-183465208 [140/229] for code: OFFICIALSTORE0904
+2026-09-04 12:13:31 - 183465208 - Result: Successfully redeemed
+2026-09-04 12:13:33 - Processing K1266-183514753 [141/229] for code: OFFICIALSTORE0904
+2026-09-04 12:13:33 - 183514753 - Result: Successfully redeemed
+2026-09-04 12:13:34 - Processing K1266-183531242 [142/229] for code: OFFICIALSTORE0904
+2026-09-04 12:13:34 - 183531242 - Result: Successfully redeemed
+2026-09-04 12:13:35 - Processing K1266-183563334 [143/229] for code: OFFICIALSTORE0904
+2026-09-04 12:13:36 - 183563334 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-04 12:13:38 - 183563334 - Result: Successfully redeemed
+2026-09-04 12:13:39 - Processing K1266-183579631 [144/229] for code: OFFICIALSTORE0904
+2026-09-04 12:13:39 - 183579631 - Result: Successfully redeemed
+2026-09-04 12:13:40 - Processing K1266-183579641 [145/229] for code: OFFICIALSTORE0904
+2026-09-04 12:13:41 - 183579641 - Result: Successfully redeemed
+2026-09-04 12:13:42 - Processing K1266-183602956 [146/229] for code: OFFICIALSTORE0904
+2026-09-04 12:13:42 - 183602956 - Result: Successfully redeemed
+2026-09-04 12:13:43 - Processing K1266-183635567 [147/229] for code: OFFICIALSTORE0904
+2026-09-04 12:13:43 - 183635567 - Result: Successfully redeemed
+2026-09-04 12:13:44 - Processing K1266-183662249 [148/229] for code: OFFICIALSTORE0904
+2026-09-04 12:13:44 - 183662249 - Result: Successfully redeemed
+2026-09-04 12:13:45 - Processing K1266-183678571 [149/229] for code: OFFICIALSTORE0904
+2026-09-04 12:13:46 - 183678571 - Result: Successfully redeemed
+2026-09-04 12:13:47 - Processing K1266-183744074 [150/229] for code: OFFICIALSTORE0904
+2026-09-04 12:13:47 - 183744074 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-04 12:13:49 - 183744074 - Result: Successfully redeemed
+2026-09-04 12:13:50 - Processing K1266-183760133 [151/229] for code: OFFICIALSTORE0904
+2026-09-04 12:13:50 - 183760133 - Result: Successfully redeemed
+2026-09-04 12:13:51 - Processing K1266-183776526 [152/229] for code: OFFICIALSTORE0904
+2026-09-04 12:13:51 - 183776526 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-04 12:13:54 - 183776526 - Result: Successfully redeemed
+2026-09-04 12:13:55 - Processing K1266-183792859 [153/229] for code: OFFICIALSTORE0904
+2026-09-04 12:13:55 - 183792859 - Result: Successfully redeemed
+2026-09-04 12:13:56 - Processing K1266-183793260 [154/229] for code: OFFICIALSTORE0904
+2026-09-04 12:13:56 - 183793260 - Result: Successfully redeemed
+2026-09-04 12:13:58 - Processing K1266-183799231 [155/229] for code: OFFICIALSTORE0904
+2026-09-04 12:13:58 - 183799231 - Result: Successfully redeemed
+2026-09-04 12:13:59 - Processing K1266-183809202 [156/229] for code: OFFICIALSTORE0904
+2026-09-04 12:13:59 - 183809202 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-04 12:14:01 - 183809202 - Result: Successfully redeemed
+2026-09-04 12:14:02 - Processing K1266-183826046 [157/229] for code: OFFICIALSTORE0904
+2026-09-04 12:14:02 - 183826046 - Result: Successfully redeemed
+2026-09-04 12:14:04 - Processing K1266-183826079 [158/229] for code: OFFICIALSTORE0904
+2026-09-04 12:14:04 - 183826079 - Result: Successfully redeemed
+2026-09-04 12:14:05 - Processing K1266-183842429 [159/229] for code: OFFICIALSTORE0904
+2026-09-04 12:14:06 - 183842429 - Result: Successfully redeemed
+2026-09-04 12:14:07 - Processing K1266-183858943 [160/229] for code: OFFICIALSTORE0904
+2026-09-04 12:14:07 - 183858943 - Result: Successfully redeemed
+2026-09-04 12:14:08 - Processing K1266-183859043 [161/229] for code: OFFICIALSTORE0904
+2026-09-04 12:14:08 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-04 12:14:12 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-04 12:14:20 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-04 12:14:32 - 183859043 - Result: Redemption request failed
+2026-09-04 12:14:34 - Processing K1266-183907855 [162/229] for code: OFFICIALSTORE0904
+2026-09-04 12:14:34 - 183907855 - Result: Successfully redeemed
+2026-09-04 12:14:35 - Processing K1266-183924658 [163/229] for code: OFFICIALSTORE0904
+2026-09-04 12:14:35 - 183924658 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-04 12:14:37 - 183924658 - Result: Successfully redeemed
+2026-09-04 12:14:39 - Processing K1266-183924660 [164/229] for code: OFFICIALSTORE0904
+2026-09-04 12:14:39 - 183924660 - Result: Successfully redeemed
+2026-09-04 12:14:40 - Processing K1266-183940809 [165/229] for code: OFFICIALSTORE0904
+2026-09-04 12:14:40 - 183940809 - Result: Successfully redeemed
+2026-09-04 12:14:41 - Processing K1266-183946385 [166/229] for code: OFFICIALSTORE0904
+2026-09-04 12:14:41 - 183946385 - Result: Successfully redeemed
+2026-09-04 12:14:42 - Processing K1266-183946804 [167/229] for code: OFFICIALSTORE0904
+2026-09-04 12:14:43 - 183946804 - Result: Successfully redeemed
+2026-09-04 12:14:44 - Processing K1266-184005794 [168/229] for code: OFFICIALSTORE0904
+2026-09-04 12:14:44 - 184005794 - Result: Successfully redeemed
+2026-09-04 12:14:45 - Processing K1266-184022781 [169/229] for code: OFFICIALSTORE0904
+2026-09-04 12:14:45 - 184022781 - Result: Successfully redeemed
+2026-09-04 12:14:47 - Processing K1266-184071743 [170/229] for code: OFFICIALSTORE0904
+2026-09-04 12:14:47 - 184071743 - Result: Successfully redeemed
+2026-09-04 12:14:48 - Processing K1266-184088377 [171/229] for code: OFFICIALSTORE0904
+2026-09-04 12:14:48 - 184088377 - Result: Successfully redeemed
+2026-09-04 12:14:49 - Processing K1266-184121399 [172/229] for code: OFFICIALSTORE0904
+2026-09-04 12:14:50 - 184121399 - Result: Successfully redeemed
+2026-09-04 12:14:51 - Processing K1266-184137674 [173/229] for code: OFFICIALSTORE0904
+2026-09-04 12:14:51 - 184137674 - Result: Successfully redeemed
+2026-09-04 12:14:52 - Processing K1266-184153916 [174/229] for code: OFFICIALSTORE0904
+2026-09-04 12:14:52 - 184153916 - Result: Successfully redeemed
+2026-09-04 12:14:53 - Processing K1266-184159552 [175/229] for code: OFFICIALSTORE0904
+2026-09-04 12:14:54 - 184159552 - Result: Successfully redeemed
+2026-09-04 12:14:55 - Processing K1266-184169916 [176/229] for code: OFFICIALSTORE0904
+2026-09-04 12:14:55 - 184169916 - Result: Successfully redeemed
+2026-09-04 12:14:56 - Processing K1266-184170263 [177/229] for code: OFFICIALSTORE0904
+2026-09-04 12:14:56 - 184170263 - Result: Successfully redeemed
+2026-09-04 12:14:58 - Processing K1266-184175883 [178/229] for code: OFFICIALSTORE0904
+2026-09-04 12:14:58 - 184175883 - Result: Successfully redeemed
+2026-09-04 12:14:59 - Processing K1266-184176072 [179/229] for code: OFFICIALSTORE0904
+2026-09-04 12:14:59 - 184176072 - Result: Successfully redeemed
+2026-09-04 12:15:01 - Processing K1266-184202442 [180/229] for code: OFFICIALSTORE0904
+2026-09-04 12:15:01 - 184202442 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-04 12:15:03 - 184202442 - Result: Successfully redeemed
+2026-09-04 12:15:04 - Processing K1266-184202684 [181/229] for code: OFFICIALSTORE0904
+2026-09-04 12:15:04 - 184202684 - Result: Successfully redeemed
+2026-09-04 12:15:06 - Processing K1266-184219240 [182/229] for code: OFFICIALSTORE0904
+2026-09-04 12:15:06 - 184219240 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-04 12:15:08 - 184219240 - Result: Successfully redeemed
+2026-09-04 12:15:09 - Processing K1266-184235470 [183/229] for code: OFFICIALSTORE0904
+2026-09-04 12:15:09 - 184235470 - Result: Successfully redeemed
+2026-09-04 12:15:11 - Processing K1266-184252103 [184/229] for code: OFFICIALSTORE0904
+2026-09-04 12:15:11 - 184252103 - Result: Successfully redeemed
+2026-09-04 12:15:12 - Processing K1266-184257548 [185/229] for code: OFFICIALSTORE0904
+2026-09-04 12:15:12 - 184257548 - Result: Successfully redeemed
+2026-09-04 12:15:13 - Processing K1266-184268332 [186/229] for code: OFFICIALSTORE0904
+2026-09-04 12:15:13 - 184268332 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-04 12:15:16 - 184268332 - [Attempt 2/3] TIMEOUT RETRY. Retrying...
+2026-09-04 12:15:20 - 184268332 - Max attempts reached after TIMEOUT RETRY.
+2026-09-04 12:15:20 - 184268332 - Result: Server requested retry
+2026-09-04 12:15:21 - Processing K1266-184285099 [187/229] for code: OFFICIALSTORE0904
+2026-09-04 12:15:21 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-04 12:15:25 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-04 12:15:33 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-04 12:15:45 - 184285099 - Result: Redemption request failed
+2026-09-04 12:15:47 - Processing K1266-184300583 [188/229] for code: OFFICIALSTORE0904
+2026-09-04 12:15:47 - 184300583 - Result: Successfully redeemed
+2026-09-04 12:15:48 - Processing K1266-184323165 [189/229] for code: OFFICIALSTORE0904
+2026-09-04 12:15:48 - 184323165 - Result: Successfully redeemed
+2026-09-04 12:15:50 - Processing K1266-184334326 [190/229] for code: OFFICIALSTORE0904
+2026-09-04 12:15:50 - 184334326 - Result: Successfully redeemed
+2026-09-04 12:15:51 - Processing K1266-184355782 [191/229] for code: OFFICIALSTORE0904
+2026-09-04 12:15:51 - 184355782 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-04 12:15:53 - 184355782 - Result: Successfully redeemed
+2026-09-04 12:15:55 - Processing K1266-184366892 [192/229] for code: OFFICIALSTORE0904
+2026-09-04 12:15:55 - 184366892 - Result: Successfully redeemed
+2026-09-04 12:15:56 - Processing K1266-184382529 [193/229] for code: OFFICIALSTORE0904
+2026-09-04 12:15:56 - 184382529 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-04 12:15:58 - 184382529 - Result: Successfully redeemed
+2026-09-04 12:15:59 - Processing K1266-184398957 [194/229] for code: OFFICIALSTORE0904
+2026-09-04 12:15:59 - 184398957 - Result: Successfully redeemed
+2026-09-04 12:16:01 - Processing K1266-184481446 [195/229] for code: OFFICIALSTORE0904
+2026-09-04 12:16:01 - 184481446 - Result: Successfully redeemed
+2026-09-04 12:16:02 - Processing K1266-184546387 [196/229] for code: OFFICIALSTORE0904
+2026-09-04 12:16:02 - 184546387 - Result: Successfully redeemed
+2026-09-04 12:16:03 - Processing K1266-184925419 [197/229] for code: OFFICIALSTORE0904
+2026-09-04 12:16:03 - 184925419 - Result: Successfully redeemed
+2026-09-04 12:16:05 - Processing K1266-185480245 [198/229] for code: OFFICIALSTORE0904
+2026-09-04 12:16:05 - 185480245 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-04 12:16:07 - 185480245 - Result: Successfully redeemed
+2026-09-04 12:16:08 - Processing K1266-187102768 [199/229] for code: OFFICIALSTORE0904
+2026-09-04 12:16:08 - 187102768 - Result: Successfully redeemed
+2026-09-04 12:16:10 - Processing K1266-188087741 [200/229] for code: OFFICIALSTORE0904
+2026-09-04 12:16:10 - 188087741 - Result: Successfully redeemed
+2026-09-04 12:16:11 - Processing K1266-188470196 [201/229] for code: OFFICIALSTORE0904
+2026-09-04 12:16:11 - 188470196 - Result: Successfully redeemed
+2026-09-04 12:16:12 - Processing K1266-188862376 [202/229] for code: OFFICIALSTORE0904
+2026-09-04 12:16:12 - 188862376 - Result: Successfully redeemed
+2026-09-04 12:16:13 - Processing K1266-189063297 [203/229] for code: OFFICIALSTORE0904
+2026-09-04 12:16:14 - 189063297 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-04 12:16:16 - 189063297 - Result: Successfully redeemed
+2026-09-04 12:16:17 - Processing K1266-190234418 [204/229] for code: OFFICIALSTORE0904
+2026-09-04 12:16:17 - 190234418 - Result: Successfully redeemed
+2026-09-04 12:16:19 - Processing K1266-190553232 [205/229] for code: OFFICIALSTORE0904
+2026-09-04 12:16:19 - 190553232 - Result: Successfully redeemed
+2026-09-04 12:16:20 - Processing K1266-190573918 [206/229] for code: OFFICIALSTORE0904
+2026-09-04 12:16:20 - 190573918 - Result: Successfully redeemed
+2026-09-04 12:16:21 - Processing K1266-193365290 [207/229] for code: OFFICIALSTORE0904
+2026-09-04 12:16:21 - 193365290 - Result: Successfully redeemed
+2026-09-04 12:16:23 - Processing K1266-194962807 [208/229] for code: OFFICIALSTORE0904
+2026-09-04 12:16:23 - 194962807 - Result: Successfully redeemed
+2026-09-04 12:16:24 - Processing K1266-195609436 [209/229] for code: OFFICIALSTORE0904
+2026-09-04 12:16:24 - 195609436 - Result: Successfully redeemed
+2026-09-04 12:16:25 - Processing K1266-195708034 [210/229] for code: OFFICIALSTORE0904
+2026-09-04 12:16:26 - 195708034 - Result: Successfully redeemed
+2026-09-04 12:16:27 - Processing K1266-197748881 [211/229] for code: OFFICIALSTORE0904
+2026-09-04 12:16:27 - 197748881 - Result: Successfully redeemed
+2026-09-04 12:16:28 - Processing K1266-198971997 [212/229] for code: OFFICIALSTORE0904
+2026-09-04 12:16:28 - 198971997 - Result: Successfully redeemed
+2026-09-04 12:16:29 - Processing K1266-199087822 [213/229] for code: OFFICIALSTORE0904
+2026-09-04 12:16:30 - 199087822 - Result: Successfully redeemed
+2026-09-04 12:16:31 - Processing K1266-199766078 [214/229] for code: OFFICIALSTORE0904
+2026-09-04 12:16:31 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-04 12:16:35 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-04 12:16:43 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-04 12:16:55 - 199766078 - Result: Redemption request failed
+2026-09-04 12:16:57 - Processing K1266-202789741 [215/229] for code: OFFICIALSTORE0904
+2026-09-04 12:16:57 - 202789741 - Result: Successfully redeemed
+2026-09-04 12:16:58 - Processing K1266-214289119 [216/229] for code: OFFICIALSTORE0904
+2026-09-04 12:16:58 - 214289119 - Result: Successfully redeemed
+2026-09-04 12:17:00 - Processing K1266-216820126 [217/229] for code: OFFICIALSTORE0904
+2026-09-04 12:17:00 - 216820126 - Result: Successfully redeemed
+2026-09-04 12:17:01 - Processing K1266-219382121 [218/229] for code: OFFICIALSTORE0904
+2026-09-04 12:17:01 - 219382121 - Result: Successfully redeemed
+2026-09-04 12:17:02 - Processing K1266-221299698 [219/229] for code: OFFICIALSTORE0904
+2026-09-04 12:17:03 - 221299698 - Result: Successfully redeemed
+2026-09-04 12:17:04 - Processing K1266-239065229 [220/229] for code: OFFICIALSTORE0904
+2026-09-04 12:17:04 - 239065229 - Result: Successfully redeemed
+2026-09-04 12:17:06 - Processing K1266-247760465 [221/229] for code: OFFICIALSTORE0904
+2026-09-04 12:17:06 - 247760465 - Result: Successfully redeemed
+2026-09-04 12:17:07 - Processing K1266-257078077 [222/229] for code: OFFICIALSTORE0904
+2026-09-04 12:17:07 - 257078077 - Result: Successfully redeemed
+2026-09-04 12:17:08 - Processing K1266-270896390 [223/229] for code: OFFICIALSTORE0904
+2026-09-04 12:17:08 - 270896390 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-04 12:17:11 - 270896390 - Result: Successfully redeemed
+2026-09-04 12:17:12 - Processing K1266-278604391 [224/229] for code: OFFICIALSTORE0904
+2026-09-04 12:17:12 - 278604391 - Result: Successfully redeemed
+2026-09-04 12:17:13 - Processing K1266-302154974 [225/229] for code: OFFICIALSTORE0904
+2026-09-04 12:17:13 - 302154974 - Result: Successfully redeemed
+2026-09-04 12:17:14 - Processing K1266-377584801 [226/229] for code: OFFICIALSTORE0904
+2026-09-04 12:17:15 - 377584801 - Result: Successfully redeemed
+2026-09-04 12:17:16 - Processing K1266-378005527 [227/229] for code: OFFICIALSTORE0904
+2026-09-04 12:17:16 - 378005527 - Result: Successfully redeemed
+2026-09-04 12:17:17 - Processing K1266-378518775 [228/229] for code: OFFICIALSTORE0904
+2026-09-04 12:17:18 - 378518775 - Result: Successfully redeemed
+2026-09-04 12:17:19 - Processing K1266-381967745 [229/229] for code: OFFICIALSTORE0904
+2026-09-04 12:17:19 - 381967745 - Result: Successfully redeemed
+2026-09-04 12:17:20 - --- Cycle finished. Total processed: 229/229 ---
+2026-09-04 12:17:20 - 
+========================= Redemption Summary =========================
+2026-09-04 12:17:20 - Code Redeemed: OFFICIALSTORE0904
+2026-09-04 12:17:20 - Total Unique Player IDs Found: 229
+2026-09-04 12:17:20 - Total Player IDs Processed: 229
+2026-09-04 12:17:20 - Successfully redeemed: 220
+2026-09-04 12:17:20 - Already redeemed: 0
+2026-09-04 12:17:20 - Wrong kingdom: 0
+2026-09-04 12:17:20 - Other Errors/Failures: 9
+2026-09-04 12:17:20 - Rate Limit Events: 0
+2026-09-04 12:17:20 - Total execution time: 0:09:47
+2026-09-04 12:17:20 - ======================================================================
+2026-09-04 12:17:20 - Marked 'OFFICIALSTORE0904' as known.
+
