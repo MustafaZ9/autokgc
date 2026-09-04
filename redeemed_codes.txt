@@ -29613,3 +29613,8 @@
 2026-09-04 12:17:20 - ======================================================================
 2026-09-04 12:17:20 - Marked 'OFFICIALSTORE0904' as known.
 
+2026-09-04 15:22:02 - Checking https://kingshot.net/gift-codes for new gift codes...
+2026-09-04 15:22:02 - Using curl_cffi for Cloudflare bypass...
+2026-09-04 15:22:03 - Success with chrome124 impersonation
+2026-09-04 15:22:03 - No new gift codes found. All codes have been seen previously.
+2026-09-04 15:22:03 - Nothing to redeem.
