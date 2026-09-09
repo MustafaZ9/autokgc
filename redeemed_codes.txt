@@ -30257,3 +30257,516 @@
 2026-09-09 02:00:12 - Success with chrome124 impersonation
 2026-09-09 02:00:12 - No new gift codes found. All codes have been seen previously.
 2026-09-09 02:00:12 - Nothing to redeem.
+2026-09-09 06:47:43 - Checking https://kingshot.net/gift-codes for new gift codes...
+2026-09-09 06:47:44 - Using curl_cffi for Cloudflare bypass...
+2026-09-09 06:47:44 - Success with chrome124 impersonation
+2026-09-09 06:47:44 - 
+🎉 NEW GIFT CODES FOUND: KS0909
+2026-09-09 06:47:44 - 
+=== Starting redemption for gift code: KS0909 ===
+2026-09-09 06:47:44 - Read 231 player IDs from lod.csv (encoding: utf-8-sig, 231 with a kingdom)
+2026-09-09 06:47:44 - Removed 2 duplicate entries.
+2026-09-09 06:47:44 - Total unique player IDs to process: 229
+2026-09-09 06:47:44 - 
+--- Starting processing cycle. Ready player IDs: 229 ---
+2026-09-09 06:47:44 - Processing K1266-112607487 [1/229] for code: KS0909
+2026-09-09 06:47:45 - 112607487 - Result: Successfully redeemed
+2026-09-09 06:47:46 - Processing K1266-114993837 [2/229] for code: KS0909
+2026-09-09 06:47:46 - 114993837 - Result: Successfully redeemed
+2026-09-09 06:47:48 - Processing K1266-134948830 [3/229] for code: KS0909
+2026-09-09 06:47:48 - 134948830 - Result: Successfully redeemed
+2026-09-09 06:47:49 - Processing K1266-137354109 [4/229] for code: KS0909
+2026-09-09 06:47:49 - 137354109 - Result: Successfully redeemed
+2026-09-09 06:47:50 - Processing K1266-137881550 [5/229] for code: KS0909
+2026-09-09 06:47:50 - 137881550 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-09 06:47:52 - 137881550 - Result: Successfully redeemed
+2026-09-09 06:47:54 - Processing K1266-138078147 [6/229] for code: KS0909
+2026-09-09 06:47:54 - 138078147 - Result: Successfully redeemed
+2026-09-09 06:47:55 - Processing K1266-139819795 [7/229] for code: KS0909
+2026-09-09 06:47:55 - 139819795 - Result: Successfully redeemed
+2026-09-09 06:47:56 - Processing K1266-156477789 [8/229] for code: KS0909
+2026-09-09 06:47:56 - 156477789 - Result: Successfully redeemed
+2026-09-09 06:47:57 - Processing K1266-162070715 [9/229] for code: KS0909
+2026-09-09 06:47:57 - 162070715 - Result: Successfully redeemed
+2026-09-09 06:47:59 - Processing K1266-172135597 [10/229] for code: KS0909
+2026-09-09 06:47:59 - 172135597 - Result: Successfully redeemed
+2026-09-09 06:48:00 - Processing K1266-176622413 [11/229] for code: KS0909
+2026-09-09 06:48:00 - 176622413 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-09 06:48:02 - 176622413 - Result: Successfully redeemed
+2026-09-09 06:48:03 - Processing K1266-176730452 [12/229] for code: KS0909
+2026-09-09 06:48:04 - 176730452 - Result: Successfully redeemed
+2026-09-09 06:48:05 - Processing K1266-177978644 [13/229] for code: KS0909
+2026-09-09 06:48:05 - 177978644 - Result: Successfully redeemed
+2026-09-09 06:48:06 - Processing K1266-178188212 [14/229] for code: KS0909
+2026-09-09 06:48:06 - 178188212 - Result: Successfully redeemed
+2026-09-09 06:48:07 - Processing K1266-179107716 [15/229] for code: KS0909
+2026-09-09 06:48:07 - 179107716 - Result: Successfully redeemed
+2026-09-09 06:48:08 - Processing K1266-180368647 [16/229] for code: KS0909
+2026-09-09 06:48:08 - 180368647 - Result: Successfully redeemed
+2026-09-09 06:48:10 - Processing K1266-180369109 [17/229] for code: KS0909
+2026-09-09 06:48:10 - 180369109 - Result: Successfully redeemed
+2026-09-09 06:48:11 - Processing K1266-180369142 [18/229] for code: KS0909
+2026-09-09 06:48:11 - 180369142 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-09 06:48:13 - 180369142 - Result: Successfully redeemed
+2026-09-09 06:48:15 - Processing K1266-180369159 [19/229] for code: KS0909
+2026-09-09 06:48:15 - 180369159 - Result: Successfully redeemed
+2026-09-09 06:48:16 - Processing K1266-180385375 [20/229] for code: KS0909
+2026-09-09 06:48:16 - 180385375 - Result: Successfully redeemed
+2026-09-09 06:48:17 - Processing K1266-180385792 [21/229] for code: KS0909
+2026-09-09 06:48:17 - 180385792 - Result: Successfully redeemed
+2026-09-09 06:48:19 - Processing K1266-180418498 [22/229] for code: KS0909
+2026-09-09 06:48:19 - 180418498 - Result: Successfully redeemed
+2026-09-09 06:48:20 - Processing K1266-180434357 [23/229] for code: KS0909
+2026-09-09 06:48:20 - 180434357 - Result: Successfully redeemed
+2026-09-09 06:48:22 - Processing K1266-180483302 [24/229] for code: KS0909
+2026-09-09 06:48:22 - 180483302 - Result: Successfully redeemed
+2026-09-09 06:48:23 - Processing K1266-180565782 [25/229] for code: KS0909
+2026-09-09 06:48:23 - 180565782 - Result: Successfully redeemed
+2026-09-09 06:48:24 - Processing K1266-180614319 [26/229] for code: KS0909
+2026-09-09 06:48:25 - 180614319 - Result: Successfully redeemed
+2026-09-09 06:48:26 - Processing K1266-180636958 [27/229] for code: KS0909
+2026-09-09 06:48:26 - 180636958 - Result: Successfully redeemed
+2026-09-09 06:48:27 - Processing K1266-180669914 [28/229] for code: KS0909
+2026-09-09 06:48:27 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-09 06:48:31 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-09 06:48:40 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-09 06:48:52 - 180669914 - Result: Redemption request failed
+2026-09-09 06:48:53 - Processing K1266-180696652 [29/229] for code: KS0909
+2026-09-09 06:48:53 - 180696652 - Result: Successfully redeemed
+2026-09-09 06:48:54 - Processing K1266-180729920 [30/229] for code: KS0909
+2026-09-09 06:48:54 - 180729920 - Result: Successfully redeemed
+2026-09-09 06:48:56 - Processing K1266-180778760 [31/229] for code: KS0909
+2026-09-09 06:48:56 - 180778760 - Result: Successfully redeemed
+2026-09-09 06:48:57 - Processing K1266-180827986 [32/229] for code: KS0909
+2026-09-09 06:48:57 - 180827986 - Result: Successfully redeemed
+2026-09-09 06:48:58 - Processing K1266-180893335 [33/229] for code: KS0909
+2026-09-09 06:48:58 - 180893335 - Result: Successfully redeemed
+2026-09-09 06:49:00 - Processing K1266-180893684 [34/229] for code: KS0909
+2026-09-09 06:49:00 - 180893684 - Result: Successfully redeemed
+2026-09-09 06:49:01 - Processing K1266-180893765 [35/229] for code: KS0909
+2026-09-09 06:49:01 - 180893765 - Result: Successfully redeemed
+2026-09-09 06:49:03 - Processing K1266-180959009 [36/229] for code: KS0909
+2026-09-09 06:49:03 - 180959009 - Result: Successfully redeemed
+2026-09-09 06:49:04 - Processing K1266-181073393 [37/229] for code: KS0909
+2026-09-09 06:49:04 - 181073393 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-09 06:49:06 - 181073393 - Result: Successfully redeemed
+2026-09-09 06:49:07 - Processing K1266-181106609 [38/229] for code: KS0909
+2026-09-09 06:49:07 - 181106609 - Result: Successfully redeemed
+2026-09-09 06:49:08 - Processing K1266-181122260 [39/229] for code: KS0909
+2026-09-09 06:49:08 - 181122260 - Result: Successfully redeemed
+2026-09-09 06:49:10 - Processing K1266-181155772 [40/229] for code: KS0909
+2026-09-09 06:49:10 - 181155772 - Result: Successfully redeemed
+2026-09-09 06:49:11 - Processing K1266-181171461 [41/229] for code: KS0909
+2026-09-09 06:49:11 - 181171461 - Result: Successfully redeemed
+2026-09-09 06:49:12 - Processing K1266-181286832 [42/229] for code: KS0909
+2026-09-09 06:49:12 - 181286832 - Result: Successfully redeemed
+2026-09-09 06:49:14 - Processing K1266-181340930 [43/229] for code: KS0909
+2026-09-09 06:49:14 - 181340930 - Result: Successfully redeemed
+2026-09-09 06:49:15 - Processing K1266-181341522 [44/229] for code: KS0909
+2026-09-09 06:49:15 - 181341522 - Result: Successfully redeemed
+2026-09-09 06:49:16 - Processing K1266-181351852 [45/229] for code: KS0909
+2026-09-09 06:49:16 - 181351852 - Result: Successfully redeemed
+2026-09-09 06:49:17 - Processing K1266-181358276 [46/229] for code: KS0909
+2026-09-09 06:49:17 - 181358276 - Result: Successfully redeemed
+2026-09-09 06:49:18 - Processing K1266-181374419 [47/229] for code: KS0909
+2026-09-09 06:49:19 - 181374419 - Result: Successfully redeemed
+2026-09-09 06:49:20 - Processing K1266-181384836 [48/229] for code: KS0909
+2026-09-09 06:49:20 - 181384836 - Result: Successfully redeemed
+2026-09-09 06:49:22 - Processing K1266-181385198 [49/229] for code: KS0909
+2026-09-09 06:49:22 - 181385198 - Result: Successfully redeemed
+2026-09-09 06:49:23 - Processing K1266-181401589 [50/229] for code: KS0909
+2026-09-09 06:49:23 - 181401589 - Result: Successfully redeemed
+2026-09-09 06:49:24 - Processing K1266-181407057 [51/229] for code: KS0909
+2026-09-09 06:49:24 - 181407057 - Result: Successfully redeemed
+2026-09-09 06:49:25 - Processing K1266-181423528 [52/229] for code: KS0909
+2026-09-09 06:49:25 - 181423528 - Result: Successfully redeemed
+2026-09-09 06:49:27 - Processing K1266-181440017 [53/229] for code: KS0909
+2026-09-09 06:49:27 - 181440017 - Result: Successfully redeemed
+2026-09-09 06:49:28 - Processing K1266-181466821 [54/229] for code: KS0909
+2026-09-09 06:49:28 - 181466821 - Result: Successfully redeemed
+2026-09-09 06:49:29 - Processing K1266-181515253 [55/229] for code: KS0909
+2026-09-09 06:49:29 - 181515253 - Result: Successfully redeemed
+2026-09-09 06:49:30 - Processing K1266-181516264 [56/229] for code: KS0909
+2026-09-09 06:49:30 - 181516264 - Result: Successfully redeemed
+2026-09-09 06:49:32 - Processing K1266-181521367 [57/229] for code: KS0909
+2026-09-09 06:49:32 - 181521367 - Result: Successfully redeemed
+2026-09-09 06:49:33 - Processing K1266-181532757 [58/229] for code: KS0909
+2026-09-09 06:49:33 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-09 06:49:37 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-09 06:49:45 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-09 06:49:57 - 181532757 - Result: Redemption request failed
+2026-09-09 06:49:59 - Processing K1266-181565051 [59/229] for code: KS0909
+2026-09-09 06:49:59 - 181565051 - Result: Successfully redeemed
+2026-09-09 06:50:00 - Processing K1266-181571708 [60/229] for code: KS0909
+2026-09-09 06:50:00 - 181571708 - Result: Successfully redeemed
+2026-09-09 06:50:01 - Processing K1266-181614011 [61/229] for code: KS0909
+2026-09-09 06:50:01 - 181614011 - Result: Successfully redeemed
+2026-09-09 06:50:02 - Processing K1266-181630719 [62/229] for code: KS0909
+2026-09-09 06:50:02 - 181630719 - Result: Successfully redeemed
+2026-09-09 06:50:04 - Processing K1266-181646830 [63/229] for code: KS0909
+2026-09-09 06:50:04 - 181646830 - Result: Successfully redeemed
+2026-09-09 06:50:05 - Processing K1266-181663028 [64/229] for code: KS0909
+2026-09-09 06:50:05 - 181663028 - Result: Successfully redeemed
+2026-09-09 06:50:06 - Processing K1266-181669304 [65/229] for code: KS0909
+2026-09-09 06:50:06 - 181669304 - Result: Successfully redeemed
+2026-09-09 06:50:08 - Processing K1266-181696527 [66/229] for code: KS0909
+2026-09-09 06:50:08 - 181696527 - Result: Successfully redeemed
+2026-09-09 06:50:09 - Processing K1266-181734398 [67/229] for code: KS0909
+2026-09-09 06:50:09 - 181734398 - Result: Successfully redeemed
+2026-09-09 06:50:10 - Processing K1266-181761437 [68/229] for code: KS0909
+2026-09-09 06:50:10 - 181761437 - Result: Successfully redeemed
+2026-09-09 06:50:12 - Processing K1266-181778389 [69/229] for code: KS0909
+2026-09-09 06:50:12 - 181778389 - Result: Successfully redeemed
+2026-09-09 06:50:13 - Processing K1266-181793958 [70/229] for code: KS0909
+2026-09-09 06:50:13 - 181793958 - Result: Successfully redeemed
+2026-09-09 06:50:14 - Processing K1266-181794115 [71/229] for code: KS0909
+2026-09-09 06:50:14 - 181794115 - Result: Successfully redeemed
+2026-09-09 06:50:16 - Processing K1266-181816445 [72/229] for code: KS0909
+2026-09-09 06:50:16 - 181816445 - Result: Successfully redeemed
+2026-09-09 06:50:17 - Processing K1266-181859621 [73/229] for code: KS0909
+2026-09-09 06:50:17 - 181859621 - Result: Successfully redeemed
+2026-09-09 06:50:18 - Processing K1266-181859892 [74/229] for code: KS0909
+2026-09-09 06:50:18 - 181859892 - Result: Successfully redeemed
+2026-09-09 06:50:19 - Processing K1266-181859948 [75/229] for code: KS0909
+2026-09-09 06:50:20 - 181859948 - Result: Successfully redeemed
+2026-09-09 06:50:21 - Processing K1266-181860239 [76/229] for code: KS0909
+2026-09-09 06:50:21 - 181860239 - Result: Successfully redeemed
+2026-09-09 06:50:22 - Processing K1266-181892322 [77/229] for code: KS0909
+2026-09-09 06:50:22 - 181892322 - Result: Successfully redeemed
+2026-09-09 06:50:23 - Processing K1266-181941995 [78/229] for code: KS0909
+2026-09-09 06:50:23 - 181941995 - Result: Successfully redeemed
+2026-09-09 06:50:25 - Processing K1266-181942353 [79/229] for code: KS0909
+2026-09-09 06:50:25 - 181942353 - Result: Successfully redeemed
+2026-09-09 06:50:26 - Processing K1266-181957758 [80/229] for code: KS0909
+2026-09-09 06:50:26 - 181957758 - Result: Successfully redeemed
+2026-09-09 06:50:27 - Processing K1266-181958534 [81/229] for code: KS0909
+2026-09-09 06:50:27 - 181958534 - Result: Successfully redeemed
+2026-09-09 06:50:29 - Processing K1266-182013382 [82/229] for code: KS0909
+2026-09-09 06:50:29 - 182013382 - Result: Successfully redeemed
+2026-09-09 06:50:30 - Processing K1266-182022970 [83/229] for code: KS0909
+2026-09-09 06:50:30 - 182022970 - Result: Successfully redeemed
+2026-09-09 06:50:32 - Processing K1266-182072645 [84/229] for code: KS0909
+2026-09-09 06:50:32 - 182072645 - Result: Successfully redeemed
+2026-09-09 06:50:33 - Processing K1266-182138218 [85/229] for code: KS0909
+2026-09-09 06:50:33 - 182138218 - Result: Successfully redeemed
+2026-09-09 06:50:34 - Processing K1266-182138227 [86/229] for code: KS0909
+2026-09-09 06:50:34 - 182138227 - Result: Successfully redeemed
+2026-09-09 06:50:36 - Processing K1266-182144355 [87/229] for code: KS0909
+2026-09-09 06:50:36 - 182144355 - Result: Successfully redeemed
+2026-09-09 06:50:37 - Processing K1266-182203900 [88/229] for code: KS0909
+2026-09-09 06:50:37 - 182203900 - Result: Successfully redeemed
+2026-09-09 06:50:39 - Processing K1266-182210139 [89/229] for code: KS0909
+2026-09-09 06:50:39 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-09 06:50:43 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-09 06:50:51 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-09 06:51:03 - 182210139 - Result: Redemption request failed
+2026-09-09 06:51:04 - Processing K1266-182275359 [90/229] for code: KS0909
+2026-09-09 06:51:04 - 182275359 - Result: Successfully redeemed
+2026-09-09 06:51:05 - Processing K1266-182286440 [91/229] for code: KS0909
+2026-09-09 06:51:05 - 182286440 - Result: Successfully redeemed
+2026-09-09 06:51:07 - Processing K1266-182302366 [92/229] for code: KS0909
+2026-09-09 06:51:07 - 182302366 - Result: Successfully redeemed
+2026-09-09 06:51:08 - Processing K1266-182318888 [93/229] for code: KS0909
+2026-09-09 06:51:08 - 182318888 - Result: Successfully redeemed
+2026-09-09 06:51:09 - Processing K1266-182318966 [94/229] for code: KS0909
+2026-09-09 06:51:09 - 182318966 - Result: Successfully redeemed
+2026-09-09 06:51:10 - Processing K1266-182318992 [95/229] for code: KS0909
+2026-09-09 06:51:11 - 182318992 - Result: Successfully redeemed
+2026-09-09 06:51:12 - Processing K1266-182334781 [96/229] for code: KS0909
+2026-09-09 06:51:12 - 182334781 - Result: Successfully redeemed
+2026-09-09 06:51:13 - Processing K1266-182384377 [97/229] for code: KS0909
+2026-09-09 06:51:13 - 182384377 - Result: Successfully redeemed
+2026-09-09 06:51:15 - Processing K1266-182417500 [98/229] for code: KS0909
+2026-09-09 06:51:15 - 182417500 - Result: Successfully redeemed
+2026-09-09 06:51:16 - Processing K1266-182419290 [99/229] for code: KS0909
+2026-09-09 06:51:16 - 182419290 - Result: Successfully redeemed
+2026-09-09 06:51:18 - Processing K1266-182449206 [100/229] for code: KS0909
+2026-09-09 06:51:18 - 182449206 - Result: Successfully redeemed
+2026-09-09 06:51:19 - Processing K1266-182466031 [101/229] for code: KS0909
+2026-09-09 06:51:19 - 182466031 - Result: Successfully redeemed
+2026-09-09 06:51:20 - Processing K1266-182466200 [102/229] for code: KS0909
+2026-09-09 06:51:21 - 182466200 - Result: Successfully redeemed
+2026-09-09 06:51:22 - Processing K1266-182488759 [103/229] for code: KS0909
+2026-09-09 06:51:22 - 182488759 - Result: Successfully redeemed
+2026-09-09 06:51:23 - Processing K1266-182498855 [104/229] for code: KS0909
+2026-09-09 06:51:23 - 182498855 - Result: Successfully redeemed
+2026-09-09 06:51:24 - Processing K1266-182531700 [105/229] for code: KS0909
+2026-09-09 06:51:24 - 182531700 - Result: Successfully redeemed
+2026-09-09 06:51:26 - Processing K1266-182646613 [106/229] for code: KS0909
+2026-09-09 06:51:26 - 182646613 - Result: Successfully redeemed
+2026-09-09 06:51:27 - Processing K1266-182668737 [107/229] for code: KS0909
+2026-09-09 06:51:27 - 182668737 - Result: Successfully redeemed
+2026-09-09 06:51:29 - Processing K1266-182717899 [108/229] for code: KS0909
+2026-09-09 06:51:29 - 182717899 - Result: Successfully redeemed
+2026-09-09 06:51:30 - Processing K1266-182767010 [109/229] for code: KS0909
+2026-09-09 06:51:30 - 182767010 - Result: Successfully redeemed
+2026-09-09 06:51:31 - Processing K1266-182810221 [110/229] for code: KS0909
+2026-09-09 06:51:31 - 182810221 - Result: Successfully redeemed
+2026-09-09 06:51:32 - Processing K1266-182858998 [111/229] for code: KS0909
+2026-09-09 06:51:32 - 182858998 - Result: Successfully redeemed
+2026-09-09 06:51:34 - Processing K1266-182859667 [112/229] for code: KS0909
+2026-09-09 06:51:34 - 182859667 - Result: Successfully redeemed
+2026-09-09 06:51:35 - Processing K1266-182892106 [113/229] for code: KS0909
+2026-09-09 06:51:35 - 182892106 - Result: Successfully redeemed
+2026-09-09 06:51:36 - Processing K1266-182892217 [114/229] for code: KS0909
+2026-09-09 06:51:36 - 182892217 - Result: Successfully redeemed
+2026-09-09 06:51:38 - Processing K1266-182898057 [115/229] for code: KS0909
+2026-09-09 06:51:38 - 182898057 - Result: Successfully redeemed
+2026-09-09 06:51:39 - Processing K1266-182908483 [116/229] for code: KS0909
+2026-09-09 06:51:39 - 182908483 - Result: Successfully redeemed
+2026-09-09 06:51:40 - Processing K1266-182941162 [117/229] for code: KS0909
+2026-09-09 06:51:40 - 182941162 - Result: Successfully redeemed
+2026-09-09 06:51:42 - Processing K1266-182941502 [118/229] for code: KS0909
+2026-09-09 06:51:42 - 182941502 - Result: Successfully redeemed
+2026-09-09 06:51:43 - Processing K1266-183012848 [119/229] for code: KS0909
+2026-09-09 06:51:43 - 183012848 - Result: Successfully redeemed
+2026-09-09 06:51:44 - Processing K1266-183028805 [120/229] for code: KS0909
+2026-09-09 06:51:44 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-09 06:51:48 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-09 06:51:56 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-09 06:52:08 - 183028805 - Result: Redemption request failed
+2026-09-09 06:52:09 - Processing K1266-183029342 [121/229] for code: KS0909
+2026-09-09 06:52:10 - 183029342 - Result: Successfully redeemed
+2026-09-09 06:52:11 - Processing K1266-183072306 [122/229] for code: KS0909
+2026-09-09 06:52:11 - 183072306 - Result: Successfully redeemed
+2026-09-09 06:52:12 - Processing K1266-183072746 [123/229] for code: KS0909
+2026-09-09 06:52:12 - 183072746 - Result: Successfully redeemed
+2026-09-09 06:52:14 - Processing K1266-183072824 [124/229] for code: KS0909
+2026-09-09 06:52:14 - 183072824 - Result: Successfully redeemed
+2026-09-09 06:52:15 - Processing K1266-183089209 [125/229] for code: KS0909
+2026-09-09 06:52:15 - 183089209 - Result: Successfully redeemed
+2026-09-09 06:52:17 - Processing K1266-183121113 [126/229] for code: KS0909
+2026-09-09 06:52:17 - 183121113 - Result: Successfully redeemed
+2026-09-09 06:52:18 - Processing K1266-183137287 [127/229] for code: KS0909
+2026-09-09 06:52:18 - 183137287 - Result: Successfully redeemed
+2026-09-09 06:52:19 - Processing K1266-183154303 [128/229] for code: KS0909
+2026-09-09 06:52:19 - 183154303 - Result: Successfully redeemed
+2026-09-09 06:52:21 - Processing K1266-183170657 [129/229] for code: KS0909
+2026-09-09 06:52:21 - 183170657 - Result: Successfully redeemed
+2026-09-09 06:52:22 - Processing K1266-183176536 [130/229] for code: KS0909
+2026-09-09 06:52:22 - 183176536 - Result: Successfully redeemed
+2026-09-09 06:52:23 - Processing K1266-183219343 [131/229] for code: KS0909
+2026-09-09 06:52:23 - 183219343 - Result: Successfully redeemed
+2026-09-09 06:52:24 - Processing K1266-183252993 [132/229] for code: KS0909
+2026-09-09 06:52:24 - 183252993 - Result: Successfully redeemed
+2026-09-09 06:52:26 - Processing K1266-183285360 [133/229] for code: KS0909
+2026-09-09 06:52:26 - 183285360 - Result: Successfully redeemed
+2026-09-09 06:52:27 - Processing K1266-183366693 [134/229] for code: KS0909
+2026-09-09 06:52:27 - 183366693 - Result: Successfully redeemed
+2026-09-09 06:52:28 - Processing K1266-183367342 [135/229] for code: KS0909
+2026-09-09 06:52:29 - 183367342 - Result: Successfully redeemed
+2026-09-09 06:52:30 - Processing K1266-183383666 [136/229] for code: KS0909
+2026-09-09 06:52:30 - 183383666 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-09 06:52:32 - 183383666 - Result: Successfully redeemed
+2026-09-09 06:52:33 - Processing K1266-183384158 [137/229] for code: KS0909
+2026-09-09 06:52:33 - 183384158 - Result: Successfully redeemed
+2026-09-09 06:52:35 - Processing K1266-183449358 [138/229] for code: KS0909
+2026-09-09 06:52:35 - 183449358 - Result: Successfully redeemed
+2026-09-09 06:52:36 - Processing K1266-183455373 [139/229] for code: KS0909
+2026-09-09 06:52:36 - 183455373 - Result: Successfully redeemed
+2026-09-09 06:52:37 - Processing K1266-183465208 [140/229] for code: KS0909
+2026-09-09 06:52:37 - 183465208 - Result: Successfully redeemed
+2026-09-09 06:52:39 - Processing K1266-183514753 [141/229] for code: KS0909
+2026-09-09 06:52:39 - 183514753 - Result: Successfully redeemed
+2026-09-09 06:52:40 - Processing K1266-183531242 [142/229] for code: KS0909
+2026-09-09 06:52:40 - 183531242 - Result: Successfully redeemed
+2026-09-09 06:52:41 - Processing K1266-183563334 [143/229] for code: KS0909
+2026-09-09 06:52:42 - 183563334 - Result: Successfully redeemed
+2026-09-09 06:52:43 - Processing K1266-183579631 [144/229] for code: KS0909
+2026-09-09 06:52:43 - 183579631 - Result: Successfully redeemed
+2026-09-09 06:52:44 - Processing K1266-183579641 [145/229] for code: KS0909
+2026-09-09 06:52:44 - 183579641 - Result: Successfully redeemed
+2026-09-09 06:52:45 - Processing K1266-183602956 [146/229] for code: KS0909
+2026-09-09 06:52:45 - 183602956 - Result: Successfully redeemed
+2026-09-09 06:52:46 - Processing K1266-183635567 [147/229] for code: KS0909
+2026-09-09 06:52:47 - 183635567 - Result: Successfully redeemed
+2026-09-09 06:52:48 - Processing K1266-183662249 [148/229] for code: KS0909
+2026-09-09 06:52:48 - 183662249 - Result: Successfully redeemed
+2026-09-09 06:52:49 - Processing K1266-183678571 [149/229] for code: KS0909
+2026-09-09 06:52:50 - 183678571 - Result: Successfully redeemed
+2026-09-09 06:52:51 - Processing K1266-183744074 [150/229] for code: KS0909
+2026-09-09 06:52:51 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-09 06:52:55 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-09 06:53:03 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-09 06:53:15 - 183744074 - Result: Redemption request failed
+2026-09-09 06:53:16 - Processing K1266-183760133 [151/229] for code: KS0909
+2026-09-09 06:53:16 - 183760133 - Result: Successfully redeemed
+2026-09-09 06:53:17 - Processing K1266-183776526 [152/229] for code: KS0909
+2026-09-09 06:53:17 - 183776526 - Result: Successfully redeemed
+2026-09-09 06:53:19 - Processing K1266-183792859 [153/229] for code: KS0909
+2026-09-09 06:53:19 - 183792859 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-09 06:53:21 - 183792859 - Result: Successfully redeemed
+2026-09-09 06:53:22 - Processing K1266-183793260 [154/229] for code: KS0909
+2026-09-09 06:53:22 - 183793260 - Result: Successfully redeemed
+2026-09-09 06:53:23 - Processing K1266-183799231 [155/229] for code: KS0909
+2026-09-09 06:53:24 - 183799231 - Result: Successfully redeemed
+2026-09-09 06:53:25 - Processing K1266-183809202 [156/229] for code: KS0909
+2026-09-09 06:53:25 - 183809202 - Result: Successfully redeemed
+2026-09-09 06:53:26 - Processing K1266-183826046 [157/229] for code: KS0909
+2026-09-09 06:53:26 - 183826046 - Result: Successfully redeemed
+2026-09-09 06:53:28 - Processing K1266-183826079 [158/229] for code: KS0909
+2026-09-09 06:53:28 - 183826079 - Result: Successfully redeemed
+2026-09-09 06:53:29 - Processing K1266-183842429 [159/229] for code: KS0909
+2026-09-09 06:53:29 - 183842429 - Result: Successfully redeemed
+2026-09-09 06:53:31 - Processing K1266-183858943 [160/229] for code: KS0909
+2026-09-09 06:53:31 - 183858943 - Result: Successfully redeemed
+2026-09-09 06:53:32 - Processing K1266-183859043 [161/229] for code: KS0909
+2026-09-09 06:53:32 - 183859043 - Result: Successfully redeemed
+2026-09-09 06:53:33 - Processing K1266-183907855 [162/229] for code: KS0909
+2026-09-09 06:53:33 - 183907855 - Result: Successfully redeemed
+2026-09-09 06:53:34 - Processing K1266-183924658 [163/229] for code: KS0909
+2026-09-09 06:53:34 - 183924658 - Result: Successfully redeemed
+2026-09-09 06:53:36 - Processing K1266-183924660 [164/229] for code: KS0909
+2026-09-09 06:53:36 - 183924660 - Result: Successfully redeemed
+2026-09-09 06:53:37 - Processing K1266-183940809 [165/229] for code: KS0909
+2026-09-09 06:53:38 - 183940809 - Result: Successfully redeemed
+2026-09-09 06:53:39 - Processing K1266-183946385 [166/229] for code: KS0909
+2026-09-09 06:53:39 - 183946385 - Result: Successfully redeemed
+2026-09-09 06:53:40 - Processing K1266-183946804 [167/229] for code: KS0909
+2026-09-09 06:53:40 - 183946804 - Result: Successfully redeemed
+2026-09-09 06:53:42 - Processing K1266-184005794 [168/229] for code: KS0909
+2026-09-09 06:53:42 - 184005794 - Result: Successfully redeemed
+2026-09-09 06:53:43 - Processing K1266-184022781 [169/229] for code: KS0909
+2026-09-09 06:53:43 - 184022781 - Result: Successfully redeemed
+2026-09-09 06:53:44 - Processing K1266-184071743 [170/229] for code: KS0909
+2026-09-09 06:53:44 - 184071743 - Result: Successfully redeemed
+2026-09-09 06:53:46 - Processing K1266-184088377 [171/229] for code: KS0909
+2026-09-09 06:53:46 - 184088377 - Result: Successfully redeemed
+2026-09-09 06:53:47 - Processing K1266-184121399 [172/229] for code: KS0909
+2026-09-09 06:53:47 - 184121399 - Result: Successfully redeemed
+2026-09-09 06:53:48 - Processing K1266-184137674 [173/229] for code: KS0909
+2026-09-09 06:53:48 - 184137674 - Result: Successfully redeemed
+2026-09-09 06:53:49 - Processing K1266-184153916 [174/229] for code: KS0909
+2026-09-09 06:53:49 - 184153916 - Result: Successfully redeemed
+2026-09-09 06:53:51 - Processing K1266-184159552 [175/229] for code: KS0909
+2026-09-09 06:53:51 - 184159552 - Result: Successfully redeemed
+2026-09-09 06:53:52 - Processing K1266-184169916 [176/229] for code: KS0909
+2026-09-09 06:53:52 - 184169916 - Result: Successfully redeemed
+2026-09-09 06:53:53 - Processing K1266-184170263 [177/229] for code: KS0909
+2026-09-09 06:53:53 - 184170263 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-09 06:53:55 - 184170263 - Result: Successfully redeemed
+2026-09-09 06:53:57 - Processing K1266-184175883 [178/229] for code: KS0909
+2026-09-09 06:53:57 - 184175883 - Result: Successfully redeemed
+2026-09-09 06:53:58 - Processing K1266-184176072 [179/229] for code: KS0909
+2026-09-09 06:53:58 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-09 06:54:02 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-09 06:54:10 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-09 06:54:22 - 184176072 - Result: Redemption request failed
+2026-09-09 06:54:24 - Processing K1266-184202442 [180/229] for code: KS0909
+2026-09-09 06:54:24 - 184202442 - Result: Successfully redeemed
+2026-09-09 06:54:25 - Processing K1266-184202684 [181/229] for code: KS0909
+2026-09-09 06:54:26 - 184202684 - Result: Successfully redeemed
+2026-09-09 06:54:27 - Processing K1266-184219240 [182/229] for code: KS0909
+2026-09-09 06:54:27 - 184219240 - Result: Successfully redeemed
+2026-09-09 06:54:28 - Processing K1266-184235470 [183/229] for code: KS0909
+2026-09-09 06:54:28 - 184235470 - Result: Successfully redeemed
+2026-09-09 06:54:30 - Processing K1266-184252103 [184/229] for code: KS0909
+2026-09-09 06:54:30 - 184252103 - Result: Successfully redeemed
+2026-09-09 06:54:31 - Processing K1266-184257548 [185/229] for code: KS0909
+2026-09-09 06:54:31 - 184257548 - Result: Successfully redeemed
+2026-09-09 06:54:32 - Processing K1266-184268332 [186/229] for code: KS0909
+2026-09-09 06:54:32 - 184268332 - Result: Successfully redeemed
+2026-09-09 06:54:34 - Processing K1266-184285099 [187/229] for code: KS0909
+2026-09-09 06:54:34 - 184285099 - Result: Successfully redeemed
+2026-09-09 06:54:35 - Processing K1266-184300583 [188/229] for code: KS0909
+2026-09-09 06:54:35 - 184300583 - Result: Successfully redeemed
+2026-09-09 06:54:37 - Processing K1266-184323165 [189/229] for code: KS0909
+2026-09-09 06:54:37 - 184323165 - Result: Successfully redeemed
+2026-09-09 06:54:38 - Processing K1266-184334326 [190/229] for code: KS0909
+2026-09-09 06:54:38 - 184334326 - Result: Successfully redeemed
+2026-09-09 06:54:39 - Processing K1266-184355782 [191/229] for code: KS0909
+2026-09-09 06:54:39 - 184355782 - Result: Successfully redeemed
+2026-09-09 06:54:40 - Processing K1266-184366892 [192/229] for code: KS0909
+2026-09-09 06:54:40 - 184366892 - Result: Successfully redeemed
+2026-09-09 06:54:42 - Processing K1266-184382529 [193/229] for code: KS0909
+2026-09-09 06:54:42 - 184382529 - Result: Successfully redeemed
+2026-09-09 06:54:43 - Processing K1266-184398957 [194/229] for code: KS0909
+2026-09-09 06:54:43 - 184398957 - Result: Successfully redeemed
+2026-09-09 06:54:44 - Processing K1266-184481446 [195/229] for code: KS0909
+2026-09-09 06:54:44 - 184481446 - Result: Successfully redeemed
+2026-09-09 06:54:45 - Processing K1266-184546387 [196/229] for code: KS0909
+2026-09-09 06:54:45 - 184546387 - Result: Successfully redeemed
+2026-09-09 06:54:47 - Processing K1266-184925419 [197/229] for code: KS0909
+2026-09-09 06:54:47 - 184925419 - Result: Successfully redeemed
+2026-09-09 06:54:48 - Processing K1266-185480245 [198/229] for code: KS0909
+2026-09-09 06:54:48 - 185480245 - Result: Successfully redeemed
+2026-09-09 06:54:49 - Processing K1266-187102768 [199/229] for code: KS0909
+2026-09-09 06:54:49 - 187102768 - Result: Successfully redeemed
+2026-09-09 06:54:51 - Processing K1266-188087741 [200/229] for code: KS0909
+2026-09-09 06:54:51 - 188087741 - Result: Successfully redeemed
+2026-09-09 06:54:52 - Processing K1266-188470196 [201/229] for code: KS0909
+2026-09-09 06:54:52 - 188470196 - Result: Successfully redeemed
+2026-09-09 06:54:53 - Processing K1266-188862376 [202/229] for code: KS0909
+2026-09-09 06:54:53 - 188862376 - Result: Successfully redeemed
+2026-09-09 06:54:55 - Processing K1266-189063297 [203/229] for code: KS0909
+2026-09-09 06:54:55 - 189063297 - Result: Successfully redeemed
+2026-09-09 06:54:56 - Processing K1266-190234418 [204/229] for code: KS0909
+2026-09-09 06:54:56 - 190234418 - Result: Successfully redeemed
+2026-09-09 06:54:57 - Processing K1266-190553232 [205/229] for code: KS0909
+2026-09-09 06:54:57 - 190553232 - Result: Successfully redeemed
+2026-09-09 06:54:59 - Processing K1266-190573918 [206/229] for code: KS0909
+2026-09-09 06:54:59 - 190573918 - Result: Successfully redeemed
+2026-09-09 06:55:00 - Processing K1266-193365290 [207/229] for code: KS0909
+2026-09-09 06:55:00 - 193365290 - Result: Successfully redeemed
+2026-09-09 06:55:02 - Processing K1266-194962807 [208/229] for code: KS0909
+2026-09-09 06:55:02 - 194962807 - Result: Successfully redeemed
+2026-09-09 06:55:03 - Processing K1266-195609436 [209/229] for code: KS0909
+2026-09-09 06:55:03 - 195609436 - Result: Successfully redeemed
+2026-09-09 06:55:04 - Processing K1266-195708034 [210/229] for code: KS0909
+2026-09-09 06:55:04 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-09 06:55:08 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-09 06:55:16 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-09 06:55:28 - 195708034 - Result: Redemption request failed
+2026-09-09 06:55:30 - Processing K1266-197748881 [211/229] for code: KS0909
+2026-09-09 06:55:30 - 197748881 - Result: Successfully redeemed
+2026-09-09 06:55:31 - Processing K1266-198971997 [212/229] for code: KS0909
+2026-09-09 06:55:31 - 198971997 - Result: Successfully redeemed
+2026-09-09 06:55:32 - Processing K1266-199087822 [213/229] for code: KS0909
+2026-09-09 06:55:32 - 199087822 - Result: Successfully redeemed
+2026-09-09 06:55:34 - Processing K1266-199766078 [214/229] for code: KS0909
+2026-09-09 06:55:34 - 199766078 - Result: Successfully redeemed
+2026-09-09 06:55:35 - Processing K1266-202789741 [215/229] for code: KS0909
+2026-09-09 06:55:35 - 202789741 - Result: Successfully redeemed
+2026-09-09 06:55:36 - Processing K1266-214289119 [216/229] for code: KS0909
+2026-09-09 06:55:37 - 214289119 - Result: Successfully redeemed
+2026-09-09 06:55:38 - Processing K1266-216820126 [217/229] for code: KS0909
+2026-09-09 06:55:38 - 216820126 - Result: Successfully redeemed
+2026-09-09 06:55:39 - Processing K1266-219382121 [218/229] for code: KS0909
+2026-09-09 06:55:39 - 219382121 - Result: Successfully redeemed
+2026-09-09 06:55:40 - Processing K1266-221299698 [219/229] for code: KS0909
+2026-09-09 06:55:40 - 221299698 - Result: Successfully redeemed
+2026-09-09 06:55:42 - Processing K1266-239065229 [220/229] for code: KS0909
+2026-09-09 06:55:42 - 239065229 - Result: Successfully redeemed
+2026-09-09 06:55:43 - Processing K1266-247760465 [221/229] for code: KS0909
+2026-09-09 06:55:43 - 247760465 - Result: Successfully redeemed
+2026-09-09 06:55:44 - Processing K1266-257078077 [222/229] for code: KS0909
+2026-09-09 06:55:44 - 257078077 - Result: Successfully redeemed
+2026-09-09 06:55:45 - Processing K1266-270896390 [223/229] for code: KS0909
+2026-09-09 06:55:45 - 270896390 - Result: Successfully redeemed
+2026-09-09 06:55:47 - Processing K1266-278604391 [224/229] for code: KS0909
+2026-09-09 06:55:47 - 278604391 - Result: Successfully redeemed
+2026-09-09 06:55:48 - Processing K1266-302154974 [225/229] for code: KS0909
+2026-09-09 06:55:48 - 302154974 - Result: Successfully redeemed
+2026-09-09 06:55:49 - Processing K1266-377584801 [226/229] for code: KS0909
+2026-09-09 06:55:50 - 377584801 - Result: Successfully redeemed
+2026-09-09 06:55:51 - Processing K1266-378005527 [227/229] for code: KS0909
+2026-09-09 06:55:51 - 378005527 - Result: Successfully redeemed
+2026-09-09 06:55:52 - Processing K1266-378518775 [228/229] for code: KS0909
+2026-09-09 06:55:52 - 378518775 - Result: Successfully redeemed
+2026-09-09 06:55:54 - Processing K1266-381967745 [229/229] for code: KS0909
+2026-09-09 06:55:54 - 381967745 - Result: Successfully redeemed
+2026-09-09 06:55:55 - --- Cycle finished. Total processed: 229/229 ---
+2026-09-09 06:55:55 - 
+========================= Redemption Summary =========================
+2026-09-09 06:55:55 - Code Redeemed: KS0909
+2026-09-09 06:55:55 - Total Unique Player IDs Found: 229
+2026-09-09 06:55:55 - Total Player IDs Processed: 229
+2026-09-09 06:55:55 - Successfully redeemed: 222
+2026-09-09 06:55:55 - Already redeemed: 0
+2026-09-09 06:55:55 - Wrong kingdom: 0
+2026-09-09 06:55:55 - Other Errors/Failures: 7
+2026-09-09 06:55:55 - Rate Limit Events: 0
+2026-09-09 06:55:55 - Total execution time: 0:08:10
+2026-09-09 06:55:55 - ======================================================================
+2026-09-09 06:55:55 - Marked 'KS0909' as known.
+
