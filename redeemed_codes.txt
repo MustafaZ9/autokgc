@@ -30840,3 +30840,8 @@
 2026-09-12 00:25:28 - Success with chrome124 impersonation
 2026-09-12 00:25:28 - No new gift codes found. All codes have been seen previously.
 2026-09-12 00:25:28 - Nothing to redeem.
+2026-09-12 02:00:10 - Checking https://kingshot.net/gift-codes for new gift codes...
+2026-09-12 02:00:10 - Using curl_cffi for Cloudflare bypass...
+2026-09-12 02:00:11 - Success with chrome124 impersonation
+2026-09-12 02:00:11 - No new gift codes found. All codes have been seen previously.
+2026-09-12 02:00:11 - Nothing to redeem.
