@@ -32232,3 +32232,661 @@
 2026-09-20 10:05:39 - ======================================================================
 2026-09-20 10:05:39 - Marked 'JPHolidaySEP' as known.
 
+2026-09-20 10:18:58 - Checking https://kingshot.net/gift-codes for new gift codes...
+2026-09-20 10:18:58 - Using curl_cffi for Cloudflare bypass...
+2026-09-20 10:18:59 - Success with chrome124 impersonation
+2026-09-20 10:18:59 - 
+🎉 NEW GIFT CODES FOUND: JPHolidaySEP
+2026-09-20 10:18:59 - 
+=== Starting redemption for gift code: JPHolidaySEP ===
+2026-09-20 10:18:59 - Read 1664 player IDs from lod.csv (encoding: utf-8-sig, 6 with a kingdom)
+2026-09-20 10:18:59 - Removed 1363 duplicate entries.
+2026-09-20 10:18:59 - 295 player ID(s) had no kingdom in the CSV; using --kingdom 1266.
+2026-09-20 10:18:59 - Total unique player IDs to process: 301
+2026-09-20 10:18:59 - 
+--- Starting processing cycle. Ready player IDs: 301 ---
+2026-09-20 10:18:59 - Processing K1266-1266 [1/301] for code: JPHolidaySEP
+2026-09-20 10:18:59 - 1266 - Result: Wrong kingdom for this player ID
+2026-09-20 10:19:00 - Processing K1266-45978580 [2/301] for code: JPHolidaySEP
+2026-09-20 10:19:00 - 45978580 - Result: Wrong kingdom for this player ID
+2026-09-20 10:19:01 - Processing K1266-112607487 [3/301] for code: JPHolidaySEP
+2026-09-20 10:19:01 - 112607487 - Result: Already redeemed
+2026-09-20 10:19:03 - Processing K1266-134948830 [4/301] for code: JPHolidaySEP
+2026-09-20 10:19:03 - 134948830 - Result: Already redeemed
+2026-09-20 10:19:04 - Processing K1266-137354109 [5/301] for code: JPHolidaySEP
+2026-09-20 10:19:04 - 137354109 - Result: Already redeemed
+2026-09-20 10:19:06 - Processing K1266-137881550 [6/301] for code: JPHolidaySEP
+2026-09-20 10:19:06 - 137881550 - Result: Already redeemed
+2026-09-20 10:19:07 - Processing K1266-138078147 [7/301] for code: JPHolidaySEP
+2026-09-20 10:19:07 - 138078147 - Result: Already redeemed
+2026-09-20 10:19:09 - Processing K1266-159437876 [8/301] for code: JPHolidaySEP
+2026-09-20 10:19:09 - 159437876 - Result: Already redeemed
+2026-09-20 10:19:10 - Processing K1266-160961411 [9/301] for code: JPHolidaySEP
+2026-09-20 10:19:10 - 160961411 - Result: Already redeemed
+2026-09-20 10:19:11 - Processing K1266-160977214 [10/301] for code: JPHolidaySEP
+2026-09-20 10:19:11 - 160977214 - Result: Already redeemed
+2026-09-20 10:19:12 - Processing K1266-161223459 [11/301] for code: JPHolidaySEP
+2026-09-20 10:19:13 - 161223459 - Result: Already redeemed
+2026-09-20 10:19:14 - Processing K1266-161321233 [12/301] for code: JPHolidaySEP
+2026-09-20 10:19:14 - 161321233 - Result: Already redeemed
+2026-09-20 10:19:16 - Processing K1266-161387367 [13/301] for code: JPHolidaySEP
+2026-09-20 10:19:16 - 161387367 - Result: Already redeemed
+2026-09-20 10:19:17 - Processing K1266-161616297 [14/301] for code: JPHolidaySEP
+2026-09-20 10:19:17 - 161616297 - Result: Already redeemed
+2026-09-20 10:19:18 - Processing K1266-162042375 [15/301] for code: JPHolidaySEP
+2026-09-20 10:19:18 - 162042375 - Result: Already redeemed
+2026-09-20 10:19:20 - Processing K1266-162402979 [16/301] for code: JPHolidaySEP
+2026-09-20 10:19:20 - 162402979 - Result: Already redeemed
+2026-09-20 10:19:21 - Processing K1266-162910751 [17/301] for code: JPHolidaySEP
+2026-09-20 10:19:21 - 162910751 - Result: Already redeemed
+2026-09-20 10:19:22 - Processing K1266-163042051 [18/301] for code: JPHolidaySEP
+2026-09-20 10:19:22 - 163042051 - Result: Already redeemed
+2026-09-20 10:19:23 - Processing K1266-176448172 [19/301] for code: JPHolidaySEP
+2026-09-20 10:19:24 - 176448172 - Result: Already redeemed
+2026-09-20 10:19:25 - Processing K1266-176742470 [20/301] for code: JPHolidaySEP
+2026-09-20 10:19:25 - 176742470 - Result: Already redeemed
+2026-09-20 10:19:26 - Processing K1266-176939042 [21/301] for code: JPHolidaySEP
+2026-09-20 10:19:26 - 176939042 - Result: Already redeemed
+2026-09-20 10:19:28 - Processing K1266-177004482 [22/301] for code: JPHolidaySEP
+2026-09-20 10:19:28 - 177004482 - Result: Already redeemed
+2026-09-20 10:19:29 - Processing K1266-177430530 [23/301] for code: JPHolidaySEP
+2026-09-20 10:19:29 - 177430530 - Result: Already redeemed
+2026-09-20 10:19:31 - Processing K1266-177594975 [24/301] for code: JPHolidaySEP
+2026-09-20 10:19:31 - 177594975 - Result: Already redeemed
+2026-09-20 10:19:32 - Processing K1266-177643662 [25/301] for code: JPHolidaySEP
+2026-09-20 10:19:32 - 177643662 - Result: Already redeemed
+2026-09-20 10:19:33 - Processing K1266-177741835 [26/301] for code: JPHolidaySEP
+2026-09-20 10:19:33 - 177741835 - Result: Already redeemed
+2026-09-20 10:19:34 - Processing K1266-177758431 [27/301] for code: JPHolidaySEP
+2026-09-20 10:19:35 - 177758431 - Result: Already redeemed
+2026-09-20 10:19:36 - Processing K1266-177889207 [28/301] for code: JPHolidaySEP
+2026-09-20 10:19:36 - 177889207 - Result: Already redeemed
+2026-09-20 10:19:37 - Processing K1266-177889304 [29/301] for code: JPHolidaySEP
+2026-09-20 10:19:37 - 177889304 - Result: Already redeemed
+2026-09-20 10:19:38 - Processing K1266-178003863 [30/301] for code: JPHolidaySEP
+2026-09-20 10:19:38 - 178003863 - Result: Already redeemed
+2026-09-20 10:19:40 - Processing K1266-178167737 [31/301] for code: JPHolidaySEP
+2026-09-20 10:19:40 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-20 10:19:44 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-20 10:19:52 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-20 10:20:04 - 178167737 - Result: Redemption request failed
+2026-09-20 10:20:05 - Processing K1266-178282383 [32/301] for code: JPHolidaySEP
+2026-09-20 10:20:05 - 178282383 - Result: Already redeemed
+2026-09-20 10:20:07 - Processing K1266-178298638 [33/301] for code: JPHolidaySEP
+2026-09-20 10:20:07 - 178298638 - Result: Already redeemed
+2026-09-20 10:20:08 - Processing K1266-178298685 [34/301] for code: JPHolidaySEP
+2026-09-20 10:20:08 - 178298685 - Result: Already redeemed
+2026-09-20 10:20:09 - Processing K1266-178828379 [35/301] for code: JPHolidaySEP
+2026-09-20 10:20:09 - 178828379 - Result: Already redeemed
+2026-09-20 10:20:11 - Processing K1266-178872530 [36/301] for code: JPHolidaySEP
+2026-09-20 10:20:11 - 178872530 - Result: Already redeemed
+2026-09-20 10:20:12 - Processing K1266-179107716 [37/301] for code: JPHolidaySEP
+2026-09-20 10:20:12 - 179107716 - Result: Already redeemed
+2026-09-20 10:20:14 - Processing K1266-179216885 [38/301] for code: JPHolidaySEP
+2026-09-20 10:20:14 - 179216885 - Result: Already redeemed
+2026-09-20 10:20:15 - Processing K1266-179479072 [39/301] for code: JPHolidaySEP
+2026-09-20 10:20:15 - 179479072 - Result: Already redeemed
+2026-09-20 10:20:16 - Processing K1266-179515454 [40/301] for code: JPHolidaySEP
+2026-09-20 10:20:16 - 179515454 - Result: Already redeemed
+2026-09-20 10:20:18 - Processing K1266-179675357 [41/301] for code: JPHolidaySEP
+2026-09-20 10:20:18 - 179675357 - Result: Already redeemed
+2026-09-20 10:20:19 - Processing K1266-179691958 [42/301] for code: JPHolidaySEP
+2026-09-20 10:20:19 - 179691958 - Result: Already redeemed
+2026-09-20 10:20:20 - Processing K1266-180368647 [43/301] for code: JPHolidaySEP
+2026-09-20 10:20:20 - 180368647 - Result: Already redeemed
+2026-09-20 10:20:21 - Processing K1266-180369109 [44/301] for code: JPHolidaySEP
+2026-09-20 10:20:21 - 180369109 - Result: Already redeemed
+2026-09-20 10:20:22 - Processing K1266-180369159 [45/301] for code: JPHolidaySEP
+2026-09-20 10:20:23 - 180369159 - Result: Already redeemed
+2026-09-20 10:20:24 - Processing K1266-180385375 [46/301] for code: JPHolidaySEP
+2026-09-20 10:20:24 - 180385375 - Result: Already redeemed
+2026-09-20 10:20:25 - Processing K1266-180385792 [47/301] for code: JPHolidaySEP
+2026-09-20 10:20:25 - 180385792 - Result: Already redeemed
+2026-09-20 10:20:26 - Processing K1266-180418498 [48/301] for code: JPHolidaySEP
+2026-09-20 10:20:27 - 180418498 - Result: Already redeemed
+2026-09-20 10:20:28 - Processing K1266-180434357 [49/301] for code: JPHolidaySEP
+2026-09-20 10:20:28 - 180434357 - Result: Already redeemed
+2026-09-20 10:20:29 - Processing K1266-180483302 [50/301] for code: JPHolidaySEP
+2026-09-20 10:20:29 - 180483302 - Result: Already redeemed
+2026-09-20 10:20:31 - Processing K1266-180565782 [51/301] for code: JPHolidaySEP
+2026-09-20 10:20:31 - 180565782 - Result: Already redeemed
+2026-09-20 10:20:32 - Processing K1266-180582116 [52/301] for code: JPHolidaySEP
+2026-09-20 10:20:32 - 180582116 - Result: Already redeemed
+2026-09-20 10:20:33 - Processing K1266-180588134 [53/301] for code: JPHolidaySEP
+2026-09-20 10:20:33 - 180588134 - Result: Already redeemed
+2026-09-20 10:20:34 - Processing K1266-180598416 [54/301] for code: JPHolidaySEP
+2026-09-20 10:20:34 - 180598416 - Result: Already redeemed
+2026-09-20 10:20:36 - Processing K1266-180614319 [55/301] for code: JPHolidaySEP
+2026-09-20 10:20:36 - 180614319 - Result: Already redeemed
+2026-09-20 10:20:37 - Processing K1266-180636958 [56/301] for code: JPHolidaySEP
+2026-09-20 10:20:37 - 180636958 - Result: Already redeemed
+2026-09-20 10:20:38 - Processing K1266-180647291 [57/301] for code: JPHolidaySEP
+2026-09-20 10:20:39 - 180647291 - Result: Already redeemed
+2026-09-20 10:20:40 - Processing K1266-180647824 [58/301] for code: JPHolidaySEP
+2026-09-20 10:20:40 - 180647824 - Result: Already redeemed
+2026-09-20 10:20:41 - Processing K1266-180669914 [59/301] for code: JPHolidaySEP
+2026-09-20 10:20:41 - 180669914 - Result: Already redeemed
+2026-09-20 10:20:42 - Processing K1266-180696652 [60/301] for code: JPHolidaySEP
+2026-09-20 10:20:42 - 180696652 - Result: Already redeemed
+2026-09-20 10:20:44 - Processing K1266-180729920 [61/301] for code: JPHolidaySEP
+2026-09-20 10:20:44 - 180729920 - Result: Already redeemed
+2026-09-20 10:20:45 - Processing K1266-180778760 [62/301] for code: JPHolidaySEP
+2026-09-20 10:20:45 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-20 10:20:49 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-20 10:20:57 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-20 10:21:09 - 180778760 - Result: Redemption request failed
+2026-09-20 10:21:11 - Processing K1266-180779049 [63/301] for code: JPHolidaySEP
+2026-09-20 10:21:11 - 180779049 - Result: Already redeemed
+2026-09-20 10:21:12 - Processing K1266-180795047 [64/301] for code: JPHolidaySEP
+2026-09-20 10:21:12 - 180795047 - Result: Already redeemed
+2026-09-20 10:21:13 - Processing K1266-180827986 [65/301] for code: JPHolidaySEP
+2026-09-20 10:21:13 - 180827986 - Result: Already redeemed
+2026-09-20 10:21:14 - Processing K1266-180893684 [66/301] for code: JPHolidaySEP
+2026-09-20 10:21:15 - 180893684 - Result: Already redeemed
+2026-09-20 10:21:16 - Processing K1266-180893765 [67/301] for code: JPHolidaySEP
+2026-09-20 10:21:16 - 180893765 - Result: Already redeemed
+2026-09-20 10:21:17 - Processing K1266-180909451 [68/301] for code: JPHolidaySEP
+2026-09-20 10:21:17 - 180909451 - Result: Already redeemed
+2026-09-20 10:21:19 - Processing K1266-180959009 [69/301] for code: JPHolidaySEP
+2026-09-20 10:21:19 - 180959009 - Result: Already redeemed
+2026-09-20 10:21:20 - Processing K1266-180975047 [70/301] for code: JPHolidaySEP
+2026-09-20 10:21:20 - 180975047 - Result: Already redeemed
+2026-09-20 10:21:21 - Processing K1266-181008488 [71/301] for code: JPHolidaySEP
+2026-09-20 10:21:21 - 181008488 - Result: Already redeemed
+2026-09-20 10:21:23 - Processing K1266-181024577 [72/301] for code: JPHolidaySEP
+2026-09-20 10:21:23 - 181024577 - Result: Already redeemed
+2026-09-20 10:21:24 - Processing K1266-181063111 [73/301] for code: JPHolidaySEP
+2026-09-20 10:21:24 - 181063111 - Result: Already redeemed
+2026-09-20 10:21:25 - Processing K1266-181089949 [74/301] for code: JPHolidaySEP
+2026-09-20 10:21:25 - 181089949 - Result: Already redeemed
+2026-09-20 10:21:27 - Processing K1266-181090100 [75/301] for code: JPHolidaySEP
+2026-09-20 10:21:27 - 181090100 - Result: Already redeemed
+2026-09-20 10:21:28 - Processing K1266-181106609 [76/301] for code: JPHolidaySEP
+2026-09-20 10:21:28 - 181106609 - Result: Already redeemed
+2026-09-20 10:21:29 - Processing K1266-181122260 [77/301] for code: JPHolidaySEP
+2026-09-20 10:21:29 - 181122260 - Result: Already redeemed
+2026-09-20 10:21:31 - Processing K1266-181139114 [78/301] for code: JPHolidaySEP
+2026-09-20 10:21:31 - 181139114 - Result: Already redeemed
+2026-09-20 10:21:32 - Processing K1266-181155772 [79/301] for code: JPHolidaySEP
+2026-09-20 10:21:32 - 181155772 - Result: Already redeemed
+2026-09-20 10:21:33 - Processing K1266-181171461 [80/301] for code: JPHolidaySEP
+2026-09-20 10:21:33 - 181171461 - Result: Already redeemed
+2026-09-20 10:21:35 - Processing K1266-181188977 [81/301] for code: JPHolidaySEP
+2026-09-20 10:21:35 - 181188977 - Result: Already redeemed
+2026-09-20 10:21:36 - Processing K1266-181340930 [82/301] for code: JPHolidaySEP
+2026-09-20 10:21:36 - 181340930 - Result: Already redeemed
+2026-09-20 10:21:38 - Processing K1266-181351852 [83/301] for code: JPHolidaySEP
+2026-09-20 10:21:38 - 181351852 - Result: Already redeemed
+2026-09-20 10:21:39 - Processing K1266-181358276 [84/301] for code: JPHolidaySEP
+2026-09-20 10:21:39 - 181358276 - Result: Already redeemed
+2026-09-20 10:21:40 - Processing K1266-181374419 [85/301] for code: JPHolidaySEP
+2026-09-20 10:21:40 - 181374419 - Result: Already redeemed
+2026-09-20 10:21:41 - Processing K1266-181384836 [86/301] for code: JPHolidaySEP
+2026-09-20 10:21:41 - 181384836 - Result: Already redeemed
+2026-09-20 10:21:43 - Processing K1266-181385198 [87/301] for code: JPHolidaySEP
+2026-09-20 10:21:43 - 181385198 - Result: Already redeemed
+2026-09-20 10:21:44 - Processing K1266-181401589 [88/301] for code: JPHolidaySEP
+2026-09-20 10:21:44 - 181401589 - Result: Already redeemed
+2026-09-20 10:21:46 - Processing K1266-181407057 [89/301] for code: JPHolidaySEP
+2026-09-20 10:21:46 - 181407057 - Result: Already redeemed
+2026-09-20 10:21:47 - Processing K1266-181417643 [90/301] for code: JPHolidaySEP
+2026-09-20 10:21:47 - 181417643 - Result: Already redeemed
+2026-09-20 10:21:49 - Processing K1266-181423528 [91/301] for code: JPHolidaySEP
+2026-09-20 10:21:49 - 181423528 - Result: Successfully redeemed
+2026-09-20 10:21:50 - Processing K1266-181466821 [92/301] for code: JPHolidaySEP
+2026-09-20 10:21:50 - 181466821 - Result: Already redeemed
+2026-09-20 10:21:52 - Processing K1266-181466879 [93/301] for code: JPHolidaySEP
+2026-09-20 10:21:52 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-20 10:21:56 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-20 10:22:04 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-20 10:22:16 - 181466879 - Result: Redemption request failed
+2026-09-20 10:22:17 - Processing K1266-181482560 [94/301] for code: JPHolidaySEP
+2026-09-20 10:22:17 - 181482560 - Result: Already redeemed
+2026-09-20 10:22:19 - Processing K1266-181515253 [95/301] for code: JPHolidaySEP
+2026-09-20 10:22:19 - 181515253 - Result: Already redeemed
+2026-09-20 10:22:20 - Processing K1266-181516264 [96/301] for code: JPHolidaySEP
+2026-09-20 10:22:20 - 181516264 - Result: Already redeemed
+2026-09-20 10:22:21 - Processing K1266-181516335 [97/301] for code: JPHolidaySEP
+2026-09-20 10:22:21 - 181516335 - Result: Already redeemed
+2026-09-20 10:22:22 - Processing K1266-181521367 [98/301] for code: JPHolidaySEP
+2026-09-20 10:22:23 - 181521367 - Result: Already redeemed
+2026-09-20 10:22:24 - Processing K1266-181531678 [99/301] for code: JPHolidaySEP
+2026-09-20 10:22:24 - 181531678 - Result: Already redeemed
+2026-09-20 10:22:26 - Processing K1266-181548141 [100/301] for code: JPHolidaySEP
+2026-09-20 10:22:26 - 181548141 - Result: Already redeemed
+2026-09-20 10:22:27 - Processing K1266-181565051 [101/301] for code: JPHolidaySEP
+2026-09-20 10:22:27 - 181565051 - Result: Already redeemed
+2026-09-20 10:22:29 - Processing K1266-181571708 [102/301] for code: JPHolidaySEP
+2026-09-20 10:22:29 - 181571708 - Result: Already redeemed
+2026-09-20 10:22:30 - Processing K1266-181614011 [103/301] for code: JPHolidaySEP
+2026-09-20 10:22:30 - 181614011 - Result: Already redeemed
+2026-09-20 10:22:31 - Processing K1266-181646830 [104/301] for code: JPHolidaySEP
+2026-09-20 10:22:31 - 181646830 - Result: Already redeemed
+2026-09-20 10:22:32 - Processing K1266-181663028 [105/301] for code: JPHolidaySEP
+2026-09-20 10:22:32 - 181663028 - Result: Already redeemed
+2026-09-20 10:22:33 - Processing K1266-181669304 [106/301] for code: JPHolidaySEP
+2026-09-20 10:22:34 - 181669304 - Result: Already redeemed
+2026-09-20 10:22:35 - Processing K1266-181712653 [107/301] for code: JPHolidaySEP
+2026-09-20 10:22:35 - 181712653 - Result: Already redeemed
+2026-09-20 10:22:36 - Processing K1266-181728933 [108/301] for code: JPHolidaySEP
+2026-09-20 10:22:36 - 181728933 - Result: Already redeemed
+2026-09-20 10:22:38 - Processing K1266-181734398 [109/301] for code: JPHolidaySEP
+2026-09-20 10:22:38 - 181734398 - Result: Already redeemed
+2026-09-20 10:22:39 - Processing K1266-181761437 [110/301] for code: JPHolidaySEP
+2026-09-20 10:22:39 - 181761437 - Result: Already redeemed
+2026-09-20 10:22:40 - Processing K1266-181778389 [111/301] for code: JPHolidaySEP
+2026-09-20 10:22:41 - 181778389 - Result: Already redeemed
+2026-09-20 10:22:42 - Processing K1266-181793958 [112/301] for code: JPHolidaySEP
+2026-09-20 10:22:42 - 181793958 - Result: Already redeemed
+2026-09-20 10:22:43 - Processing K1266-181794115 [113/301] for code: JPHolidaySEP
+2026-09-20 10:22:43 - 181794115 - Result: Already redeemed
+2026-09-20 10:22:45 - Processing K1266-181816445 [114/301] for code: JPHolidaySEP
+2026-09-20 10:22:45 - 181816445 - Result: Already redeemed
+2026-09-20 10:22:46 - Processing K1266-181859892 [115/301] for code: JPHolidaySEP
+2026-09-20 10:22:46 - 181859892 - Result: Already redeemed
+2026-09-20 10:22:48 - Processing K1266-181859948 [116/301] for code: JPHolidaySEP
+2026-09-20 10:22:48 - 181859948 - Result: Already redeemed
+2026-09-20 10:22:49 - Processing K1266-181860239 [117/301] for code: JPHolidaySEP
+2026-09-20 10:22:49 - 181860239 - Result: Already redeemed
+2026-09-20 10:22:50 - Processing K1266-181860336 [118/301] for code: JPHolidaySEP
+2026-09-20 10:22:50 - 181860336 - Result: Already redeemed
+2026-09-20 10:22:52 - Processing K1266-181882185 [119/301] for code: JPHolidaySEP
+2026-09-20 10:22:52 - 181882185 - Result: Already redeemed
+2026-09-20 10:22:53 - Processing K1266-181892750 [120/301] for code: JPHolidaySEP
+2026-09-20 10:22:54 - 181892750 - Result: Already redeemed
+2026-09-20 10:22:55 - Processing K1266-181941995 [121/301] for code: JPHolidaySEP
+2026-09-20 10:22:55 - 181941995 - Result: Already redeemed
+2026-09-20 10:22:56 - Processing K1266-181958341 [122/301] for code: JPHolidaySEP
+2026-09-20 10:22:56 - 181958341 - Result: Successfully redeemed
+2026-09-20 10:22:57 - Processing K1266-181958534 [123/301] for code: JPHolidaySEP
+2026-09-20 10:22:57 - 181958534 - Result: Already redeemed
+2026-09-20 10:22:59 - Processing K1266-182007379 [124/301] for code: JPHolidaySEP
+2026-09-20 10:22:59 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-20 10:23:03 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-20 10:23:11 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-20 10:23:23 - 182007379 - Result: Redemption request failed
+2026-09-20 10:23:24 - Processing K1266-182007601 [125/301] for code: JPHolidaySEP
+2026-09-20 10:23:24 - 182007601 - Result: Already redeemed
+2026-09-20 10:23:25 - Processing K1266-182013382 [126/301] for code: JPHolidaySEP
+2026-09-20 10:23:26 - 182013382 - Result: Already redeemed
+2026-09-20 10:23:27 - Processing K1266-182022970 [127/301] for code: JPHolidaySEP
+2026-09-20 10:23:27 - 182022970 - Result: Already redeemed
+2026-09-20 10:23:28 - Processing K1266-182046115 [128/301] for code: JPHolidaySEP
+2026-09-20 10:23:29 - 182046115 - Result: Already redeemed
+2026-09-20 10:23:30 - Processing K1266-182072645 [129/301] for code: JPHolidaySEP
+2026-09-20 10:23:30 - 182072645 - Result: Already redeemed
+2026-09-20 10:23:31 - Processing K1266-182144355 [130/301] for code: JPHolidaySEP
+2026-09-20 10:23:31 - 182144355 - Result: Already redeemed
+2026-09-20 10:23:32 - Processing K1266-182203508 [131/301] for code: JPHolidaySEP
+2026-09-20 10:23:32 - 182203508 - Result: Already redeemed
+2026-09-20 10:23:34 - Processing K1266-182203900 [132/301] for code: JPHolidaySEP
+2026-09-20 10:23:34 - 182203900 - Result: Already redeemed
+2026-09-20 10:23:35 - Processing K1266-182203950 [133/301] for code: JPHolidaySEP
+2026-09-20 10:23:35 - 182203950 - Result: Already redeemed
+2026-09-20 10:23:36 - Processing K1266-182220585 [134/301] for code: JPHolidaySEP
+2026-09-20 10:23:37 - 182220585 - Result: Already redeemed
+2026-09-20 10:23:38 - Processing K1266-182269737 [135/301] for code: JPHolidaySEP
+2026-09-20 10:23:38 - 182269737 - Result: Already redeemed
+2026-09-20 10:23:39 - Processing K1266-182286440 [136/301] for code: JPHolidaySEP
+2026-09-20 10:23:39 - 182286440 - Result: Already redeemed
+2026-09-20 10:23:40 - Processing K1266-182302366 [137/301] for code: JPHolidaySEP
+2026-09-20 10:23:40 - 182302366 - Result: Already redeemed
+2026-09-20 10:23:41 - Processing K1266-182318888 [138/301] for code: JPHolidaySEP
+2026-09-20 10:23:41 - 182318888 - Result: Already redeemed
+2026-09-20 10:23:43 - Processing K1266-182318992 [139/301] for code: JPHolidaySEP
+2026-09-20 10:23:43 - 182318992 - Result: Already redeemed
+2026-09-20 10:23:45 - Processing K1266-182334781 [140/301] for code: JPHolidaySEP
+2026-09-20 10:23:45 - 182334781 - Result: Already redeemed
+2026-09-20 10:23:46 - Processing K1266-182384322 [141/301] for code: JPHolidaySEP
+2026-09-20 10:23:46 - 182384322 - Result: Already redeemed
+2026-09-20 10:23:47 - Processing K1266-182390223 [142/301] for code: JPHolidaySEP
+2026-09-20 10:23:47 - 182390223 - Result: Already redeemed
+2026-09-20 10:23:48 - Processing K1266-182449206 [143/301] for code: JPHolidaySEP
+2026-09-20 10:23:49 - 182449206 - Result: Already redeemed
+2026-09-20 10:23:50 - Processing K1266-182450074 [144/301] for code: JPHolidaySEP
+2026-09-20 10:23:50 - 182450074 - Result: Already redeemed
+2026-09-20 10:23:51 - Processing K1266-182466031 [145/301] for code: JPHolidaySEP
+2026-09-20 10:23:51 - 182466031 - Result: Already redeemed
+2026-09-20 10:23:52 - Processing K1266-182472038 [146/301] for code: JPHolidaySEP
+2026-09-20 10:23:53 - 182472038 - Result: Already redeemed
+2026-09-20 10:23:54 - Processing K1266-182488759 [147/301] for code: JPHolidaySEP
+2026-09-20 10:23:54 - 182488759 - Result: Already redeemed
+2026-09-20 10:23:55 - Processing K1266-182531700 [148/301] for code: JPHolidaySEP
+2026-09-20 10:23:55 - 182531700 - Result: Already redeemed
+2026-09-20 10:23:57 - Processing K1266-182548386 [149/301] for code: JPHolidaySEP
+2026-09-20 10:23:57 - 182548386 - Result: Already redeemed
+2026-09-20 10:23:58 - Processing K1266-182646613 [150/301] for code: JPHolidaySEP
+2026-09-20 10:23:58 - 182646613 - Result: Already redeemed
+2026-09-20 10:23:59 - Processing K1266-182668737 [151/301] for code: JPHolidaySEP
+2026-09-20 10:23:59 - 182668737 - Result: Already redeemed
+2026-09-20 10:24:00 - Processing K1266-182679587 [152/301] for code: JPHolidaySEP
+2026-09-20 10:24:00 - 182679587 - Result: Already redeemed
+2026-09-20 10:24:02 - Processing K1266-182717899 [153/301] for code: JPHolidaySEP
+2026-09-20 10:24:02 - 182717899 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-20 10:24:04 - 182717899 - Result: Successfully redeemed
+2026-09-20 10:24:05 - Processing K1266-182767010 [154/301] for code: JPHolidaySEP
+2026-09-20 10:24:05 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-20 10:24:10 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-20 10:24:18 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-20 10:24:30 - 182767010 - Result: Redemption request failed
+2026-09-20 10:24:31 - Processing K1266-182810221 [155/301] for code: JPHolidaySEP
+2026-09-20 10:24:31 - 182810221 - Result: Already redeemed
+2026-09-20 10:24:32 - Processing K1266-182842833 [156/301] for code: JPHolidaySEP
+2026-09-20 10:24:32 - 182842833 - Result: Already redeemed
+2026-09-20 10:24:34 - Processing K1266-182848942 [157/301] for code: JPHolidaySEP
+2026-09-20 10:24:34 - 182848942 - Result: Already redeemed
+2026-09-20 10:24:35 - Processing K1266-182849233 [158/301] for code: JPHolidaySEP
+2026-09-20 10:24:35 - 182849233 - Result: Already redeemed
+2026-09-20 10:24:37 - Processing K1266-182858998 [159/301] for code: JPHolidaySEP
+2026-09-20 10:24:37 - 182858998 - Result: Already redeemed
+2026-09-20 10:24:38 - Processing K1266-182859667 [160/301] for code: JPHolidaySEP
+2026-09-20 10:24:38 - 182859667 - Result: Already redeemed
+2026-09-20 10:24:40 - Processing K1266-182892217 [161/301] for code: JPHolidaySEP
+2026-09-20 10:24:40 - 182892217 - Result: Already redeemed
+2026-09-20 10:24:41 - Processing K1266-182898057 [162/301] for code: JPHolidaySEP
+2026-09-20 10:24:41 - 182898057 - Result: Already redeemed
+2026-09-20 10:24:42 - Processing K1266-182908483 [163/301] for code: JPHolidaySEP
+2026-09-20 10:24:43 - 182908483 - Result: Already redeemed
+2026-09-20 10:24:44 - Processing K1266-182941162 [164/301] for code: JPHolidaySEP
+2026-09-20 10:24:44 - 182941162 - Result: Already redeemed
+2026-09-20 10:24:46 - Processing K1266-182941502 [165/301] for code: JPHolidaySEP
+2026-09-20 10:24:46 - 182941502 - Result: Already redeemed
+2026-09-20 10:24:47 - Processing K1266-182957878 [166/301] for code: JPHolidaySEP
+2026-09-20 10:24:47 - 182957878 - Result: Already redeemed
+2026-09-20 10:24:49 - Processing K1266-182990423 [167/301] for code: JPHolidaySEP
+2026-09-20 10:24:49 - 182990423 - Result: Already redeemed
+2026-09-20 10:24:50 - Processing K1266-183006892 [168/301] for code: JPHolidaySEP
+2026-09-20 10:24:50 - 183006892 - Result: Already redeemed
+2026-09-20 10:24:52 - Processing K1266-183012848 [169/301] for code: JPHolidaySEP
+2026-09-20 10:24:52 - 183012848 - Result: Already redeemed
+2026-09-20 10:24:53 - Processing K1266-183028805 [170/301] for code: JPHolidaySEP
+2026-09-20 10:24:53 - 183028805 - Result: Already redeemed
+2026-09-20 10:24:54 - Processing K1266-183029342 [171/301] for code: JPHolidaySEP
+2026-09-20 10:24:55 - 183029342 - Result: Already redeemed
+2026-09-20 10:24:56 - Processing K1266-183039758 [172/301] for code: JPHolidaySEP
+2026-09-20 10:24:56 - 183039758 - Result: Already redeemed
+2026-09-20 10:24:57 - Processing K1266-183072306 [173/301] for code: JPHolidaySEP
+2026-09-20 10:24:57 - 183072306 - Result: Already redeemed
+2026-09-20 10:24:58 - Processing K1266-183072824 [174/301] for code: JPHolidaySEP
+2026-09-20 10:24:58 - 183072824 - Result: Already redeemed
+2026-09-20 10:24:59 - Processing K1266-183089209 [175/301] for code: JPHolidaySEP
+2026-09-20 10:25:00 - 183089209 - Result: Already redeemed
+2026-09-20 10:25:01 - Processing K1266-183104870 [176/301] for code: JPHolidaySEP
+2026-09-20 10:25:01 - 183104870 - Result: Already redeemed
+2026-09-20 10:25:02 - Processing K1266-183121113 [177/301] for code: JPHolidaySEP
+2026-09-20 10:25:03 - 183121113 - Result: Already redeemed
+2026-09-20 10:25:04 - Processing K1266-183137287 [178/301] for code: JPHolidaySEP
+2026-09-20 10:25:04 - 183137287 - Result: Already redeemed
+2026-09-20 10:25:05 - Processing K1266-183154102 [179/301] for code: JPHolidaySEP
+2026-09-20 10:25:05 - 183154102 - Result: Already redeemed
+2026-09-20 10:25:06 - Processing K1266-183154303 [180/301] for code: JPHolidaySEP
+2026-09-20 10:25:06 - 183154303 - Result: Already redeemed
+2026-09-20 10:25:08 - Processing K1266-183154798 [181/301] for code: JPHolidaySEP
+2026-09-20 10:25:08 - 183154798 - Result: Already redeemed
+2026-09-20 10:25:09 - Processing K1266-183170657 [182/301] for code: JPHolidaySEP
+2026-09-20 10:25:09 - 183170657 - Result: Successfully redeemed
+2026-09-20 10:25:10 - Processing K1266-183176536 [183/301] for code: JPHolidaySEP
+2026-09-20 10:25:10 - 183176536 - Result: Already redeemed
+2026-09-20 10:25:11 - Processing K1266-183219217 [184/301] for code: JPHolidaySEP
+2026-09-20 10:25:11 - 183219217 - Result: Already redeemed
+2026-09-20 10:25:13 - Processing K1266-183219343 [185/301] for code: JPHolidaySEP
+2026-09-20 10:25:13 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-20 10:25:17 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-20 10:25:25 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-20 10:25:37 - 183219343 - Result: Redemption request failed
+2026-09-20 10:25:39 - Processing K1266-183285360 [186/301] for code: JPHolidaySEP
+2026-09-20 10:25:39 - 183285360 - Result: Already redeemed
+2026-09-20 10:25:40 - Processing K1266-183317601 [187/301] for code: JPHolidaySEP
+2026-09-20 10:25:40 - 183317601 - Result: Already redeemed
+2026-09-20 10:25:41 - Processing K1266-183350823 [188/301] for code: JPHolidaySEP
+2026-09-20 10:25:41 - 183350823 - Result: Already redeemed
+2026-09-20 10:25:42 - Processing K1266-183366693 [189/301] for code: JPHolidaySEP
+2026-09-20 10:25:42 - 183366693 - Result: Already redeemed
+2026-09-20 10:25:44 - Processing K1266-183367342 [190/301] for code: JPHolidaySEP
+2026-09-20 10:25:44 - 183367342 - Result: Already redeemed
+2026-09-20 10:25:45 - Processing K1266-183383666 [191/301] for code: JPHolidaySEP
+2026-09-20 10:25:45 - 183383666 - Result: Already redeemed
+2026-09-20 10:25:46 - Processing K1266-183384158 [192/301] for code: JPHolidaySEP
+2026-09-20 10:25:46 - 183384158 - Result: Already redeemed
+2026-09-20 10:25:47 - Processing K1266-183455373 [193/301] for code: JPHolidaySEP
+2026-09-20 10:25:48 - 183455373 - Result: Already redeemed
+2026-09-20 10:25:49 - Processing K1266-183563334 [194/301] for code: JPHolidaySEP
+2026-09-20 10:25:49 - 183563334 - Result: Already redeemed
+2026-09-20 10:25:50 - Processing K1266-183579641 [195/301] for code: JPHolidaySEP
+2026-09-20 10:25:50 - 183579641 - Result: Already redeemed
+2026-09-20 10:25:51 - Processing K1266-183602956 [196/301] for code: JPHolidaySEP
+2026-09-20 10:25:51 - 183602956 - Result: Already redeemed
+2026-09-20 10:25:53 - Processing K1266-183635567 [197/301] for code: JPHolidaySEP
+2026-09-20 10:25:53 - 183635567 - Result: Already redeemed
+2026-09-20 10:25:54 - Processing K1266-183662249 [198/301] for code: JPHolidaySEP
+2026-09-20 10:25:54 - 183662249 - Result: Already redeemed
+2026-09-20 10:25:55 - Processing K1266-183695044 [199/301] for code: JPHolidaySEP
+2026-09-20 10:25:55 - 183695044 - Result: Already redeemed
+2026-09-20 10:25:56 - Processing K1266-183744074 [200/301] for code: JPHolidaySEP
+2026-09-20 10:25:57 - 183744074 - Result: Already redeemed
+2026-09-20 10:25:58 - Processing K1266-183760133 [201/301] for code: JPHolidaySEP
+2026-09-20 10:25:58 - 183760133 - Result: Already redeemed
+2026-09-20 10:25:59 - Processing K1266-183776526 [202/301] for code: JPHolidaySEP
+2026-09-20 10:25:59 - 183776526 - Result: Already redeemed
+2026-09-20 10:26:00 - Processing K1266-183793260 [203/301] for code: JPHolidaySEP
+2026-09-20 10:26:00 - 183793260 - Result: Already redeemed
+2026-09-20 10:26:02 - Processing K1266-183799231 [204/301] for code: JPHolidaySEP
+2026-09-20 10:26:02 - 183799231 - Result: Already redeemed
+2026-09-20 10:26:03 - Processing K1266-183809202 [205/301] for code: JPHolidaySEP
+2026-09-20 10:26:03 - 183809202 - Result: Already redeemed
+2026-09-20 10:26:05 - Processing K1266-183826046 [206/301] for code: JPHolidaySEP
+2026-09-20 10:26:05 - 183826046 - Result: Already redeemed
+2026-09-20 10:26:06 - Processing K1266-183826079 [207/301] for code: JPHolidaySEP
+2026-09-20 10:26:06 - 183826079 - Result: Already redeemed
+2026-09-20 10:26:07 - Processing K1266-183826363 [208/301] for code: JPHolidaySEP
+2026-09-20 10:26:08 - 183826363 - Result: Already redeemed
+2026-09-20 10:26:09 - Processing K1266-183842707 [209/301] for code: JPHolidaySEP
+2026-09-20 10:26:09 - 183842707 - Result: Already redeemed
+2026-09-20 10:26:10 - Processing K1266-183858943 [210/301] for code: JPHolidaySEP
+2026-09-20 10:26:10 - 183858943 - Result: Successfully redeemed
+2026-09-20 10:26:12 - Processing K1266-183859043 [211/301] for code: JPHolidaySEP
+2026-09-20 10:26:12 - 183859043 - Result: Already redeemed
+2026-09-20 10:26:13 - Processing K1266-183864332 [212/301] for code: JPHolidaySEP
+2026-09-20 10:26:13 - 183864332 - Result: Already redeemed
+2026-09-20 10:26:14 - Processing K1266-183897678 [213/301] for code: JPHolidaySEP
+2026-09-20 10:26:14 - 183897678 - Result: Already redeemed
+2026-09-20 10:26:16 - Processing K1266-183907791 [214/301] for code: JPHolidaySEP
+2026-09-20 10:26:16 - 183907791 - Result: Already redeemed
+2026-09-20 10:26:17 - Processing K1266-183907855 [215/301] for code: JPHolidaySEP
+2026-09-20 10:26:17 - 183907855 - Result: Already redeemed
+2026-09-20 10:26:19 - Processing K1266-183924658 [216/301] for code: JPHolidaySEP
+2026-09-20 10:26:19 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-20 10:26:23 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-20 10:26:31 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-20 10:26:43 - 183924658 - Result: Redemption request failed
+2026-09-20 10:26:44 - Processing K1266-183924660 [217/301] for code: JPHolidaySEP
+2026-09-20 10:26:44 - 183924660 - Result: Already redeemed
+2026-09-20 10:26:46 - Processing K1266-183940809 [218/301] for code: JPHolidaySEP
+2026-09-20 10:26:46 - 183940809 - Result: Already redeemed
+2026-09-20 10:26:47 - Processing K1266-183946385 [219/301] for code: JPHolidaySEP
+2026-09-20 10:26:47 - 183946385 - Result: Already redeemed
+2026-09-20 10:26:48 - Processing K1266-183946804 [220/301] for code: JPHolidaySEP
+2026-09-20 10:26:48 - 183946804 - Result: Already redeemed
+2026-09-20 10:26:50 - Processing K1266-183996371 [221/301] for code: JPHolidaySEP
+2026-09-20 10:26:50 - 183996371 - Result: Already redeemed
+2026-09-20 10:26:51 - Processing K1266-184005794 [222/301] for code: JPHolidaySEP
+2026-09-20 10:26:52 - 184005794 - Result: Already redeemed
+2026-09-20 10:26:53 - Processing K1266-184022781 [223/301] for code: JPHolidaySEP
+2026-09-20 10:26:53 - 184022781 - Result: Already redeemed
+2026-09-20 10:26:54 - Processing K1266-184038545 [224/301] for code: JPHolidaySEP
+2026-09-20 10:26:54 - 184038545 - Result: Already redeemed
+2026-09-20 10:26:56 - Processing K1266-184071743 [225/301] for code: JPHolidaySEP
+2026-09-20 10:26:56 - 184071743 - Result: Already redeemed
+2026-09-20 10:26:57 - Processing K1266-184088377 [226/301] for code: JPHolidaySEP
+2026-09-20 10:26:57 - 184088377 - Result: Already redeemed
+2026-09-20 10:26:58 - Processing K1266-184137674 [227/301] for code: JPHolidaySEP
+2026-09-20 10:26:58 - 184137674 - Result: Already redeemed
+2026-09-20 10:27:00 - Processing K1266-184159552 [228/301] for code: JPHolidaySEP
+2026-09-20 10:27:00 - 184159552 - Result: Already redeemed
+2026-09-20 10:27:01 - Processing K1266-184169916 [229/301] for code: JPHolidaySEP
+2026-09-20 10:27:01 - 184169916 - Result: Already redeemed
+2026-09-20 10:27:02 - Processing K1266-184170263 [230/301] for code: JPHolidaySEP
+2026-09-20 10:27:02 - 184170263 - Result: Already redeemed
+2026-09-20 10:27:04 - Processing K1266-184175883 [231/301] for code: JPHolidaySEP
+2026-09-20 10:27:04 - 184175883 - Result: Already redeemed
+2026-09-20 10:27:05 - Processing K1266-184186546 [232/301] for code: JPHolidaySEP
+2026-09-20 10:27:05 - 184186546 - Result: Already redeemed
+2026-09-20 10:27:07 - Processing K1266-184202442 [233/301] for code: JPHolidaySEP
+2026-09-20 10:27:07 - 184202442 - Result: Already redeemed
+2026-09-20 10:27:08 - Processing K1266-184202684 [234/301] for code: JPHolidaySEP
+2026-09-20 10:27:08 - 184202684 - Result: Already redeemed
+2026-09-20 10:27:09 - Processing K1266-184219240 [235/301] for code: JPHolidaySEP
+2026-09-20 10:27:09 - 184219240 - Result: Already redeemed
+2026-09-20 10:27:10 - Processing K1266-184252103 [236/301] for code: JPHolidaySEP
+2026-09-20 10:27:11 - 184252103 - Result: Already redeemed
+2026-09-20 10:27:12 - Processing K1266-184257548 [237/301] for code: JPHolidaySEP
+2026-09-20 10:27:12 - 184257548 - Result: Already redeemed
+2026-09-20 10:27:13 - Processing K1266-184268236 [238/301] for code: JPHolidaySEP
+2026-09-20 10:27:13 - 184268236 - Result: Already redeemed
+2026-09-20 10:27:15 - Processing K1266-184268332 [239/301] for code: JPHolidaySEP
+2026-09-20 10:27:15 - 184268332 - Result: Already redeemed
+2026-09-20 10:27:16 - Processing K1266-184285099 [240/301] for code: JPHolidaySEP
+2026-09-20 10:27:16 - 184285099 - Result: Already redeemed
+2026-09-20 10:27:17 - Processing K1266-184300583 [241/301] for code: JPHolidaySEP
+2026-09-20 10:27:18 - 184300583 - Result: Successfully redeemed
+2026-09-20 10:27:19 - Processing K1266-184301120 [242/301] for code: JPHolidaySEP
+2026-09-20 10:27:19 - 184301120 - Result: Already redeemed
+2026-09-20 10:27:20 - Processing K1266-184301482 [243/301] for code: JPHolidaySEP
+2026-09-20 10:27:21 - 184301482 - Result: Already redeemed
+2026-09-20 10:27:22 - Processing K1266-184306709 [244/301] for code: JPHolidaySEP
+2026-09-20 10:27:22 - 184306709 - Result: Already redeemed
+2026-09-20 10:27:23 - Processing K1266-184323165 [245/301] for code: JPHolidaySEP
+2026-09-20 10:27:23 - 184323165 - Result: Already redeemed
+2026-09-20 10:27:25 - Processing K1266-184334160 [246/301] for code: JPHolidaySEP
+2026-09-20 10:27:25 - 184334160 - Result: Already redeemed
+2026-09-20 10:27:26 - Processing K1266-184334326 [247/301] for code: JPHolidaySEP
+2026-09-20 10:27:26 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-20 10:27:30 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-20 10:27:39 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-20 10:27:51 - 184334326 - Result: Redemption request failed
+2026-09-20 10:27:52 - Processing K1266-184355782 [248/301] for code: JPHolidaySEP
+2026-09-20 10:27:52 - 184355782 - Result: Already redeemed
+2026-09-20 10:27:53 - Processing K1266-184355850 [249/301] for code: JPHolidaySEP
+2026-09-20 10:27:54 - 184355850 - Result: Already redeemed
+2026-09-20 10:27:55 - Processing K1266-184366301 [250/301] for code: JPHolidaySEP
+2026-09-20 10:27:55 - 184366301 - Result: Already redeemed
+2026-09-20 10:27:56 - Processing K1266-184398957 [251/301] for code: JPHolidaySEP
+2026-09-20 10:27:56 - 184398957 - Result: Already redeemed
+2026-09-20 10:27:57 - Processing K1266-184431865 [252/301] for code: JPHolidaySEP
+2026-09-20 10:27:57 - 184431865 - Result: Already redeemed
+2026-09-20 10:27:58 - Processing K1266-184448668 [253/301] for code: JPHolidaySEP
+2026-09-20 10:27:59 - 184448668 - Result: Already redeemed
+2026-09-20 10:28:00 - Processing K1266-185122678 [254/301] for code: JPHolidaySEP
+2026-09-20 10:28:00 - 185122678 - Result: Already redeemed
+2026-09-20 10:28:01 - Processing K1266-185480245 [255/301] for code: JPHolidaySEP
+2026-09-20 10:28:02 - 185480245 - Result: Already redeemed
+2026-09-20 10:28:03 - Processing K1266-187102768 [256/301] for code: JPHolidaySEP
+2026-09-20 10:28:03 - 187102768 - Result: Already redeemed
+2026-09-20 10:28:04 - Processing K1266-187115851 [257/301] for code: JPHolidaySEP
+2026-09-20 10:28:04 - 187115851 - Result: Already redeemed
+2026-09-20 10:28:05 - Processing K1266-188087741 [258/301] for code: JPHolidaySEP
+2026-09-20 10:28:05 - 188087741 - Result: Already redeemed
+2026-09-20 10:28:07 - Processing K1266-188470196 [259/301] for code: JPHolidaySEP
+2026-09-20 10:28:07 - 188470196 - Result: Already redeemed
+2026-09-20 10:28:08 - Processing K1266-188862376 [260/301] for code: JPHolidaySEP
+2026-09-20 10:28:08 - 188862376 - Result: Already redeemed
+2026-09-20 10:28:09 - Processing K1266-190234418 [261/301] for code: JPHolidaySEP
+2026-09-20 10:28:10 - 190234418 - Result: Already redeemed
+2026-09-20 10:28:11 - Processing K1266-190573918 [262/301] for code: JPHolidaySEP
+2026-09-20 10:28:11 - 190573918 - Result: Already redeemed
+2026-09-20 10:28:12 - Processing K1266-191129295 [263/301] for code: JPHolidaySEP
+2026-09-20 10:28:12 - 191129295 - Result: Already redeemed
+2026-09-20 10:28:13 - Processing K1266-192400838 [264/301] for code: JPHolidaySEP
+2026-09-20 10:28:13 - 192400838 - Result: Already redeemed
+2026-09-20 10:28:14 - Processing K1266-193616382 [265/301] for code: JPHolidaySEP
+2026-09-20 10:28:14 - 193616382 - Result: Already redeemed
+2026-09-20 10:28:16 - Processing K1266-194020665 [266/301] for code: JPHolidaySEP
+2026-09-20 10:28:16 - 194020665 - Result: Already redeemed
+2026-09-20 10:28:17 - Processing K1266-194962807 [267/301] for code: JPHolidaySEP
+2026-09-20 10:28:17 - 194962807 - Result: Already redeemed
+2026-09-20 10:28:18 - Processing K1266-196209781 [268/301] for code: JPHolidaySEP
+2026-09-20 10:28:18 - 196209781 - Result: Already redeemed
+2026-09-20 10:28:20 - Processing K1266-197077736 [269/301] for code: JPHolidaySEP
+2026-09-20 10:28:20 - 197077736 - Result: Already redeemed
+2026-09-20 10:28:21 - Processing K1266-197748881 [270/301] for code: JPHolidaySEP
+2026-09-20 10:28:21 - 197748881 - Result: Successfully redeemed
+2026-09-20 10:28:22 - Processing K1266-198971997 [271/301] for code: JPHolidaySEP
+2026-09-20 10:28:22 - 198971997 - Result: Already redeemed
+2026-09-20 10:28:23 - Processing K1266-199766078 [272/301] for code: JPHolidaySEP
+2026-09-20 10:28:23 - 199766078 - Result: Already redeemed
+2026-09-20 10:28:25 - Processing K1266-202789741 [273/301] for code: JPHolidaySEP
+2026-09-20 10:28:25 - 202789741 - Result: Already redeemed
+2026-09-20 10:28:26 - Processing K1266-208458805 [274/301] for code: JPHolidaySEP
+2026-09-20 10:28:26 - 208458805 - Result: Already redeemed
+2026-09-20 10:28:27 - Processing K1266-208469366 [275/301] for code: JPHolidaySEP
+2026-09-20 10:28:27 - 208469366 - Result: Already redeemed
+2026-09-20 10:28:29 - Processing K1266-209741428 [276/301] for code: JPHolidaySEP
+2026-09-20 10:28:29 - 209741428 - Result: Already redeemed
+2026-09-20 10:28:30 - Processing K1266-215719460 [277/301] for code: JPHolidaySEP
+2026-09-20 10:28:30 - 215719460 - Result: Already redeemed
+2026-09-20 10:28:31 - Processing K1266-216820126 [278/301] for code: JPHolidaySEP
+2026-09-20 10:28:31 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-20 10:28:36 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-20 10:28:44 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-20 10:28:56 - 216820126 - Result: Redemption request failed
+2026-09-20 10:28:57 - Processing K1266-219382121 [279/301] for code: JPHolidaySEP
+2026-09-20 10:28:57 - 219382121 - Result: Already redeemed
+2026-09-20 10:28:59 - Processing K1266-221309318 [280/301] for code: JPHolidaySEP
+2026-09-20 10:28:59 - 221309318 - Result: Already redeemed
+2026-09-20 10:29:00 - Processing K1266-221445787 [281/301] for code: JPHolidaySEP
+2026-09-20 10:29:00 - 221445787 - Result: Already redeemed
+2026-09-20 10:29:01 - Processing K1266-221883902 [282/301] for code: JPHolidaySEP
+2026-09-20 10:29:01 - 221883902 - Result: Already redeemed
+2026-09-20 10:29:02 - Processing K1266-226209236 [283/301] for code: JPHolidaySEP
+2026-09-20 10:29:02 - 226209236 - Result: Already redeemed
+2026-09-20 10:29:03 - Processing K1266-226703897 [284/301] for code: JPHolidaySEP
+2026-09-20 10:29:04 - 226703897 - Result: Already redeemed
+2026-09-20 10:29:05 - Processing K1266-227970815 [285/301] for code: JPHolidaySEP
+2026-09-20 10:29:05 - 227970815 - Result: Already redeemed
+2026-09-20 10:29:06 - Processing K1266-232510086 [286/301] for code: JPHolidaySEP
+2026-09-20 10:29:06 - 232510086 - Result: Already redeemed
+2026-09-20 10:29:08 - Processing K1266-239065229 [287/301] for code: JPHolidaySEP
+2026-09-20 10:29:08 - 239065229 - Result: Already redeemed
+2026-09-20 10:29:09 - Processing K1266-240864609 [288/301] for code: JPHolidaySEP
+2026-09-20 10:29:09 - 240864609 - Result: Already redeemed
+2026-09-20 10:29:10 - Processing K1266-247760465 [289/301] for code: JPHolidaySEP
+2026-09-20 10:29:10 - 247760465 - Result: Already redeemed
+2026-09-20 10:29:12 - Processing K1266-264853160 [290/301] for code: JPHolidaySEP
+2026-09-20 10:29:12 - 264853160 - Result: Already redeemed
+2026-09-20 10:29:13 - Processing K1266-270896390 [291/301] for code: JPHolidaySEP
+2026-09-20 10:29:13 - 270896390 - Result: Already redeemed
+2026-09-20 10:29:14 - Processing K1266-279842790 [292/301] for code: JPHolidaySEP
+2026-09-20 10:29:14 - 279842790 - Result: Already redeemed
+2026-09-20 10:29:16 - Processing K1266-286282880 [293/301] for code: JPHolidaySEP
+2026-09-20 10:29:16 - 286282880 - Result: Already redeemed
+2026-09-20 10:29:17 - Processing K1266-290460722 [294/301] for code: JPHolidaySEP
+2026-09-20 10:29:17 - 290460722 - Result: Already redeemed
+2026-09-20 10:29:18 - Processing K1266-300260967 [295/301] for code: JPHolidaySEP
+2026-09-20 10:29:18 - 300260967 - Result: Already redeemed
+2026-09-20 10:29:20 - Processing K1266-302154974 [296/301] for code: JPHolidaySEP
+2026-09-20 10:29:20 - 302154974 - Result: Already redeemed
+2026-09-20 10:29:21 - Processing K1266-305821193 [297/301] for code: JPHolidaySEP
+2026-09-20 10:29:21 - 305821193 - Result: Already redeemed
+2026-09-20 10:29:22 - Processing K1266-378005527 [298/301] for code: JPHolidaySEP
+2026-09-20 10:29:22 - 378005527 - Result: Already redeemed
+2026-09-20 10:29:24 - Processing K1266-378518775 [299/301] for code: JPHolidaySEP
+2026-09-20 10:29:24 - 378518775 - Result: Already redeemed
+2026-09-20 10:29:25 - Processing K1266-381967745 [300/301] for code: JPHolidaySEP
+2026-09-20 10:29:25 - 381967745 - Result: Successfully redeemed
+2026-09-20 10:29:26 - Processing K1266-402165713 [301/301] for code: JPHolidaySEP
+2026-09-20 10:29:26 - 402165713 - Result: Already redeemed
+2026-09-20 10:29:27 - --- Cycle finished. Total processed: 301/301 ---
+2026-09-20 10:29:27 - 
+========================= Redemption Summary =========================
+2026-09-20 10:29:27 - Code Redeemed: JPHolidaySEP
+2026-09-20 10:29:27 - Total Unique Player IDs Found: 301
+2026-09-20 10:29:27 - Total Player IDs Processed: 301
+2026-09-20 10:29:27 - Successfully redeemed: 8
+2026-09-20 10:29:27 - Already redeemed: 282
+2026-09-20 10:29:27 - Wrong kingdom: 2
+2026-09-20 10:29:27 - Other Errors/Failures: 9
+2026-09-20 10:29:27 - Rate Limit Events: 0
+2026-09-20 10:29:27 - Total execution time: 0:10:28
+2026-09-20 10:29:27 - ======================================================================
+2026-09-20 10:29:27 - Marked 'JPHolidaySEP' as known.
+
