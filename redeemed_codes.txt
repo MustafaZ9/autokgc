@@ -33005,3 +33005,697 @@
 2026-09-25 09:10:35 - Success with chrome124 impersonation
 2026-09-25 09:10:35 - No new gift codes found. All codes have been seen previously.
 2026-09-25 09:10:35 - Nothing to redeem.
+2026-09-25 12:16:02 - Checking https://kingshot.net/gift-codes for new gift codes...
+2026-09-25 12:16:02 - Using curl_cffi for Cloudflare bypass...
+2026-09-25 12:16:03 - Success with chrome124 impersonation
+2026-09-25 12:16:03 - 
+🎉 NEW GIFT CODES FOUND: MIDAUTUMN26
+2026-09-25 12:16:03 - 
+=== Starting redemption for gift code: MIDAUTUMN26 ===
+2026-09-25 12:16:03 - Read 595 player IDs from lod.csv (encoding: utf-8-sig, 3 with a kingdom)
+2026-09-25 12:16:03 - Removed 295 duplicate entries.
+2026-09-25 12:16:03 - 297 player ID(s) had no kingdom in the CSV; using --kingdom 1266.
+2026-09-25 12:16:03 - Total unique player IDs to process: 300
+2026-09-25 12:16:03 - 
+--- Starting processing cycle. Ready player IDs: 300 ---
+2026-09-25 12:16:03 - Processing K1266-1266 [1/300] for code: MIDAUTUMN26
+2026-09-25 12:16:03 - 1266 - Result: Wrong kingdom for this player ID
+2026-09-25 12:16:04 - Processing K1266-112607487 [2/300] for code: MIDAUTUMN26
+2026-09-25 12:16:04 - 112607487 - Result: Successfully redeemed
+2026-09-25 12:16:06 - Processing K1266-134948830 [3/300] for code: MIDAUTUMN26
+2026-09-25 12:16:06 - 134948830 - Result: Successfully redeemed
+2026-09-25 12:16:07 - Processing K1266-137354109 [4/300] for code: MIDAUTUMN26
+2026-09-25 12:16:07 - 137354109 - Result: Successfully redeemed
+2026-09-25 12:16:08 - Processing K1266-137881550 [5/300] for code: MIDAUTUMN26
+2026-09-25 12:16:09 - 137881550 - Result: Successfully redeemed
+2026-09-25 12:16:10 - Processing K1266-138078147 [6/300] for code: MIDAUTUMN26
+2026-09-25 12:16:10 - 138078147 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-25 12:16:12 - 138078147 - Result: Successfully redeemed
+2026-09-25 12:16:13 - Processing K1266-159437876 [7/300] for code: MIDAUTUMN26
+2026-09-25 12:16:13 - 159437876 - Result: Successfully redeemed
+2026-09-25 12:16:15 - Processing K1266-160961411 [8/300] for code: MIDAUTUMN26
+2026-09-25 12:16:15 - 160961411 - Result: Successfully redeemed
+2026-09-25 12:16:16 - Processing K1266-160977214 [9/300] for code: MIDAUTUMN26
+2026-09-25 12:16:16 - 160977214 - Result: Already redeemed
+2026-09-25 12:16:17 - Processing K1266-161223459 [10/300] for code: MIDAUTUMN26
+2026-09-25 12:16:17 - 161223459 - Result: Successfully redeemed
+2026-09-25 12:16:19 - Processing K1266-161321233 [11/300] for code: MIDAUTUMN26
+2026-09-25 12:16:19 - 161321233 - Result: Successfully redeemed
+2026-09-25 12:16:20 - Processing K1266-161387367 [12/300] for code: MIDAUTUMN26
+2026-09-25 12:16:20 - 161387367 - Result: Successfully redeemed
+2026-09-25 12:16:21 - Processing K1266-161616297 [13/300] for code: MIDAUTUMN26
+2026-09-25 12:16:21 - 161616297 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-25 12:16:23 - 161616297 - Result: Successfully redeemed
+2026-09-25 12:16:24 - Processing K1266-162042375 [14/300] for code: MIDAUTUMN26
+2026-09-25 12:16:24 - 162042375 - Result: Successfully redeemed
+2026-09-25 12:16:26 - Processing K1266-162402979 [15/300] for code: MIDAUTUMN26
+2026-09-25 12:16:26 - 162402979 - Result: Successfully redeemed
+2026-09-25 12:16:27 - Processing K1266-162910751 [16/300] for code: MIDAUTUMN26
+2026-09-25 12:16:27 - 162910751 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-25 12:16:29 - 162910751 - Result: Successfully redeemed
+2026-09-25 12:16:30 - Processing K1266-163042051 [17/300] for code: MIDAUTUMN26
+2026-09-25 12:16:30 - 163042051 - Result: Successfully redeemed
+2026-09-25 12:16:31 - Processing K1266-176448172 [18/300] for code: MIDAUTUMN26
+2026-09-25 12:16:31 - 176448172 - Result: Successfully redeemed
+2026-09-25 12:16:32 - Processing K1266-176742470 [19/300] for code: MIDAUTUMN26
+2026-09-25 12:16:32 - 176742470 - Result: Successfully redeemed
+2026-09-25 12:16:34 - Processing K1266-176939042 [20/300] for code: MIDAUTUMN26
+2026-09-25 12:16:34 - 176939042 - Result: Successfully redeemed
+2026-09-25 12:16:35 - Processing K1266-177004482 [21/300] for code: MIDAUTUMN26
+2026-09-25 12:16:35 - 177004482 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-25 12:16:37 - 177004482 - [Attempt 2/3] TIMEOUT RETRY. Retrying...
+2026-09-25 12:16:41 - 177004482 - Result: Successfully redeemed
+2026-09-25 12:16:42 - Processing K1266-177430530 [22/300] for code: MIDAUTUMN26
+2026-09-25 12:16:42 - 177430530 - Result: Successfully redeemed
+2026-09-25 12:16:44 - Processing K1266-177594975 [23/300] for code: MIDAUTUMN26
+2026-09-25 12:16:44 - 177594975 - Result: Successfully redeemed
+2026-09-25 12:16:45 - Processing K1266-177643662 [24/300] for code: MIDAUTUMN26
+2026-09-25 12:16:45 - 177643662 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-25 12:16:47 - 177643662 - Result: Successfully redeemed
+2026-09-25 12:16:49 - Processing K1266-177741835 [25/300] for code: MIDAUTUMN26
+2026-09-25 12:16:49 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-25 12:16:53 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-25 12:17:01 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-25 12:17:13 - 177741835 - Result: Redemption request failed
+2026-09-25 12:17:14 - Processing K1266-177758431 [26/300] for code: MIDAUTUMN26
+2026-09-25 12:17:14 - 177758431 - Result: Successfully redeemed
+2026-09-25 12:17:15 - Processing K1266-177889207 [27/300] for code: MIDAUTUMN26
+2026-09-25 12:17:15 - 177889207 - Result: Successfully redeemed
+2026-09-25 12:17:17 - Processing K1266-177889304 [28/300] for code: MIDAUTUMN26
+2026-09-25 12:17:17 - 177889304 - Result: Successfully redeemed
+2026-09-25 12:17:18 - Processing K1266-178003863 [29/300] for code: MIDAUTUMN26
+2026-09-25 12:17:18 - 178003863 - Result: Successfully redeemed
+2026-09-25 12:17:20 - Processing K1266-178167737 [30/300] for code: MIDAUTUMN26
+2026-09-25 12:17:20 - 178167737 - Result: Successfully redeemed
+2026-09-25 12:17:21 - Processing K1266-178282383 [31/300] for code: MIDAUTUMN26
+2026-09-25 12:17:21 - 178282383 - Result: Successfully redeemed
+2026-09-25 12:17:22 - Processing K1266-178298638 [32/300] for code: MIDAUTUMN26
+2026-09-25 12:17:22 - 178298638 - Result: Already redeemed
+2026-09-25 12:17:23 - Processing K1266-178298685 [33/300] for code: MIDAUTUMN26
+2026-09-25 12:17:23 - 178298685 - Result: Successfully redeemed
+2026-09-25 12:17:25 - Processing K1266-178828379 [34/300] for code: MIDAUTUMN26
+2026-09-25 12:17:25 - 178828379 - Result: Successfully redeemed
+2026-09-25 12:17:26 - Processing K1266-178872530 [35/300] for code: MIDAUTUMN26
+2026-09-25 12:17:26 - 178872530 - Result: Successfully redeemed
+2026-09-25 12:17:28 - Processing K1266-179107716 [36/300] for code: MIDAUTUMN26
+2026-09-25 12:17:28 - 179107716 - Result: Successfully redeemed
+2026-09-25 12:17:29 - Processing K1266-179216885 [37/300] for code: MIDAUTUMN26
+2026-09-25 12:17:29 - 179216885 - Result: Successfully redeemed
+2026-09-25 12:17:30 - Processing K1266-179479072 [38/300] for code: MIDAUTUMN26
+2026-09-25 12:17:30 - 179479072 - Result: Successfully redeemed
+2026-09-25 12:17:31 - Processing K1266-179515454 [39/300] for code: MIDAUTUMN26
+2026-09-25 12:17:31 - 179515454 - Result: Successfully redeemed
+2026-09-25 12:17:32 - Processing K1266-179675357 [40/300] for code: MIDAUTUMN26
+2026-09-25 12:17:32 - 179675357 - Result: Successfully redeemed
+2026-09-25 12:17:33 - Processing K1266-179691958 [41/300] for code: MIDAUTUMN26
+2026-09-25 12:17:33 - 179691958 - Result: Already redeemed
+2026-09-25 12:17:35 - Processing K1266-180368647 [42/300] for code: MIDAUTUMN26
+2026-09-25 12:17:35 - 180368647 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-25 12:17:37 - 180368647 - Result: Successfully redeemed
+2026-09-25 12:17:38 - Processing K1266-180369109 [43/300] for code: MIDAUTUMN26
+2026-09-25 12:17:38 - 180369109 - Result: Successfully redeemed
+2026-09-25 12:17:40 - Processing K1266-180369159 [44/300] for code: MIDAUTUMN26
+2026-09-25 12:17:40 - 180369159 - Result: Successfully redeemed
+2026-09-25 12:17:41 - Processing K1266-180385375 [45/300] for code: MIDAUTUMN26
+2026-09-25 12:17:41 - 180385375 - Result: Successfully redeemed
+2026-09-25 12:17:42 - Processing K1266-180385792 [46/300] for code: MIDAUTUMN26
+2026-09-25 12:17:42 - 180385792 - Result: Successfully redeemed
+2026-09-25 12:17:43 - Processing K1266-180418498 [47/300] for code: MIDAUTUMN26
+2026-09-25 12:17:44 - 180418498 - Result: Successfully redeemed
+2026-09-25 12:17:45 - Processing K1266-180434357 [48/300] for code: MIDAUTUMN26
+2026-09-25 12:17:45 - 180434357 - Result: Successfully redeemed
+2026-09-25 12:17:46 - Processing K1266-180483302 [49/300] for code: MIDAUTUMN26
+2026-09-25 12:17:46 - 180483302 - Result: Successfully redeemed
+2026-09-25 12:17:47 - Processing K1266-180565782 [50/300] for code: MIDAUTUMN26
+2026-09-25 12:17:47 - 180565782 - Result: Successfully redeemed
+2026-09-25 12:17:49 - Processing K1266-180582116 [51/300] for code: MIDAUTUMN26
+2026-09-25 12:17:49 - 180582116 - Result: Successfully redeemed
+2026-09-25 12:17:50 - Processing K1266-180588134 [52/300] for code: MIDAUTUMN26
+2026-09-25 12:17:50 - 180588134 - Result: Successfully redeemed
+2026-09-25 12:17:51 - Processing K1266-180598416 [53/300] for code: MIDAUTUMN26
+2026-09-25 12:17:51 - 180598416 - Result: Successfully redeemed
+2026-09-25 12:17:52 - Processing K1266-180614319 [54/300] for code: MIDAUTUMN26
+2026-09-25 12:17:52 - 180614319 - Result: Successfully redeemed
+2026-09-25 12:17:54 - Processing K1266-180636958 [55/300] for code: MIDAUTUMN26
+2026-09-25 12:17:54 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-25 12:17:58 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-25 12:18:06 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-25 12:18:18 - 180636958 - Result: Redemption request failed
+2026-09-25 12:18:19 - Processing K1266-180647291 [56/300] for code: MIDAUTUMN26
+2026-09-25 12:18:19 - 180647291 - Result: Successfully redeemed
+2026-09-25 12:18:21 - Processing K1266-180647824 [57/300] for code: MIDAUTUMN26
+2026-09-25 12:18:21 - 180647824 - Result: Successfully redeemed
+2026-09-25 12:18:22 - Processing K1266-180669914 [58/300] for code: MIDAUTUMN26
+2026-09-25 12:18:22 - 180669914 - Result: Successfully redeemed
+2026-09-25 12:18:23 - Processing K1266-180696652 [59/300] for code: MIDAUTUMN26
+2026-09-25 12:18:23 - 180696652 - Result: Successfully redeemed
+2026-09-25 12:18:24 - Processing K1266-180729920 [60/300] for code: MIDAUTUMN26
+2026-09-25 12:18:24 - 180729920 - Result: Successfully redeemed
+2026-09-25 12:18:26 - Processing K1266-180778760 [61/300] for code: MIDAUTUMN26
+2026-09-25 12:18:26 - 180778760 - Result: Successfully redeemed
+2026-09-25 12:18:27 - Processing K1266-180779049 [62/300] for code: MIDAUTUMN26
+2026-09-25 12:18:27 - 180779049 - Result: Successfully redeemed
+2026-09-25 12:18:28 - Processing K1266-180795047 [63/300] for code: MIDAUTUMN26
+2026-09-25 12:18:28 - 180795047 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-25 12:18:30 - 180795047 - Result: Successfully redeemed
+2026-09-25 12:18:31 - Processing K1266-180827986 [64/300] for code: MIDAUTUMN26
+2026-09-25 12:18:32 - 180827986 - Result: Successfully redeemed
+2026-09-25 12:18:33 - Processing K1266-180893684 [65/300] for code: MIDAUTUMN26
+2026-09-25 12:18:33 - 180893684 - Result: Successfully redeemed
+2026-09-25 12:18:34 - Processing K1266-180893765 [66/300] for code: MIDAUTUMN26
+2026-09-25 12:18:34 - 180893765 - Result: Already redeemed
+2026-09-25 12:18:35 - Processing K1266-180909451 [67/300] for code: MIDAUTUMN26
+2026-09-25 12:18:36 - 180909451 - Result: Successfully redeemed
+2026-09-25 12:18:37 - Processing K1266-180959009 [68/300] for code: MIDAUTUMN26
+2026-09-25 12:18:37 - 180959009 - Result: Successfully redeemed
+2026-09-25 12:18:38 - Processing K1266-180975047 [69/300] for code: MIDAUTUMN26
+2026-09-25 12:18:38 - 180975047 - Result: Successfully redeemed
+2026-09-25 12:18:39 - Processing K1266-181008488 [70/300] for code: MIDAUTUMN26
+2026-09-25 12:18:40 - 181008488 - Result: Successfully redeemed
+2026-09-25 12:18:41 - Processing K1266-181024577 [71/300] for code: MIDAUTUMN26
+2026-09-25 12:18:41 - 181024577 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-25 12:18:43 - 181024577 - Result: Successfully redeemed
+2026-09-25 12:18:44 - Processing K1266-181063111 [72/300] for code: MIDAUTUMN26
+2026-09-25 12:18:44 - 181063111 - Result: Successfully redeemed
+2026-09-25 12:18:45 - Processing K1266-181089949 [73/300] for code: MIDAUTUMN26
+2026-09-25 12:18:45 - 181089949 - Result: Successfully redeemed
+2026-09-25 12:18:47 - Processing K1266-181090100 [74/300] for code: MIDAUTUMN26
+2026-09-25 12:18:47 - 181090100 - Result: Successfully redeemed
+2026-09-25 12:18:48 - Processing K1266-181106609 [75/300] for code: MIDAUTUMN26
+2026-09-25 12:18:48 - 181106609 - Result: Successfully redeemed
+2026-09-25 12:18:49 - Processing K1266-181122260 [76/300] for code: MIDAUTUMN26
+2026-09-25 12:18:49 - 181122260 - Result: Successfully redeemed
+2026-09-25 12:18:51 - Processing K1266-181139114 [77/300] for code: MIDAUTUMN26
+2026-09-25 12:18:51 - 181139114 - Result: Successfully redeemed
+2026-09-25 12:18:52 - Processing K1266-181155772 [78/300] for code: MIDAUTUMN26
+2026-09-25 12:18:52 - 181155772 - Result: Successfully redeemed
+2026-09-25 12:18:53 - Processing K1266-181171461 [79/300] for code: MIDAUTUMN26
+2026-09-25 12:18:53 - 181171461 - Result: Successfully redeemed
+2026-09-25 12:18:54 - Processing K1266-181188977 [80/300] for code: MIDAUTUMN26
+2026-09-25 12:18:55 - 181188977 - Result: Successfully redeemed
+2026-09-25 12:18:56 - Processing K1266-181340930 [81/300] for code: MIDAUTUMN26
+2026-09-25 12:18:56 - 181340930 - Result: Successfully redeemed
+2026-09-25 12:18:57 - Processing K1266-181351852 [82/300] for code: MIDAUTUMN26
+2026-09-25 12:18:57 - 181351852 - Result: Successfully redeemed
+2026-09-25 12:18:58 - Processing K1266-181358276 [83/300] for code: MIDAUTUMN26
+2026-09-25 12:18:59 - 181358276 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-25 12:19:01 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-25 12:19:05 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-25 12:19:13 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-25 12:19:25 - 181358276 - Result: Redemption request failed
+2026-09-25 12:19:26 - Processing K1266-181374419 [84/300] for code: MIDAUTUMN26
+2026-09-25 12:19:26 - 181374419 - Result: Successfully redeemed
+2026-09-25 12:19:27 - Processing K1266-181384836 [85/300] for code: MIDAUTUMN26
+2026-09-25 12:19:27 - 181384836 - Result: Already redeemed
+2026-09-25 12:19:29 - Processing K1266-181385198 [86/300] for code: MIDAUTUMN26
+2026-09-25 12:19:29 - 181385198 - Result: Successfully redeemed
+2026-09-25 12:19:30 - Processing K1266-181401589 [87/300] for code: MIDAUTUMN26
+2026-09-25 12:19:30 - 181401589 - Result: Successfully redeemed
+2026-09-25 12:19:31 - Processing K1266-181407057 [88/300] for code: MIDAUTUMN26
+2026-09-25 12:19:31 - 181407057 - Result: Successfully redeemed
+2026-09-25 12:19:32 - Processing K1266-181417643 [89/300] for code: MIDAUTUMN26
+2026-09-25 12:19:32 - 181417643 - Result: Successfully redeemed
+2026-09-25 12:19:34 - Processing K1266-181423528 [90/300] for code: MIDAUTUMN26
+2026-09-25 12:19:34 - 181423528 - Result: Successfully redeemed
+2026-09-25 12:19:35 - Processing K1266-181466821 [91/300] for code: MIDAUTUMN26
+2026-09-25 12:19:35 - 181466821 - Result: Successfully redeemed
+2026-09-25 12:19:36 - Processing K1266-181466879 [92/300] for code: MIDAUTUMN26
+2026-09-25 12:19:36 - 181466879 - Result: Successfully redeemed
+2026-09-25 12:19:38 - Processing K1266-181482560 [93/300] for code: MIDAUTUMN26
+2026-09-25 12:19:38 - 181482560 - Result: Successfully redeemed
+2026-09-25 12:19:39 - Processing K1266-181515253 [94/300] for code: MIDAUTUMN26
+2026-09-25 12:19:39 - 181515253 - Result: Successfully redeemed
+2026-09-25 12:19:40 - Processing K1266-181516264 [95/300] for code: MIDAUTUMN26
+2026-09-25 12:19:40 - 181516264 - Result: Successfully redeemed
+2026-09-25 12:19:42 - Processing K1266-181516335 [96/300] for code: MIDAUTUMN26
+2026-09-25 12:19:42 - 181516335 - Result: Successfully redeemed
+2026-09-25 12:19:43 - Processing K1266-181521367 [97/300] for code: MIDAUTUMN26
+2026-09-25 12:19:43 - 181521367 - Result: Successfully redeemed
+2026-09-25 12:19:45 - Processing K1266-181531678 [98/300] for code: MIDAUTUMN26
+2026-09-25 12:19:45 - 181531678 - Result: Successfully redeemed
+2026-09-25 12:19:46 - Processing K1266-181548141 [99/300] for code: MIDAUTUMN26
+2026-09-25 12:19:46 - 181548141 - Result: Successfully redeemed
+2026-09-25 12:19:47 - Processing K1266-181565051 [100/300] for code: MIDAUTUMN26
+2026-09-25 12:19:47 - 181565051 - Result: Successfully redeemed
+2026-09-25 12:19:49 - Processing K1266-181571708 [101/300] for code: MIDAUTUMN26
+2026-09-25 12:19:49 - 181571708 - Result: Successfully redeemed
+2026-09-25 12:19:50 - Processing K1266-181614011 [102/300] for code: MIDAUTUMN26
+2026-09-25 12:19:50 - 181614011 - Result: Successfully redeemed
+2026-09-25 12:19:51 - Processing K1266-181646830 [103/300] for code: MIDAUTUMN26
+2026-09-25 12:19:51 - 181646830 - Result: Already redeemed
+2026-09-25 12:19:52 - Processing K1266-181663028 [104/300] for code: MIDAUTUMN26
+2026-09-25 12:19:52 - 181663028 - Result: Successfully redeemed
+2026-09-25 12:19:54 - Processing K1266-181669304 [105/300] for code: MIDAUTUMN26
+2026-09-25 12:19:54 - 181669304 - Result: Successfully redeemed
+2026-09-25 12:19:55 - Processing K1266-181712653 [106/300] for code: MIDAUTUMN26
+2026-09-25 12:19:55 - 181712653 - Result: Successfully redeemed
+2026-09-25 12:19:56 - Processing K1266-181728933 [107/300] for code: MIDAUTUMN26
+2026-09-25 12:19:56 - 181728933 - Result: Successfully redeemed
+2026-09-25 12:19:58 - Processing K1266-181734398 [108/300] for code: MIDAUTUMN26
+2026-09-25 12:19:58 - 181734398 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-25 12:20:00 - 181734398 - Result: Successfully redeemed
+2026-09-25 12:20:01 - Processing K1266-181761437 [109/300] for code: MIDAUTUMN26
+2026-09-25 12:20:01 - 181761437 - Result: Successfully redeemed
+2026-09-25 12:20:02 - Processing K1266-181778389 [110/300] for code: MIDAUTUMN26
+2026-09-25 12:20:02 - 181778389 - Result: Successfully redeemed
+2026-09-25 12:20:04 - Processing K1266-181793958 [111/300] for code: MIDAUTUMN26
+2026-09-25 12:20:04 - 181793958 - Result: Successfully redeemed
+2026-09-25 12:20:05 - Processing K1266-181794115 [112/300] for code: MIDAUTUMN26
+2026-09-25 12:20:05 - 181794115 - Result: Successfully redeemed
+2026-09-25 12:20:06 - Processing K1266-181816445 [113/300] for code: MIDAUTUMN26
+2026-09-25 12:20:06 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-25 12:20:10 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-25 12:20:18 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-25 12:20:30 - 181816445 - Result: Redemption request failed
+2026-09-25 12:20:31 - Processing K1266-181859892 [114/300] for code: MIDAUTUMN26
+2026-09-25 12:20:31 - 181859892 - Result: Successfully redeemed
+2026-09-25 12:20:33 - Processing K1266-181859948 [115/300] for code: MIDAUTUMN26
+2026-09-25 12:20:33 - 181859948 - Result: Successfully redeemed
+2026-09-25 12:20:34 - Processing K1266-181860239 [116/300] for code: MIDAUTUMN26
+2026-09-25 12:20:34 - 181860239 - Result: Successfully redeemed
+2026-09-25 12:20:35 - Processing K1266-181860336 [117/300] for code: MIDAUTUMN26
+2026-09-25 12:20:35 - 181860336 - Result: Successfully redeemed
+2026-09-25 12:20:36 - Processing K1266-181882185 [118/300] for code: MIDAUTUMN26
+2026-09-25 12:20:36 - 181882185 - Result: Successfully redeemed
+2026-09-25 12:20:38 - Processing K1266-181892750 [119/300] for code: MIDAUTUMN26
+2026-09-25 12:20:38 - 181892750 - Result: Successfully redeemed
+2026-09-25 12:20:39 - Processing K1266-181941995 [120/300] for code: MIDAUTUMN26
+2026-09-25 12:20:39 - 181941995 - Result: Successfully redeemed
+2026-09-25 12:20:40 - Processing K1266-181958341 [121/300] for code: MIDAUTUMN26
+2026-09-25 12:20:41 - 181958341 - Result: Successfully redeemed
+2026-09-25 12:20:42 - Processing K1266-181958534 [122/300] for code: MIDAUTUMN26
+2026-09-25 12:20:42 - 181958534 - Result: Successfully redeemed
+2026-09-25 12:20:43 - Processing K1266-182007379 [123/300] for code: MIDAUTUMN26
+2026-09-25 12:20:43 - 182007379 - Result: Successfully redeemed
+2026-09-25 12:20:45 - Processing K1266-182007601 [124/300] for code: MIDAUTUMN26
+2026-09-25 12:20:45 - 182007601 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-25 12:20:47 - 182007601 - [Attempt 2/3] TIMEOUT RETRY. Retrying...
+2026-09-25 12:20:51 - 182007601 - Result: Successfully redeemed
+2026-09-25 12:20:52 - Processing K1266-182013382 [125/300] for code: MIDAUTUMN26
+2026-09-25 12:20:52 - 182013382 - Result: Successfully redeemed
+2026-09-25 12:20:54 - Processing K1266-182022970 [126/300] for code: MIDAUTUMN26
+2026-09-25 12:20:54 - 182022970 - Result: Successfully redeemed
+2026-09-25 12:20:55 - Processing K1266-182046115 [127/300] for code: MIDAUTUMN26
+2026-09-25 12:20:55 - 182046115 - Result: Successfully redeemed
+2026-09-25 12:20:56 - Processing K1266-182072645 [128/300] for code: MIDAUTUMN26
+2026-09-25 12:20:56 - 182072645 - Result: Successfully redeemed
+2026-09-25 12:20:58 - Processing K1266-182144355 [129/300] for code: MIDAUTUMN26
+2026-09-25 12:20:58 - 182144355 - Result: Successfully redeemed
+2026-09-25 12:20:59 - Processing K1266-182203508 [130/300] for code: MIDAUTUMN26
+2026-09-25 12:20:59 - 182203508 - Result: Successfully redeemed
+2026-09-25 12:21:00 - Processing K1266-182203900 [131/300] for code: MIDAUTUMN26
+2026-09-25 12:21:00 - 182203900 - Result: Successfully redeemed
+2026-09-25 12:21:01 - Processing K1266-182203950 [132/300] for code: MIDAUTUMN26
+2026-09-25 12:21:02 - 182203950 - Result: Successfully redeemed
+2026-09-25 12:21:03 - Processing K1266-182220585 [133/300] for code: MIDAUTUMN26
+2026-09-25 12:21:03 - 182220585 - Result: Successfully redeemed
+2026-09-25 12:21:04 - Processing K1266-182269737 [134/300] for code: MIDAUTUMN26
+2026-09-25 12:21:04 - 182269737 - Result: Successfully redeemed
+2026-09-25 12:21:06 - Processing K1266-182286440 [135/300] for code: MIDAUTUMN26
+2026-09-25 12:21:06 - 182286440 - Result: Successfully redeemed
+2026-09-25 12:21:07 - Processing K1266-182302366 [136/300] for code: MIDAUTUMN26
+2026-09-25 12:21:07 - 182302366 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-25 12:21:09 - 182302366 - Result: Successfully redeemed
+2026-09-25 12:21:10 - Processing K1266-182318888 [137/300] for code: MIDAUTUMN26
+2026-09-25 12:21:11 - 182318888 - Result: Successfully redeemed
+2026-09-25 12:21:12 - Processing K1266-182318992 [138/300] for code: MIDAUTUMN26
+2026-09-25 12:21:12 - 182318992 - Result: Successfully redeemed
+2026-09-25 12:21:13 - Processing K1266-182334781 [139/300] for code: MIDAUTUMN26
+2026-09-25 12:21:13 - 182334781 - Result: Successfully redeemed
+2026-09-25 12:21:14 - Processing K1266-182384322 [140/300] for code: MIDAUTUMN26
+2026-09-25 12:21:14 - 182384322 - Result: Successfully redeemed
+2026-09-25 12:21:16 - Processing K1266-182390223 [141/300] for code: MIDAUTUMN26
+2026-09-25 12:21:16 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-25 12:21:20 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-25 12:21:28 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-25 12:21:40 - 182390223 - Result: Redemption request failed
+2026-09-25 12:21:41 - Processing K1266-182449206 [142/300] for code: MIDAUTUMN26
+2026-09-25 12:21:41 - 182449206 - Result: Successfully redeemed
+2026-09-25 12:21:42 - Processing K1266-182450074 [143/300] for code: MIDAUTUMN26
+2026-09-25 12:21:42 - 182450074 - Result: Successfully redeemed
+2026-09-25 12:21:43 - Processing K1266-182466031 [144/300] for code: MIDAUTUMN26
+2026-09-25 12:21:43 - 182466031 - Result: Successfully redeemed
+2026-09-25 12:21:45 - Processing K1266-182472038 [145/300] for code: MIDAUTUMN26
+2026-09-25 12:21:45 - 182472038 - Result: Successfully redeemed
+2026-09-25 12:21:46 - Processing K1266-182488759 [146/300] for code: MIDAUTUMN26
+2026-09-25 12:21:46 - 182488759 - Result: Successfully redeemed
+2026-09-25 12:21:47 - Processing K1266-182531700 [147/300] for code: MIDAUTUMN26
+2026-09-25 12:21:47 - 182531700 - Result: Successfully redeemed
+2026-09-25 12:21:49 - Processing K1266-182548386 [148/300] for code: MIDAUTUMN26
+2026-09-25 12:21:49 - 182548386 - Result: Successfully redeemed
+2026-09-25 12:21:50 - Processing K1266-182646613 [149/300] for code: MIDAUTUMN26
+2026-09-25 12:21:50 - 182646613 - Result: Successfully redeemed
+2026-09-25 12:21:51 - Processing K1266-182668737 [150/300] for code: MIDAUTUMN26
+2026-09-25 12:21:51 - 182668737 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-25 12:21:53 - 182668737 - Result: Successfully redeemed
+2026-09-25 12:21:54 - Processing K1266-182679587 [151/300] for code: MIDAUTUMN26
+2026-09-25 12:21:54 - 182679587 - Result: Successfully redeemed
+2026-09-25 12:21:56 - Processing K1266-182717899 [152/300] for code: MIDAUTUMN26
+2026-09-25 12:21:56 - 182717899 - Result: Successfully redeemed
+2026-09-25 12:21:57 - Processing K1266-182767010 [153/300] for code: MIDAUTUMN26
+2026-09-25 12:21:57 - 182767010 - Result: Successfully redeemed
+2026-09-25 12:21:58 - Processing K1266-182810221 [154/300] for code: MIDAUTUMN26
+2026-09-25 12:21:58 - 182810221 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-25 12:22:01 - 182810221 - [Attempt 2/3] TIMEOUT RETRY. Retrying...
+2026-09-25 12:22:05 - 182810221 - Result: Successfully redeemed
+2026-09-25 12:22:06 - Processing K1266-182842833 [155/300] for code: MIDAUTUMN26
+2026-09-25 12:22:06 - 182842833 - Result: Successfully redeemed
+2026-09-25 12:22:07 - Processing K1266-182848942 [156/300] for code: MIDAUTUMN26
+2026-09-25 12:22:07 - 182848942 - Result: Successfully redeemed
+2026-09-25 12:22:08 - Processing K1266-182849233 [157/300] for code: MIDAUTUMN26
+2026-09-25 12:22:08 - 182849233 - Result: Successfully redeemed
+2026-09-25 12:22:09 - Processing K1266-182858998 [158/300] for code: MIDAUTUMN26
+2026-09-25 12:22:09 - 182858998 - Result: Successfully redeemed
+2026-09-25 12:22:10 - Processing K1266-182859667 [159/300] for code: MIDAUTUMN26
+2026-09-25 12:22:10 - 182859667 - Result: Successfully redeemed
+2026-09-25 12:22:11 - Processing K1266-182892217 [160/300] for code: MIDAUTUMN26
+2026-09-25 12:22:12 - 182892217 - Result: Successfully redeemed
+2026-09-25 12:22:13 - Processing K1266-182898057 [161/300] for code: MIDAUTUMN26
+2026-09-25 12:22:13 - 182898057 - Result: Successfully redeemed
+2026-09-25 12:22:14 - Processing K1266-182908483 [162/300] for code: MIDAUTUMN26
+2026-09-25 12:22:14 - 182908483 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-25 12:22:16 - 182908483 - Result: Successfully redeemed
+2026-09-25 12:22:17 - Processing K1266-182941162 [163/300] for code: MIDAUTUMN26
+2026-09-25 12:22:17 - 182941162 - Result: Successfully redeemed
+2026-09-25 12:22:19 - Processing K1266-182941502 [164/300] for code: MIDAUTUMN26
+2026-09-25 12:22:19 - 182941502 - Result: Successfully redeemed
+2026-09-25 12:22:20 - Processing K1266-182957878 [165/300] for code: MIDAUTUMN26
+2026-09-25 12:22:20 - 182957878 - Result: Successfully redeemed
+2026-09-25 12:22:21 - Processing K1266-182990423 [166/300] for code: MIDAUTUMN26
+2026-09-25 12:22:21 - 182990423 - Result: Successfully redeemed
+2026-09-25 12:22:23 - Processing K1266-183006892 [167/300] for code: MIDAUTUMN26
+2026-09-25 12:22:23 - 183006892 - Result: Successfully redeemed
+2026-09-25 12:22:24 - Processing K1266-183012848 [168/300] for code: MIDAUTUMN26
+2026-09-25 12:22:24 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-25 12:22:28 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-25 12:22:36 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-25 12:22:48 - 183012848 - Result: Redemption request failed
+2026-09-25 12:22:49 - Processing K1266-183028805 [169/300] for code: MIDAUTUMN26
+2026-09-25 12:22:49 - 183028805 - Result: Successfully redeemed
+2026-09-25 12:22:50 - Processing K1266-183029342 [170/300] for code: MIDAUTUMN26
+2026-09-25 12:22:50 - 183029342 - Result: Successfully redeemed
+2026-09-25 12:22:51 - Processing K1266-183039758 [171/300] for code: MIDAUTUMN26
+2026-09-25 12:22:51 - 183039758 - Result: Successfully redeemed
+2026-09-25 12:22:53 - Processing K1266-183072306 [172/300] for code: MIDAUTUMN26
+2026-09-25 12:22:53 - 183072306 - Result: Successfully redeemed
+2026-09-25 12:22:54 - Processing K1266-183072824 [173/300] for code: MIDAUTUMN26
+2026-09-25 12:22:54 - 183072824 - Result: Successfully redeemed
+2026-09-25 12:22:55 - Processing K1266-183089209 [174/300] for code: MIDAUTUMN26
+2026-09-25 12:22:55 - 183089209 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-25 12:22:57 - 183089209 - Result: Successfully redeemed
+2026-09-25 12:22:58 - Processing K1266-183104870 [175/300] for code: MIDAUTUMN26
+2026-09-25 12:22:59 - 183104870 - Result: Successfully redeemed
+2026-09-25 12:23:00 - Processing K1266-183121113 [176/300] for code: MIDAUTUMN26
+2026-09-25 12:23:00 - 183121113 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-25 12:23:02 - 183121113 - Result: Successfully redeemed
+2026-09-25 12:23:03 - Processing K1266-183137287 [177/300] for code: MIDAUTUMN26
+2026-09-25 12:23:03 - 183137287 - Result: Successfully redeemed
+2026-09-25 12:23:05 - Processing K1266-183154102 [178/300] for code: MIDAUTUMN26
+2026-09-25 12:23:05 - 183154102 - Result: Successfully redeemed
+2026-09-25 12:23:06 - Processing K1266-183154303 [179/300] for code: MIDAUTUMN26
+2026-09-25 12:23:06 - 183154303 - Result: Successfully redeemed
+2026-09-25 12:23:07 - Processing K1266-183154798 [180/300] for code: MIDAUTUMN26
+2026-09-25 12:23:07 - 183154798 - Result: Successfully redeemed
+2026-09-25 12:23:09 - Processing K1266-183170657 [181/300] for code: MIDAUTUMN26
+2026-09-25 12:23:09 - 183170657 - Result: Successfully redeemed
+2026-09-25 12:23:10 - Processing K1266-183176536 [182/300] for code: MIDAUTUMN26
+2026-09-25 12:23:10 - 183176536 - Result: Successfully redeemed
+2026-09-25 12:23:11 - Processing K1266-183219217 [183/300] for code: MIDAUTUMN26
+2026-09-25 12:23:11 - 183219217 - Result: Successfully redeemed
+2026-09-25 12:23:12 - Processing K1266-183219343 [184/300] for code: MIDAUTUMN26
+2026-09-25 12:23:12 - 183219343 - Result: Successfully redeemed
+2026-09-25 12:23:13 - Processing K1266-183285360 [185/300] for code: MIDAUTUMN26
+2026-09-25 12:23:13 - 183285360 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-25 12:23:16 - 183285360 - Result: Successfully redeemed
+2026-09-25 12:23:17 - Processing K1266-183317601 [186/300] for code: MIDAUTUMN26
+2026-09-25 12:23:17 - 183317601 - Result: Successfully redeemed
+2026-09-25 12:23:18 - Processing K1266-183350823 [187/300] for code: MIDAUTUMN26
+2026-09-25 12:23:18 - 183350823 - Result: Successfully redeemed
+2026-09-25 12:23:20 - Processing K1266-183366693 [188/300] for code: MIDAUTUMN26
+2026-09-25 12:23:20 - 183366693 - Result: Successfully redeemed
+2026-09-25 12:23:21 - Processing K1266-183367342 [189/300] for code: MIDAUTUMN26
+2026-09-25 12:23:21 - 183367342 - Result: Successfully redeemed
+2026-09-25 12:23:22 - Processing K1266-183383666 [190/300] for code: MIDAUTUMN26
+2026-09-25 12:23:22 - 183383666 - Result: Successfully redeemed
+2026-09-25 12:23:23 - Processing K1266-183384158 [191/300] for code: MIDAUTUMN26
+2026-09-25 12:23:23 - 183384158 - Result: Successfully redeemed
+2026-09-25 12:23:24 - Processing K1266-183455373 [192/300] for code: MIDAUTUMN26
+2026-09-25 12:23:24 - 183455373 - Result: Successfully redeemed
+2026-09-25 12:23:26 - Processing K1266-183563334 [193/300] for code: MIDAUTUMN26
+2026-09-25 12:23:26 - 183563334 - Result: Successfully redeemed
+2026-09-25 12:23:27 - Processing K1266-183579641 [194/300] for code: MIDAUTUMN26
+2026-09-25 12:23:27 - 183579641 - Result: Successfully redeemed
+2026-09-25 12:23:28 - Processing K1266-183602956 [195/300] for code: MIDAUTUMN26
+2026-09-25 12:23:29 - 183602956 - Result: Successfully redeemed
+2026-09-25 12:23:30 - Processing K1266-183635567 [196/300] for code: MIDAUTUMN26
+2026-09-25 12:23:30 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-25 12:23:34 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-25 12:23:42 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-25 12:23:54 - 183635567 - Result: Redemption request failed
+2026-09-25 12:23:55 - Processing K1266-183662249 [197/300] for code: MIDAUTUMN26
+2026-09-25 12:23:55 - 183662249 - Result: Successfully redeemed
+2026-09-25 12:23:56 - Processing K1266-183695044 [198/300] for code: MIDAUTUMN26
+2026-09-25 12:23:56 - 183695044 - Result: Successfully redeemed
+2026-09-25 12:23:58 - Processing K1266-183744074 [199/300] for code: MIDAUTUMN26
+2026-09-25 12:23:58 - 183744074 - Result: Successfully redeemed
+2026-09-25 12:23:59 - Processing K1266-183760133 [200/300] for code: MIDAUTUMN26
+2026-09-25 12:23:59 - 183760133 - Result: Successfully redeemed
+2026-09-25 12:24:01 - Processing K1266-183776526 [201/300] for code: MIDAUTUMN26
+2026-09-25 12:24:01 - 183776526 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-25 12:24:03 - 183776526 - Result: Successfully redeemed
+2026-09-25 12:24:04 - Processing K1266-183793260 [202/300] for code: MIDAUTUMN26
+2026-09-25 12:24:04 - 183793260 - Result: Successfully redeemed
+2026-09-25 12:24:05 - Processing K1266-183799231 [203/300] for code: MIDAUTUMN26
+2026-09-25 12:24:05 - 183799231 - Result: Successfully redeemed
+2026-09-25 12:24:06 - Processing K1266-183809202 [204/300] for code: MIDAUTUMN26
+2026-09-25 12:24:06 - 183809202 - Result: Already redeemed
+2026-09-25 12:24:07 - Processing K1266-183826046 [205/300] for code: MIDAUTUMN26
+2026-09-25 12:24:07 - 183826046 - Result: Successfully redeemed
+2026-09-25 12:24:09 - Processing K1266-183826079 [206/300] for code: MIDAUTUMN26
+2026-09-25 12:24:09 - 183826079 - Result: Successfully redeemed
+2026-09-25 12:24:10 - Processing K1266-183826363 [207/300] for code: MIDAUTUMN26
+2026-09-25 12:24:10 - 183826363 - Result: Successfully redeemed
+2026-09-25 12:24:12 - Processing K1266-183842707 [208/300] for code: MIDAUTUMN26
+2026-09-25 12:24:12 - 183842707 - Result: Successfully redeemed
+2026-09-25 12:24:13 - Processing K1266-183858943 [209/300] for code: MIDAUTUMN26
+2026-09-25 12:24:13 - 183858943 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-25 12:24:15 - 183858943 - Result: Successfully redeemed
+2026-09-25 12:24:16 - Processing K1266-183859043 [210/300] for code: MIDAUTUMN26
+2026-09-25 12:24:16 - 183859043 - Result: Successfully redeemed
+2026-09-25 12:24:17 - Processing K1266-183864332 [211/300] for code: MIDAUTUMN26
+2026-09-25 12:24:17 - 183864332 - Result: Successfully redeemed
+2026-09-25 12:24:19 - Processing K1266-183897678 [212/300] for code: MIDAUTUMN26
+2026-09-25 12:24:19 - 183897678 - Result: Successfully redeemed
+2026-09-25 12:24:20 - Processing K1266-183907791 [213/300] for code: MIDAUTUMN26
+2026-09-25 12:24:20 - 183907791 - Result: Successfully redeemed
+2026-09-25 12:24:21 - Processing K1266-183907855 [214/300] for code: MIDAUTUMN26
+2026-09-25 12:24:21 - 183907855 - Result: Successfully redeemed
+2026-09-25 12:24:22 - Processing K1266-183924658 [215/300] for code: MIDAUTUMN26
+2026-09-25 12:24:22 - 183924658 - Result: Already redeemed
+2026-09-25 12:24:24 - Processing K1266-183924660 [216/300] for code: MIDAUTUMN26
+2026-09-25 12:24:24 - 183924660 - Result: Successfully redeemed
+2026-09-25 12:24:25 - Processing K1266-183940809 [217/300] for code: MIDAUTUMN26
+2026-09-25 12:24:25 - 183940809 - Result: Successfully redeemed
+2026-09-25 12:24:27 - Processing K1266-183946385 [218/300] for code: MIDAUTUMN26
+2026-09-25 12:24:27 - 183946385 - Result: Successfully redeemed
+2026-09-25 12:24:28 - Processing K1266-183946804 [219/300] for code: MIDAUTUMN26
+2026-09-25 12:24:28 - 183946804 - Result: Successfully redeemed
+2026-09-25 12:24:29 - Processing K1266-183996371 [220/300] for code: MIDAUTUMN26
+2026-09-25 12:24:29 - 183996371 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-25 12:24:31 - 183996371 - Result: Successfully redeemed
+2026-09-25 12:24:32 - Processing K1266-184005794 [221/300] for code: MIDAUTUMN26
+2026-09-25 12:24:32 - 184005794 - Result: Successfully redeemed
+2026-09-25 12:24:34 - Processing K1266-184022781 [222/300] for code: MIDAUTUMN26
+2026-09-25 12:24:34 - 184022781 - Result: Successfully redeemed
+2026-09-25 12:24:35 - Processing K1266-184038545 [223/300] for code: MIDAUTUMN26
+2026-09-25 12:24:35 - 184038545 - Result: Successfully redeemed
+2026-09-25 12:24:36 - Processing K1266-184071743 [224/300] for code: MIDAUTUMN26
+2026-09-25 12:24:37 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-25 12:24:41 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-25 12:24:49 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-25 12:25:01 - 184071743 - Result: Redemption request failed
+2026-09-25 12:25:02 - Processing K1266-184088377 [225/300] for code: MIDAUTUMN26
+2026-09-25 12:25:02 - 184088377 - Result: Successfully redeemed
+2026-09-25 12:25:03 - Processing K1266-184137674 [226/300] for code: MIDAUTUMN26
+2026-09-25 12:25:03 - 184137674 - Result: Successfully redeemed
+2026-09-25 12:25:05 - Processing K1266-184159552 [227/300] for code: MIDAUTUMN26
+2026-09-25 12:25:05 - 184159552 - Result: Successfully redeemed
+2026-09-25 12:25:06 - Processing K1266-184169916 [228/300] for code: MIDAUTUMN26
+2026-09-25 12:25:06 - 184169916 - Result: Successfully redeemed
+2026-09-25 12:25:07 - Processing K1266-184170263 [229/300] for code: MIDAUTUMN26
+2026-09-25 12:25:07 - 184170263 - Result: Successfully redeemed
+2026-09-25 12:25:09 - Processing K1266-184175883 [230/300] for code: MIDAUTUMN26
+2026-09-25 12:25:09 - 184175883 - Result: Successfully redeemed
+2026-09-25 12:25:10 - Processing K1266-184186546 [231/300] for code: MIDAUTUMN26
+2026-09-25 12:25:10 - 184186546 - Result: Successfully redeemed
+2026-09-25 12:25:11 - Processing K1266-184202442 [232/300] for code: MIDAUTUMN26
+2026-09-25 12:25:11 - 184202442 - Result: Successfully redeemed
+2026-09-25 12:25:12 - Processing K1266-184202684 [233/300] for code: MIDAUTUMN26
+2026-09-25 12:25:12 - 184202684 - Result: Successfully redeemed
+2026-09-25 12:25:13 - Processing K1266-184219240 [234/300] for code: MIDAUTUMN26
+2026-09-25 12:25:14 - 184219240 - Result: Successfully redeemed
+2026-09-25 12:25:15 - Processing K1266-184252103 [235/300] for code: MIDAUTUMN26
+2026-09-25 12:25:15 - 184252103 - Result: Successfully redeemed
+2026-09-25 12:25:16 - Processing K1266-184257548 [236/300] for code: MIDAUTUMN26
+2026-09-25 12:25:16 - 184257548 - Result: Successfully redeemed
+2026-09-25 12:25:17 - Processing K1266-184268236 [237/300] for code: MIDAUTUMN26
+2026-09-25 12:25:18 - 184268236 - Result: Successfully redeemed
+2026-09-25 12:25:19 - Processing K1266-184268332 [238/300] for code: MIDAUTUMN26
+2026-09-25 12:25:19 - 184268332 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-25 12:25:21 - 184268332 - Result: Successfully redeemed
+2026-09-25 12:25:22 - Processing K1266-184285099 [239/300] for code: MIDAUTUMN26
+2026-09-25 12:25:23 - 184285099 - Result: Successfully redeemed
+2026-09-25 12:25:24 - Processing K1266-184300583 [240/300] for code: MIDAUTUMN26
+2026-09-25 12:25:24 - 184300583 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-25 12:25:26 - 184300583 - Result: Successfully redeemed
+2026-09-25 12:25:27 - Processing K1266-184301120 [241/300] for code: MIDAUTUMN26
+2026-09-25 12:25:27 - 184301120 - Result: Successfully redeemed
+2026-09-25 12:25:29 - Processing K1266-184301482 [242/300] for code: MIDAUTUMN26
+2026-09-25 12:25:29 - 184301482 - Result: Successfully redeemed
+2026-09-25 12:25:30 - Processing K1266-184306709 [243/300] for code: MIDAUTUMN26
+2026-09-25 12:25:30 - 184306709 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-25 12:25:32 - 184306709 - Result: Successfully redeemed
+2026-09-25 12:25:33 - Processing K1266-184323165 [244/300] for code: MIDAUTUMN26
+2026-09-25 12:25:34 - 184323165 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-25 12:25:36 - 184323165 - Result: Successfully redeemed
+2026-09-25 12:25:37 - Processing K1266-184334160 [245/300] for code: MIDAUTUMN26
+2026-09-25 12:25:37 - 184334160 - Result: Successfully redeemed
+2026-09-25 12:25:38 - Processing K1266-184334326 [246/300] for code: MIDAUTUMN26
+2026-09-25 12:25:38 - 184334326 - Result: Successfully redeemed
+2026-09-25 12:25:39 - Processing K1266-184355782 [247/300] for code: MIDAUTUMN26
+2026-09-25 12:25:40 - 184355782 - Result: Successfully redeemed
+2026-09-25 12:25:41 - Processing K1266-184355850 [248/300] for code: MIDAUTUMN26
+2026-09-25 12:25:41 - 184355850 - Result: Successfully redeemed
+2026-09-25 12:25:42 - Processing K1266-184366301 [249/300] for code: MIDAUTUMN26
+2026-09-25 12:25:42 - 184366301 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-25 12:25:44 - 184366301 - Result: Successfully redeemed
+2026-09-25 12:25:45 - Processing K1266-184398957 [250/300] for code: MIDAUTUMN26
+2026-09-25 12:25:45 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-25 12:25:49 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-25 12:25:57 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-25 12:26:09 - 184398957 - Result: Redemption request failed
+2026-09-25 12:26:10 - Processing K1266-184431865 [251/300] for code: MIDAUTUMN26
+2026-09-25 12:26:11 - 184431865 - Result: Successfully redeemed
+2026-09-25 12:26:12 - Processing K1266-184448668 [252/300] for code: MIDAUTUMN26
+2026-09-25 12:26:12 - 184448668 - Result: Successfully redeemed
+2026-09-25 12:26:13 - Processing K1266-185122678 [253/300] for code: MIDAUTUMN26
+2026-09-25 12:26:13 - 185122678 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-25 12:26:16 - 185122678 - Result: Successfully redeemed
+2026-09-25 12:26:17 - Processing K1266-185480245 [254/300] for code: MIDAUTUMN26
+2026-09-25 12:26:17 - 185480245 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-25 12:26:19 - 185480245 - Result: Successfully redeemed
+2026-09-25 12:26:20 - Processing K1266-187102768 [255/300] for code: MIDAUTUMN26
+2026-09-25 12:26:20 - 187102768 - Result: Successfully redeemed
+2026-09-25 12:26:22 - Processing K1266-187115851 [256/300] for code: MIDAUTUMN26
+2026-09-25 12:26:22 - 187115851 - Result: Successfully redeemed
+2026-09-25 12:26:23 - Processing K1266-188087741 [257/300] for code: MIDAUTUMN26
+2026-09-25 12:26:23 - 188087741 - Result: Successfully redeemed
+2026-09-25 12:26:24 - Processing K1266-188470196 [258/300] for code: MIDAUTUMN26
+2026-09-25 12:26:24 - 188470196 - Result: Successfully redeemed
+2026-09-25 12:26:26 - Processing K1266-188862376 [259/300] for code: MIDAUTUMN26
+2026-09-25 12:26:26 - 188862376 - Result: Successfully redeemed
+2026-09-25 12:26:27 - Processing K1266-190234418 [260/300] for code: MIDAUTUMN26
+2026-09-25 12:26:27 - 190234418 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-25 12:26:29 - 190234418 - Result: Successfully redeemed
+2026-09-25 12:26:31 - Processing K1266-190573918 [261/300] for code: MIDAUTUMN26
+2026-09-25 12:26:31 - 190573918 - Result: Successfully redeemed
+2026-09-25 12:26:32 - Processing K1266-191129295 [262/300] for code: MIDAUTUMN26
+2026-09-25 12:26:32 - 191129295 - Result: Successfully redeemed
+2026-09-25 12:26:33 - Processing K1266-192400838 [263/300] for code: MIDAUTUMN26
+2026-09-25 12:26:33 - 192400838 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-25 12:26:35 - 192400838 - Result: Successfully redeemed
+2026-09-25 12:26:36 - Processing K1266-193616382 [264/300] for code: MIDAUTUMN26
+2026-09-25 12:26:36 - 193616382 - Result: Successfully redeemed
+2026-09-25 12:26:38 - Processing K1266-194020665 [265/300] for code: MIDAUTUMN26
+2026-09-25 12:26:38 - 194020665 - Result: Successfully redeemed
+2026-09-25 12:26:39 - Processing K1266-194962807 [266/300] for code: MIDAUTUMN26
+2026-09-25 12:26:39 - 194962807 - Result: Successfully redeemed
+2026-09-25 12:26:40 - Processing K1266-196209781 [267/300] for code: MIDAUTUMN26
+2026-09-25 12:26:40 - 196209781 - Result: Successfully redeemed
+2026-09-25 12:26:41 - Processing K1266-197077736 [268/300] for code: MIDAUTUMN26
+2026-09-25 12:26:41 - 197077736 - Result: Successfully redeemed
+2026-09-25 12:26:42 - Processing K1266-197748881 [269/300] for code: MIDAUTUMN26
+2026-09-25 12:26:42 - 197748881 - Result: Successfully redeemed
+2026-09-25 12:26:43 - Processing K1266-198971997 [270/300] for code: MIDAUTUMN26
+2026-09-25 12:26:43 - 198971997 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-25 12:26:45 - 198971997 - Result: Successfully redeemed
+2026-09-25 12:26:47 - Processing K1266-199766078 [271/300] for code: MIDAUTUMN26
+2026-09-25 12:26:47 - 199766078 - Result: Successfully redeemed
+2026-09-25 12:26:48 - Processing K1266-202789741 [272/300] for code: MIDAUTUMN26
+2026-09-25 12:26:48 - 202789741 - Result: Successfully redeemed
+2026-09-25 12:26:49 - Processing K1266-208458805 [273/300] for code: MIDAUTUMN26
+2026-09-25 12:26:49 - 208458805 - Result: Successfully redeemed
+2026-09-25 12:26:51 - Processing K1266-208469366 [274/300] for code: MIDAUTUMN26
+2026-09-25 12:26:51 - 208469366 - Result: Successfully redeemed
+2026-09-25 12:26:52 - Processing K1266-209741428 [275/300] for code: MIDAUTUMN26
+2026-09-25 12:26:52 - 209741428 - Result: Already redeemed
+2026-09-25 12:26:53 - Processing K1266-215719460 [276/300] for code: MIDAUTUMN26
+2026-09-25 12:26:53 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-25 12:26:57 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-25 12:27:05 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-09-25 12:27:17 - 215719460 - Result: Redemption request failed
+2026-09-25 12:27:19 - Processing K1266-216820126 [277/300] for code: MIDAUTUMN26
+2026-09-25 12:27:19 - 216820126 - Result: Successfully redeemed
+2026-09-25 12:27:20 - Processing K1266-219382121 [278/300] for code: MIDAUTUMN26
+2026-09-25 12:27:20 - 219382121 - Result: Successfully redeemed
+2026-09-25 12:27:21 - Processing K1266-221309318 [279/300] for code: MIDAUTUMN26
+2026-09-25 12:27:21 - 221309318 - Result: Successfully redeemed
+2026-09-25 12:27:22 - Processing K1266-221445787 [280/300] for code: MIDAUTUMN26
+2026-09-25 12:27:22 - 221445787 - Result: Successfully redeemed
+2026-09-25 12:27:23 - Processing K1266-221883902 [281/300] for code: MIDAUTUMN26
+2026-09-25 12:27:24 - 221883902 - Result: Successfully redeemed
+2026-09-25 12:27:25 - Processing K1266-226209236 [282/300] for code: MIDAUTUMN26
+2026-09-25 12:27:25 - 226209236 - Result: Successfully redeemed
+2026-09-25 12:27:26 - Processing K1266-226703897 [283/300] for code: MIDAUTUMN26
+2026-09-25 12:27:26 - 226703897 - Result: Successfully redeemed
+2026-09-25 12:27:28 - Processing K1266-227970815 [284/300] for code: MIDAUTUMN26
+2026-09-25 12:27:28 - 227970815 - Result: Successfully redeemed
+2026-09-25 12:27:29 - Processing K1266-232510086 [285/300] for code: MIDAUTUMN26
+2026-09-25 12:27:29 - 232510086 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-25 12:27:31 - 232510086 - Result: Successfully redeemed
+2026-09-25 12:27:32 - Processing K1266-239065229 [286/300] for code: MIDAUTUMN26
+2026-09-25 12:27:32 - 239065229 - Result: Successfully redeemed
+2026-09-25 12:27:33 - Processing K1266-240864609 [287/300] for code: MIDAUTUMN26
+2026-09-25 12:27:33 - 240864609 - Result: Successfully redeemed
+2026-09-25 12:27:34 - Processing K1266-247760465 [288/300] for code: MIDAUTUMN26
+2026-09-25 12:27:34 - 247760465 - Result: Successfully redeemed
+2026-09-25 12:27:36 - Processing K1266-264853160 [289/300] for code: MIDAUTUMN26
+2026-09-25 12:27:36 - 264853160 - Result: Successfully redeemed
+2026-09-25 12:27:37 - Processing K1266-270896390 [290/300] for code: MIDAUTUMN26
+2026-09-25 12:27:37 - 270896390 - Result: Successfully redeemed
+2026-09-25 12:27:38 - Processing K1266-279842790 [291/300] for code: MIDAUTUMN26
+2026-09-25 12:27:38 - 279842790 - Result: Successfully redeemed
+2026-09-25 12:27:40 - Processing K1266-286282880 [292/300] for code: MIDAUTUMN26
+2026-09-25 12:27:40 - 286282880 - Result: Successfully redeemed
+2026-09-25 12:27:41 - Processing K1266-290460722 [293/300] for code: MIDAUTUMN26
+2026-09-25 12:27:41 - 290460722 - Result: Successfully redeemed
+2026-09-25 12:27:43 - Processing K1266-300260967 [294/300] for code: MIDAUTUMN26
+2026-09-25 12:27:43 - 300260967 - Result: Successfully redeemed
+2026-09-25 12:27:44 - Processing K1266-302154974 [295/300] for code: MIDAUTUMN26
+2026-09-25 12:27:44 - 302154974 - Result: Already redeemed
+2026-09-25 12:27:45 - Processing K1266-305821193 [296/300] for code: MIDAUTUMN26
+2026-09-25 12:27:45 - 305821193 - Result: Successfully redeemed
+2026-09-25 12:27:47 - Processing K1266-378005527 [297/300] for code: MIDAUTUMN26
+2026-09-25 12:27:47 - 378005527 - Result: Successfully redeemed
+2026-09-25 12:27:48 - Processing K1266-378518775 [298/300] for code: MIDAUTUMN26
+2026-09-25 12:27:48 - 378518775 - Result: Successfully redeemed
+2026-09-25 12:27:49 - Processing K1266-381967745 [299/300] for code: MIDAUTUMN26
+2026-09-25 12:27:49 - 381967745 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-09-25 12:27:51 - 381967745 - Result: Successfully redeemed
+2026-09-25 12:27:53 - Processing K1266-402165713 [300/300] for code: MIDAUTUMN26
+2026-09-25 12:27:53 - 402165713 - Result: Successfully redeemed
+2026-09-25 12:27:54 - --- Cycle finished. Total processed: 300/300 ---
+2026-09-25 12:27:54 - 
+========================= Redemption Summary =========================
+2026-09-25 12:27:54 - Code Redeemed: MIDAUTUMN26
+2026-09-25 12:27:54 - Total Unique Player IDs Found: 300
+2026-09-25 12:27:54 - Total Player IDs Processed: 300
+2026-09-25 12:27:54 - Successfully redeemed: 279
+2026-09-25 12:27:54 - Already redeemed: 10
+2026-09-25 12:27:54 - Wrong kingdom: 1
+2026-09-25 12:27:54 - Other Errors/Failures: 10
+2026-09-25 12:27:54 - Rate Limit Events: 0
+2026-09-25 12:27:54 - Total execution time: 0:11:50
+2026-09-25 12:27:54 - ======================================================================
+2026-09-25 12:27:54 - Marked 'MIDAUTUMN26' as known.
+
