@@ -35155,3 +35155,37 @@
 2026-09-29 17:12:23 - Success with chrome124 impersonation
 2026-09-29 17:12:23 - No new gift codes found. All codes have been seen previously.
 2026-09-29 17:12:23 - Nothing to redeem.
+2026-09-29 18:31:00 - Checking https://kingshot.net/gift-codes for new gift codes...
+2026-09-29 18:31:00 - Using curl_cffi for Cloudflare bypass...
+2026-09-29 18:31:00 - Success with chrome124 impersonation
+2026-09-29 18:31:00 - 
+🎉 NEW GIFT CODES FOUND: AKeYD8gK8
+2026-09-29 18:31:00 - 
+=== Starting redemption for gift code: AKeYD8gK8 ===
+2026-09-29 18:31:00 - Read 597 player IDs from lod.csv (encoding: utf-8-sig, 3 with a kingdom)
+2026-09-29 18:31:00 - Removed 296 duplicate entries.
+2026-09-29 18:31:00 - 298 player ID(s) had no kingdom in the CSV; using --kingdom 1266.
+2026-09-29 18:31:00 - Total unique player IDs to process: 301
+2026-09-29 18:31:00 - 
+--- Starting processing cycle. Ready player IDs: 301 ---
+2026-09-29 18:31:00 - Processing K1266-1266 [1/301] for code: AKeYD8gK8
+2026-09-29 18:31:01 - 1266 - Result: Wrong kingdom for this player ID
+2026-09-29 18:31:02 - Processing K1266-112607487 [2/301] for code: AKeYD8gK8
+2026-09-29 18:31:02 - 112607487 - Result: Claim limit reached, unable to claim
+2026-09-29 18:31:02 - 
+ *** Claim limit reached, unable to claim! Stopping further processing. ***
+2026-09-29 18:31:02 - --- Cycle finished. Total processed: 2/301 ---
+2026-09-29 18:31:02 - 
+========================= Redemption Summary =========================
+2026-09-29 18:31:02 - Code Redeemed: AKeYD8gK8
+2026-09-29 18:31:02 - Total Unique Player IDs Found: 301
+2026-09-29 18:31:02 - Total Player IDs Processed: 2
+2026-09-29 18:31:02 - Successfully redeemed: 0
+2026-09-29 18:31:02 - Already redeemed: 0
+2026-09-29 18:31:02 - Wrong kingdom: 1
+2026-09-29 18:31:02 - Other Errors/Failures: 0
+2026-09-29 18:31:02 - Rate Limit Events: 0
+2026-09-29 18:31:02 - Total execution time: 0:00:01
+2026-09-29 18:31:02 - ======================================================================
+2026-09-29 18:31:02 - Marked 'AKeYD8gK8' as known.
+
