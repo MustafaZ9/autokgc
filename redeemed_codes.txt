@@ -35209,3 +35209,37 @@
 2026-09-30 17:10:28 - Success with chrome124 impersonation
 2026-09-30 17:10:28 - No new gift codes found. All codes have been seen previously.
 2026-09-30 17:10:28 - Nothing to redeem.
+2026-09-30 23:18:22 - Checking https://kingshot.net/gift-codes for new gift codes...
+2026-09-30 23:18:22 - Using curl_cffi for Cloudflare bypass...
+2026-09-30 23:18:23 - Success with chrome124 impersonation
+2026-09-30 23:18:23 - 
+🎉 NEW GIFT CODES FOUND: 7VAEaNrV7
+2026-09-30 23:18:23 - 
+=== Starting redemption for gift code: 7VAEaNrV7 ===
+2026-09-30 23:18:23 - Read 597 player IDs from lod.csv (encoding: utf-8-sig, 3 with a kingdom)
+2026-09-30 23:18:23 - Removed 296 duplicate entries.
+2026-09-30 23:18:23 - 298 player ID(s) had no kingdom in the CSV; using --kingdom 1266.
+2026-09-30 23:18:23 - Total unique player IDs to process: 301
+2026-09-30 23:18:23 - 
+--- Starting processing cycle. Ready player IDs: 301 ---
+2026-09-30 23:18:23 - Processing K1266-1266 [1/301] for code: 7VAEaNrV7
+2026-09-30 23:18:24 - 1266 - Result: Wrong kingdom for this player ID
+2026-09-30 23:18:25 - Processing K1266-112607487 [2/301] for code: 7VAEaNrV7
+2026-09-30 23:18:25 - 112607487 - Result: Claim limit reached, unable to claim
+2026-09-30 23:18:25 - 
+ *** Claim limit reached, unable to claim! Stopping further processing. ***
+2026-09-30 23:18:25 - --- Cycle finished. Total processed: 2/301 ---
+2026-09-30 23:18:25 - 
+========================= Redemption Summary =========================
+2026-09-30 23:18:25 - Code Redeemed: 7VAEaNrV7
+2026-09-30 23:18:25 - Total Unique Player IDs Found: 301
+2026-09-30 23:18:25 - Total Player IDs Processed: 2
+2026-09-30 23:18:25 - Successfully redeemed: 0
+2026-09-30 23:18:25 - Already redeemed: 0
+2026-09-30 23:18:25 - Wrong kingdom: 1
+2026-09-30 23:18:25 - Other Errors/Failures: 0
+2026-09-30 23:18:25 - Rate Limit Events: 0
+2026-09-30 23:18:25 - Total execution time: 0:00:01
+2026-09-30 23:18:25 - ======================================================================
+2026-09-30 23:18:25 - Marked '7VAEaNrV7' as known.
+
