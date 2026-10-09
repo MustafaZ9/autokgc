@@ -36858,3 +36858,688 @@
 2026-10-09 00:01:51 - Success with chrome124 impersonation
 2026-10-09 00:01:51 - No new gift codes found. All codes have been seen previously.
 2026-10-09 00:01:51 - Nothing to redeem.
+2026-10-09 08:28:26 - Checking https://kingshot.net/gift-codes for new gift codes...
+2026-10-09 08:28:26 - Using curl_cffi for Cloudflare bypass...
+2026-10-09 08:28:27 - Success with chrome124 impersonation
+2026-10-09 08:28:27 - 
+🎉 NEW GIFT CODES FOUND: Hangul2026
+2026-10-09 08:28:27 - 
+=== Starting redemption for gift code: Hangul2026 ===
+2026-10-09 08:28:27 - Read 597 player IDs from lod.csv (encoding: utf-8-sig, 3 with a kingdom)
+2026-10-09 08:28:27 - Removed 296 duplicate entries.
+2026-10-09 08:28:27 - 298 player ID(s) had no kingdom in the CSV; using --kingdom 1266.
+2026-10-09 08:28:27 - Total unique player IDs to process: 301
+2026-10-09 08:28:27 - 
+--- Starting processing cycle. Ready player IDs: 301 ---
+2026-10-09 08:28:27 - Processing K1266-1266 [1/301] for code: Hangul2026
+2026-10-09 08:28:27 - 1266 - Result: Wrong kingdom for this player ID
+2026-10-09 08:28:29 - Processing K1266-112607487 [2/301] for code: Hangul2026
+2026-10-09 08:28:29 - 112607487 - Result: Successfully redeemed
+2026-10-09 08:28:31 - Processing K1266-134948830 [3/301] for code: Hangul2026
+2026-10-09 08:28:31 - 134948830 - Result: Successfully redeemed
+2026-10-09 08:28:32 - Processing K1266-137354109 [4/301] for code: Hangul2026
+2026-10-09 08:28:32 - 137354109 - Result: Successfully redeemed
+2026-10-09 08:28:33 - Processing K1266-137881550 [5/301] for code: Hangul2026
+2026-10-09 08:28:33 - 137881550 - Result: Successfully redeemed
+2026-10-09 08:28:35 - Processing K1266-138078147 [6/301] for code: Hangul2026
+2026-10-09 08:28:35 - 138078147 - Result: Successfully redeemed
+2026-10-09 08:28:36 - Processing K1266-159437876 [7/301] for code: Hangul2026
+2026-10-09 08:28:36 - 159437876 - Result: Successfully redeemed
+2026-10-09 08:28:37 - Processing K1266-160961411 [8/301] for code: Hangul2026
+2026-10-09 08:28:37 - 160961411 - Result: Successfully redeemed
+2026-10-09 08:28:38 - Processing K1266-160977214 [9/301] for code: Hangul2026
+2026-10-09 08:28:38 - 160977214 - Result: Successfully redeemed
+2026-10-09 08:28:39 - Processing K1266-161223459 [10/301] for code: Hangul2026
+2026-10-09 08:28:39 - 161223459 - Result: Successfully redeemed
+2026-10-09 08:28:41 - Processing K1266-161321233 [11/301] for code: Hangul2026
+2026-10-09 08:28:41 - 161321233 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-10-09 08:28:43 - 161321233 - Result: Successfully redeemed
+2026-10-09 08:28:44 - Processing K1266-161387367 [12/301] for code: Hangul2026
+2026-10-09 08:28:44 - 161387367 - Result: Successfully redeemed
+2026-10-09 08:28:45 - Processing K1266-161616297 [13/301] for code: Hangul2026
+2026-10-09 08:28:45 - 161616297 - Result: Successfully redeemed
+2026-10-09 08:28:46 - Processing K1266-162042375 [14/301] for code: Hangul2026
+2026-10-09 08:28:46 - 162042375 - Result: Successfully redeemed
+2026-10-09 08:28:47 - Processing K1266-162402979 [15/301] for code: Hangul2026
+2026-10-09 08:28:47 - 162402979 - Result: Successfully redeemed
+2026-10-09 08:28:49 - Processing K1266-162910751 [16/301] for code: Hangul2026
+2026-10-09 08:28:49 - 162910751 - Result: Successfully redeemed
+2026-10-09 08:28:50 - Processing K1266-163042051 [17/301] for code: Hangul2026
+2026-10-09 08:28:50 - 163042051 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-10-09 08:28:52 - 163042051 - Result: Successfully redeemed
+2026-10-09 08:28:53 - Processing K1266-176448172 [18/301] for code: Hangul2026
+2026-10-09 08:28:53 - 176448172 - Result: Successfully redeemed
+2026-10-09 08:28:55 - Processing K1266-176742470 [19/301] for code: Hangul2026
+2026-10-09 08:28:55 - 176742470 - Result: Successfully redeemed
+2026-10-09 08:28:56 - Processing K1266-176939042 [20/301] for code: Hangul2026
+2026-10-09 08:28:56 - 176939042 - Result: Successfully redeemed
+2026-10-09 08:28:57 - Processing K1266-177004482 [21/301] for code: Hangul2026
+2026-10-09 08:28:57 - 177004482 - Result: Successfully redeemed
+2026-10-09 08:28:58 - Processing K1266-177430530 [22/301] for code: Hangul2026
+2026-10-09 08:28:58 - 177430530 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-10-09 08:29:00 - 177430530 - Result: Successfully redeemed
+2026-10-09 08:29:02 - Processing K1266-177594975 [23/301] for code: Hangul2026
+2026-10-09 08:29:02 - 177594975 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-10-09 08:29:04 - 177594975 - Result: Successfully redeemed
+2026-10-09 08:29:05 - Processing K1266-177643662 [24/301] for code: Hangul2026
+2026-10-09 08:29:05 - 177643662 - Result: Successfully redeemed
+2026-10-09 08:29:06 - Processing K1266-177741835 [25/301] for code: Hangul2026
+2026-10-09 08:29:07 - 177741835 - Result: Successfully redeemed
+2026-10-09 08:29:08 - Processing K1266-177758431 [26/301] for code: Hangul2026
+2026-10-09 08:29:08 - 177758431 - Result: Successfully redeemed
+2026-10-09 08:29:09 - Processing K1266-177889207 [27/301] for code: Hangul2026
+2026-10-09 08:29:09 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-09 08:29:13 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-09 08:29:21 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-09 08:29:33 - 177889207 - Result: Redemption request failed
+2026-10-09 08:29:35 - Processing K1266-177889304 [28/301] for code: Hangul2026
+2026-10-09 08:29:35 - 177889304 - Result: Successfully redeemed
+2026-10-09 08:29:36 - Processing K1266-178003863 [29/301] for code: Hangul2026
+2026-10-09 08:29:36 - 178003863 - Result: Successfully redeemed
+2026-10-09 08:29:37 - Processing K1266-178167737 [30/301] for code: Hangul2026
+2026-10-09 08:29:37 - 178167737 - Result: Successfully redeemed
+2026-10-09 08:29:39 - Processing K1266-178282383 [31/301] for code: Hangul2026
+2026-10-09 08:29:39 - 178282383 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-10-09 08:29:41 - 178282383 - Result: Successfully redeemed
+2026-10-09 08:29:42 - Processing K1266-178298638 [32/301] for code: Hangul2026
+2026-10-09 08:29:42 - 178298638 - Result: Successfully redeemed
+2026-10-09 08:29:43 - Processing K1266-178298685 [33/301] for code: Hangul2026
+2026-10-09 08:29:43 - 178298685 - Result: Successfully redeemed
+2026-10-09 08:29:45 - Processing K1266-178828379 [34/301] for code: Hangul2026
+2026-10-09 08:29:45 - 178828379 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-10-09 08:29:47 - 178828379 - Result: Successfully redeemed
+2026-10-09 08:29:48 - Processing K1266-178872530 [35/301] for code: Hangul2026
+2026-10-09 08:29:48 - 178872530 - Result: Successfully redeemed
+2026-10-09 08:29:49 - Processing K1266-179107716 [36/301] for code: Hangul2026
+2026-10-09 08:29:49 - 179107716 - Result: Successfully redeemed
+2026-10-09 08:29:51 - Processing K1266-179216885 [37/301] for code: Hangul2026
+2026-10-09 08:29:51 - 179216885 - Result: Successfully redeemed
+2026-10-09 08:29:52 - Processing K1266-179479072 [38/301] for code: Hangul2026
+2026-10-09 08:29:52 - 179479072 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-10-09 08:29:54 - 179479072 - Result: Successfully redeemed
+2026-10-09 08:29:55 - Processing K1266-179515454 [39/301] for code: Hangul2026
+2026-10-09 08:29:56 - 179515454 - Result: Successfully redeemed
+2026-10-09 08:29:57 - Processing K1266-179675357 [40/301] for code: Hangul2026
+2026-10-09 08:29:57 - 179675357 - Result: Successfully redeemed
+2026-10-09 08:29:58 - Processing K1266-179691958 [41/301] for code: Hangul2026
+2026-10-09 08:29:58 - 179691958 - Result: Successfully redeemed
+2026-10-09 08:29:59 - Processing K1266-180368647 [42/301] for code: Hangul2026
+2026-10-09 08:29:59 - 180368647 - Result: Successfully redeemed
+2026-10-09 08:30:01 - Processing K1266-180369109 [43/301] for code: Hangul2026
+2026-10-09 08:30:01 - 180369109 - Result: Successfully redeemed
+2026-10-09 08:30:02 - Processing K1266-180369159 [44/301] for code: Hangul2026
+2026-10-09 08:30:02 - 180369159 - Result: Successfully redeemed
+2026-10-09 08:30:03 - Processing K1266-180385375 [45/301] for code: Hangul2026
+2026-10-09 08:30:03 - 180385375 - Result: Successfully redeemed
+2026-10-09 08:30:05 - Processing K1266-180385792 [46/301] for code: Hangul2026
+2026-10-09 08:30:05 - 180385792 - Result: Successfully redeemed
+2026-10-09 08:30:06 - Processing K1266-180418498 [47/301] for code: Hangul2026
+2026-10-09 08:30:06 - 180418498 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-10-09 08:30:08 - 180418498 - [Attempt 2/3] TIMEOUT RETRY. Retrying...
+2026-10-09 08:30:12 - 180418498 - Result: Successfully redeemed
+2026-10-09 08:30:14 - Processing K1266-180434357 [48/301] for code: Hangul2026
+2026-10-09 08:30:14 - 180434357 - Result: Successfully redeemed
+2026-10-09 08:30:15 - Processing K1266-180483302 [49/301] for code: Hangul2026
+2026-10-09 08:30:15 - 180483302 - Result: Successfully redeemed
+2026-10-09 08:30:17 - Processing K1266-180565782 [50/301] for code: Hangul2026
+2026-10-09 08:30:17 - 180565782 - Result: Successfully redeemed
+2026-10-09 08:30:18 - Processing K1266-180582116 [51/301] for code: Hangul2026
+2026-10-09 08:30:18 - 180582116 - Result: Successfully redeemed
+2026-10-09 08:30:19 - Processing K1266-180588134 [52/301] for code: Hangul2026
+2026-10-09 08:30:19 - 180588134 - Result: Successfully redeemed
+2026-10-09 08:30:20 - Processing K1266-180598416 [53/301] for code: Hangul2026
+2026-10-09 08:30:21 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-09 08:30:25 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-09 08:30:33 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-09 08:30:45 - 180598416 - Result: Redemption request failed
+2026-10-09 08:30:46 - Processing K1266-180614319 [54/301] for code: Hangul2026
+2026-10-09 08:30:46 - 180614319 - Result: Successfully redeemed
+2026-10-09 08:30:47 - Processing K1266-180636958 [55/301] for code: Hangul2026
+2026-10-09 08:30:47 - 180636958 - Result: Successfully redeemed
+2026-10-09 08:30:49 - Processing K1266-180647291 [56/301] for code: Hangul2026
+2026-10-09 08:30:49 - 180647291 - Result: Successfully redeemed
+2026-10-09 08:30:50 - Processing K1266-180647824 [57/301] for code: Hangul2026
+2026-10-09 08:30:50 - 180647824 - Result: Successfully redeemed
+2026-10-09 08:30:51 - Processing K1266-180669914 [58/301] for code: Hangul2026
+2026-10-09 08:30:51 - 180669914 - Result: Successfully redeemed
+2026-10-09 08:30:52 - Processing K1266-180696652 [59/301] for code: Hangul2026
+2026-10-09 08:30:52 - 180696652 - Result: Successfully redeemed
+2026-10-09 08:30:54 - Processing K1266-180729920 [60/301] for code: Hangul2026
+2026-10-09 08:30:54 - 180729920 - Result: Successfully redeemed
+2026-10-09 08:30:55 - Processing K1266-180778760 [61/301] for code: Hangul2026
+2026-10-09 08:30:55 - 180778760 - Result: Successfully redeemed
+2026-10-09 08:30:56 - Processing K1266-180779049 [62/301] for code: Hangul2026
+2026-10-09 08:30:56 - 180779049 - Result: Successfully redeemed
+2026-10-09 08:30:57 - Processing K1266-180795047 [63/301] for code: Hangul2026
+2026-10-09 08:30:57 - 180795047 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-10-09 08:30:59 - 180795047 - Result: Successfully redeemed
+2026-10-09 08:31:00 - Processing K1266-180827986 [64/301] for code: Hangul2026
+2026-10-09 08:31:01 - 180827986 - Result: Successfully redeemed
+2026-10-09 08:31:02 - Processing K1266-180893684 [65/301] for code: Hangul2026
+2026-10-09 08:31:02 - 180893684 - Result: Successfully redeemed
+2026-10-09 08:31:03 - Processing K1266-180893765 [66/301] for code: Hangul2026
+2026-10-09 08:31:03 - 180893765 - Result: Successfully redeemed
+2026-10-09 08:31:05 - Processing K1266-180909451 [67/301] for code: Hangul2026
+2026-10-09 08:31:05 - 180909451 - Result: Successfully redeemed
+2026-10-09 08:31:06 - Processing K1266-180959009 [68/301] for code: Hangul2026
+2026-10-09 08:31:06 - 180959009 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-10-09 08:31:08 - 180959009 - Result: Successfully redeemed
+2026-10-09 08:31:09 - Processing K1266-180975047 [69/301] for code: Hangul2026
+2026-10-09 08:31:09 - 180975047 - Result: Successfully redeemed
+2026-10-09 08:31:10 - Processing K1266-181008488 [70/301] for code: Hangul2026
+2026-10-09 08:31:11 - 181008488 - Result: Successfully redeemed
+2026-10-09 08:31:12 - Processing K1266-181024577 [71/301] for code: Hangul2026
+2026-10-09 08:31:12 - 181024577 - Result: Successfully redeemed
+2026-10-09 08:31:13 - Processing K1266-181063111 [72/301] for code: Hangul2026
+2026-10-09 08:31:13 - 181063111 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-10-09 08:31:15 - 181063111 - Result: Successfully redeemed
+2026-10-09 08:31:17 - Processing K1266-181089949 [73/301] for code: Hangul2026
+2026-10-09 08:31:17 - 181089949 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-10-09 08:31:19 - 181089949 - Result: Successfully redeemed
+2026-10-09 08:31:20 - Processing K1266-181090100 [74/301] for code: Hangul2026
+2026-10-09 08:31:20 - 181090100 - Result: Successfully redeemed
+2026-10-09 08:31:22 - Processing K1266-181106609 [75/301] for code: Hangul2026
+2026-10-09 08:31:22 - 181106609 - Result: Successfully redeemed
+2026-10-09 08:31:23 - Processing K1266-181122260 [76/301] for code: Hangul2026
+2026-10-09 08:31:23 - 181122260 - Result: Successfully redeemed
+2026-10-09 08:31:24 - Processing K1266-181139114 [77/301] for code: Hangul2026
+2026-10-09 08:31:24 - 181139114 - Result: Successfully redeemed
+2026-10-09 08:31:26 - Processing K1266-181155772 [78/301] for code: Hangul2026
+2026-10-09 08:31:26 - 181155772 - Result: Successfully redeemed
+2026-10-09 08:31:27 - Processing K1266-181171461 [79/301] for code: Hangul2026
+2026-10-09 08:31:27 - 181171461 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-10-09 08:31:29 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-09 08:31:33 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-09 08:31:41 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-09 08:31:53 - 181171461 - Result: Redemption request failed
+2026-10-09 08:31:54 - Processing K1266-181188977 [80/301] for code: Hangul2026
+2026-10-09 08:31:54 - 181188977 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-10-09 08:31:56 - 181188977 - Result: Successfully redeemed
+2026-10-09 08:31:57 - Processing K1266-181340930 [81/301] for code: Hangul2026
+2026-10-09 08:31:57 - 181340930 - Result: Successfully redeemed
+2026-10-09 08:31:58 - Processing K1266-181351852 [82/301] for code: Hangul2026
+2026-10-09 08:31:58 - 181351852 - Result: Successfully redeemed
+2026-10-09 08:32:00 - Processing K1266-181358276 [83/301] for code: Hangul2026
+2026-10-09 08:32:00 - 181358276 - Result: Successfully redeemed
+2026-10-09 08:32:01 - Processing K1266-181374419 [84/301] for code: Hangul2026
+2026-10-09 08:32:01 - 181374419 - Result: Successfully redeemed
+2026-10-09 08:32:03 - Processing K1266-181384836 [85/301] for code: Hangul2026
+2026-10-09 08:32:03 - 181384836 - Result: Successfully redeemed
+2026-10-09 08:32:04 - Processing K1266-181385198 [86/301] for code: Hangul2026
+2026-10-09 08:32:04 - 181385198 - Result: Successfully redeemed
+2026-10-09 08:32:05 - Processing K1266-181401589 [87/301] for code: Hangul2026
+2026-10-09 08:32:05 - 181401589 - Result: Successfully redeemed
+2026-10-09 08:32:07 - Processing K1266-181407057 [88/301] for code: Hangul2026
+2026-10-09 08:32:07 - 181407057 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-10-09 08:32:09 - 181407057 - Result: Successfully redeemed
+2026-10-09 08:32:10 - Processing K1266-181417643 [89/301] for code: Hangul2026
+2026-10-09 08:32:10 - 181417643 - Result: Successfully redeemed
+2026-10-09 08:32:11 - Processing K1266-181423528 [90/301] for code: Hangul2026
+2026-10-09 08:32:11 - 181423528 - Result: Successfully redeemed
+2026-10-09 08:32:13 - Processing K1266-181466821 [91/301] for code: Hangul2026
+2026-10-09 08:32:13 - 181466821 - Result: Successfully redeemed
+2026-10-09 08:32:14 - Processing K1266-181466879 [92/301] for code: Hangul2026
+2026-10-09 08:32:14 - 181466879 - Result: Successfully redeemed
+2026-10-09 08:32:15 - Processing K1266-181482560 [93/301] for code: Hangul2026
+2026-10-09 08:32:15 - 181482560 - Result: Successfully redeemed
+2026-10-09 08:32:17 - Processing K1266-181515253 [94/301] for code: Hangul2026
+2026-10-09 08:32:17 - 181515253 - Result: Successfully redeemed
+2026-10-09 08:32:18 - Processing K1266-181516264 [95/301] for code: Hangul2026
+2026-10-09 08:32:18 - 181516264 - Result: Successfully redeemed
+2026-10-09 08:32:20 - Processing K1266-181516335 [96/301] for code: Hangul2026
+2026-10-09 08:32:20 - 181516335 - Result: Successfully redeemed
+2026-10-09 08:32:21 - Processing K1266-181521367 [97/301] for code: Hangul2026
+2026-10-09 08:32:21 - 181521367 - Result: Successfully redeemed
+2026-10-09 08:32:22 - Processing K1266-181531678 [98/301] for code: Hangul2026
+2026-10-09 08:32:23 - 181531678 - Result: Successfully redeemed
+2026-10-09 08:32:24 - Processing K1266-181548141 [99/301] for code: Hangul2026
+2026-10-09 08:32:24 - 181548141 - Result: Successfully redeemed
+2026-10-09 08:32:25 - Processing K1266-181565051 [100/301] for code: Hangul2026
+2026-10-09 08:32:25 - 181565051 - Result: Successfully redeemed
+2026-10-09 08:32:27 - Processing K1266-181571708 [101/301] for code: Hangul2026
+2026-10-09 08:32:27 - 181571708 - Result: Successfully redeemed
+2026-10-09 08:32:28 - Processing K1266-181614011 [102/301] for code: Hangul2026
+2026-10-09 08:32:28 - 181614011 - Result: Successfully redeemed
+2026-10-09 08:32:29 - Processing K1266-181646830 [103/301] for code: Hangul2026
+2026-10-09 08:32:29 - 181646830 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-10-09 08:32:31 - 181646830 - Result: Successfully redeemed
+2026-10-09 08:32:32 - Processing K1266-181663028 [104/301] for code: Hangul2026
+2026-10-09 08:32:32 - 181663028 - Result: Successfully redeemed
+2026-10-09 08:32:34 - Processing K1266-181669304 [105/301] for code: Hangul2026
+2026-10-09 08:32:34 - 181669304 - Result: Successfully redeemed
+2026-10-09 08:32:35 - Processing K1266-181712653 [106/301] for code: Hangul2026
+2026-10-09 08:32:35 - 181712653 - Result: Successfully redeemed
+2026-10-09 08:32:36 - Processing K1266-181728933 [107/301] for code: Hangul2026
+2026-10-09 08:32:36 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-09 08:32:40 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-09 08:32:48 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-09 08:33:00 - 181728933 - Result: Redemption request failed
+2026-10-09 08:33:02 - Processing K1266-181734398 [108/301] for code: Hangul2026
+2026-10-09 08:33:02 - 181734398 - Result: Successfully redeemed
+2026-10-09 08:33:03 - Processing K1266-181761437 [109/301] for code: Hangul2026
+2026-10-09 08:33:03 - 181761437 - Result: Successfully redeemed
+2026-10-09 08:33:04 - Processing K1266-181778389 [110/301] for code: Hangul2026
+2026-10-09 08:33:04 - 181778389 - Result: Successfully redeemed
+2026-10-09 08:33:05 - Processing K1266-181793958 [111/301] for code: Hangul2026
+2026-10-09 08:33:05 - 181793958 - Result: Successfully redeemed
+2026-10-09 08:33:07 - Processing K1266-181794115 [112/301] for code: Hangul2026
+2026-10-09 08:33:07 - 181794115 - Result: Successfully redeemed
+2026-10-09 08:33:08 - Processing K1266-181816445 [113/301] for code: Hangul2026
+2026-10-09 08:33:08 - 181816445 - Result: Successfully redeemed
+2026-10-09 08:33:09 - Processing K1266-181859892 [114/301] for code: Hangul2026
+2026-10-09 08:33:09 - 181859892 - Result: Successfully redeemed
+2026-10-09 08:33:10 - Processing K1266-181859948 [115/301] for code: Hangul2026
+2026-10-09 08:33:11 - 181859948 - Result: Successfully redeemed
+2026-10-09 08:33:12 - Processing K1266-181860239 [116/301] for code: Hangul2026
+2026-10-09 08:33:12 - 181860239 - Result: Successfully redeemed
+2026-10-09 08:33:13 - Processing K1266-181860336 [117/301] for code: Hangul2026
+2026-10-09 08:33:13 - 181860336 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-10-09 08:33:15 - 181860336 - Result: Successfully redeemed
+2026-10-09 08:33:16 - Processing K1266-181882185 [118/301] for code: Hangul2026
+2026-10-09 08:33:16 - 181882185 - Result: Successfully redeemed
+2026-10-09 08:33:18 - Processing K1266-181892750 [119/301] for code: Hangul2026
+2026-10-09 08:33:18 - 181892750 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-10-09 08:33:20 - 181892750 - Result: Successfully redeemed
+2026-10-09 08:33:21 - Processing K1266-181941995 [120/301] for code: Hangul2026
+2026-10-09 08:33:21 - 181941995 - Result: Successfully redeemed
+2026-10-09 08:33:23 - Processing K1266-181958341 [121/301] for code: Hangul2026
+2026-10-09 08:33:23 - 181958341 - Result: Successfully redeemed
+2026-10-09 08:33:24 - Processing K1266-181958534 [122/301] for code: Hangul2026
+2026-10-09 08:33:24 - 181958534 - Result: Successfully redeemed
+2026-10-09 08:33:26 - Processing K1266-182007379 [123/301] for code: Hangul2026
+2026-10-09 08:33:26 - 182007379 - Result: Successfully redeemed
+2026-10-09 08:33:27 - Processing K1266-182007601 [124/301] for code: Hangul2026
+2026-10-09 08:33:27 - 182007601 - Result: Successfully redeemed
+2026-10-09 08:33:29 - Processing K1266-182013382 [125/301] for code: Hangul2026
+2026-10-09 08:33:29 - 182013382 - Result: Successfully redeemed
+2026-10-09 08:33:30 - Processing K1266-182022970 [126/301] for code: Hangul2026
+2026-10-09 08:33:30 - 182022970 - Result: Successfully redeemed
+2026-10-09 08:33:31 - Processing K1266-182046115 [127/301] for code: Hangul2026
+2026-10-09 08:33:31 - 182046115 - Result: Successfully redeemed
+2026-10-09 08:33:32 - Processing K1266-182072645 [128/301] for code: Hangul2026
+2026-10-09 08:33:32 - 182072645 - Result: Successfully redeemed
+2026-10-09 08:33:33 - Processing K1266-182144355 [129/301] for code: Hangul2026
+2026-10-09 08:33:33 - 182144355 - Result: Successfully redeemed
+2026-10-09 08:33:34 - Processing K1266-182203508 [130/301] for code: Hangul2026
+2026-10-09 08:33:34 - 182203508 - Result: Successfully redeemed
+2026-10-09 08:33:35 - Processing K1266-182203900 [131/301] for code: Hangul2026
+2026-10-09 08:33:36 - 182203900 - Result: Successfully redeemed
+2026-10-09 08:33:37 - Processing K1266-182203950 [132/301] for code: Hangul2026
+2026-10-09 08:33:37 - 182203950 - Result: Successfully redeemed
+2026-10-09 08:33:38 - Processing K1266-182220585 [133/301] for code: Hangul2026
+2026-10-09 08:33:38 - 182220585 - Result: Successfully redeemed
+2026-10-09 08:33:39 - Processing K1266-182269737 [134/301] for code: Hangul2026
+2026-10-09 08:33:39 - 182269737 - Result: Successfully redeemed
+2026-10-09 08:33:40 - Processing K1266-182286440 [135/301] for code: Hangul2026
+2026-10-09 08:33:40 - 182286440 - Result: Successfully redeemed
+2026-10-09 08:33:42 - Processing K1266-182302366 [136/301] for code: Hangul2026
+2026-10-09 08:33:42 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-09 08:33:46 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-09 08:33:54 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-09 08:34:06 - 182302366 - Result: Redemption request failed
+2026-10-09 08:34:07 - Processing K1266-182318888 [137/301] for code: Hangul2026
+2026-10-09 08:34:07 - 182318888 - Result: Successfully redeemed
+2026-10-09 08:34:08 - Processing K1266-182318992 [138/301] for code: Hangul2026
+2026-10-09 08:34:08 - 182318992 - Result: Successfully redeemed
+2026-10-09 08:34:10 - Processing K1266-182334781 [139/301] for code: Hangul2026
+2026-10-09 08:34:10 - 182334781 - Result: Successfully redeemed
+2026-10-09 08:34:11 - Processing K1266-182384322 [140/301] for code: Hangul2026
+2026-10-09 08:34:11 - 182384322 - Result: Successfully redeemed
+2026-10-09 08:34:12 - Processing K1266-182390223 [141/301] for code: Hangul2026
+2026-10-09 08:34:12 - 182390223 - Result: Successfully redeemed
+2026-10-09 08:34:14 - Processing K1266-182449206 [142/301] for code: Hangul2026
+2026-10-09 08:34:14 - 182449206 - Result: Successfully redeemed
+2026-10-09 08:34:15 - Processing K1266-182450074 [143/301] for code: Hangul2026
+2026-10-09 08:34:15 - 182450074 - Result: Successfully redeemed
+2026-10-09 08:34:16 - Processing K1266-182466031 [144/301] for code: Hangul2026
+2026-10-09 08:34:17 - 182466031 - Result: Successfully redeemed
+2026-10-09 08:34:18 - Processing K1266-182472038 [145/301] for code: Hangul2026
+2026-10-09 08:34:18 - 182472038 - Result: Successfully redeemed
+2026-10-09 08:34:19 - Processing K1266-182488759 [146/301] for code: Hangul2026
+2026-10-09 08:34:19 - 182488759 - Result: Successfully redeemed
+2026-10-09 08:34:20 - Processing K1266-182531700 [147/301] for code: Hangul2026
+2026-10-09 08:34:20 - 182531700 - Result: Successfully redeemed
+2026-10-09 08:34:21 - Processing K1266-182548386 [148/301] for code: Hangul2026
+2026-10-09 08:34:21 - 182548386 - Result: Successfully redeemed
+2026-10-09 08:34:22 - Processing K1266-182646613 [149/301] for code: Hangul2026
+2026-10-09 08:34:22 - 182646613 - Result: Successfully redeemed
+2026-10-09 08:34:24 - Processing K1266-182668737 [150/301] for code: Hangul2026
+2026-10-09 08:34:24 - 182668737 - Result: Successfully redeemed
+2026-10-09 08:34:25 - Processing K1266-182679587 [151/301] for code: Hangul2026
+2026-10-09 08:34:25 - 182679587 - Result: Successfully redeemed
+2026-10-09 08:34:26 - Processing K1266-182717899 [152/301] for code: Hangul2026
+2026-10-09 08:34:26 - 182717899 - Result: Successfully redeemed
+2026-10-09 08:34:27 - Processing K1266-182767010 [153/301] for code: Hangul2026
+2026-10-09 08:34:28 - 182767010 - Result: Successfully redeemed
+2026-10-09 08:34:29 - Processing K1266-182810221 [154/301] for code: Hangul2026
+2026-10-09 08:34:29 - 182810221 - Result: Successfully redeemed
+2026-10-09 08:34:30 - Processing K1266-182842833 [155/301] for code: Hangul2026
+2026-10-09 08:34:30 - 182842833 - Result: Successfully redeemed
+2026-10-09 08:34:31 - Processing K1266-182848942 [156/301] for code: Hangul2026
+2026-10-09 08:34:32 - 182848942 - Result: Successfully redeemed
+2026-10-09 08:34:33 - Processing K1266-182849233 [157/301] for code: Hangul2026
+2026-10-09 08:34:33 - 182849233 - Result: Successfully redeemed
+2026-10-09 08:34:34 - Processing K1266-182858998 [158/301] for code: Hangul2026
+2026-10-09 08:34:34 - 182858998 - Result: Successfully redeemed
+2026-10-09 08:34:36 - Processing K1266-182859667 [159/301] for code: Hangul2026
+2026-10-09 08:34:36 - 182859667 - Result: Successfully redeemed
+2026-10-09 08:34:37 - Processing K1266-182892217 [160/301] for code: Hangul2026
+2026-10-09 08:34:37 - 182892217 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-10-09 08:34:39 - 182892217 - Result: Successfully redeemed
+2026-10-09 08:34:41 - Processing K1266-182898057 [161/301] for code: Hangul2026
+2026-10-09 08:34:41 - 182898057 - Result: Successfully redeemed
+2026-10-09 08:34:42 - Processing K1266-182908483 [162/301] for code: Hangul2026
+2026-10-09 08:34:42 - 182908483 - Result: Successfully redeemed
+2026-10-09 08:34:43 - Processing K1266-182941162 [163/301] for code: Hangul2026
+2026-10-09 08:34:43 - 182941162 - Result: Successfully redeemed
+2026-10-09 08:34:44 - Processing K1266-182941502 [164/301] for code: Hangul2026
+2026-10-09 08:34:44 - 182941502 - Result: Successfully redeemed
+2026-10-09 08:34:45 - Processing K1266-182957878 [165/301] for code: Hangul2026
+2026-10-09 08:34:45 - 182957878 - Result: Successfully redeemed
+2026-10-09 08:34:46 - Processing K1266-182990423 [166/301] for code: Hangul2026
+2026-10-09 08:34:46 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-09 08:34:50 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-09 08:34:58 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-09 08:35:10 - 182990423 - Result: Redemption request failed
+2026-10-09 08:35:12 - Processing K1266-183006892 [167/301] for code: Hangul2026
+2026-10-09 08:35:12 - 183006892 - Result: Successfully redeemed
+2026-10-09 08:35:13 - Processing K1266-183012848 [168/301] for code: Hangul2026
+2026-10-09 08:35:13 - 183012848 - Result: Successfully redeemed
+2026-10-09 08:35:14 - Processing K1266-183028805 [169/301] for code: Hangul2026
+2026-10-09 08:35:14 - 183028805 - Result: Successfully redeemed
+2026-10-09 08:35:16 - Processing K1266-183029342 [170/301] for code: Hangul2026
+2026-10-09 08:35:16 - 183029342 - Result: Successfully redeemed
+2026-10-09 08:35:17 - Processing K1266-183039758 [171/301] for code: Hangul2026
+2026-10-09 08:35:17 - 183039758 - Result: Successfully redeemed
+2026-10-09 08:35:18 - Processing K1266-183072306 [172/301] for code: Hangul2026
+2026-10-09 08:35:18 - 183072306 - Result: Successfully redeemed
+2026-10-09 08:35:19 - Processing K1266-183072824 [173/301] for code: Hangul2026
+2026-10-09 08:35:19 - 183072824 - Result: Successfully redeemed
+2026-10-09 08:35:20 - Processing K1266-183089209 [174/301] for code: Hangul2026
+2026-10-09 08:35:20 - 183089209 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-10-09 08:35:22 - 183089209 - Result: Successfully redeemed
+2026-10-09 08:35:23 - Processing K1266-183104870 [175/301] for code: Hangul2026
+2026-10-09 08:35:24 - 183104870 - Result: Successfully redeemed
+2026-10-09 08:35:25 - Processing K1266-183121113 [176/301] for code: Hangul2026
+2026-10-09 08:35:25 - 183121113 - Result: Successfully redeemed
+2026-10-09 08:35:26 - Processing K1266-183137287 [177/301] for code: Hangul2026
+2026-10-09 08:35:26 - 183137287 - Result: Already redeemed
+2026-10-09 08:35:28 - Processing K1266-183154102 [178/301] for code: Hangul2026
+2026-10-09 08:35:28 - 183154102 - Result: Successfully redeemed
+2026-10-09 08:35:29 - Processing K1266-183154303 [179/301] for code: Hangul2026
+2026-10-09 08:35:29 - 183154303 - Result: Successfully redeemed
+2026-10-09 08:35:30 - Processing K1266-183154798 [180/301] for code: Hangul2026
+2026-10-09 08:35:30 - 183154798 - Result: Successfully redeemed
+2026-10-09 08:35:31 - Processing K1266-183170657 [181/301] for code: Hangul2026
+2026-10-09 08:35:32 - 183170657 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-10-09 08:35:34 - 183170657 - Result: Successfully redeemed
+2026-10-09 08:35:35 - Processing K1266-183176536 [182/301] for code: Hangul2026
+2026-10-09 08:35:35 - 183176536 - Result: Successfully redeemed
+2026-10-09 08:35:36 - Processing K1266-183219217 [183/301] for code: Hangul2026
+2026-10-09 08:35:36 - 183219217 - Result: Successfully redeemed
+2026-10-09 08:35:37 - Processing K1266-183219343 [184/301] for code: Hangul2026
+2026-10-09 08:35:38 - 183219343 - Result: Successfully redeemed
+2026-10-09 08:35:39 - Processing K1266-183285360 [185/301] for code: Hangul2026
+2026-10-09 08:35:39 - 183285360 - Result: Successfully redeemed
+2026-10-09 08:35:40 - Processing K1266-183317601 [186/301] for code: Hangul2026
+2026-10-09 08:35:40 - 183317601 - Result: Successfully redeemed
+2026-10-09 08:35:41 - Processing K1266-183350823 [187/301] for code: Hangul2026
+2026-10-09 08:35:42 - 183350823 - Result: Successfully redeemed
+2026-10-09 08:35:43 - Processing K1266-183366693 [188/301] for code: Hangul2026
+2026-10-09 08:35:43 - 183366693 - Result: Successfully redeemed
+2026-10-09 08:35:45 - Processing K1266-183367342 [189/301] for code: Hangul2026
+2026-10-09 08:35:45 - 183367342 - Result: Successfully redeemed
+2026-10-09 08:35:46 - Processing K1266-183383666 [190/301] for code: Hangul2026
+2026-10-09 08:35:46 - 183383666 - Result: Successfully redeemed
+2026-10-09 08:35:47 - Processing K1266-183384158 [191/301] for code: Hangul2026
+2026-10-09 08:35:47 - 183384158 - Result: Successfully redeemed
+2026-10-09 08:35:49 - Processing K1266-183455373 [192/301] for code: Hangul2026
+2026-10-09 08:35:49 - 183455373 - Result: Successfully redeemed
+2026-10-09 08:35:50 - Processing K1266-183531242 [193/301] for code: Hangul2026
+2026-10-09 08:35:50 - 183531242 - Result: Successfully redeemed
+2026-10-09 08:35:51 - Processing K1266-183563334 [194/301] for code: Hangul2026
+2026-10-09 08:35:51 - 183563334 - Result: Successfully redeemed
+2026-10-09 08:35:52 - Processing K1266-183579641 [195/301] for code: Hangul2026
+2026-10-09 08:35:52 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-09 08:35:56 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-09 08:36:04 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-09 08:36:16 - 183579641 - Result: Redemption request failed
+2026-10-09 08:36:18 - Processing K1266-183602956 [196/301] for code: Hangul2026
+2026-10-09 08:36:18 - 183602956 - Result: Successfully redeemed
+2026-10-09 08:36:19 - Processing K1266-183635567 [197/301] for code: Hangul2026
+2026-10-09 08:36:19 - 183635567 - Result: Successfully redeemed
+2026-10-09 08:36:21 - Processing K1266-183662249 [198/301] for code: Hangul2026
+2026-10-09 08:36:21 - 183662249 - Result: Successfully redeemed
+2026-10-09 08:36:22 - Processing K1266-183695044 [199/301] for code: Hangul2026
+2026-10-09 08:36:22 - 183695044 - Result: Successfully redeemed
+2026-10-09 08:36:23 - Processing K1266-183744074 [200/301] for code: Hangul2026
+2026-10-09 08:36:23 - 183744074 - Result: Successfully redeemed
+2026-10-09 08:36:24 - Processing K1266-183760133 [201/301] for code: Hangul2026
+2026-10-09 08:36:25 - 183760133 - Result: Successfully redeemed
+2026-10-09 08:36:26 - Processing K1266-183776526 [202/301] for code: Hangul2026
+2026-10-09 08:36:26 - 183776526 - Result: Successfully redeemed
+2026-10-09 08:36:27 - Processing K1266-183793260 [203/301] for code: Hangul2026
+2026-10-09 08:36:27 - 183793260 - Result: Successfully redeemed
+2026-10-09 08:36:29 - Processing K1266-183799231 [204/301] for code: Hangul2026
+2026-10-09 08:36:29 - 183799231 - Result: Successfully redeemed
+2026-10-09 08:36:30 - Processing K1266-183809202 [205/301] for code: Hangul2026
+2026-10-09 08:36:30 - 183809202 - Result: Successfully redeemed
+2026-10-09 08:36:31 - Processing K1266-183826046 [206/301] for code: Hangul2026
+2026-10-09 08:36:32 - 183826046 - Result: Successfully redeemed
+2026-10-09 08:36:33 - Processing K1266-183826079 [207/301] for code: Hangul2026
+2026-10-09 08:36:33 - 183826079 - Result: Successfully redeemed
+2026-10-09 08:36:35 - Processing K1266-183826363 [208/301] for code: Hangul2026
+2026-10-09 08:36:35 - 183826363 - Result: Successfully redeemed
+2026-10-09 08:36:36 - Processing K1266-183842707 [209/301] for code: Hangul2026
+2026-10-09 08:36:36 - 183842707 - Result: Successfully redeemed
+2026-10-09 08:36:37 - Processing K1266-183858943 [210/301] for code: Hangul2026
+2026-10-09 08:36:37 - 183858943 - Result: Successfully redeemed
+2026-10-09 08:36:38 - Processing K1266-183859043 [211/301] for code: Hangul2026
+2026-10-09 08:36:38 - 183859043 - Result: Successfully redeemed
+2026-10-09 08:36:40 - Processing K1266-183864332 [212/301] for code: Hangul2026
+2026-10-09 08:36:40 - 183864332 - Result: Successfully redeemed
+2026-10-09 08:36:41 - Processing K1266-183897678 [213/301] for code: Hangul2026
+2026-10-09 08:36:41 - 183897678 - Result: Successfully redeemed
+2026-10-09 08:36:43 - Processing K1266-183907791 [214/301] for code: Hangul2026
+2026-10-09 08:36:43 - 183907791 - Result: Successfully redeemed
+2026-10-09 08:36:44 - Processing K1266-183907855 [215/301] for code: Hangul2026
+2026-10-09 08:36:44 - 183907855 - Result: Successfully redeemed
+2026-10-09 08:36:45 - Processing K1266-183924658 [216/301] for code: Hangul2026
+2026-10-09 08:36:45 - 183924658 - Result: Successfully redeemed
+2026-10-09 08:36:47 - Processing K1266-183924660 [217/301] for code: Hangul2026
+2026-10-09 08:36:47 - 183924660 - Result: Successfully redeemed
+2026-10-09 08:36:48 - Processing K1266-183940809 [218/301] for code: Hangul2026
+2026-10-09 08:36:48 - 183940809 - Result: Successfully redeemed
+2026-10-09 08:36:49 - Processing K1266-183946385 [219/301] for code: Hangul2026
+2026-10-09 08:36:49 - 183946385 - Result: Successfully redeemed
+2026-10-09 08:36:50 - Processing K1266-183946804 [220/301] for code: Hangul2026
+2026-10-09 08:36:50 - 183946804 - Result: Successfully redeemed
+2026-10-09 08:36:52 - Processing K1266-183996371 [221/301] for code: Hangul2026
+2026-10-09 08:36:52 - 183996371 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-10-09 08:36:54 - 183996371 - Result: Already redeemed
+2026-10-09 08:36:55 - Processing K1266-184005794 [222/301] for code: Hangul2026
+2026-10-09 08:36:55 - 184005794 - Result: Successfully redeemed
+2026-10-09 08:36:56 - Processing K1266-184022781 [223/301] for code: Hangul2026
+2026-10-09 08:36:57 - 184022781 - Result: Successfully redeemed
+2026-10-09 08:36:58 - Processing K1266-184038545 [224/301] for code: Hangul2026
+2026-10-09 08:36:58 - 184038545 - Result: Successfully redeemed
+2026-10-09 08:36:59 - Processing K1266-184071743 [225/301] for code: Hangul2026
+2026-10-09 08:36:59 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-09 08:37:03 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-09 08:37:11 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-09 08:37:23 - 184071743 - Result: Redemption request failed
+2026-10-09 08:37:25 - Processing K1266-184088377 [226/301] for code: Hangul2026
+2026-10-09 08:37:25 - 184088377 - Result: Successfully redeemed
+2026-10-09 08:37:26 - Processing K1266-184137674 [227/301] for code: Hangul2026
+2026-10-09 08:37:26 - 184137674 - Result: Successfully redeemed
+2026-10-09 08:37:27 - Processing K1266-184159552 [228/301] for code: Hangul2026
+2026-10-09 08:37:27 - 184159552 - Result: Successfully redeemed
+2026-10-09 08:37:28 - Processing K1266-184169916 [229/301] for code: Hangul2026
+2026-10-09 08:37:29 - 184169916 - Result: Successfully redeemed
+2026-10-09 08:37:30 - Processing K1266-184170263 [230/301] for code: Hangul2026
+2026-10-09 08:37:30 - 184170263 - Result: Successfully redeemed
+2026-10-09 08:37:31 - Processing K1266-184175883 [231/301] for code: Hangul2026
+2026-10-09 08:37:31 - 184175883 - Result: Successfully redeemed
+2026-10-09 08:37:32 - Processing K1266-184186546 [232/301] for code: Hangul2026
+2026-10-09 08:37:32 - 184186546 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-10-09 08:37:34 - 184186546 - Result: Successfully redeemed
+2026-10-09 08:37:36 - Processing K1266-184202442 [233/301] for code: Hangul2026
+2026-10-09 08:37:36 - 184202442 - Result: Successfully redeemed
+2026-10-09 08:37:37 - Processing K1266-184202684 [234/301] for code: Hangul2026
+2026-10-09 08:37:37 - 184202684 - Result: Successfully redeemed
+2026-10-09 08:37:38 - Processing K1266-184219240 [235/301] for code: Hangul2026
+2026-10-09 08:37:38 - 184219240 - Result: Successfully redeemed
+2026-10-09 08:37:39 - Processing K1266-184252103 [236/301] for code: Hangul2026
+2026-10-09 08:37:39 - 184252103 - Result: Successfully redeemed
+2026-10-09 08:37:41 - Processing K1266-184257548 [237/301] for code: Hangul2026
+2026-10-09 08:37:41 - 184257548 - Result: Successfully redeemed
+2026-10-09 08:37:42 - Processing K1266-184268236 [238/301] for code: Hangul2026
+2026-10-09 08:37:42 - 184268236 - Result: Successfully redeemed
+2026-10-09 08:37:44 - Processing K1266-184268332 [239/301] for code: Hangul2026
+2026-10-09 08:37:44 - 184268332 - Result: Successfully redeemed
+2026-10-09 08:37:45 - Processing K1266-184285099 [240/301] for code: Hangul2026
+2026-10-09 08:37:45 - 184285099 - Result: Successfully redeemed
+2026-10-09 08:37:46 - Processing K1266-184300583 [241/301] for code: Hangul2026
+2026-10-09 08:37:46 - 184300583 - Result: Successfully redeemed
+2026-10-09 08:37:47 - Processing K1266-184301120 [242/301] for code: Hangul2026
+2026-10-09 08:37:47 - 184301120 - Result: Successfully redeemed
+2026-10-09 08:37:49 - Processing K1266-184301482 [243/301] for code: Hangul2026
+2026-10-09 08:37:49 - 184301482 - Result: Successfully redeemed
+2026-10-09 08:37:50 - Processing K1266-184306709 [244/301] for code: Hangul2026
+2026-10-09 08:37:50 - 184306709 - Result: Successfully redeemed
+2026-10-09 08:37:51 - Processing K1266-184323165 [245/301] for code: Hangul2026
+2026-10-09 08:37:52 - 184323165 - Result: Successfully redeemed
+2026-10-09 08:37:53 - Processing K1266-184334160 [246/301] for code: Hangul2026
+2026-10-09 08:37:53 - 184334160 - Result: Successfully redeemed
+2026-10-09 08:37:54 - Processing K1266-184334326 [247/301] for code: Hangul2026
+2026-10-09 08:37:54 - 184334326 - Result: Successfully redeemed
+2026-10-09 08:37:55 - Processing K1266-184355782 [248/301] for code: Hangul2026
+2026-10-09 08:37:56 - 184355782 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-10-09 08:37:58 - 184355782 - Result: Successfully redeemed
+2026-10-09 08:37:59 - Processing K1266-184355850 [249/301] for code: Hangul2026
+2026-10-09 08:37:59 - 184355850 - Result: Successfully redeemed
+2026-10-09 08:38:00 - Processing K1266-184366301 [250/301] for code: Hangul2026
+2026-10-09 08:38:00 - 184366301 - Result: Successfully redeemed
+2026-10-09 08:38:02 - Processing K1266-184398957 [251/301] for code: Hangul2026
+2026-10-09 08:38:02 - 184398957 - Result: Successfully redeemed
+2026-10-09 08:38:03 - Processing K1266-184431865 [252/301] for code: Hangul2026
+2026-10-09 08:38:03 - 184431865 - Result: Successfully redeemed
+2026-10-09 08:38:04 - Processing K1266-184448668 [253/301] for code: Hangul2026
+2026-10-09 08:38:04 - 184448668 - Result: Successfully redeemed
+2026-10-09 08:38:05 - Processing K1266-185122678 [254/301] for code: Hangul2026
+2026-10-09 08:38:05 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-09 08:38:09 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-09 08:38:17 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-09 08:38:29 - 185122678 - Result: Redemption request failed
+2026-10-09 08:38:30 - Processing K1266-185480245 [255/301] for code: Hangul2026
+2026-10-09 08:38:30 - 185480245 - Result: Successfully redeemed
+2026-10-09 08:38:32 - Processing K1266-187102768 [256/301] for code: Hangul2026
+2026-10-09 08:38:32 - 187102768 - Result: Successfully redeemed
+2026-10-09 08:38:33 - Processing K1266-187115851 [257/301] for code: Hangul2026
+2026-10-09 08:38:33 - 187115851 - Result: Successfully redeemed
+2026-10-09 08:38:35 - Processing K1266-188087741 [258/301] for code: Hangul2026
+2026-10-09 08:38:35 - 188087741 - Result: Successfully redeemed
+2026-10-09 08:38:36 - Processing K1266-188470196 [259/301] for code: Hangul2026
+2026-10-09 08:38:36 - 188470196 - Result: Successfully redeemed
+2026-10-09 08:38:38 - Processing K1266-188862376 [260/301] for code: Hangul2026
+2026-10-09 08:38:38 - 188862376 - Result: Successfully redeemed
+2026-10-09 08:38:39 - Processing K1266-190234418 [261/301] for code: Hangul2026
+2026-10-09 08:38:39 - 190234418 - Result: Successfully redeemed
+2026-10-09 08:38:40 - Processing K1266-190573918 [262/301] for code: Hangul2026
+2026-10-09 08:38:40 - 190573918 - Result: Successfully redeemed
+2026-10-09 08:38:41 - Processing K1266-191129295 [263/301] for code: Hangul2026
+2026-10-09 08:38:41 - 191129295 - Result: Successfully redeemed
+2026-10-09 08:38:43 - Processing K1266-192400838 [264/301] for code: Hangul2026
+2026-10-09 08:38:43 - 192400838 - Result: Successfully redeemed
+2026-10-09 08:38:44 - Processing K1266-193616382 [265/301] for code: Hangul2026
+2026-10-09 08:38:44 - 193616382 - Result: Successfully redeemed
+2026-10-09 08:38:45 - Processing K1266-194020665 [266/301] for code: Hangul2026
+2026-10-09 08:38:45 - 194020665 - Result: Successfully redeemed
+2026-10-09 08:38:46 - Processing K1266-194962807 [267/301] for code: Hangul2026
+2026-10-09 08:38:46 - 194962807 - Result: Successfully redeemed
+2026-10-09 08:38:48 - Processing K1266-196209781 [268/301] for code: Hangul2026
+2026-10-09 08:38:48 - 196209781 - Result: Already redeemed
+2026-10-09 08:38:49 - Processing K1266-197077736 [269/301] for code: Hangul2026
+2026-10-09 08:38:49 - 197077736 - Result: Successfully redeemed
+2026-10-09 08:38:50 - Processing K1266-197748881 [270/301] for code: Hangul2026
+2026-10-09 08:38:50 - 197748881 - Result: Successfully redeemed
+2026-10-09 08:38:51 - Processing K1266-198971997 [271/301] for code: Hangul2026
+2026-10-09 08:38:51 - 198971997 - Result: Successfully redeemed
+2026-10-09 08:38:53 - Processing K1266-199766078 [272/301] for code: Hangul2026
+2026-10-09 08:38:53 - 199766078 - Result: Successfully redeemed
+2026-10-09 08:38:54 - Processing K1266-202789741 [273/301] for code: Hangul2026
+2026-10-09 08:38:54 - 202789741 - Result: Successfully redeemed
+2026-10-09 08:38:56 - Processing K1266-208458805 [274/301] for code: Hangul2026
+2026-10-09 08:38:56 - 208458805 - Result: Successfully redeemed
+2026-10-09 08:38:57 - Processing K1266-208469366 [275/301] for code: Hangul2026
+2026-10-09 08:38:57 - 208469366 - Result: Successfully redeemed
+2026-10-09 08:38:59 - Processing K1266-209741428 [276/301] for code: Hangul2026
+2026-10-09 08:38:59 - 209741428 - Result: Successfully redeemed
+2026-10-09 08:39:00 - Processing K1266-215719460 [277/301] for code: Hangul2026
+2026-10-09 08:39:00 - 215719460 - Result: Successfully redeemed
+2026-10-09 08:39:01 - Processing K1266-216820126 [278/301] for code: Hangul2026
+2026-10-09 08:39:01 - 216820126 - Result: Successfully redeemed
+2026-10-09 08:39:03 - Processing K1266-219382121 [279/301] for code: Hangul2026
+2026-10-09 08:39:03 - 219382121 - Result: Successfully redeemed
+2026-10-09 08:39:04 - Processing K1266-221309318 [280/301] for code: Hangul2026
+2026-10-09 08:39:04 - 221309318 - Result: Successfully redeemed
+2026-10-09 08:39:05 - Processing K1266-221445787 [281/301] for code: Hangul2026
+2026-10-09 08:39:06 - 221445787 - Result: Successfully redeemed
+2026-10-09 08:39:07 - Processing K1266-221883902 [282/301] for code: Hangul2026
+2026-10-09 08:39:07 - 221883902 - Result: Successfully redeemed
+2026-10-09 08:39:08 - Processing K1266-226209236 [283/301] for code: Hangul2026
+2026-10-09 08:39:08 - 226209236 - Result: Successfully redeemed
+2026-10-09 08:39:10 - Processing K1266-226703897 [284/301] for code: Hangul2026
+2026-10-09 08:39:10 - 226703897 - Result: Successfully redeemed
+2026-10-09 08:39:11 - Processing K1266-227970815 [285/301] for code: Hangul2026
+2026-10-09 08:39:11 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-09 08:39:15 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-09 08:39:23 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-09 08:39:35 - 227970815 - Result: Redemption request failed
+2026-10-09 08:39:36 - Processing K1266-232510086 [286/301] for code: Hangul2026
+2026-10-09 08:39:36 - 232510086 - Result: Successfully redeemed
+2026-10-09 08:39:38 - Processing K1266-239065229 [287/301] for code: Hangul2026
+2026-10-09 08:39:38 - 239065229 - Result: Successfully redeemed
+2026-10-09 08:39:39 - Processing K1266-240864609 [288/301] for code: Hangul2026
+2026-10-09 08:39:39 - 240864609 - Result: Successfully redeemed
+2026-10-09 08:39:40 - Processing K1266-247760465 [289/301] for code: Hangul2026
+2026-10-09 08:39:40 - 247760465 - Result: Successfully redeemed
+2026-10-09 08:39:41 - Processing K1266-264853160 [290/301] for code: Hangul2026
+2026-10-09 08:39:41 - 264853160 - Result: Successfully redeemed
+2026-10-09 08:39:43 - Processing K1266-270896390 [291/301] for code: Hangul2026
+2026-10-09 08:39:43 - 270896390 - Result: Successfully redeemed
+2026-10-09 08:39:44 - Processing K1266-279842790 [292/301] for code: Hangul2026
+2026-10-09 08:39:44 - 279842790 - Result: Successfully redeemed
+2026-10-09 08:39:45 - Processing K1266-286282880 [293/301] for code: Hangul2026
+2026-10-09 08:39:45 - 286282880 - Result: Successfully redeemed
+2026-10-09 08:39:47 - Processing K1266-290460722 [294/301] for code: Hangul2026
+2026-10-09 08:39:47 - 290460722 - Result: Successfully redeemed
+2026-10-09 08:39:48 - Processing K1266-300260967 [295/301] for code: Hangul2026
+2026-10-09 08:39:48 - 300260967 - Result: Successfully redeemed
+2026-10-09 08:39:49 - Processing K1266-302154974 [296/301] for code: Hangul2026
+2026-10-09 08:39:49 - 302154974 - Result: Successfully redeemed
+2026-10-09 08:39:51 - Processing K1266-305821193 [297/301] for code: Hangul2026
+2026-10-09 08:39:51 - 305821193 - Result: Successfully redeemed
+2026-10-09 08:39:52 - Processing K1266-378005527 [298/301] for code: Hangul2026
+2026-10-09 08:39:52 - 378005527 - Result: Successfully redeemed
+2026-10-09 08:39:54 - Processing K1266-378518775 [299/301] for code: Hangul2026
+2026-10-09 08:39:54 - 378518775 - Result: Successfully redeemed
+2026-10-09 08:39:55 - Processing K1266-381967745 [300/301] for code: Hangul2026
+2026-10-09 08:39:55 - 381967745 - Result: Successfully redeemed
+2026-10-09 08:39:56 - Processing K1266-402165713 [301/301] for code: Hangul2026
+2026-10-09 08:39:56 - 402165713 - Result: Successfully redeemed
+2026-10-09 08:39:57 - --- Cycle finished. Total processed: 301/301 ---
+2026-10-09 08:39:57 - 
+========================= Redemption Summary =========================
+2026-10-09 08:39:57 - Code Redeemed: Hangul2026
+2026-10-09 08:39:57 - Total Unique Player IDs Found: 301
+2026-10-09 08:39:57 - Total Player IDs Processed: 301
+2026-10-09 08:39:57 - Successfully redeemed: 287
+2026-10-09 08:39:57 - Already redeemed: 3
+2026-10-09 08:39:57 - Wrong kingdom: 1
+2026-10-09 08:39:57 - Other Errors/Failures: 10
+2026-10-09 08:39:57 - Rate Limit Events: 0
+2026-10-09 08:39:57 - Total execution time: 0:11:30
+2026-10-09 08:39:57 - ======================================================================
+2026-10-09 08:39:57 - Marked 'Hangul2026' as known.
+
