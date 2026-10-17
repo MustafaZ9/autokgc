@@ -39079,3 +39079,1316 @@
 2026-10-17 01:59:39 - Success with chrome124 impersonation
 2026-10-17 01:59:39 - No new gift codes found. All codes have been seen previously.
 2026-10-17 01:59:39 - Nothing to redeem.
+2026-10-17 08:06:26 - Checking https://kingshot.net/gift-codes for new gift codes...
+2026-10-17 08:06:26 - Using curl_cffi for Cloudflare bypass...
+2026-10-17 08:06:27 - Success with chrome124 impersonation
+2026-10-17 08:06:27 - 
+🎉 NEW GIFT CODES FOUND: VIP1017, KS1017
+2026-10-17 08:06:27 - 
+=== Starting redemption for gift code: VIP1017 ===
+2026-10-17 08:06:27 - Read 597 player IDs from lod.csv (encoding: utf-8-sig, 3 with a kingdom)
+2026-10-17 08:06:27 - Removed 296 duplicate entries.
+2026-10-17 08:06:27 - 298 player ID(s) had no kingdom in the CSV; using --kingdom 1266.
+2026-10-17 08:06:27 - Total unique player IDs to process: 301
+2026-10-17 08:06:27 - 
+--- Starting processing cycle. Ready player IDs: 301 ---
+2026-10-17 08:06:27 - Processing K1266-1266 [1/301] for code: VIP1017
+2026-10-17 08:06:27 - 1266 - Result: Wrong kingdom for this player ID
+2026-10-17 08:06:29 - Processing K1266-112607487 [2/301] for code: VIP1017
+2026-10-17 08:06:29 - 112607487 - Result: Requires in-game purchase
+2026-10-17 08:06:30 - Processing K1266-134948830 [3/301] for code: VIP1017
+2026-10-17 08:06:30 - 134948830 - Result: Requires in-game purchase
+2026-10-17 08:06:31 - Processing K1266-137354109 [4/301] for code: VIP1017
+2026-10-17 08:06:31 - 137354109 - Result: Requires in-game purchase
+2026-10-17 08:06:32 - Processing K1266-137881550 [5/301] for code: VIP1017
+2026-10-17 08:06:33 - 137881550 - Result: Requires in-game purchase
+2026-10-17 08:06:34 - Processing K1266-138078147 [6/301] for code: VIP1017
+2026-10-17 08:06:34 - 138078147 - Result: Requires in-game purchase
+2026-10-17 08:06:35 - Processing K1266-159437876 [7/301] for code: VIP1017
+2026-10-17 08:06:35 - 159437876 - Result: Requires in-game purchase
+2026-10-17 08:06:36 - Processing K1266-160961411 [8/301] for code: VIP1017
+2026-10-17 08:06:36 - 160961411 - Result: Requires in-game purchase
+2026-10-17 08:06:37 - Processing K1266-160977214 [9/301] for code: VIP1017
+2026-10-17 08:06:38 - 160977214 - Result: Requires in-game purchase
+2026-10-17 08:06:39 - Processing K1266-161223459 [10/301] for code: VIP1017
+2026-10-17 08:06:39 - 161223459 - Result: Requires in-game purchase
+2026-10-17 08:06:40 - Processing K1266-161321233 [11/301] for code: VIP1017
+2026-10-17 08:06:40 - 161321233 - Result: Requires in-game purchase
+2026-10-17 08:06:41 - Processing K1266-161387367 [12/301] for code: VIP1017
+2026-10-17 08:06:41 - 161387367 - Result: Requires in-game purchase
+2026-10-17 08:06:42 - Processing K1266-161616297 [13/301] for code: VIP1017
+2026-10-17 08:06:42 - 161616297 - Result: Requires in-game purchase
+2026-10-17 08:06:44 - Processing K1266-162042375 [14/301] for code: VIP1017
+2026-10-17 08:06:44 - 162042375 - Result: Requires in-game purchase
+2026-10-17 08:06:45 - Processing K1266-162402979 [15/301] for code: VIP1017
+2026-10-17 08:06:45 - 162402979 - Result: Requires in-game purchase
+2026-10-17 08:06:46 - Processing K1266-162910751 [16/301] for code: VIP1017
+2026-10-17 08:06:46 - 162910751 - Result: Requires in-game purchase
+2026-10-17 08:06:48 - Processing K1266-163042051 [17/301] for code: VIP1017
+2026-10-17 08:06:48 - 163042051 - Result: Requires in-game purchase
+2026-10-17 08:06:49 - Processing K1266-176448172 [18/301] for code: VIP1017
+2026-10-17 08:06:49 - 176448172 - Result: Requires in-game purchase
+2026-10-17 08:06:50 - Processing K1266-176742470 [19/301] for code: VIP1017
+2026-10-17 08:06:50 - 176742470 - Result: Requires in-game purchase
+2026-10-17 08:06:52 - Processing K1266-176939042 [20/301] for code: VIP1017
+2026-10-17 08:06:52 - 176939042 - Result: Requires in-game purchase
+2026-10-17 08:06:53 - Processing K1266-177004482 [21/301] for code: VIP1017
+2026-10-17 08:06:53 - 177004482 - Result: Successfully redeemed
+2026-10-17 08:06:54 - Processing K1266-177430530 [22/301] for code: VIP1017
+2026-10-17 08:06:54 - 177430530 - Result: Requires in-game purchase
+2026-10-17 08:06:55 - Processing K1266-177594975 [23/301] for code: VIP1017
+2026-10-17 08:06:56 - 177594975 - Result: Requires in-game purchase
+2026-10-17 08:06:57 - Processing K1266-177643662 [24/301] for code: VIP1017
+2026-10-17 08:06:57 - 177643662 - Result: Requires in-game purchase
+2026-10-17 08:06:58 - Processing K1266-177741835 [25/301] for code: VIP1017
+2026-10-17 08:06:58 - 177741835 - Result: Requires in-game purchase
+2026-10-17 08:06:59 - Processing K1266-177758431 [26/301] for code: VIP1017
+2026-10-17 08:06:59 - 177758431 - Result: Requires in-game purchase
+2026-10-17 08:07:00 - Processing K1266-177889207 [27/301] for code: VIP1017
+2026-10-17 08:07:01 - 177889207 - Result: Requires in-game purchase
+2026-10-17 08:07:02 - Processing K1266-177889304 [28/301] for code: VIP1017
+2026-10-17 08:07:02 - 177889304 - Result: Requires in-game purchase
+2026-10-17 08:07:03 - Processing K1266-178003863 [29/301] for code: VIP1017
+2026-10-17 08:07:03 - 178003863 - Result: Requires in-game purchase
+2026-10-17 08:07:04 - Processing K1266-178167737 [30/301] for code: VIP1017
+2026-10-17 08:07:05 - 178167737 - Result: Requires in-game purchase
+2026-10-17 08:07:06 - Processing K1266-178282383 [31/301] for code: VIP1017
+2026-10-17 08:07:06 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-17 08:07:10 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-17 08:07:18 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-17 08:07:30 - 178282383 - Result: Redemption request failed
+2026-10-17 08:07:31 - Processing K1266-178298638 [32/301] for code: VIP1017
+2026-10-17 08:07:31 - 178298638 - Result: Successfully redeemed
+2026-10-17 08:07:32 - Processing K1266-178298685 [33/301] for code: VIP1017
+2026-10-17 08:07:32 - 178298685 - Result: Requires in-game purchase
+2026-10-17 08:07:34 - Processing K1266-178828379 [34/301] for code: VIP1017
+2026-10-17 08:07:34 - 178828379 - Result: Requires in-game purchase
+2026-10-17 08:07:35 - Processing K1266-178872530 [35/301] for code: VIP1017
+2026-10-17 08:07:35 - 178872530 - Result: Requires in-game purchase
+2026-10-17 08:07:36 - Processing K1266-179107716 [36/301] for code: VIP1017
+2026-10-17 08:07:36 - 179107716 - Result: Requires in-game purchase
+2026-10-17 08:07:38 - Processing K1266-179216885 [37/301] for code: VIP1017
+2026-10-17 08:07:38 - 179216885 - Result: Requires in-game purchase
+2026-10-17 08:07:39 - Processing K1266-179479072 [38/301] for code: VIP1017
+2026-10-17 08:07:39 - 179479072 - Result: Requires in-game purchase
+2026-10-17 08:07:40 - Processing K1266-179515454 [39/301] for code: VIP1017
+2026-10-17 08:07:40 - 179515454 - Result: Requires in-game purchase
+2026-10-17 08:07:42 - Processing K1266-179675357 [40/301] for code: VIP1017
+2026-10-17 08:07:42 - 179675357 - Result: Requires in-game purchase
+2026-10-17 08:07:43 - Processing K1266-179691958 [41/301] for code: VIP1017
+2026-10-17 08:07:43 - 179691958 - Result: Requires in-game purchase
+2026-10-17 08:07:45 - Processing K1266-180368647 [42/301] for code: VIP1017
+2026-10-17 08:07:45 - 180368647 - Result: Requires in-game purchase
+2026-10-17 08:07:46 - Processing K1266-180369109 [43/301] for code: VIP1017
+2026-10-17 08:07:46 - 180369109 - Result: Requires in-game purchase
+2026-10-17 08:07:48 - Processing K1266-180369159 [44/301] for code: VIP1017
+2026-10-17 08:07:48 - 180369159 - Result: Requires in-game purchase
+2026-10-17 08:07:49 - Processing K1266-180385375 [45/301] for code: VIP1017
+2026-10-17 08:07:49 - 180385375 - Result: Requires in-game purchase
+2026-10-17 08:07:50 - Processing K1266-180385792 [46/301] for code: VIP1017
+2026-10-17 08:07:50 - 180385792 - Result: Successfully redeemed
+2026-10-17 08:07:52 - Processing K1266-180418498 [47/301] for code: VIP1017
+2026-10-17 08:07:52 - 180418498 - Result: Requires in-game purchase
+2026-10-17 08:07:53 - Processing K1266-180434357 [48/301] for code: VIP1017
+2026-10-17 08:07:53 - 180434357 - Result: Requires in-game purchase
+2026-10-17 08:07:54 - Processing K1266-180483302 [49/301] for code: VIP1017
+2026-10-17 08:07:54 - 180483302 - Result: Requires in-game purchase
+2026-10-17 08:07:55 - Processing K1266-180565782 [50/301] for code: VIP1017
+2026-10-17 08:07:55 - 180565782 - Result: Requires in-game purchase
+2026-10-17 08:07:56 - Processing K1266-180582116 [51/301] for code: VIP1017
+2026-10-17 08:07:56 - 180582116 - Result: Requires in-game purchase
+2026-10-17 08:07:58 - Processing K1266-180588134 [52/301] for code: VIP1017
+2026-10-17 08:07:58 - 180588134 - Result: Requires in-game purchase
+2026-10-17 08:07:59 - Processing K1266-180598416 [53/301] for code: VIP1017
+2026-10-17 08:07:59 - 180598416 - Result: Requires in-game purchase
+2026-10-17 08:08:00 - Processing K1266-180614319 [54/301] for code: VIP1017
+2026-10-17 08:08:01 - 180614319 - Result: Requires in-game purchase
+2026-10-17 08:08:02 - Processing K1266-180636958 [55/301] for code: VIP1017
+2026-10-17 08:08:02 - 180636958 - Result: Requires in-game purchase
+2026-10-17 08:08:03 - Processing K1266-180647291 [56/301] for code: VIP1017
+2026-10-17 08:08:03 - 180647291 - Result: Requires in-game purchase
+2026-10-17 08:08:04 - Processing K1266-180647824 [57/301] for code: VIP1017
+2026-10-17 08:08:04 - 180647824 - Result: Requires in-game purchase
+2026-10-17 08:08:06 - Processing K1266-180669914 [58/301] for code: VIP1017
+2026-10-17 08:08:06 - 180669914 - Result: Requires in-game purchase
+2026-10-17 08:08:07 - Processing K1266-180696652 [59/301] for code: VIP1017
+2026-10-17 08:08:07 - 180696652 - Result: Requires in-game purchase
+2026-10-17 08:08:08 - Processing K1266-180729920 [60/301] for code: VIP1017
+2026-10-17 08:08:08 - 180729920 - Result: Requires in-game purchase
+2026-10-17 08:08:09 - Processing K1266-180778760 [61/301] for code: VIP1017
+2026-10-17 08:08:09 - 180778760 - Result: Successfully redeemed
+2026-10-17 08:08:11 - Processing K1266-180779049 [62/301] for code: VIP1017
+2026-10-17 08:08:11 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-17 08:08:15 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-17 08:08:23 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-17 08:08:35 - 180779049 - Result: Redemption request failed
+2026-10-17 08:08:36 - Processing K1266-180795047 [63/301] for code: VIP1017
+2026-10-17 08:08:36 - 180795047 - Result: Requires in-game purchase
+2026-10-17 08:08:38 - Processing K1266-180827986 [64/301] for code: VIP1017
+2026-10-17 08:08:38 - 180827986 - Result: Requires in-game purchase
+2026-10-17 08:08:39 - Processing K1266-180893684 [65/301] for code: VIP1017
+2026-10-17 08:08:39 - 180893684 - Result: Requires in-game purchase
+2026-10-17 08:08:40 - Processing K1266-180893765 [66/301] for code: VIP1017
+2026-10-17 08:08:40 - 180893765 - Result: Requires in-game purchase
+2026-10-17 08:08:42 - Processing K1266-180909451 [67/301] for code: VIP1017
+2026-10-17 08:08:42 - 180909451 - Result: Requires in-game purchase
+2026-10-17 08:08:43 - Processing K1266-180959009 [68/301] for code: VIP1017
+2026-10-17 08:08:43 - 180959009 - Result: Requires in-game purchase
+2026-10-17 08:08:44 - Processing K1266-180975047 [69/301] for code: VIP1017
+2026-10-17 08:08:44 - 180975047 - Result: Requires in-game purchase
+2026-10-17 08:08:46 - Processing K1266-181008488 [70/301] for code: VIP1017
+2026-10-17 08:08:46 - 181008488 - Result: Requires in-game purchase
+2026-10-17 08:08:47 - Processing K1266-181024577 [71/301] for code: VIP1017
+2026-10-17 08:08:47 - 181024577 - Result: Requires in-game purchase
+2026-10-17 08:08:48 - Processing K1266-181063111 [72/301] for code: VIP1017
+2026-10-17 08:08:48 - 181063111 - Result: Requires in-game purchase
+2026-10-17 08:08:50 - Processing K1266-181089949 [73/301] for code: VIP1017
+2026-10-17 08:08:50 - 181089949 - Result: Requires in-game purchase
+2026-10-17 08:08:51 - Processing K1266-181090100 [74/301] for code: VIP1017
+2026-10-17 08:08:51 - 181090100 - Result: Requires in-game purchase
+2026-10-17 08:08:52 - Processing K1266-181106609 [75/301] for code: VIP1017
+2026-10-17 08:08:52 - 181106609 - Result: Requires in-game purchase
+2026-10-17 08:08:53 - Processing K1266-181122260 [76/301] for code: VIP1017
+2026-10-17 08:08:54 - 181122260 - Result: Requires in-game purchase
+2026-10-17 08:08:55 - Processing K1266-181139114 [77/301] for code: VIP1017
+2026-10-17 08:08:55 - 181139114 - Result: Requires in-game purchase
+2026-10-17 08:08:56 - Processing K1266-181155772 [78/301] for code: VIP1017
+2026-10-17 08:08:56 - 181155772 - Result: Requires in-game purchase
+2026-10-17 08:08:57 - Processing K1266-181171461 [79/301] for code: VIP1017
+2026-10-17 08:08:57 - 181171461 - Result: Requires in-game purchase
+2026-10-17 08:08:59 - Processing K1266-181188977 [80/301] for code: VIP1017
+2026-10-17 08:08:59 - 181188977 - Result: Requires in-game purchase
+2026-10-17 08:09:00 - Processing K1266-181340930 [81/301] for code: VIP1017
+2026-10-17 08:09:00 - 181340930 - Result: Requires in-game purchase
+2026-10-17 08:09:02 - Processing K1266-181351852 [82/301] for code: VIP1017
+2026-10-17 08:09:02 - 181351852 - Result: Requires in-game purchase
+2026-10-17 08:09:03 - Processing K1266-181358276 [83/301] for code: VIP1017
+2026-10-17 08:09:03 - 181358276 - Result: Requires in-game purchase
+2026-10-17 08:09:04 - Processing K1266-181374419 [84/301] for code: VIP1017
+2026-10-17 08:09:04 - 181374419 - Result: Requires in-game purchase
+2026-10-17 08:09:06 - Processing K1266-181384836 [85/301] for code: VIP1017
+2026-10-17 08:09:06 - 181384836 - Result: Requires in-game purchase
+2026-10-17 08:09:07 - Processing K1266-181385198 [86/301] for code: VIP1017
+2026-10-17 08:09:07 - 181385198 - Result: Successfully redeemed
+2026-10-17 08:09:08 - Processing K1266-181401589 [87/301] for code: VIP1017
+2026-10-17 08:09:08 - 181401589 - Result: Requires in-game purchase
+2026-10-17 08:09:09 - Processing K1266-181407057 [88/301] for code: VIP1017
+2026-10-17 08:09:10 - 181407057 - Result: Requires in-game purchase
+2026-10-17 08:09:11 - Processing K1266-181417643 [89/301] for code: VIP1017
+2026-10-17 08:09:11 - 181417643 - Result: Requires in-game purchase
+2026-10-17 08:09:12 - Processing K1266-181423528 [90/301] for code: VIP1017
+2026-10-17 08:09:12 - 181423528 - Result: Requires in-game purchase
+2026-10-17 08:09:14 - Processing K1266-181466821 [91/301] for code: VIP1017
+2026-10-17 08:09:14 - 181466821 - Result: Requires in-game purchase
+2026-10-17 08:09:15 - Processing K1266-181466879 [92/301] for code: VIP1017
+2026-10-17 08:09:15 - 181466879 - Result: Requires in-game purchase
+2026-10-17 08:09:17 - Processing K1266-181482560 [93/301] for code: VIP1017
+2026-10-17 08:09:17 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-17 08:09:21 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-17 08:09:29 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-17 08:09:41 - 181482560 - Result: Redemption request failed
+2026-10-17 08:09:42 - Processing K1266-181515253 [94/301] for code: VIP1017
+2026-10-17 08:09:42 - 181515253 - Result: Requires in-game purchase
+2026-10-17 08:09:44 - Processing K1266-181516264 [95/301] for code: VIP1017
+2026-10-17 08:09:44 - 181516264 - Result: Requires in-game purchase
+2026-10-17 08:09:45 - Processing K1266-181516335 [96/301] for code: VIP1017
+2026-10-17 08:09:45 - 181516335 - Result: Requires in-game purchase
+2026-10-17 08:09:46 - Processing K1266-181521367 [97/301] for code: VIP1017
+2026-10-17 08:09:46 - 181521367 - Result: Requires in-game purchase
+2026-10-17 08:09:47 - Processing K1266-181531678 [98/301] for code: VIP1017
+2026-10-17 08:09:47 - 181531678 - Result: Requires in-game purchase
+2026-10-17 08:09:48 - Processing K1266-181548141 [99/301] for code: VIP1017
+2026-10-17 08:09:48 - 181548141 - Result: Requires in-game purchase
+2026-10-17 08:09:50 - Processing K1266-181565051 [100/301] for code: VIP1017
+2026-10-17 08:09:50 - 181565051 - Result: Requires in-game purchase
+2026-10-17 08:09:51 - Processing K1266-181571708 [101/301] for code: VIP1017
+2026-10-17 08:09:51 - 181571708 - Result: Requires in-game purchase
+2026-10-17 08:09:52 - Processing K1266-181614011 [102/301] for code: VIP1017
+2026-10-17 08:09:52 - 181614011 - Result: Requires in-game purchase
+2026-10-17 08:09:54 - Processing K1266-181646830 [103/301] for code: VIP1017
+2026-10-17 08:09:54 - 181646830 - Result: Requires in-game purchase
+2026-10-17 08:09:55 - Processing K1266-181663028 [104/301] for code: VIP1017
+2026-10-17 08:09:55 - 181663028 - Result: Requires in-game purchase
+2026-10-17 08:09:57 - Processing K1266-181669304 [105/301] for code: VIP1017
+2026-10-17 08:09:57 - 181669304 - Result: Requires in-game purchase
+2026-10-17 08:09:58 - Processing K1266-181712653 [106/301] for code: VIP1017
+2026-10-17 08:09:58 - 181712653 - Result: Requires in-game purchase
+2026-10-17 08:09:59 - Processing K1266-181728933 [107/301] for code: VIP1017
+2026-10-17 08:09:59 - 181728933 - Result: Requires in-game purchase
+2026-10-17 08:10:01 - Processing K1266-181734398 [108/301] for code: VIP1017
+2026-10-17 08:10:01 - 181734398 - Result: Requires in-game purchase
+2026-10-17 08:10:02 - Processing K1266-181761437 [109/301] for code: VIP1017
+2026-10-17 08:10:02 - 181761437 - Result: Requires in-game purchase
+2026-10-17 08:10:03 - Processing K1266-181778389 [110/301] for code: VIP1017
+2026-10-17 08:10:03 - 181778389 - Result: Requires in-game purchase
+2026-10-17 08:10:04 - Processing K1266-181793958 [111/301] for code: VIP1017
+2026-10-17 08:10:04 - 181793958 - Result: Requires in-game purchase
+2026-10-17 08:10:05 - Processing K1266-181794115 [112/301] for code: VIP1017
+2026-10-17 08:10:05 - 181794115 - Result: Requires in-game purchase
+2026-10-17 08:10:07 - Processing K1266-181816445 [113/301] for code: VIP1017
+2026-10-17 08:10:07 - 181816445 - Result: Requires in-game purchase
+2026-10-17 08:10:08 - Processing K1266-181859892 [114/301] for code: VIP1017
+2026-10-17 08:10:08 - 181859892 - Result: Requires in-game purchase
+2026-10-17 08:10:09 - Processing K1266-181859948 [115/301] for code: VIP1017
+2026-10-17 08:10:09 - 181859948 - Result: Requires in-game purchase
+2026-10-17 08:10:11 - Processing K1266-181860239 [116/301] for code: VIP1017
+2026-10-17 08:10:11 - 181860239 - Result: Requires in-game purchase
+2026-10-17 08:10:12 - Processing K1266-181860336 [117/301] for code: VIP1017
+2026-10-17 08:10:12 - 181860336 - Result: Requires in-game purchase
+2026-10-17 08:10:14 - Processing K1266-181882185 [118/301] for code: VIP1017
+2026-10-17 08:10:14 - 181882185 - Result: Requires in-game purchase
+2026-10-17 08:10:15 - Processing K1266-181892750 [119/301] for code: VIP1017
+2026-10-17 08:10:15 - 181892750 - Result: Requires in-game purchase
+2026-10-17 08:10:16 - Processing K1266-181941995 [120/301] for code: VIP1017
+2026-10-17 08:10:16 - 181941995 - Result: Requires in-game purchase
+2026-10-17 08:10:17 - Processing K1266-181958341 [121/301] for code: VIP1017
+2026-10-17 08:10:17 - 181958341 - Result: Requires in-game purchase
+2026-10-17 08:10:18 - Processing K1266-181958534 [122/301] for code: VIP1017
+2026-10-17 08:10:18 - 181958534 - Result: Requires in-game purchase
+2026-10-17 08:10:20 - Processing K1266-182007379 [123/301] for code: VIP1017
+2026-10-17 08:10:20 - 182007379 - Result: Requires in-game purchase
+2026-10-17 08:10:21 - Processing K1266-182007601 [124/301] for code: VIP1017
+2026-10-17 08:10:21 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-17 08:10:25 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-17 08:10:33 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-17 08:10:45 - 182007601 - Result: Redemption request failed
+2026-10-17 08:10:47 - Processing K1266-182013382 [125/301] for code: VIP1017
+2026-10-17 08:10:47 - 182013382 - Result: Requires in-game purchase
+2026-10-17 08:10:48 - Processing K1266-182022970 [126/301] for code: VIP1017
+2026-10-17 08:10:48 - 182022970 - Result: Requires in-game purchase
+2026-10-17 08:10:49 - Processing K1266-182046115 [127/301] for code: VIP1017
+2026-10-17 08:10:49 - 182046115 - Result: Requires in-game purchase
+2026-10-17 08:10:51 - Processing K1266-182072645 [128/301] for code: VIP1017
+2026-10-17 08:10:51 - 182072645 - Result: Requires in-game purchase
+2026-10-17 08:10:52 - Processing K1266-182144355 [129/301] for code: VIP1017
+2026-10-17 08:10:52 - 182144355 - Result: Requires in-game purchase
+2026-10-17 08:10:53 - Processing K1266-182203508 [130/301] for code: VIP1017
+2026-10-17 08:10:53 - 182203508 - Result: Requires in-game purchase
+2026-10-17 08:10:55 - Processing K1266-182203900 [131/301] for code: VIP1017
+2026-10-17 08:10:55 - 182203900 - Result: Requires in-game purchase
+2026-10-17 08:10:56 - Processing K1266-182203950 [132/301] for code: VIP1017
+2026-10-17 08:10:56 - 182203950 - Result: Requires in-game purchase
+2026-10-17 08:10:57 - Processing K1266-182220585 [133/301] for code: VIP1017
+2026-10-17 08:10:57 - 182220585 - Result: Requires in-game purchase
+2026-10-17 08:10:59 - Processing K1266-182269737 [134/301] for code: VIP1017
+2026-10-17 08:10:59 - 182269737 - Result: Requires in-game purchase
+2026-10-17 08:11:00 - Processing K1266-182286440 [135/301] for code: VIP1017
+2026-10-17 08:11:00 - 182286440 - Result: Requires in-game purchase
+2026-10-17 08:11:02 - Processing K1266-182302366 [136/301] for code: VIP1017
+2026-10-17 08:11:02 - 182302366 - Result: Requires in-game purchase
+2026-10-17 08:11:03 - Processing K1266-182318888 [137/301] for code: VIP1017
+2026-10-17 08:11:03 - 182318888 - Result: Requires in-game purchase
+2026-10-17 08:11:05 - Processing K1266-182318992 [138/301] for code: VIP1017
+2026-10-17 08:11:05 - 182318992 - Result: Requires in-game purchase
+2026-10-17 08:11:06 - Processing K1266-182334781 [139/301] for code: VIP1017
+2026-10-17 08:11:06 - 182334781 - Result: Requires in-game purchase
+2026-10-17 08:11:07 - Processing K1266-182384322 [140/301] for code: VIP1017
+2026-10-17 08:11:07 - 182384322 - Result: Requires in-game purchase
+2026-10-17 08:11:09 - Processing K1266-182390223 [141/301] for code: VIP1017
+2026-10-17 08:11:09 - 182390223 - Result: Requires in-game purchase
+2026-10-17 08:11:10 - Processing K1266-182449206 [142/301] for code: VIP1017
+2026-10-17 08:11:10 - 182449206 - Result: Requires in-game purchase
+2026-10-17 08:11:11 - Processing K1266-182450074 [143/301] for code: VIP1017
+2026-10-17 08:11:11 - 182450074 - Result: Requires in-game purchase
+2026-10-17 08:11:12 - Processing K1266-182466031 [144/301] for code: VIP1017
+2026-10-17 08:11:12 - 182466031 - Result: Requires in-game purchase
+2026-10-17 08:11:13 - Processing K1266-182472038 [145/301] for code: VIP1017
+2026-10-17 08:11:13 - 182472038 - Result: Requires in-game purchase
+2026-10-17 08:11:15 - Processing K1266-182488759 [146/301] for code: VIP1017
+2026-10-17 08:11:15 - 182488759 - Result: Requires in-game purchase
+2026-10-17 08:11:16 - Processing K1266-182531700 [147/301] for code: VIP1017
+2026-10-17 08:11:16 - 182531700 - Result: Requires in-game purchase
+2026-10-17 08:11:18 - Processing K1266-182548386 [148/301] for code: VIP1017
+2026-10-17 08:11:18 - 182548386 - Result: Requires in-game purchase
+2026-10-17 08:11:19 - Processing K1266-182646613 [149/301] for code: VIP1017
+2026-10-17 08:11:19 - 182646613 - Result: Successfully redeemed
+2026-10-17 08:11:20 - Processing K1266-182668737 [150/301] for code: VIP1017
+2026-10-17 08:11:21 - 182668737 - Result: Requires in-game purchase
+2026-10-17 08:11:22 - Processing K1266-182679587 [151/301] for code: VIP1017
+2026-10-17 08:11:22 - 182679587 - Result: Requires in-game purchase
+2026-10-17 08:11:23 - Processing K1266-182717899 [152/301] for code: VIP1017
+2026-10-17 08:11:23 - 182717899 - Result: Requires in-game purchase
+2026-10-17 08:11:24 - Processing K1266-182767010 [153/301] for code: VIP1017
+2026-10-17 08:11:24 - 182767010 - Result: Requires in-game purchase
+2026-10-17 08:11:26 - Processing K1266-182810221 [154/301] for code: VIP1017
+2026-10-17 08:11:26 - 182810221 - Result: Requires in-game purchase
+2026-10-17 08:11:27 - Processing K1266-182842833 [155/301] for code: VIP1017
+2026-10-17 08:11:27 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-17 08:11:31 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-17 08:11:39 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-17 08:11:51 - 182842833 - Result: Redemption request failed
+2026-10-17 08:11:52 - Processing K1266-182848942 [156/301] for code: VIP1017
+2026-10-17 08:11:52 - 182848942 - Result: Requires in-game purchase
+2026-10-17 08:11:54 - Processing K1266-182849233 [157/301] for code: VIP1017
+2026-10-17 08:11:54 - 182849233 - Result: Requires in-game purchase
+2026-10-17 08:11:55 - Processing K1266-182858998 [158/301] for code: VIP1017
+2026-10-17 08:11:55 - 182858998 - Result: Requires in-game purchase
+2026-10-17 08:11:56 - Processing K1266-182859667 [159/301] for code: VIP1017
+2026-10-17 08:11:56 - 182859667 - Result: Requires in-game purchase
+2026-10-17 08:11:58 - Processing K1266-182892217 [160/301] for code: VIP1017
+2026-10-17 08:11:58 - 182892217 - Result: Requires in-game purchase
+2026-10-17 08:11:59 - Processing K1266-182898057 [161/301] for code: VIP1017
+2026-10-17 08:11:59 - 182898057 - Result: Requires in-game purchase
+2026-10-17 08:12:00 - Processing K1266-182908483 [162/301] for code: VIP1017
+2026-10-17 08:12:00 - 182908483 - Result: Requires in-game purchase
+2026-10-17 08:12:01 - Processing K1266-182941162 [163/301] for code: VIP1017
+2026-10-17 08:12:01 - 182941162 - Result: Requires in-game purchase
+2026-10-17 08:12:03 - Processing K1266-182941502 [164/301] for code: VIP1017
+2026-10-17 08:12:03 - 182941502 - Result: Requires in-game purchase
+2026-10-17 08:12:04 - Processing K1266-182957878 [165/301] for code: VIP1017
+2026-10-17 08:12:04 - 182957878 - Result: Requires in-game purchase
+2026-10-17 08:12:06 - Processing K1266-182990423 [166/301] for code: VIP1017
+2026-10-17 08:12:06 - 182990423 - Result: Requires in-game purchase
+2026-10-17 08:12:07 - Processing K1266-183006892 [167/301] for code: VIP1017
+2026-10-17 08:12:07 - 183006892 - Result: Successfully redeemed
+2026-10-17 08:12:08 - Processing K1266-183012848 [168/301] for code: VIP1017
+2026-10-17 08:12:08 - 183012848 - Result: Requires in-game purchase
+2026-10-17 08:12:09 - Processing K1266-183028805 [169/301] for code: VIP1017
+2026-10-17 08:12:10 - 183028805 - Result: Requires in-game purchase
+2026-10-17 08:12:11 - Processing K1266-183029342 [170/301] for code: VIP1017
+2026-10-17 08:12:11 - 183029342 - Result: Requires in-game purchase
+2026-10-17 08:12:12 - Processing K1266-183039758 [171/301] for code: VIP1017
+2026-10-17 08:12:12 - 183039758 - Result: Requires in-game purchase
+2026-10-17 08:12:14 - Processing K1266-183072306 [172/301] for code: VIP1017
+2026-10-17 08:12:14 - 183072306 - Result: Requires in-game purchase
+2026-10-17 08:12:15 - Processing K1266-183072824 [173/301] for code: VIP1017
+2026-10-17 08:12:15 - 183072824 - Result: Requires in-game purchase
+2026-10-17 08:12:16 - Processing K1266-183089209 [174/301] for code: VIP1017
+2026-10-17 08:12:17 - 183089209 - Result: Requires in-game purchase
+2026-10-17 08:12:18 - Processing K1266-183104870 [175/301] for code: VIP1017
+2026-10-17 08:12:18 - 183104870 - Result: Requires in-game purchase
+2026-10-17 08:12:19 - Processing K1266-183121113 [176/301] for code: VIP1017
+2026-10-17 08:12:19 - 183121113 - Result: Requires in-game purchase
+2026-10-17 08:12:20 - Processing K1266-183137287 [177/301] for code: VIP1017
+2026-10-17 08:12:20 - 183137287 - Result: Requires in-game purchase
+2026-10-17 08:12:21 - Processing K1266-183154102 [178/301] for code: VIP1017
+2026-10-17 08:12:21 - 183154102 - Result: Requires in-game purchase
+2026-10-17 08:12:23 - Processing K1266-183154303 [179/301] for code: VIP1017
+2026-10-17 08:12:23 - 183154303 - Result: Requires in-game purchase
+2026-10-17 08:12:24 - Processing K1266-183154798 [180/301] for code: VIP1017
+2026-10-17 08:12:24 - 183154798 - Result: Requires in-game purchase
+2026-10-17 08:12:25 - Processing K1266-183170657 [181/301] for code: VIP1017
+2026-10-17 08:12:25 - 183170657 - Result: Requires in-game purchase
+2026-10-17 08:12:27 - Processing K1266-183176536 [182/301] for code: VIP1017
+2026-10-17 08:12:27 - 183176536 - Result: Requires in-game purchase
+2026-10-17 08:12:28 - Processing K1266-183219217 [183/301] for code: VIP1017
+2026-10-17 08:12:28 - 183219217 - Result: Requires in-game purchase
+2026-10-17 08:12:29 - Processing K1266-183219343 [184/301] for code: VIP1017
+2026-10-17 08:12:29 - 183219343 - Result: Requires in-game purchase
+2026-10-17 08:12:31 - Processing K1266-183285360 [185/301] for code: VIP1017
+2026-10-17 08:12:31 - 183285360 - Result: Requires in-game purchase
+2026-10-17 08:12:32 - Processing K1266-183317601 [186/301] for code: VIP1017
+2026-10-17 08:12:32 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-17 08:12:36 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-17 08:12:44 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-17 08:12:56 - 183317601 - Result: Redemption request failed
+2026-10-17 08:12:58 - Processing K1266-183350823 [187/301] for code: VIP1017
+2026-10-17 08:12:58 - 183350823 - Result: Requires in-game purchase
+2026-10-17 08:12:59 - Processing K1266-183366693 [188/301] for code: VIP1017
+2026-10-17 08:12:59 - 183366693 - Result: Requires in-game purchase
+2026-10-17 08:13:00 - Processing K1266-183367342 [189/301] for code: VIP1017
+2026-10-17 08:13:00 - 183367342 - Result: Requires in-game purchase
+2026-10-17 08:13:02 - Processing K1266-183383666 [190/301] for code: VIP1017
+2026-10-17 08:13:02 - 183383666 - Result: Requires in-game purchase
+2026-10-17 08:13:03 - Processing K1266-183384158 [191/301] for code: VIP1017
+2026-10-17 08:13:03 - 183384158 - Result: Requires in-game purchase
+2026-10-17 08:13:04 - Processing K1266-183455373 [192/301] for code: VIP1017
+2026-10-17 08:13:04 - 183455373 - Result: Requires in-game purchase
+2026-10-17 08:13:05 - Processing K1266-183531242 [193/301] for code: VIP1017
+2026-10-17 08:13:05 - 183531242 - Result: Requires in-game purchase
+2026-10-17 08:13:07 - Processing K1266-183563334 [194/301] for code: VIP1017
+2026-10-17 08:13:07 - 183563334 - Result: Requires in-game purchase
+2026-10-17 08:13:08 - Processing K1266-183579641 [195/301] for code: VIP1017
+2026-10-17 08:13:08 - 183579641 - Result: Requires in-game purchase
+2026-10-17 08:13:10 - Processing K1266-183602956 [196/301] for code: VIP1017
+2026-10-17 08:13:10 - 183602956 - Result: Requires in-game purchase
+2026-10-17 08:13:11 - Processing K1266-183635567 [197/301] for code: VIP1017
+2026-10-17 08:13:11 - 183635567 - Result: Requires in-game purchase
+2026-10-17 08:13:13 - Processing K1266-183662249 [198/301] for code: VIP1017
+2026-10-17 08:13:13 - 183662249 - Result: Requires in-game purchase
+2026-10-17 08:13:14 - Processing K1266-183695044 [199/301] for code: VIP1017
+2026-10-17 08:13:14 - 183695044 - Result: Requires in-game purchase
+2026-10-17 08:13:15 - Processing K1266-183744074 [200/301] for code: VIP1017
+2026-10-17 08:13:15 - 183744074 - Result: Requires in-game purchase
+2026-10-17 08:13:16 - Processing K1266-183760133 [201/301] for code: VIP1017
+2026-10-17 08:13:16 - 183760133 - Result: Requires in-game purchase
+2026-10-17 08:13:17 - Processing K1266-183776526 [202/301] for code: VIP1017
+2026-10-17 08:13:17 - 183776526 - Result: Requires in-game purchase
+2026-10-17 08:13:19 - Processing K1266-183793260 [203/301] for code: VIP1017
+2026-10-17 08:13:19 - 183793260 - Result: Requires in-game purchase
+2026-10-17 08:13:20 - Processing K1266-183799231 [204/301] for code: VIP1017
+2026-10-17 08:13:20 - 183799231 - Result: Requires in-game purchase
+2026-10-17 08:13:21 - Processing K1266-183809202 [205/301] for code: VIP1017
+2026-10-17 08:13:21 - 183809202 - Result: Requires in-game purchase
+2026-10-17 08:13:22 - Processing K1266-183826046 [206/301] for code: VIP1017
+2026-10-17 08:13:22 - 183826046 - Result: Requires in-game purchase
+2026-10-17 08:13:23 - Processing K1266-183826079 [207/301] for code: VIP1017
+2026-10-17 08:13:23 - 183826079 - Result: Requires in-game purchase
+2026-10-17 08:13:25 - Processing K1266-183826363 [208/301] for code: VIP1017
+2026-10-17 08:13:25 - 183826363 - Result: Requires in-game purchase
+2026-10-17 08:13:26 - Processing K1266-183842707 [209/301] for code: VIP1017
+2026-10-17 08:13:26 - 183842707 - Result: Requires in-game purchase
+2026-10-17 08:13:27 - Processing K1266-183858943 [210/301] for code: VIP1017
+2026-10-17 08:13:27 - 183858943 - Result: Requires in-game purchase
+2026-10-17 08:13:28 - Processing K1266-183859043 [211/301] for code: VIP1017
+2026-10-17 08:13:29 - 183859043 - Result: Requires in-game purchase
+2026-10-17 08:13:30 - Processing K1266-183864332 [212/301] for code: VIP1017
+2026-10-17 08:13:30 - 183864332 - Result: Requires in-game purchase
+2026-10-17 08:13:31 - Processing K1266-183897678 [213/301] for code: VIP1017
+2026-10-17 08:13:31 - 183897678 - Result: Requires in-game purchase
+2026-10-17 08:13:33 - Processing K1266-183907791 [214/301] for code: VIP1017
+2026-10-17 08:13:33 - 183907791 - Result: Requires in-game purchase
+2026-10-17 08:13:34 - Processing K1266-183907855 [215/301] for code: VIP1017
+2026-10-17 08:13:34 - 183907855 - Result: Requires in-game purchase
+2026-10-17 08:13:35 - Processing K1266-183924658 [216/301] for code: VIP1017
+2026-10-17 08:13:35 - 183924658 - Result: Requires in-game purchase
+2026-10-17 08:13:37 - Processing K1266-183924660 [217/301] for code: VIP1017
+2026-10-17 08:13:37 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-17 08:13:41 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-17 08:13:49 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-17 08:14:01 - 183924660 - Result: Redemption request failed
+2026-10-17 08:14:02 - Processing K1266-183940809 [218/301] for code: VIP1017
+2026-10-17 08:14:02 - 183940809 - Result: Successfully redeemed
+2026-10-17 08:14:03 - Processing K1266-183946385 [219/301] for code: VIP1017
+2026-10-17 08:14:03 - 183946385 - Result: Requires in-game purchase
+2026-10-17 08:14:05 - Processing K1266-183946804 [220/301] for code: VIP1017
+2026-10-17 08:14:05 - 183946804 - Result: Requires in-game purchase
+2026-10-17 08:14:06 - Processing K1266-183996371 [221/301] for code: VIP1017
+2026-10-17 08:14:06 - 183996371 - Result: Requires in-game purchase
+2026-10-17 08:14:07 - Processing K1266-184005794 [222/301] for code: VIP1017
+2026-10-17 08:14:07 - 184005794 - Result: Requires in-game purchase
+2026-10-17 08:14:08 - Processing K1266-184022781 [223/301] for code: VIP1017
+2026-10-17 08:14:08 - 184022781 - Result: Requires in-game purchase
+2026-10-17 08:14:09 - Processing K1266-184038545 [224/301] for code: VIP1017
+2026-10-17 08:14:09 - 184038545 - Result: Requires in-game purchase
+2026-10-17 08:14:11 - Processing K1266-184071743 [225/301] for code: VIP1017
+2026-10-17 08:14:11 - 184071743 - Result: Requires in-game purchase
+2026-10-17 08:14:12 - Processing K1266-184088377 [226/301] for code: VIP1017
+2026-10-17 08:14:12 - 184088377 - Result: Requires in-game purchase
+2026-10-17 08:14:13 - Processing K1266-184137674 [227/301] for code: VIP1017
+2026-10-17 08:14:13 - 184137674 - Result: Requires in-game purchase
+2026-10-17 08:14:15 - Processing K1266-184159552 [228/301] for code: VIP1017
+2026-10-17 08:14:15 - 184159552 - Result: Requires in-game purchase
+2026-10-17 08:14:16 - Processing K1266-184169916 [229/301] for code: VIP1017
+2026-10-17 08:14:16 - 184169916 - Result: Requires in-game purchase
+2026-10-17 08:14:17 - Processing K1266-184170263 [230/301] for code: VIP1017
+2026-10-17 08:14:17 - 184170263 - Result: Requires in-game purchase
+2026-10-17 08:14:18 - Processing K1266-184175883 [231/301] for code: VIP1017
+2026-10-17 08:14:18 - 184175883 - Result: Requires in-game purchase
+2026-10-17 08:14:19 - Processing K1266-184186546 [232/301] for code: VIP1017
+2026-10-17 08:14:20 - 184186546 - Result: Requires in-game purchase
+2026-10-17 08:14:21 - Processing K1266-184202442 [233/301] for code: VIP1017
+2026-10-17 08:14:21 - 184202442 - Result: Requires in-game purchase
+2026-10-17 08:14:22 - Processing K1266-184202684 [234/301] for code: VIP1017
+2026-10-17 08:14:22 - 184202684 - Result: Requires in-game purchase
+2026-10-17 08:14:23 - Processing K1266-184219240 [235/301] for code: VIP1017
+2026-10-17 08:14:23 - 184219240 - Result: Requires in-game purchase
+2026-10-17 08:14:25 - Processing K1266-184252103 [236/301] for code: VIP1017
+2026-10-17 08:14:25 - 184252103 - Result: Already redeemed
+2026-10-17 08:14:26 - Processing K1266-184257548 [237/301] for code: VIP1017
+2026-10-17 08:14:26 - 184257548 - Result: Requires in-game purchase
+2026-10-17 08:14:27 - Processing K1266-184268236 [238/301] for code: VIP1017
+2026-10-17 08:14:27 - 184268236 - Result: Requires in-game purchase
+2026-10-17 08:14:29 - Processing K1266-184268332 [239/301] for code: VIP1017
+2026-10-17 08:14:29 - 184268332 - Result: Requires in-game purchase
+2026-10-17 08:14:30 - Processing K1266-184285099 [240/301] for code: VIP1017
+2026-10-17 08:14:30 - 184285099 - Result: Requires in-game purchase
+2026-10-17 08:14:31 - Processing K1266-184300583 [241/301] for code: VIP1017
+2026-10-17 08:14:31 - 184300583 - Result: Requires in-game purchase
+2026-10-17 08:14:32 - Processing K1266-184301120 [242/301] for code: VIP1017
+2026-10-17 08:14:32 - 184301120 - Result: Requires in-game purchase
+2026-10-17 08:14:33 - Processing K1266-184301482 [243/301] for code: VIP1017
+2026-10-17 08:14:33 - 184301482 - Result: Requires in-game purchase
+2026-10-17 08:14:35 - Processing K1266-184306709 [244/301] for code: VIP1017
+2026-10-17 08:14:35 - 184306709 - Result: Requires in-game purchase
+2026-10-17 08:14:36 - Processing K1266-184323165 [245/301] for code: VIP1017
+2026-10-17 08:14:36 - 184323165 - Result: Requires in-game purchase
+2026-10-17 08:14:37 - Processing K1266-184334160 [246/301] for code: VIP1017
+2026-10-17 08:14:37 - 184334160 - Result: Requires in-game purchase
+2026-10-17 08:14:38 - Processing K1266-184334326 [247/301] for code: VIP1017
+2026-10-17 08:14:38 - 184334326 - Result: Requires in-game purchase
+2026-10-17 08:14:40 - Processing K1266-184355782 [248/301] for code: VIP1017
+2026-10-17 08:14:40 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-17 08:14:44 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-17 08:14:52 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-17 08:15:04 - 184355782 - Result: Redemption request failed
+2026-10-17 08:15:05 - Processing K1266-184355850 [249/301] for code: VIP1017
+2026-10-17 08:15:05 - 184355850 - Result: Requires in-game purchase
+2026-10-17 08:15:06 - Processing K1266-184366301 [250/301] for code: VIP1017
+2026-10-17 08:15:06 - 184366301 - Result: Requires in-game purchase
+2026-10-17 08:15:08 - Processing K1266-184398957 [251/301] for code: VIP1017
+2026-10-17 08:15:08 - 184398957 - Result: Requires in-game purchase
+2026-10-17 08:15:09 - Processing K1266-184431865 [252/301] for code: VIP1017
+2026-10-17 08:15:09 - 184431865 - Result: Requires in-game purchase
+2026-10-17 08:15:11 - Processing K1266-184448668 [253/301] for code: VIP1017
+2026-10-17 08:15:11 - 184448668 - Result: Requires in-game purchase
+2026-10-17 08:15:12 - Processing K1266-185122678 [254/301] for code: VIP1017
+2026-10-17 08:15:12 - 185122678 - Result: Requires in-game purchase
+2026-10-17 08:15:13 - Processing K1266-185480245 [255/301] for code: VIP1017
+2026-10-17 08:15:13 - 185480245 - Result: Requires in-game purchase
+2026-10-17 08:15:14 - Processing K1266-187102768 [256/301] for code: VIP1017
+2026-10-17 08:15:14 - 187102768 - Result: Requires in-game purchase
+2026-10-17 08:15:15 - Processing K1266-187115851 [257/301] for code: VIP1017
+2026-10-17 08:15:15 - 187115851 - Result: Requires in-game purchase
+2026-10-17 08:15:17 - Processing K1266-188087741 [258/301] for code: VIP1017
+2026-10-17 08:15:17 - 188087741 - Result: Requires in-game purchase
+2026-10-17 08:15:18 - Processing K1266-188470196 [259/301] for code: VIP1017
+2026-10-17 08:15:18 - 188470196 - Result: Requires in-game purchase
+2026-10-17 08:15:20 - Processing K1266-188862376 [260/301] for code: VIP1017
+2026-10-17 08:15:20 - 188862376 - Result: Requires in-game purchase
+2026-10-17 08:15:21 - Processing K1266-190234418 [261/301] for code: VIP1017
+2026-10-17 08:15:21 - 190234418 - Result: Requires in-game purchase
+2026-10-17 08:15:22 - Processing K1266-190573918 [262/301] for code: VIP1017
+2026-10-17 08:15:22 - 190573918 - Result: Requires in-game purchase
+2026-10-17 08:15:24 - Processing K1266-191129295 [263/301] for code: VIP1017
+2026-10-17 08:15:24 - 191129295 - Result: Requires in-game purchase
+2026-10-17 08:15:25 - Processing K1266-192400838 [264/301] for code: VIP1017
+2026-10-17 08:15:25 - 192400838 - Result: Successfully redeemed
+2026-10-17 08:15:27 - Processing K1266-193616382 [265/301] for code: VIP1017
+2026-10-17 08:15:27 - 193616382 - Result: Requires in-game purchase
+2026-10-17 08:15:28 - Processing K1266-194020665 [266/301] for code: VIP1017
+2026-10-17 08:15:28 - 194020665 - Result: Requires in-game purchase
+2026-10-17 08:15:29 - Processing K1266-194962807 [267/301] for code: VIP1017
+2026-10-17 08:15:29 - 194962807 - Result: Requires in-game purchase
+2026-10-17 08:15:30 - Processing K1266-196209781 [268/301] for code: VIP1017
+2026-10-17 08:15:31 - 196209781 - Result: Requires in-game purchase
+2026-10-17 08:15:32 - Processing K1266-197077736 [269/301] for code: VIP1017
+2026-10-17 08:15:32 - 197077736 - Result: Requires in-game purchase
+2026-10-17 08:15:33 - Processing K1266-197748881 [270/301] for code: VIP1017
+2026-10-17 08:15:33 - 197748881 - Result: Requires in-game purchase
+2026-10-17 08:15:35 - Processing K1266-198971997 [271/301] for code: VIP1017
+2026-10-17 08:15:35 - 198971997 - Result: Requires in-game purchase
+2026-10-17 08:15:36 - Processing K1266-199766078 [272/301] for code: VIP1017
+2026-10-17 08:15:36 - 199766078 - Result: Requires in-game purchase
+2026-10-17 08:15:38 - Processing K1266-202789741 [273/301] for code: VIP1017
+2026-10-17 08:15:38 - 202789741 - Result: Requires in-game purchase
+2026-10-17 08:15:39 - Processing K1266-208458805 [274/301] for code: VIP1017
+2026-10-17 08:15:39 - 208458805 - Result: Requires in-game purchase
+2026-10-17 08:15:40 - Processing K1266-208469366 [275/301] for code: VIP1017
+2026-10-17 08:15:41 - 208469366 - Result: Requires in-game purchase
+2026-10-17 08:15:42 - Processing K1266-209741428 [276/301] for code: VIP1017
+2026-10-17 08:15:42 - 209741428 - Result: Requires in-game purchase
+2026-10-17 08:15:43 - Processing K1266-215719460 [277/301] for code: VIP1017
+2026-10-17 08:15:43 - 215719460 - Result: Requires in-game purchase
+2026-10-17 08:15:44 - Processing K1266-216820126 [278/301] for code: VIP1017
+2026-10-17 08:15:44 - 216820126 - Result: Requires in-game purchase
+2026-10-17 08:15:46 - Processing K1266-219382121 [279/301] for code: VIP1017
+2026-10-17 08:15:46 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-17 08:15:50 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-17 08:15:58 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-17 08:16:10 - 219382121 - Result: Redemption request failed
+2026-10-17 08:16:11 - Processing K1266-221309318 [280/301] for code: VIP1017
+2026-10-17 08:16:11 - 221309318 - Result: Requires in-game purchase
+2026-10-17 08:16:12 - Processing K1266-221445787 [281/301] for code: VIP1017
+2026-10-17 08:16:12 - 221445787 - Result: Requires in-game purchase
+2026-10-17 08:16:13 - Processing K1266-221883902 [282/301] for code: VIP1017
+2026-10-17 08:16:13 - 221883902 - Result: Requires in-game purchase
+2026-10-17 08:16:15 - Processing K1266-226209236 [283/301] for code: VIP1017
+2026-10-17 08:16:15 - 226209236 - Result: Requires in-game purchase
+2026-10-17 08:16:16 - Processing K1266-226703897 [284/301] for code: VIP1017
+2026-10-17 08:16:16 - 226703897 - Result: Requires in-game purchase
+2026-10-17 08:16:17 - Processing K1266-227970815 [285/301] for code: VIP1017
+2026-10-17 08:16:17 - 227970815 - Result: Requires in-game purchase
+2026-10-17 08:16:19 - Processing K1266-232510086 [286/301] for code: VIP1017
+2026-10-17 08:16:19 - 232510086 - Result: Requires in-game purchase
+2026-10-17 08:16:20 - Processing K1266-239065229 [287/301] for code: VIP1017
+2026-10-17 08:16:20 - 239065229 - Result: Requires in-game purchase
+2026-10-17 08:16:22 - Processing K1266-240864609 [288/301] for code: VIP1017
+2026-10-17 08:16:22 - 240864609 - Result: Requires in-game purchase
+2026-10-17 08:16:23 - Processing K1266-247760465 [289/301] for code: VIP1017
+2026-10-17 08:16:23 - 247760465 - Result: Requires in-game purchase
+2026-10-17 08:16:24 - Processing K1266-264853160 [290/301] for code: VIP1017
+2026-10-17 08:16:24 - 264853160 - Result: Requires in-game purchase
+2026-10-17 08:16:25 - Processing K1266-270896390 [291/301] for code: VIP1017
+2026-10-17 08:16:25 - 270896390 - Result: Requires in-game purchase
+2026-10-17 08:16:26 - Processing K1266-279842790 [292/301] for code: VIP1017
+2026-10-17 08:16:26 - 279842790 - Result: Requires in-game purchase
+2026-10-17 08:16:28 - Processing K1266-286282880 [293/301] for code: VIP1017
+2026-10-17 08:16:28 - 286282880 - Result: Requires in-game purchase
+2026-10-17 08:16:29 - Processing K1266-290460722 [294/301] for code: VIP1017
+2026-10-17 08:16:29 - 290460722 - Result: Requires in-game purchase
+2026-10-17 08:16:31 - Processing K1266-300260967 [295/301] for code: VIP1017
+2026-10-17 08:16:31 - 300260967 - Result: Requires in-game purchase
+2026-10-17 08:16:32 - Processing K1266-302154974 [296/301] for code: VIP1017
+2026-10-17 08:16:32 - 302154974 - Result: Requires in-game purchase
+2026-10-17 08:16:33 - Processing K1266-305821193 [297/301] for code: VIP1017
+2026-10-17 08:16:34 - 305821193 - Result: Requires in-game purchase
+2026-10-17 08:16:35 - Processing K1266-378005527 [298/301] for code: VIP1017
+2026-10-17 08:16:35 - 378005527 - Result: Requires in-game purchase
+2026-10-17 08:16:36 - Processing K1266-378518775 [299/301] for code: VIP1017
+2026-10-17 08:16:36 - 378518775 - Result: Requires in-game purchase
+2026-10-17 08:16:37 - Processing K1266-381967745 [300/301] for code: VIP1017
+2026-10-17 08:16:37 - 381967745 - Result: Requires in-game purchase
+2026-10-17 08:16:38 - Processing K1266-402165713 [301/301] for code: VIP1017
+2026-10-17 08:16:38 - 402165713 - Result: Requires in-game purchase
+2026-10-17 08:16:40 - --- Cycle finished. Total processed: 301/301 ---
+2026-10-17 08:16:40 - 
+========================= Redemption Summary =========================
+2026-10-17 08:16:40 - Code Redeemed: VIP1017
+2026-10-17 08:16:40 - Total Unique Player IDs Found: 301
+2026-10-17 08:16:40 - Total Player IDs Processed: 301
+2026-10-17 08:16:40 - Successfully redeemed: 9
+2026-10-17 08:16:40 - Already redeemed: 1
+2026-10-17 08:16:40 - Wrong kingdom: 1
+2026-10-17 08:16:40 - Other Errors/Failures: 290
+2026-10-17 08:16:40 - Rate Limit Events: 0
+2026-10-17 08:16:40 - Total execution time: 0:10:12
+2026-10-17 08:16:40 - ======================================================================
+2026-10-17 08:16:40 - Marked 'VIP1017' as known.
+
+2026-10-17 08:16:40 - 
+=== Starting redemption for gift code: KS1017 ===
+2026-10-17 08:16:40 - Read 597 player IDs from lod.csv (encoding: utf-8-sig, 3 with a kingdom)
+2026-10-17 08:16:40 - Removed 296 duplicate entries.
+2026-10-17 08:16:40 - 298 player ID(s) had no kingdom in the CSV; using --kingdom 1266.
+2026-10-17 08:16:40 - Total unique player IDs to process: 301
+2026-10-17 08:16:40 - 
+--- Starting processing cycle. Ready player IDs: 301 ---
+2026-10-17 08:16:40 - Processing K1266-1266 [1/301] for code: KS1017
+2026-10-17 08:16:40 - 1266 - Result: Wrong kingdom for this player ID
+2026-10-17 08:16:41 - Processing K1266-112607487 [2/301] for code: KS1017
+2026-10-17 08:16:42 - 112607487 - Result: Successfully redeemed
+2026-10-17 08:16:43 - Processing K1266-134948830 [3/301] for code: KS1017
+2026-10-17 08:16:43 - 134948830 - Result: Successfully redeemed
+2026-10-17 08:16:44 - Processing K1266-137354109 [4/301] for code: KS1017
+2026-10-17 08:16:44 - 137354109 - Result: Successfully redeemed
+2026-10-17 08:16:45 - Processing K1266-137881550 [5/301] for code: KS1017
+2026-10-17 08:16:46 - 137881550 - Result: Successfully redeemed
+2026-10-17 08:16:47 - Processing K1266-138078147 [6/301] for code: KS1017
+2026-10-17 08:16:47 - 138078147 - Result: Successfully redeemed
+2026-10-17 08:16:48 - Processing K1266-159437876 [7/301] for code: KS1017
+2026-10-17 08:16:48 - 159437876 - Result: Successfully redeemed
+2026-10-17 08:16:49 - Processing K1266-160961411 [8/301] for code: KS1017
+2026-10-17 08:16:50 - 160961411 - Result: Successfully redeemed
+2026-10-17 08:16:51 - Processing K1266-160977214 [9/301] for code: KS1017
+2026-10-17 08:16:51 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-17 08:16:55 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-17 08:17:03 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-17 08:17:15 - 160977214 - Result: Redemption request failed
+2026-10-17 08:17:16 - Processing K1266-161223459 [10/301] for code: KS1017
+2026-10-17 08:17:16 - 161223459 - Result: Successfully redeemed
+2026-10-17 08:17:18 - Processing K1266-161321233 [11/301] for code: KS1017
+2026-10-17 08:17:18 - 161321233 - Result: Successfully redeemed
+2026-10-17 08:17:19 - Processing K1266-161387367 [12/301] for code: KS1017
+2026-10-17 08:17:19 - 161387367 - Result: Successfully redeemed
+2026-10-17 08:17:20 - Processing K1266-161616297 [13/301] for code: KS1017
+2026-10-17 08:17:20 - 161616297 - Result: Successfully redeemed
+2026-10-17 08:17:21 - Processing K1266-162042375 [14/301] for code: KS1017
+2026-10-17 08:17:21 - 162042375 - Result: Successfully redeemed
+2026-10-17 08:17:23 - Processing K1266-162402979 [15/301] for code: KS1017
+2026-10-17 08:17:23 - 162402979 - Result: Successfully redeemed
+2026-10-17 08:17:24 - Processing K1266-162910751 [16/301] for code: KS1017
+2026-10-17 08:17:24 - 162910751 - Result: Successfully redeemed
+2026-10-17 08:17:25 - Processing K1266-163042051 [17/301] for code: KS1017
+2026-10-17 08:17:25 - 163042051 - Result: Successfully redeemed
+2026-10-17 08:17:27 - Processing K1266-176448172 [18/301] for code: KS1017
+2026-10-17 08:17:27 - 176448172 - Result: Successfully redeemed
+2026-10-17 08:17:28 - Processing K1266-176742470 [19/301] for code: KS1017
+2026-10-17 08:17:28 - 176742470 - Result: Successfully redeemed
+2026-10-17 08:17:29 - Processing K1266-176939042 [20/301] for code: KS1017
+2026-10-17 08:17:29 - 176939042 - Result: Successfully redeemed
+2026-10-17 08:17:30 - Processing K1266-177004482 [21/301] for code: KS1017
+2026-10-17 08:17:30 - 177004482 - Result: Successfully redeemed
+2026-10-17 08:17:32 - Processing K1266-177430530 [22/301] for code: KS1017
+2026-10-17 08:17:32 - 177430530 - Result: Successfully redeemed
+2026-10-17 08:17:33 - Processing K1266-177594975 [23/301] for code: KS1017
+2026-10-17 08:17:33 - 177594975 - Result: Successfully redeemed
+2026-10-17 08:17:35 - Processing K1266-177643662 [24/301] for code: KS1017
+2026-10-17 08:17:35 - 177643662 - Result: Successfully redeemed
+2026-10-17 08:17:36 - Processing K1266-177741835 [25/301] for code: KS1017
+2026-10-17 08:17:36 - 177741835 - Result: Successfully redeemed
+2026-10-17 08:17:37 - Processing K1266-177758431 [26/301] for code: KS1017
+2026-10-17 08:17:37 - 177758431 - Result: Successfully redeemed
+2026-10-17 08:17:39 - Processing K1266-177889207 [27/301] for code: KS1017
+2026-10-17 08:17:39 - 177889207 - Result: Successfully redeemed
+2026-10-17 08:17:40 - Processing K1266-177889304 [28/301] for code: KS1017
+2026-10-17 08:17:40 - 177889304 - Result: Successfully redeemed
+2026-10-17 08:17:41 - Processing K1266-178003863 [29/301] for code: KS1017
+2026-10-17 08:17:41 - 178003863 - Result: Successfully redeemed
+2026-10-17 08:17:43 - Processing K1266-178167737 [30/301] for code: KS1017
+2026-10-17 08:17:43 - 178167737 - Result: Successfully redeemed
+2026-10-17 08:17:44 - Processing K1266-178282383 [31/301] for code: KS1017
+2026-10-17 08:17:44 - 178282383 - Result: Successfully redeemed
+2026-10-17 08:17:45 - Processing K1266-178298638 [32/301] for code: KS1017
+2026-10-17 08:17:45 - 178298638 - Result: Successfully redeemed
+2026-10-17 08:17:46 - Processing K1266-178298685 [33/301] for code: KS1017
+2026-10-17 08:17:46 - 178298685 - Result: Successfully redeemed
+2026-10-17 08:17:47 - Processing K1266-178828379 [34/301] for code: KS1017
+2026-10-17 08:17:47 - 178828379 - Result: Successfully redeemed
+2026-10-17 08:17:49 - Processing K1266-178872530 [35/301] for code: KS1017
+2026-10-17 08:17:49 - 178872530 - Result: Successfully redeemed
+2026-10-17 08:17:50 - Processing K1266-179107716 [36/301] for code: KS1017
+2026-10-17 08:17:50 - 179107716 - Result: Successfully redeemed
+2026-10-17 08:17:51 - Processing K1266-179216885 [37/301] for code: KS1017
+2026-10-17 08:17:51 - 179216885 - Result: Successfully redeemed
+2026-10-17 08:17:53 - Processing K1266-179479072 [38/301] for code: KS1017
+2026-10-17 08:17:53 - 179479072 - Result: Successfully redeemed
+2026-10-17 08:17:54 - Processing K1266-179515454 [39/301] for code: KS1017
+2026-10-17 08:17:54 - 179515454 - Result: Successfully redeemed
+2026-10-17 08:17:55 - Processing K1266-179675357 [40/301] for code: KS1017
+2026-10-17 08:17:55 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-17 08:17:59 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-17 08:18:07 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-17 08:18:19 - 179675357 - Result: Redemption request failed
+2026-10-17 08:18:21 - Processing K1266-179691958 [41/301] for code: KS1017
+2026-10-17 08:18:21 - 179691958 - Result: Successfully redeemed
+2026-10-17 08:18:22 - Processing K1266-180368647 [42/301] for code: KS1017
+2026-10-17 08:18:22 - 180368647 - Result: Successfully redeemed
+2026-10-17 08:18:23 - Processing K1266-180369109 [43/301] for code: KS1017
+2026-10-17 08:18:23 - 180369109 - Result: Successfully redeemed
+2026-10-17 08:18:25 - Processing K1266-180369159 [44/301] for code: KS1017
+2026-10-17 08:18:25 - 180369159 - Result: Successfully redeemed
+2026-10-17 08:18:26 - Processing K1266-180385375 [45/301] for code: KS1017
+2026-10-17 08:18:26 - 180385375 - Result: Successfully redeemed
+2026-10-17 08:18:27 - Processing K1266-180385792 [46/301] for code: KS1017
+2026-10-17 08:18:27 - 180385792 - Result: Successfully redeemed
+2026-10-17 08:18:29 - Processing K1266-180418498 [47/301] for code: KS1017
+2026-10-17 08:18:29 - 180418498 - Result: Successfully redeemed
+2026-10-17 08:18:30 - Processing K1266-180434357 [48/301] for code: KS1017
+2026-10-17 08:18:30 - 180434357 - Result: Successfully redeemed
+2026-10-17 08:18:31 - Processing K1266-180483302 [49/301] for code: KS1017
+2026-10-17 08:18:31 - 180483302 - Result: Successfully redeemed
+2026-10-17 08:18:33 - Processing K1266-180565782 [50/301] for code: KS1017
+2026-10-17 08:18:33 - 180565782 - Result: Successfully redeemed
+2026-10-17 08:18:34 - Processing K1266-180582116 [51/301] for code: KS1017
+2026-10-17 08:18:34 - 180582116 - Result: Successfully redeemed
+2026-10-17 08:18:35 - Processing K1266-180588134 [52/301] for code: KS1017
+2026-10-17 08:18:35 - 180588134 - Result: Successfully redeemed
+2026-10-17 08:18:37 - Processing K1266-180598416 [53/301] for code: KS1017
+2026-10-17 08:18:37 - 180598416 - Result: Successfully redeemed
+2026-10-17 08:18:38 - Processing K1266-180614319 [54/301] for code: KS1017
+2026-10-17 08:18:38 - 180614319 - Result: Successfully redeemed
+2026-10-17 08:18:39 - Processing K1266-180636958 [55/301] for code: KS1017
+2026-10-17 08:18:39 - 180636958 - Result: Already redeemed
+2026-10-17 08:18:41 - Processing K1266-180647291 [56/301] for code: KS1017
+2026-10-17 08:18:41 - 180647291 - Result: Successfully redeemed
+2026-10-17 08:18:42 - Processing K1266-180647824 [57/301] for code: KS1017
+2026-10-17 08:18:42 - 180647824 - Result: Successfully redeemed
+2026-10-17 08:18:43 - Processing K1266-180669914 [58/301] for code: KS1017
+2026-10-17 08:18:43 - 180669914 - Result: Successfully redeemed
+2026-10-17 08:18:44 - Processing K1266-180696652 [59/301] for code: KS1017
+2026-10-17 08:18:44 - 180696652 - Result: Successfully redeemed
+2026-10-17 08:18:46 - Processing K1266-180729920 [60/301] for code: KS1017
+2026-10-17 08:18:46 - 180729920 - Result: Successfully redeemed
+2026-10-17 08:18:47 - Processing K1266-180778760 [61/301] for code: KS1017
+2026-10-17 08:18:47 - 180778760 - Result: Successfully redeemed
+2026-10-17 08:18:48 - Processing K1266-180779049 [62/301] for code: KS1017
+2026-10-17 08:18:48 - 180779049 - Result: Successfully redeemed
+2026-10-17 08:18:50 - Processing K1266-180795047 [63/301] for code: KS1017
+2026-10-17 08:18:50 - 180795047 - Result: Successfully redeemed
+2026-10-17 08:18:51 - Processing K1266-180827986 [64/301] for code: KS1017
+2026-10-17 08:18:51 - 180827986 - Result: Successfully redeemed
+2026-10-17 08:18:52 - Processing K1266-180893684 [65/301] for code: KS1017
+2026-10-17 08:18:52 - 180893684 - Result: Successfully redeemed
+2026-10-17 08:18:54 - Processing K1266-180893765 [66/301] for code: KS1017
+2026-10-17 08:18:54 - 180893765 - Result: Successfully redeemed
+2026-10-17 08:18:55 - Processing K1266-180909451 [67/301] for code: KS1017
+2026-10-17 08:18:55 - 180909451 - Result: Successfully redeemed
+2026-10-17 08:18:57 - Processing K1266-180959009 [68/301] for code: KS1017
+2026-10-17 08:18:57 - 180959009 - Result: Successfully redeemed
+2026-10-17 08:18:58 - Processing K1266-180975047 [69/301] for code: KS1017
+2026-10-17 08:18:58 - 180975047 - Result: Successfully redeemed
+2026-10-17 08:18:59 - Processing K1266-181008488 [70/301] for code: KS1017
+2026-10-17 08:18:59 - 181008488 - Result: Successfully redeemed
+2026-10-17 08:19:01 - Processing K1266-181024577 [71/301] for code: KS1017
+2026-10-17 08:19:01 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-17 08:19:05 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-17 08:19:13 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-17 08:19:25 - 181024577 - Result: Redemption request failed
+2026-10-17 08:19:26 - Processing K1266-181063111 [72/301] for code: KS1017
+2026-10-17 08:19:26 - 181063111 - Result: Successfully redeemed
+2026-10-17 08:19:27 - Processing K1266-181089949 [73/301] for code: KS1017
+2026-10-17 08:19:27 - 181089949 - Result: Successfully redeemed
+2026-10-17 08:19:29 - Processing K1266-181090100 [74/301] for code: KS1017
+2026-10-17 08:19:29 - 181090100 - Result: Successfully redeemed
+2026-10-17 08:19:30 - Processing K1266-181106609 [75/301] for code: KS1017
+2026-10-17 08:19:30 - 181106609 - Result: Successfully redeemed
+2026-10-17 08:19:31 - Processing K1266-181122260 [76/301] for code: KS1017
+2026-10-17 08:19:31 - 181122260 - Result: Successfully redeemed
+2026-10-17 08:19:33 - Processing K1266-181139114 [77/301] for code: KS1017
+2026-10-17 08:19:33 - 181139114 - Result: Successfully redeemed
+2026-10-17 08:19:34 - Processing K1266-181155772 [78/301] for code: KS1017
+2026-10-17 08:19:34 - 181155772 - Result: Successfully redeemed
+2026-10-17 08:19:35 - Processing K1266-181171461 [79/301] for code: KS1017
+2026-10-17 08:19:35 - 181171461 - Result: Successfully redeemed
+2026-10-17 08:19:37 - Processing K1266-181188977 [80/301] for code: KS1017
+2026-10-17 08:19:37 - 181188977 - Result: Successfully redeemed
+2026-10-17 08:19:38 - Processing K1266-181340930 [81/301] for code: KS1017
+2026-10-17 08:19:38 - 181340930 - Result: Successfully redeemed
+2026-10-17 08:19:40 - Processing K1266-181351852 [82/301] for code: KS1017
+2026-10-17 08:19:40 - 181351852 - Result: Successfully redeemed
+2026-10-17 08:19:41 - Processing K1266-181358276 [83/301] for code: KS1017
+2026-10-17 08:19:41 - 181358276 - Result: Successfully redeemed
+2026-10-17 08:19:43 - Processing K1266-181374419 [84/301] for code: KS1017
+2026-10-17 08:19:43 - 181374419 - Result: Successfully redeemed
+2026-10-17 08:19:44 - Processing K1266-181384836 [85/301] for code: KS1017
+2026-10-17 08:19:44 - 181384836 - Result: Successfully redeemed
+2026-10-17 08:19:45 - Processing K1266-181385198 [86/301] for code: KS1017
+2026-10-17 08:19:45 - 181385198 - Result: Successfully redeemed
+2026-10-17 08:19:47 - Processing K1266-181401589 [87/301] for code: KS1017
+2026-10-17 08:19:47 - 181401589 - Result: Successfully redeemed
+2026-10-17 08:19:48 - Processing K1266-181407057 [88/301] for code: KS1017
+2026-10-17 08:19:48 - 181407057 - Result: Successfully redeemed
+2026-10-17 08:19:49 - Processing K1266-181417643 [89/301] for code: KS1017
+2026-10-17 08:19:49 - 181417643 - Result: Successfully redeemed
+2026-10-17 08:19:51 - Processing K1266-181423528 [90/301] for code: KS1017
+2026-10-17 08:19:51 - 181423528 - Result: Successfully redeemed
+2026-10-17 08:19:52 - Processing K1266-181466821 [91/301] for code: KS1017
+2026-10-17 08:19:52 - 181466821 - Result: Successfully redeemed
+2026-10-17 08:19:53 - Processing K1266-181466879 [92/301] for code: KS1017
+2026-10-17 08:19:53 - 181466879 - Result: Successfully redeemed
+2026-10-17 08:19:55 - Processing K1266-181482560 [93/301] for code: KS1017
+2026-10-17 08:19:55 - 181482560 - Result: Successfully redeemed
+2026-10-17 08:19:56 - Processing K1266-181515253 [94/301] for code: KS1017
+2026-10-17 08:19:56 - 181515253 - Result: Successfully redeemed
+2026-10-17 08:19:57 - Processing K1266-181516264 [95/301] for code: KS1017
+2026-10-17 08:19:57 - 181516264 - Result: Successfully redeemed
+2026-10-17 08:19:59 - Processing K1266-181516335 [96/301] for code: KS1017
+2026-10-17 08:19:59 - 181516335 - Result: Successfully redeemed
+2026-10-17 08:20:00 - Processing K1266-181521367 [97/301] for code: KS1017
+2026-10-17 08:20:00 - 181521367 - Result: Successfully redeemed
+2026-10-17 08:20:01 - Processing K1266-181531678 [98/301] for code: KS1017
+2026-10-17 08:20:01 - 181531678 - Result: Successfully redeemed
+2026-10-17 08:20:03 - Processing K1266-181548141 [99/301] for code: KS1017
+2026-10-17 08:20:03 - 181548141 - Result: Successfully redeemed
+2026-10-17 08:20:04 - Processing K1266-181565051 [100/301] for code: KS1017
+2026-10-17 08:20:04 - 181565051 - Result: Successfully redeemed
+2026-10-17 08:20:05 - Processing K1266-181571708 [101/301] for code: KS1017
+2026-10-17 08:20:05 - 181571708 - Result: Successfully redeemed
+2026-10-17 08:20:06 - Processing K1266-181614011 [102/301] for code: KS1017
+2026-10-17 08:20:06 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-17 08:20:10 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-17 08:20:18 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-17 08:20:30 - 181614011 - Result: Redemption request failed
+2026-10-17 08:20:31 - Processing K1266-181646830 [103/301] for code: KS1017
+2026-10-17 08:20:32 - 181646830 - Result: Successfully redeemed
+2026-10-17 08:20:33 - Processing K1266-181663028 [104/301] for code: KS1017
+2026-10-17 08:20:33 - 181663028 - Result: Successfully redeemed
+2026-10-17 08:20:34 - Processing K1266-181669304 [105/301] for code: KS1017
+2026-10-17 08:20:34 - 181669304 - Result: Successfully redeemed
+2026-10-17 08:20:36 - Processing K1266-181712653 [106/301] for code: KS1017
+2026-10-17 08:20:36 - 181712653 - Result: Successfully redeemed
+2026-10-17 08:20:37 - Processing K1266-181728933 [107/301] for code: KS1017
+2026-10-17 08:20:37 - 181728933 - Result: Successfully redeemed
+2026-10-17 08:20:38 - Processing K1266-181734398 [108/301] for code: KS1017
+2026-10-17 08:20:38 - 181734398 - Result: Successfully redeemed
+2026-10-17 08:20:39 - Processing K1266-181761437 [109/301] for code: KS1017
+2026-10-17 08:20:39 - 181761437 - Result: Successfully redeemed
+2026-10-17 08:20:41 - Processing K1266-181778389 [110/301] for code: KS1017
+2026-10-17 08:20:41 - 181778389 - Result: Successfully redeemed
+2026-10-17 08:20:42 - Processing K1266-181793958 [111/301] for code: KS1017
+2026-10-17 08:20:42 - 181793958 - Result: Successfully redeemed
+2026-10-17 08:20:44 - Processing K1266-181794115 [112/301] for code: KS1017
+2026-10-17 08:20:44 - 181794115 - Result: Successfully redeemed
+2026-10-17 08:20:45 - Processing K1266-181816445 [113/301] for code: KS1017
+2026-10-17 08:20:45 - 181816445 - Result: Successfully redeemed
+2026-10-17 08:20:46 - Processing K1266-181859892 [114/301] for code: KS1017
+2026-10-17 08:20:46 - 181859892 - Result: Successfully redeemed
+2026-10-17 08:20:47 - Processing K1266-181859948 [115/301] for code: KS1017
+2026-10-17 08:20:48 - 181859948 - Result: Successfully redeemed
+2026-10-17 08:20:49 - Processing K1266-181860239 [116/301] for code: KS1017
+2026-10-17 08:20:49 - 181860239 - Result: Successfully redeemed
+2026-10-17 08:20:50 - Processing K1266-181860336 [117/301] for code: KS1017
+2026-10-17 08:20:50 - 181860336 - Result: Successfully redeemed
+2026-10-17 08:20:51 - Processing K1266-181882185 [118/301] for code: KS1017
+2026-10-17 08:20:52 - 181882185 - Result: Successfully redeemed
+2026-10-17 08:20:53 - Processing K1266-181892750 [119/301] for code: KS1017
+2026-10-17 08:20:53 - 181892750 - Result: Successfully redeemed
+2026-10-17 08:20:54 - Processing K1266-181941995 [120/301] for code: KS1017
+2026-10-17 08:20:54 - 181941995 - Result: Successfully redeemed
+2026-10-17 08:20:55 - Processing K1266-181958341 [121/301] for code: KS1017
+2026-10-17 08:20:55 - 181958341 - Result: Successfully redeemed
+2026-10-17 08:20:57 - Processing K1266-181958534 [122/301] for code: KS1017
+2026-10-17 08:20:57 - 181958534 - Result: Successfully redeemed
+2026-10-17 08:20:58 - Processing K1266-182007379 [123/301] for code: KS1017
+2026-10-17 08:20:58 - 182007379 - Result: Successfully redeemed
+2026-10-17 08:20:59 - Processing K1266-182007601 [124/301] for code: KS1017
+2026-10-17 08:21:00 - 182007601 - Result: Successfully redeemed
+2026-10-17 08:21:01 - Processing K1266-182013382 [125/301] for code: KS1017
+2026-10-17 08:21:01 - 182013382 - Result: Successfully redeemed
+2026-10-17 08:21:02 - Processing K1266-182022970 [126/301] for code: KS1017
+2026-10-17 08:21:02 - 182022970 - Result: Successfully redeemed
+2026-10-17 08:21:03 - Processing K1266-182046115 [127/301] for code: KS1017
+2026-10-17 08:21:03 - 182046115 - Result: Successfully redeemed
+2026-10-17 08:21:05 - Processing K1266-182072645 [128/301] for code: KS1017
+2026-10-17 08:21:05 - 182072645 - Result: Successfully redeemed
+2026-10-17 08:21:06 - Processing K1266-182144355 [129/301] for code: KS1017
+2026-10-17 08:21:06 - 182144355 - Result: Successfully redeemed
+2026-10-17 08:21:08 - Processing K1266-182203508 [130/301] for code: KS1017
+2026-10-17 08:21:08 - 182203508 - Result: Successfully redeemed
+2026-10-17 08:21:09 - Processing K1266-182203900 [131/301] for code: KS1017
+2026-10-17 08:21:09 - 182203900 - Result: Successfully redeemed
+2026-10-17 08:21:10 - Processing K1266-182203950 [132/301] for code: KS1017
+2026-10-17 08:21:10 - 182203950 - Result: Successfully redeemed
+2026-10-17 08:21:11 - Processing K1266-182220585 [133/301] for code: KS1017
+2026-10-17 08:21:11 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-17 08:21:15 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-17 08:21:23 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-17 08:21:35 - 182220585 - Result: Redemption request failed
+2026-10-17 08:21:36 - Processing K1266-182269737 [134/301] for code: KS1017
+2026-10-17 08:21:36 - 182269737 - Result: Successfully redeemed
+2026-10-17 08:21:38 - Processing K1266-182286440 [135/301] for code: KS1017
+2026-10-17 08:21:38 - 182286440 - Result: Successfully redeemed
+2026-10-17 08:21:39 - Processing K1266-182302366 [136/301] for code: KS1017
+2026-10-17 08:21:39 - 182302366 - Result: Successfully redeemed
+2026-10-17 08:21:40 - Processing K1266-182318888 [137/301] for code: KS1017
+2026-10-17 08:21:40 - 182318888 - Result: Successfully redeemed
+2026-10-17 08:21:42 - Processing K1266-182318992 [138/301] for code: KS1017
+2026-10-17 08:21:42 - 182318992 - Result: Successfully redeemed
+2026-10-17 08:21:43 - Processing K1266-182334781 [139/301] for code: KS1017
+2026-10-17 08:21:43 - 182334781 - Result: Successfully redeemed
+2026-10-17 08:21:44 - Processing K1266-182384322 [140/301] for code: KS1017
+2026-10-17 08:21:44 - 182384322 - Result: Successfully redeemed
+2026-10-17 08:21:45 - Processing K1266-182390223 [141/301] for code: KS1017
+2026-10-17 08:21:46 - 182390223 - Result: Successfully redeemed
+2026-10-17 08:21:47 - Processing K1266-182449206 [142/301] for code: KS1017
+2026-10-17 08:21:47 - 182449206 - Result: Successfully redeemed
+2026-10-17 08:21:48 - Processing K1266-182450074 [143/301] for code: KS1017
+2026-10-17 08:21:48 - 182450074 - Result: Successfully redeemed
+2026-10-17 08:21:49 - Processing K1266-182466031 [144/301] for code: KS1017
+2026-10-17 08:21:49 - 182466031 - Result: Successfully redeemed
+2026-10-17 08:21:50 - Processing K1266-182472038 [145/301] for code: KS1017
+2026-10-17 08:21:50 - 182472038 - Result: Successfully redeemed
+2026-10-17 08:21:51 - Processing K1266-182488759 [146/301] for code: KS1017
+2026-10-17 08:21:51 - 182488759 - Result: Successfully redeemed
+2026-10-17 08:21:53 - Processing K1266-182531700 [147/301] for code: KS1017
+2026-10-17 08:21:53 - 182531700 - Result: Successfully redeemed
+2026-10-17 08:21:54 - Processing K1266-182548386 [148/301] for code: KS1017
+2026-10-17 08:21:54 - 182548386 - Result: Successfully redeemed
+2026-10-17 08:21:55 - Processing K1266-182646613 [149/301] for code: KS1017
+2026-10-17 08:21:55 - 182646613 - Result: Successfully redeemed
+2026-10-17 08:21:57 - Processing K1266-182668737 [150/301] for code: KS1017
+2026-10-17 08:21:57 - 182668737 - Result: Successfully redeemed
+2026-10-17 08:21:58 - Processing K1266-182679587 [151/301] for code: KS1017
+2026-10-17 08:21:58 - 182679587 - Result: Successfully redeemed
+2026-10-17 08:21:59 - Processing K1266-182717899 [152/301] for code: KS1017
+2026-10-17 08:21:59 - 182717899 - Result: Successfully redeemed
+2026-10-17 08:22:01 - Processing K1266-182767010 [153/301] for code: KS1017
+2026-10-17 08:22:01 - 182767010 - Result: Successfully redeemed
+2026-10-17 08:22:02 - Processing K1266-182810221 [154/301] for code: KS1017
+2026-10-17 08:22:02 - 182810221 - Result: Successfully redeemed
+2026-10-17 08:22:03 - Processing K1266-182842833 [155/301] for code: KS1017
+2026-10-17 08:22:03 - 182842833 - Result: Successfully redeemed
+2026-10-17 08:22:05 - Processing K1266-182848942 [156/301] for code: KS1017
+2026-10-17 08:22:05 - 182848942 - Result: Successfully redeemed
+2026-10-17 08:22:06 - Processing K1266-182849233 [157/301] for code: KS1017
+2026-10-17 08:22:06 - 182849233 - Result: Successfully redeemed
+2026-10-17 08:22:08 - Processing K1266-182858998 [158/301] for code: KS1017
+2026-10-17 08:22:08 - 182858998 - Result: Successfully redeemed
+2026-10-17 08:22:09 - Processing K1266-182859667 [159/301] for code: KS1017
+2026-10-17 08:22:09 - 182859667 - Result: Successfully redeemed
+2026-10-17 08:22:11 - Processing K1266-182892217 [160/301] for code: KS1017
+2026-10-17 08:22:11 - 182892217 - Result: Successfully redeemed
+2026-10-17 08:22:12 - Processing K1266-182898057 [161/301] for code: KS1017
+2026-10-17 08:22:12 - 182898057 - Result: Successfully redeemed
+2026-10-17 08:22:13 - Processing K1266-182908483 [162/301] for code: KS1017
+2026-10-17 08:22:13 - 182908483 - Result: Successfully redeemed
+2026-10-17 08:22:15 - Processing K1266-182941162 [163/301] for code: KS1017
+2026-10-17 08:22:15 - 182941162 - Result: Successfully redeemed
+2026-10-17 08:22:16 - Processing K1266-182941502 [164/301] for code: KS1017
+2026-10-17 08:22:16 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-17 08:22:20 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-17 08:22:28 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-17 08:22:40 - 182941502 - Result: Redemption request failed
+2026-10-17 08:22:41 - Processing K1266-182957878 [165/301] for code: KS1017
+2026-10-17 08:22:42 - 182957878 - Result: Successfully redeemed
+2026-10-17 08:22:43 - Processing K1266-182990423 [166/301] for code: KS1017
+2026-10-17 08:22:43 - 182990423 - Result: Successfully redeemed
+2026-10-17 08:22:44 - Processing K1266-183006892 [167/301] for code: KS1017
+2026-10-17 08:22:44 - 183006892 - Result: Successfully redeemed
+2026-10-17 08:22:45 - Processing K1266-183012848 [168/301] for code: KS1017
+2026-10-17 08:22:45 - 183012848 - Result: Successfully redeemed
+2026-10-17 08:22:47 - Processing K1266-183028805 [169/301] for code: KS1017
+2026-10-17 08:22:47 - 183028805 - Result: Successfully redeemed
+2026-10-17 08:22:48 - Processing K1266-183029342 [170/301] for code: KS1017
+2026-10-17 08:22:48 - 183029342 - Result: Successfully redeemed
+2026-10-17 08:22:49 - Processing K1266-183039758 [171/301] for code: KS1017
+2026-10-17 08:22:49 - 183039758 - Result: Successfully redeemed
+2026-10-17 08:22:50 - Processing K1266-183072306 [172/301] for code: KS1017
+2026-10-17 08:22:50 - 183072306 - Result: Successfully redeemed
+2026-10-17 08:22:51 - Processing K1266-183072824 [173/301] for code: KS1017
+2026-10-17 08:22:52 - 183072824 - Result: Successfully redeemed
+2026-10-17 08:22:53 - Processing K1266-183089209 [174/301] for code: KS1017
+2026-10-17 08:22:53 - 183089209 - Result: Successfully redeemed
+2026-10-17 08:22:54 - Processing K1266-183104870 [175/301] for code: KS1017
+2026-10-17 08:22:54 - 183104870 - Result: Successfully redeemed
+2026-10-17 08:22:55 - Processing K1266-183121113 [176/301] for code: KS1017
+2026-10-17 08:22:55 - 183121113 - Result: Successfully redeemed
+2026-10-17 08:22:56 - Processing K1266-183137287 [177/301] for code: KS1017
+2026-10-17 08:22:57 - 183137287 - Result: Successfully redeemed
+2026-10-17 08:22:58 - Processing K1266-183154102 [178/301] for code: KS1017
+2026-10-17 08:22:58 - 183154102 - Result: Successfully redeemed
+2026-10-17 08:22:59 - Processing K1266-183154303 [179/301] for code: KS1017
+2026-10-17 08:22:59 - 183154303 - Result: Successfully redeemed
+2026-10-17 08:23:00 - Processing K1266-183154798 [180/301] for code: KS1017
+2026-10-17 08:23:00 - 183154798 - Result: Successfully redeemed
+2026-10-17 08:23:02 - Processing K1266-183170657 [181/301] for code: KS1017
+2026-10-17 08:23:02 - 183170657 - Result: Successfully redeemed
+2026-10-17 08:23:03 - Processing K1266-183176536 [182/301] for code: KS1017
+2026-10-17 08:23:03 - 183176536 - Result: Successfully redeemed
+2026-10-17 08:23:05 - Processing K1266-183219217 [183/301] for code: KS1017
+2026-10-17 08:23:05 - 183219217 - Result: Successfully redeemed
+2026-10-17 08:23:06 - Processing K1266-183219343 [184/301] for code: KS1017
+2026-10-17 08:23:06 - 183219343 - Result: Successfully redeemed
+2026-10-17 08:23:07 - Processing K1266-183285360 [185/301] for code: KS1017
+2026-10-17 08:23:07 - 183285360 - Result: Successfully redeemed
+2026-10-17 08:23:08 - Processing K1266-183317601 [186/301] for code: KS1017
+2026-10-17 08:23:09 - 183317601 - Result: Successfully redeemed
+2026-10-17 08:23:10 - Processing K1266-183350823 [187/301] for code: KS1017
+2026-10-17 08:23:10 - 183350823 - Result: Successfully redeemed
+2026-10-17 08:23:11 - Processing K1266-183366693 [188/301] for code: KS1017
+2026-10-17 08:23:11 - 183366693 - Result: Successfully redeemed
+2026-10-17 08:23:12 - Processing K1266-183367342 [189/301] for code: KS1017
+2026-10-17 08:23:12 - 183367342 - Result: Successfully redeemed
+2026-10-17 08:23:14 - Processing K1266-183383666 [190/301] for code: KS1017
+2026-10-17 08:23:14 - 183383666 - Result: Successfully redeemed
+2026-10-17 08:23:15 - Processing K1266-183384158 [191/301] for code: KS1017
+2026-10-17 08:23:15 - 183384158 - Result: Successfully redeemed
+2026-10-17 08:23:16 - Processing K1266-183455373 [192/301] for code: KS1017
+2026-10-17 08:23:16 - 183455373 - Result: Successfully redeemed
+2026-10-17 08:23:18 - Processing K1266-183531242 [193/301] for code: KS1017
+2026-10-17 08:23:18 - 183531242 - Result: Successfully redeemed
+2026-10-17 08:23:19 - Processing K1266-183563334 [194/301] for code: KS1017
+2026-10-17 08:23:19 - 183563334 - Result: Successfully redeemed
+2026-10-17 08:23:20 - Processing K1266-183579641 [195/301] for code: KS1017
+2026-10-17 08:23:21 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-17 08:23:25 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-17 08:23:33 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-17 08:23:45 - 183579641 - Result: Redemption request failed
+2026-10-17 08:23:46 - Processing K1266-183602956 [196/301] for code: KS1017
+2026-10-17 08:23:46 - 183602956 - Result: Successfully redeemed
+2026-10-17 08:23:47 - Processing K1266-183635567 [197/301] for code: KS1017
+2026-10-17 08:23:47 - 183635567 - Result: Successfully redeemed
+2026-10-17 08:23:48 - Processing K1266-183662249 [198/301] for code: KS1017
+2026-10-17 08:23:48 - 183662249 - Result: Successfully redeemed
+2026-10-17 08:23:49 - Processing K1266-183695044 [199/301] for code: KS1017
+2026-10-17 08:23:49 - 183695044 - Result: Successfully redeemed
+2026-10-17 08:23:50 - Processing K1266-183744074 [200/301] for code: KS1017
+2026-10-17 08:23:51 - 183744074 - Result: Successfully redeemed
+2026-10-17 08:23:52 - Processing K1266-183760133 [201/301] for code: KS1017
+2026-10-17 08:23:52 - 183760133 - Result: Successfully redeemed
+2026-10-17 08:23:53 - Processing K1266-183776526 [202/301] for code: KS1017
+2026-10-17 08:23:53 - 183776526 - Result: Successfully redeemed
+2026-10-17 08:23:54 - Processing K1266-183793260 [203/301] for code: KS1017
+2026-10-17 08:23:55 - 183793260 - Result: Successfully redeemed
+2026-10-17 08:23:56 - Processing K1266-183799231 [204/301] for code: KS1017
+2026-10-17 08:23:56 - 183799231 - Result: Successfully redeemed
+2026-10-17 08:23:57 - Processing K1266-183809202 [205/301] for code: KS1017
+2026-10-17 08:23:57 - 183809202 - Result: Successfully redeemed
+2026-10-17 08:23:58 - Processing K1266-183826046 [206/301] for code: KS1017
+2026-10-17 08:23:58 - 183826046 - Result: Successfully redeemed
+2026-10-17 08:23:59 - Processing K1266-183826079 [207/301] for code: KS1017
+2026-10-17 08:23:59 - 183826079 - Result: Successfully redeemed
+2026-10-17 08:24:00 - Processing K1266-183826363 [208/301] for code: KS1017
+2026-10-17 08:24:01 - 183826363 - Result: Successfully redeemed
+2026-10-17 08:24:02 - Processing K1266-183842707 [209/301] for code: KS1017
+2026-10-17 08:24:02 - 183842707 - Result: Successfully redeemed
+2026-10-17 08:24:03 - Processing K1266-183858943 [210/301] for code: KS1017
+2026-10-17 08:24:03 - 183858943 - Result: Successfully redeemed
+2026-10-17 08:24:04 - Processing K1266-183859043 [211/301] for code: KS1017
+2026-10-17 08:24:04 - 183859043 - Result: Successfully redeemed
+2026-10-17 08:24:05 - Processing K1266-183864332 [212/301] for code: KS1017
+2026-10-17 08:24:05 - 183864332 - Result: Successfully redeemed
+2026-10-17 08:24:07 - Processing K1266-183897678 [213/301] for code: KS1017
+2026-10-17 08:24:07 - 183897678 - Result: Successfully redeemed
+2026-10-17 08:24:08 - Processing K1266-183907791 [214/301] for code: KS1017
+2026-10-17 08:24:08 - 183907791 - Result: Successfully redeemed
+2026-10-17 08:24:09 - Processing K1266-183907855 [215/301] for code: KS1017
+2026-10-17 08:24:09 - 183907855 - Result: Successfully redeemed
+2026-10-17 08:24:11 - Processing K1266-183924658 [216/301] for code: KS1017
+2026-10-17 08:24:11 - 183924658 - Result: Successfully redeemed
+2026-10-17 08:24:12 - Processing K1266-183924660 [217/301] for code: KS1017
+2026-10-17 08:24:12 - 183924660 - Result: Successfully redeemed
+2026-10-17 08:24:13 - Processing K1266-183940809 [218/301] for code: KS1017
+2026-10-17 08:24:13 - 183940809 - Result: Successfully redeemed
+2026-10-17 08:24:14 - Processing K1266-183946385 [219/301] for code: KS1017
+2026-10-17 08:24:15 - 183946385 - Result: Successfully redeemed
+2026-10-17 08:24:16 - Processing K1266-183946804 [220/301] for code: KS1017
+2026-10-17 08:24:16 - 183946804 - Result: Successfully redeemed
+2026-10-17 08:24:17 - Processing K1266-183996371 [221/301] for code: KS1017
+2026-10-17 08:24:17 - 183996371 - Result: Successfully redeemed
+2026-10-17 08:24:18 - Processing K1266-184005794 [222/301] for code: KS1017
+2026-10-17 08:24:18 - 184005794 - Result: Successfully redeemed
+2026-10-17 08:24:20 - Processing K1266-184022781 [223/301] for code: KS1017
+2026-10-17 08:24:20 - 184022781 - Result: Successfully redeemed
+2026-10-17 08:24:21 - Processing K1266-184038545 [224/301] for code: KS1017
+2026-10-17 08:24:21 - 184038545 - Result: Successfully redeemed
+2026-10-17 08:24:22 - Processing K1266-184071743 [225/301] for code: KS1017
+2026-10-17 08:24:22 - 184071743 - Result: Successfully redeemed
+2026-10-17 08:24:24 - Processing K1266-184088377 [226/301] for code: KS1017
+2026-10-17 08:24:24 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-17 08:24:28 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-17 08:24:36 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-17 08:24:48 - 184088377 - Result: Redemption request failed
+2026-10-17 08:24:49 - Processing K1266-184137674 [227/301] for code: KS1017
+2026-10-17 08:24:49 - 184137674 - Result: Successfully redeemed
+2026-10-17 08:24:50 - Processing K1266-184159552 [228/301] for code: KS1017
+2026-10-17 08:24:50 - 184159552 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-10-17 08:24:52 - 184159552 - Result: Successfully redeemed
+2026-10-17 08:24:54 - Processing K1266-184169916 [229/301] for code: KS1017
+2026-10-17 08:24:54 - 184169916 - Result: Successfully redeemed
+2026-10-17 08:24:55 - Processing K1266-184170263 [230/301] for code: KS1017
+2026-10-17 08:24:55 - 184170263 - Result: Successfully redeemed
+2026-10-17 08:24:56 - Processing K1266-184175883 [231/301] for code: KS1017
+2026-10-17 08:24:56 - 184175883 - Result: Successfully redeemed
+2026-10-17 08:24:57 - Processing K1266-184186546 [232/301] for code: KS1017
+2026-10-17 08:24:57 - 184186546 - Result: Successfully redeemed
+2026-10-17 08:24:59 - Processing K1266-184202442 [233/301] for code: KS1017
+2026-10-17 08:24:59 - 184202442 - Result: Successfully redeemed
+2026-10-17 08:25:00 - Processing K1266-184202684 [234/301] for code: KS1017
+2026-10-17 08:25:00 - 184202684 - Result: Successfully redeemed
+2026-10-17 08:25:01 - Processing K1266-184219240 [235/301] for code: KS1017
+2026-10-17 08:25:02 - 184219240 - Result: Successfully redeemed
+2026-10-17 08:25:03 - Processing K1266-184252103 [236/301] for code: KS1017
+2026-10-17 08:25:03 - 184252103 - Result: Already redeemed
+2026-10-17 08:25:04 - Processing K1266-184257548 [237/301] for code: KS1017
+2026-10-17 08:25:04 - 184257548 - Result: Successfully redeemed
+2026-10-17 08:25:05 - Processing K1266-184268236 [238/301] for code: KS1017
+2026-10-17 08:25:05 - 184268236 - Result: Successfully redeemed
+2026-10-17 08:25:07 - Processing K1266-184268332 [239/301] for code: KS1017
+2026-10-17 08:25:07 - 184268332 - Result: Successfully redeemed
+2026-10-17 08:25:08 - Processing K1266-184285099 [240/301] for code: KS1017
+2026-10-17 08:25:08 - 184285099 - Result: Successfully redeemed
+2026-10-17 08:25:09 - Processing K1266-184300583 [241/301] for code: KS1017
+2026-10-17 08:25:09 - 184300583 - Result: Successfully redeemed
+2026-10-17 08:25:11 - Processing K1266-184301120 [242/301] for code: KS1017
+2026-10-17 08:25:11 - 184301120 - Result: Successfully redeemed
+2026-10-17 08:25:12 - Processing K1266-184301482 [243/301] for code: KS1017
+2026-10-17 08:25:12 - 184301482 - Result: Successfully redeemed
+2026-10-17 08:25:13 - Processing K1266-184306709 [244/301] for code: KS1017
+2026-10-17 08:25:14 - 184306709 - Result: Successfully redeemed
+2026-10-17 08:25:15 - Processing K1266-184323165 [245/301] for code: KS1017
+2026-10-17 08:25:15 - 184323165 - Result: Successfully redeemed
+2026-10-17 08:25:16 - Processing K1266-184334160 [246/301] for code: KS1017
+2026-10-17 08:25:17 - 184334160 - Result: Successfully redeemed
+2026-10-17 08:25:18 - Processing K1266-184334326 [247/301] for code: KS1017
+2026-10-17 08:25:18 - 184334326 - Result: Successfully redeemed
+2026-10-17 08:25:19 - Processing K1266-184355782 [248/301] for code: KS1017
+2026-10-17 08:25:19 - 184355782 - Result: Successfully redeemed
+2026-10-17 08:25:21 - Processing K1266-184355850 [249/301] for code: KS1017
+2026-10-17 08:25:21 - 184355850 - Result: Successfully redeemed
+2026-10-17 08:25:22 - Processing K1266-184366301 [250/301] for code: KS1017
+2026-10-17 08:25:22 - 184366301 - Result: Successfully redeemed
+2026-10-17 08:25:23 - Processing K1266-184398957 [251/301] for code: KS1017
+2026-10-17 08:25:23 - 184398957 - Result: Successfully redeemed
+2026-10-17 08:25:25 - Processing K1266-184431865 [252/301] for code: KS1017
+2026-10-17 08:25:25 - 184431865 - Result: Successfully redeemed
+2026-10-17 08:25:26 - Processing K1266-184448668 [253/301] for code: KS1017
+2026-10-17 08:25:26 - 184448668 - Result: Successfully redeemed
+2026-10-17 08:25:27 - Processing K1266-185122678 [254/301] for code: KS1017
+2026-10-17 08:25:27 - 185122678 - Result: Successfully redeemed
+2026-10-17 08:25:28 - Processing K1266-185480245 [255/301] for code: KS1017
+2026-10-17 08:25:28 - 185480245 - Result: Successfully redeemed
+2026-10-17 08:25:30 - Processing K1266-187102768 [256/301] for code: KS1017
+2026-10-17 08:25:30 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-17 08:25:34 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-17 08:25:42 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-17 08:25:54 - 187102768 - Result: Redemption request failed
+2026-10-17 08:25:55 - Processing K1266-187115851 [257/301] for code: KS1017
+2026-10-17 08:25:55 - 187115851 - Result: Successfully redeemed
+2026-10-17 08:25:56 - Processing K1266-188087741 [258/301] for code: KS1017
+2026-10-17 08:25:56 - 188087741 - Result: Successfully redeemed
+2026-10-17 08:25:57 - Processing K1266-188470196 [259/301] for code: KS1017
+2026-10-17 08:25:57 - 188470196 - Result: Successfully redeemed
+2026-10-17 08:25:59 - Processing K1266-188862376 [260/301] for code: KS1017
+2026-10-17 08:25:59 - 188862376 - Result: Successfully redeemed
+2026-10-17 08:26:00 - Processing K1266-190234418 [261/301] for code: KS1017
+2026-10-17 08:26:00 - 190234418 - Result: Successfully redeemed
+2026-10-17 08:26:01 - Processing K1266-190573918 [262/301] for code: KS1017
+2026-10-17 08:26:01 - 190573918 - Result: Successfully redeemed
+2026-10-17 08:26:02 - Processing K1266-191129295 [263/301] for code: KS1017
+2026-10-17 08:26:03 - 191129295 - Result: Successfully redeemed
+2026-10-17 08:26:04 - Processing K1266-192400838 [264/301] for code: KS1017
+2026-10-17 08:26:04 - 192400838 - Result: Successfully redeemed
+2026-10-17 08:26:05 - Processing K1266-193616382 [265/301] for code: KS1017
+2026-10-17 08:26:05 - 193616382 - Result: Successfully redeemed
+2026-10-17 08:26:06 - Processing K1266-194020665 [266/301] for code: KS1017
+2026-10-17 08:26:06 - 194020665 - Result: Successfully redeemed
+2026-10-17 08:26:07 - Processing K1266-194962807 [267/301] for code: KS1017
+2026-10-17 08:26:07 - 194962807 - Result: Successfully redeemed
+2026-10-17 08:26:09 - Processing K1266-196209781 [268/301] for code: KS1017
+2026-10-17 08:26:09 - 196209781 - Result: Successfully redeemed
+2026-10-17 08:26:10 - Processing K1266-197077736 [269/301] for code: KS1017
+2026-10-17 08:26:11 - 197077736 - Result: Successfully redeemed
+2026-10-17 08:26:12 - Processing K1266-197748881 [270/301] for code: KS1017
+2026-10-17 08:26:12 - 197748881 - Result: Successfully redeemed
+2026-10-17 08:26:13 - Processing K1266-198971997 [271/301] for code: KS1017
+2026-10-17 08:26:13 - 198971997 - Result: Successfully redeemed
+2026-10-17 08:26:15 - Processing K1266-199766078 [272/301] for code: KS1017
+2026-10-17 08:26:15 - 199766078 - Result: Successfully redeemed
+2026-10-17 08:26:16 - Processing K1266-202789741 [273/301] for code: KS1017
+2026-10-17 08:26:16 - 202789741 - Result: Successfully redeemed
+2026-10-17 08:26:17 - Processing K1266-208458805 [274/301] for code: KS1017
+2026-10-17 08:26:17 - 208458805 - Result: Successfully redeemed
+2026-10-17 08:26:18 - Processing K1266-208469366 [275/301] for code: KS1017
+2026-10-17 08:26:18 - 208469366 - Result: Successfully redeemed
+2026-10-17 08:26:19 - Processing K1266-209741428 [276/301] for code: KS1017
+2026-10-17 08:26:19 - 209741428 - Result: Successfully redeemed
+2026-10-17 08:26:20 - Processing K1266-215719460 [277/301] for code: KS1017
+2026-10-17 08:26:21 - 215719460 - Result: Successfully redeemed
+2026-10-17 08:26:22 - Processing K1266-216820126 [278/301] for code: KS1017
+2026-10-17 08:26:22 - 216820126 - Result: Successfully redeemed
+2026-10-17 08:26:23 - Processing K1266-219382121 [279/301] for code: KS1017
+2026-10-17 08:26:23 - 219382121 - Result: Successfully redeemed
+2026-10-17 08:26:25 - Processing K1266-221309318 [280/301] for code: KS1017
+2026-10-17 08:26:25 - 221309318 - Result: Successfully redeemed
+2026-10-17 08:26:26 - Processing K1266-221445787 [281/301] for code: KS1017
+2026-10-17 08:26:26 - 221445787 - Result: Successfully redeemed
+2026-10-17 08:26:27 - Processing K1266-221883902 [282/301] for code: KS1017
+2026-10-17 08:26:27 - 221883902 - Result: Successfully redeemed
+2026-10-17 08:26:28 - Processing K1266-226209236 [283/301] for code: KS1017
+2026-10-17 08:26:28 - 226209236 - Result: Successfully redeemed
+2026-10-17 08:26:30 - Processing K1266-226703897 [284/301] for code: KS1017
+2026-10-17 08:26:30 - 226703897 - Result: Successfully redeemed
+2026-10-17 08:26:31 - Processing K1266-227970815 [285/301] for code: KS1017
+2026-10-17 08:26:31 - 227970815 - Result: Successfully redeemed
+2026-10-17 08:26:32 - Processing K1266-232510086 [286/301] for code: KS1017
+2026-10-17 08:26:33 - 232510086 - Result: Successfully redeemed
+2026-10-17 08:26:34 - Processing K1266-239065229 [287/301] for code: KS1017
+2026-10-17 08:26:34 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-17 08:26:38 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-17 08:26:46 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-17 08:26:58 - 239065229 - Result: Redemption request failed
+2026-10-17 08:26:59 - Processing K1266-240864609 [288/301] for code: KS1017
+2026-10-17 08:26:59 - 240864609 - Result: Successfully redeemed
+2026-10-17 08:27:01 - Processing K1266-247760465 [289/301] for code: KS1017
+2026-10-17 08:27:01 - 247760465 - Result: Successfully redeemed
+2026-10-17 08:27:02 - Processing K1266-264853160 [290/301] for code: KS1017
+2026-10-17 08:27:02 - 264853160 - Result: Successfully redeemed
+2026-10-17 08:27:03 - Processing K1266-270896390 [291/301] for code: KS1017
+2026-10-17 08:27:03 - 270896390 - Result: Successfully redeemed
+2026-10-17 08:27:05 - Processing K1266-279842790 [292/301] for code: KS1017
+2026-10-17 08:27:05 - 279842790 - Result: Successfully redeemed
+2026-10-17 08:27:06 - Processing K1266-286282880 [293/301] for code: KS1017
+2026-10-17 08:27:06 - 286282880 - Result: Successfully redeemed
+2026-10-17 08:27:07 - Processing K1266-290460722 [294/301] for code: KS1017
+2026-10-17 08:27:07 - 290460722 - Result: Successfully redeemed
+2026-10-17 08:27:09 - Processing K1266-300260967 [295/301] for code: KS1017
+2026-10-17 08:27:09 - 300260967 - Result: Successfully redeemed
+2026-10-17 08:27:10 - Processing K1266-302154974 [296/301] for code: KS1017
+2026-10-17 08:27:10 - 302154974 - Result: Already redeemed
+2026-10-17 08:27:11 - Processing K1266-305821193 [297/301] for code: KS1017
+2026-10-17 08:27:11 - 305821193 - Result: Successfully redeemed
+2026-10-17 08:27:13 - Processing K1266-378005527 [298/301] for code: KS1017
+2026-10-17 08:27:13 - 378005527 - Result: Successfully redeemed
+2026-10-17 08:27:14 - Processing K1266-378518775 [299/301] for code: KS1017
+2026-10-17 08:27:14 - 378518775 - Result: Successfully redeemed
+2026-10-17 08:27:15 - Processing K1266-381967745 [300/301] for code: KS1017
+2026-10-17 08:27:15 - 381967745 - Result: Successfully redeemed
+2026-10-17 08:27:17 - Processing K1266-402165713 [301/301] for code: KS1017
+2026-10-17 08:27:17 - 402165713 - Result: Successfully redeemed
+2026-10-17 08:27:18 - --- Cycle finished. Total processed: 301/301 ---
+2026-10-17 08:27:18 - 
+========================= Redemption Summary =========================
+2026-10-17 08:27:18 - Code Redeemed: KS1017
+2026-10-17 08:27:18 - Total Unique Player IDs Found: 301
+2026-10-17 08:27:18 - Total Player IDs Processed: 301
+2026-10-17 08:27:18 - Successfully redeemed: 287
+2026-10-17 08:27:18 - Already redeemed: 3
+2026-10-17 08:27:18 - Wrong kingdom: 1
+2026-10-17 08:27:18 - Other Errors/Failures: 10
+2026-10-17 08:27:18 - Rate Limit Events: 0
+2026-10-17 08:27:18 - Total execution time: 0:10:38
+2026-10-17 08:27:18 - ======================================================================
+2026-10-17 08:27:18 - Marked 'KS1017' as known.
+
