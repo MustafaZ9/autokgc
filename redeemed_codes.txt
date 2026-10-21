@@ -40477,3 +40477,37 @@
 2026-10-21 02:24:21 - Success with chrome124 impersonation
 2026-10-21 02:24:21 - No new gift codes found. All codes have been seen previously.
 2026-10-21 02:24:21 - Nothing to redeem.
+2026-10-21 08:57:36 - Checking https://kingshot.net/gift-codes for new gift codes...
+2026-10-21 08:57:36 - Using curl_cffi for Cloudflare bypass...
+2026-10-21 08:57:37 - Success with chrome124 impersonation
+2026-10-21 08:57:37 - 
+🎉 NEW GIFT CODES FOUND: lwaL5ZKx5
+2026-10-21 08:57:37 - 
+=== Starting redemption for gift code: lwaL5ZKx5 ===
+2026-10-21 08:57:37 - Read 597 player IDs from lod.csv (encoding: utf-8-sig, 3 with a kingdom)
+2026-10-21 08:57:37 - Removed 296 duplicate entries.
+2026-10-21 08:57:37 - 298 player ID(s) had no kingdom in the CSV; using --kingdom 1266.
+2026-10-21 08:57:37 - Total unique player IDs to process: 301
+2026-10-21 08:57:37 - 
+--- Starting processing cycle. Ready player IDs: 301 ---
+2026-10-21 08:57:37 - Processing K1266-1266 [1/301] for code: lwaL5ZKx5
+2026-10-21 08:57:37 - 1266 - Result: Wrong kingdom for this player ID
+2026-10-21 08:57:39 - Processing K1266-112607487 [2/301] for code: lwaL5ZKx5
+2026-10-21 08:57:39 - 112607487 - Result: Claim limit reached, unable to claim
+2026-10-21 08:57:39 - 
+ *** Claim limit reached, unable to claim! Stopping further processing. ***
+2026-10-21 08:57:39 - --- Cycle finished. Total processed: 2/301 ---
+2026-10-21 08:57:39 - 
+========================= Redemption Summary =========================
+2026-10-21 08:57:39 - Code Redeemed: lwaL5ZKx5
+2026-10-21 08:57:39 - Total Unique Player IDs Found: 301
+2026-10-21 08:57:39 - Total Player IDs Processed: 2
+2026-10-21 08:57:39 - Successfully redeemed: 0
+2026-10-21 08:57:39 - Already redeemed: 0
+2026-10-21 08:57:39 - Wrong kingdom: 1
+2026-10-21 08:57:39 - Other Errors/Failures: 0
+2026-10-21 08:57:39 - Rate Limit Events: 0
+2026-10-21 08:57:39 - Total execution time: 0:00:01
+2026-10-21 08:57:39 - ======================================================================
+2026-10-21 08:57:39 - Marked 'lwaL5ZKx5' as known.
+
