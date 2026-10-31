@@ -42121,3 +42121,688 @@
 2026-10-31 10:01:13 - Success with chrome124 impersonation
 2026-10-31 10:01:13 - No new gift codes found. All codes have been seen previously.
 2026-10-31 10:01:13 - Nothing to redeem.
+2026-10-31 12:40:30 - Checking https://kingshot.net/gift-codes for new gift codes...
+2026-10-31 12:40:30 - Using curl_cffi for Cloudflare bypass...
+2026-10-31 12:40:31 - Success with chrome124 impersonation
+2026-10-31 12:40:31 - 
+🎉 NEW GIFT CODES FOUND: TREAT4U
+2026-10-31 12:40:31 - 
+=== Starting redemption for gift code: TREAT4U ===
+2026-10-31 12:40:31 - Read 597 player IDs from lod.csv (encoding: utf-8-sig, 3 with a kingdom)
+2026-10-31 12:40:31 - Removed 296 duplicate entries.
+2026-10-31 12:40:31 - 298 player ID(s) had no kingdom in the CSV; using --kingdom 1266.
+2026-10-31 12:40:31 - Total unique player IDs to process: 301
+2026-10-31 12:40:31 - 
+--- Starting processing cycle. Ready player IDs: 301 ---
+2026-10-31 12:40:31 - Processing K1266-1266 [1/301] for code: TREAT4U
+2026-10-31 12:40:31 - 1266 - Result: Wrong kingdom for this player ID
+2026-10-31 12:40:32 - Processing K1266-112607487 [2/301] for code: TREAT4U
+2026-10-31 12:40:32 - 112607487 - Result: Successfully redeemed
+2026-10-31 12:40:34 - Processing K1266-134948830 [3/301] for code: TREAT4U
+2026-10-31 12:40:34 - 134948830 - Result: Successfully redeemed
+2026-10-31 12:40:35 - Processing K1266-137354109 [4/301] for code: TREAT4U
+2026-10-31 12:40:35 - 137354109 - Result: Successfully redeemed
+2026-10-31 12:40:36 - Processing K1266-137881550 [5/301] for code: TREAT4U
+2026-10-31 12:40:36 - 137881550 - Result: Successfully redeemed
+2026-10-31 12:40:37 - Processing K1266-138078147 [6/301] for code: TREAT4U
+2026-10-31 12:40:37 - 138078147 - Result: Successfully redeemed
+2026-10-31 12:40:39 - Processing K1266-159437876 [7/301] for code: TREAT4U
+2026-10-31 12:40:39 - 159437876 - Result: Successfully redeemed
+2026-10-31 12:40:40 - Processing K1266-160961411 [8/301] for code: TREAT4U
+2026-10-31 12:40:40 - 160961411 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-10-31 12:40:42 - 160961411 - Result: Successfully redeemed
+2026-10-31 12:40:44 - Processing K1266-160977214 [9/301] for code: TREAT4U
+2026-10-31 12:40:44 - 160977214 - Result: Successfully redeemed
+2026-10-31 12:40:45 - Processing K1266-161223459 [10/301] for code: TREAT4U
+2026-10-31 12:40:45 - 161223459 - Result: Successfully redeemed
+2026-10-31 12:40:46 - Processing K1266-161321233 [11/301] for code: TREAT4U
+2026-10-31 12:40:46 - 161321233 - Result: Successfully redeemed
+2026-10-31 12:40:48 - Processing K1266-161387367 [12/301] for code: TREAT4U
+2026-10-31 12:40:48 - 161387367 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-10-31 12:40:50 - 161387367 - Result: Successfully redeemed
+2026-10-31 12:40:51 - Processing K1266-161616297 [13/301] for code: TREAT4U
+2026-10-31 12:40:51 - 161616297 - Result: Successfully redeemed
+2026-10-31 12:40:53 - Processing K1266-162042375 [14/301] for code: TREAT4U
+2026-10-31 12:40:53 - 162042375 - Result: Successfully redeemed
+2026-10-31 12:40:54 - Processing K1266-162402979 [15/301] for code: TREAT4U
+2026-10-31 12:40:54 - 162402979 - Result: Successfully redeemed
+2026-10-31 12:40:56 - Processing K1266-162910751 [16/301] for code: TREAT4U
+2026-10-31 12:40:56 - 162910751 - Result: Successfully redeemed
+2026-10-31 12:40:57 - Processing K1266-163042051 [17/301] for code: TREAT4U
+2026-10-31 12:40:57 - 163042051 - Result: Successfully redeemed
+2026-10-31 12:40:58 - Processing K1266-176448172 [18/301] for code: TREAT4U
+2026-10-31 12:40:58 - 176448172 - Result: Successfully redeemed
+2026-10-31 12:40:59 - Processing K1266-176742470 [19/301] for code: TREAT4U
+2026-10-31 12:40:59 - 176742470 - Result: Successfully redeemed
+2026-10-31 12:41:01 - Processing K1266-176939042 [20/301] for code: TREAT4U
+2026-10-31 12:41:01 - 176939042 - Result: Successfully redeemed
+2026-10-31 12:41:02 - Processing K1266-177004482 [21/301] for code: TREAT4U
+2026-10-31 12:41:02 - 177004482 - Result: Successfully redeemed
+2026-10-31 12:41:04 - Processing K1266-177430530 [22/301] for code: TREAT4U
+2026-10-31 12:41:04 - 177430530 - Result: Successfully redeemed
+2026-10-31 12:41:05 - Processing K1266-177594975 [23/301] for code: TREAT4U
+2026-10-31 12:41:05 - 177594975 - Result: Successfully redeemed
+2026-10-31 12:41:06 - Processing K1266-177643662 [24/301] for code: TREAT4U
+2026-10-31 12:41:06 - 177643662 - Result: Successfully redeemed
+2026-10-31 12:41:08 - Processing K1266-177741835 [25/301] for code: TREAT4U
+2026-10-31 12:41:08 - 177741835 - Result: Successfully redeemed
+2026-10-31 12:41:09 - Processing K1266-177758431 [26/301] for code: TREAT4U
+2026-10-31 12:41:09 - 177758431 - Result: Successfully redeemed
+2026-10-31 12:41:10 - Processing K1266-177889207 [27/301] for code: TREAT4U
+2026-10-31 12:41:11 - 177889207 - Result: Successfully redeemed
+2026-10-31 12:41:12 - Processing K1266-177889304 [28/301] for code: TREAT4U
+2026-10-31 12:41:12 - 177889304 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-10-31 12:41:14 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-31 12:41:18 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-31 12:41:26 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-31 12:41:38 - 177889304 - Result: Redemption request failed
+2026-10-31 12:41:39 - Processing K1266-178003863 [29/301] for code: TREAT4U
+2026-10-31 12:41:39 - 178003863 - Result: Successfully redeemed
+2026-10-31 12:41:40 - Processing K1266-178167737 [30/301] for code: TREAT4U
+2026-10-31 12:41:40 - 178167737 - Result: Successfully redeemed
+2026-10-31 12:41:41 - Processing K1266-178282383 [31/301] for code: TREAT4U
+2026-10-31 12:41:42 - 178282383 - Result: Successfully redeemed
+2026-10-31 12:41:43 - Processing K1266-178298638 [32/301] for code: TREAT4U
+2026-10-31 12:41:43 - 178298638 - Result: Successfully redeemed
+2026-10-31 12:41:44 - Processing K1266-178298685 [33/301] for code: TREAT4U
+2026-10-31 12:41:45 - 178298685 - Result: Successfully redeemed
+2026-10-31 12:41:46 - Processing K1266-178828379 [34/301] for code: TREAT4U
+2026-10-31 12:41:46 - 178828379 - Result: Successfully redeemed
+2026-10-31 12:41:48 - Processing K1266-178872530 [35/301] for code: TREAT4U
+2026-10-31 12:41:48 - 178872530 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-10-31 12:41:50 - 178872530 - Result: Successfully redeemed
+2026-10-31 12:41:51 - Processing K1266-179107716 [36/301] for code: TREAT4U
+2026-10-31 12:41:51 - 179107716 - Result: Successfully redeemed
+2026-10-31 12:41:52 - Processing K1266-179216885 [37/301] for code: TREAT4U
+2026-10-31 12:41:52 - 179216885 - Result: Successfully redeemed
+2026-10-31 12:41:54 - Processing K1266-179479072 [38/301] for code: TREAT4U
+2026-10-31 12:41:54 - 179479072 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-10-31 12:41:56 - 179479072 - Result: Successfully redeemed
+2026-10-31 12:41:57 - Processing K1266-179515454 [39/301] for code: TREAT4U
+2026-10-31 12:41:57 - 179515454 - Result: Successfully redeemed
+2026-10-31 12:41:58 - Processing K1266-179675357 [40/301] for code: TREAT4U
+2026-10-31 12:41:59 - 179675357 - Result: Successfully redeemed
+2026-10-31 12:42:00 - Processing K1266-179691958 [41/301] for code: TREAT4U
+2026-10-31 12:42:00 - 179691958 - Result: Successfully redeemed
+2026-10-31 12:42:01 - Processing K1266-180368647 [42/301] for code: TREAT4U
+2026-10-31 12:42:01 - 180368647 - Result: Successfully redeemed
+2026-10-31 12:42:02 - Processing K1266-180369109 [43/301] for code: TREAT4U
+2026-10-31 12:42:03 - 180369109 - Result: Successfully redeemed
+2026-10-31 12:42:04 - Processing K1266-180369159 [44/301] for code: TREAT4U
+2026-10-31 12:42:04 - 180369159 - Result: Successfully redeemed
+2026-10-31 12:42:05 - Processing K1266-180385375 [45/301] for code: TREAT4U
+2026-10-31 12:42:05 - 180385375 - Result: Successfully redeemed
+2026-10-31 12:42:06 - Processing K1266-180385792 [46/301] for code: TREAT4U
+2026-10-31 12:42:06 - 180385792 - Result: Successfully redeemed
+2026-10-31 12:42:08 - Processing K1266-180418498 [47/301] for code: TREAT4U
+2026-10-31 12:42:08 - 180418498 - Result: Successfully redeemed
+2026-10-31 12:42:09 - Processing K1266-180434357 [48/301] for code: TREAT4U
+2026-10-31 12:42:09 - 180434357 - Result: Successfully redeemed
+2026-10-31 12:42:10 - Processing K1266-180483302 [49/301] for code: TREAT4U
+2026-10-31 12:42:11 - 180483302 - Result: Successfully redeemed
+2026-10-31 12:42:12 - Processing K1266-180565782 [50/301] for code: TREAT4U
+2026-10-31 12:42:12 - 180565782 - Result: Successfully redeemed
+2026-10-31 12:42:13 - Processing K1266-180582116 [51/301] for code: TREAT4U
+2026-10-31 12:42:13 - 180582116 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-10-31 12:42:15 - 180582116 - Result: Successfully redeemed
+2026-10-31 12:42:16 - Processing K1266-180588134 [52/301] for code: TREAT4U
+2026-10-31 12:42:17 - 180588134 - Result: Successfully redeemed
+2026-10-31 12:42:18 - Processing K1266-180598416 [53/301] for code: TREAT4U
+2026-10-31 12:42:18 - 180598416 - Result: Successfully redeemed
+2026-10-31 12:42:19 - Processing K1266-180614319 [54/301] for code: TREAT4U
+2026-10-31 12:42:19 - 180614319 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-10-31 12:42:22 - 180614319 - [Attempt 2/3] TIMEOUT RETRY. Retrying...
+2026-10-31 12:42:26 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-31 12:42:30 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-31 12:42:38 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-31 12:42:50 - 180614319 - Result: Redemption request failed
+2026-10-31 12:42:51 - Processing K1266-180636958 [55/301] for code: TREAT4U
+2026-10-31 12:42:51 - 180636958 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-10-31 12:42:53 - 180636958 - Result: Successfully redeemed
+2026-10-31 12:42:55 - Processing K1266-180647291 [56/301] for code: TREAT4U
+2026-10-31 12:42:55 - 180647291 - Result: Successfully redeemed
+2026-10-31 12:42:56 - Processing K1266-180647824 [57/301] for code: TREAT4U
+2026-10-31 12:42:56 - 180647824 - Result: Successfully redeemed
+2026-10-31 12:42:57 - Processing K1266-180669914 [58/301] for code: TREAT4U
+2026-10-31 12:42:57 - 180669914 - Result: Successfully redeemed
+2026-10-31 12:42:59 - Processing K1266-180696652 [59/301] for code: TREAT4U
+2026-10-31 12:42:59 - 180696652 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-10-31 12:43:01 - 180696652 - [Attempt 2/3] TIMEOUT RETRY. Retrying...
+2026-10-31 12:43:05 - 180696652 - Result: Successfully redeemed
+2026-10-31 12:43:06 - Processing K1266-180729920 [60/301] for code: TREAT4U
+2026-10-31 12:43:06 - 180729920 - Result: Successfully redeemed
+2026-10-31 12:43:07 - Processing K1266-180778760 [61/301] for code: TREAT4U
+2026-10-31 12:43:07 - 180778760 - Result: Successfully redeemed
+2026-10-31 12:43:09 - Processing K1266-180779049 [62/301] for code: TREAT4U
+2026-10-31 12:43:09 - 180779049 - Result: Successfully redeemed
+2026-10-31 12:43:10 - Processing K1266-180795047 [63/301] for code: TREAT4U
+2026-10-31 12:43:10 - 180795047 - Result: Successfully redeemed
+2026-10-31 12:43:11 - Processing K1266-180827986 [64/301] for code: TREAT4U
+2026-10-31 12:43:12 - 180827986 - Result: Successfully redeemed
+2026-10-31 12:43:13 - Processing K1266-180893684 [65/301] for code: TREAT4U
+2026-10-31 12:43:13 - 180893684 - Result: Successfully redeemed
+2026-10-31 12:43:14 - Processing K1266-180893765 [66/301] for code: TREAT4U
+2026-10-31 12:43:14 - 180893765 - Result: Already redeemed
+2026-10-31 12:43:16 - Processing K1266-180909451 [67/301] for code: TREAT4U
+2026-10-31 12:43:16 - 180909451 - Result: Successfully redeemed
+2026-10-31 12:43:17 - Processing K1266-180959009 [68/301] for code: TREAT4U
+2026-10-31 12:43:17 - 180959009 - Result: Successfully redeemed
+2026-10-31 12:43:19 - Processing K1266-180975047 [69/301] for code: TREAT4U
+2026-10-31 12:43:19 - 180975047 - Result: Successfully redeemed
+2026-10-31 12:43:20 - Processing K1266-181008488 [70/301] for code: TREAT4U
+2026-10-31 12:43:20 - 181008488 - Result: Successfully redeemed
+2026-10-31 12:43:21 - Processing K1266-181024577 [71/301] for code: TREAT4U
+2026-10-31 12:43:21 - 181024577 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-10-31 12:43:24 - 181024577 - Result: Successfully redeemed
+2026-10-31 12:43:25 - Processing K1266-181063111 [72/301] for code: TREAT4U
+2026-10-31 12:43:25 - 181063111 - Result: Successfully redeemed
+2026-10-31 12:43:26 - Processing K1266-181089949 [73/301] for code: TREAT4U
+2026-10-31 12:43:26 - 181089949 - Result: Successfully redeemed
+2026-10-31 12:43:27 - Processing K1266-181090100 [74/301] for code: TREAT4U
+2026-10-31 12:43:27 - 181090100 - Result: Successfully redeemed
+2026-10-31 12:43:29 - Processing K1266-181106609 [75/301] for code: TREAT4U
+2026-10-31 12:43:29 - 181106609 - Result: Successfully redeemed
+2026-10-31 12:43:30 - Processing K1266-181122260 [76/301] for code: TREAT4U
+2026-10-31 12:43:30 - 181122260 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-10-31 12:43:33 - 181122260 - Result: Successfully redeemed
+2026-10-31 12:43:34 - Processing K1266-181139114 [77/301] for code: TREAT4U
+2026-10-31 12:43:34 - 181139114 - Result: Successfully redeemed
+2026-10-31 12:43:35 - Processing K1266-181155772 [78/301] for code: TREAT4U
+2026-10-31 12:43:35 - 181155772 - Result: Successfully redeemed
+2026-10-31 12:43:36 - Processing K1266-181171461 [79/301] for code: TREAT4U
+2026-10-31 12:43:37 - 181171461 - Result: Successfully redeemed
+2026-10-31 12:43:38 - Processing K1266-181188977 [80/301] for code: TREAT4U
+2026-10-31 12:43:38 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-31 12:43:42 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-31 12:43:50 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-31 12:44:02 - 181188977 - Result: Redemption request failed
+2026-10-31 12:44:03 - Processing K1266-181340930 [81/301] for code: TREAT4U
+2026-10-31 12:44:03 - 181340930 - Result: Successfully redeemed
+2026-10-31 12:44:05 - Processing K1266-181351852 [82/301] for code: TREAT4U
+2026-10-31 12:44:05 - 181351852 - Result: Successfully redeemed
+2026-10-31 12:44:06 - Processing K1266-181358276 [83/301] for code: TREAT4U
+2026-10-31 12:44:06 - 181358276 - Result: Successfully redeemed
+2026-10-31 12:44:08 - Processing K1266-181374419 [84/301] for code: TREAT4U
+2026-10-31 12:44:08 - 181374419 - Result: Successfully redeemed
+2026-10-31 12:44:09 - Processing K1266-181384836 [85/301] for code: TREAT4U
+2026-10-31 12:44:09 - 181384836 - Result: Successfully redeemed
+2026-10-31 12:44:11 - Processing K1266-181385198 [86/301] for code: TREAT4U
+2026-10-31 12:44:11 - 181385198 - Result: Successfully redeemed
+2026-10-31 12:44:12 - Processing K1266-181401589 [87/301] for code: TREAT4U
+2026-10-31 12:44:12 - 181401589 - Result: Successfully redeemed
+2026-10-31 12:44:13 - Processing K1266-181407057 [88/301] for code: TREAT4U
+2026-10-31 12:44:13 - 181407057 - Result: Successfully redeemed
+2026-10-31 12:44:15 - Processing K1266-181417643 [89/301] for code: TREAT4U
+2026-10-31 12:44:15 - 181417643 - Result: Successfully redeemed
+2026-10-31 12:44:16 - Processing K1266-181423528 [90/301] for code: TREAT4U
+2026-10-31 12:44:16 - 181423528 - Result: Successfully redeemed
+2026-10-31 12:44:18 - Processing K1266-181466821 [91/301] for code: TREAT4U
+2026-10-31 12:44:18 - 181466821 - Result: Successfully redeemed
+2026-10-31 12:44:19 - Processing K1266-181466879 [92/301] for code: TREAT4U
+2026-10-31 12:44:19 - 181466879 - Result: Successfully redeemed
+2026-10-31 12:44:20 - Processing K1266-181482560 [93/301] for code: TREAT4U
+2026-10-31 12:44:20 - 181482560 - Result: Successfully redeemed
+2026-10-31 12:44:21 - Processing K1266-181515253 [94/301] for code: TREAT4U
+2026-10-31 12:44:22 - 181515253 - Result: Successfully redeemed
+2026-10-31 12:44:23 - Processing K1266-181516264 [95/301] for code: TREAT4U
+2026-10-31 12:44:23 - 181516264 - Result: Successfully redeemed
+2026-10-31 12:44:24 - Processing K1266-181516335 [96/301] for code: TREAT4U
+2026-10-31 12:44:24 - 181516335 - Result: Successfully redeemed
+2026-10-31 12:44:26 - Processing K1266-181521367 [97/301] for code: TREAT4U
+2026-10-31 12:44:26 - 181521367 - Result: Successfully redeemed
+2026-10-31 12:44:27 - Processing K1266-181531678 [98/301] for code: TREAT4U
+2026-10-31 12:44:27 - 181531678 - Result: Successfully redeemed
+2026-10-31 12:44:28 - Processing K1266-181548141 [99/301] for code: TREAT4U
+2026-10-31 12:44:28 - 181548141 - Result: Successfully redeemed
+2026-10-31 12:44:30 - Processing K1266-181565051 [100/301] for code: TREAT4U
+2026-10-31 12:44:30 - 181565051 - Result: Successfully redeemed
+2026-10-31 12:44:31 - Processing K1266-181571708 [101/301] for code: TREAT4U
+2026-10-31 12:44:31 - 181571708 - Result: Successfully redeemed
+2026-10-31 12:44:32 - Processing K1266-181614011 [102/301] for code: TREAT4U
+2026-10-31 12:44:32 - 181614011 - Result: Successfully redeemed
+2026-10-31 12:44:33 - Processing K1266-181646830 [103/301] for code: TREAT4U
+2026-10-31 12:44:33 - 181646830 - Result: Successfully redeemed
+2026-10-31 12:44:35 - Processing K1266-181663028 [104/301] for code: TREAT4U
+2026-10-31 12:44:35 - 181663028 - Result: Successfully redeemed
+2026-10-31 12:44:36 - Processing K1266-181669304 [105/301] for code: TREAT4U
+2026-10-31 12:44:36 - 181669304 - Result: Successfully redeemed
+2026-10-31 12:44:37 - Processing K1266-181712653 [106/301] for code: TREAT4U
+2026-10-31 12:44:38 - 181712653 - Result: Successfully redeemed
+2026-10-31 12:44:39 - Processing K1266-181728933 [107/301] for code: TREAT4U
+2026-10-31 12:44:39 - 181728933 - Result: Successfully redeemed
+2026-10-31 12:44:40 - Processing K1266-181734398 [108/301] for code: TREAT4U
+2026-10-31 12:44:40 - 181734398 - Result: Successfully redeemed
+2026-10-31 12:44:42 - Processing K1266-181761437 [109/301] for code: TREAT4U
+2026-10-31 12:44:42 - 181761437 - Result: Successfully redeemed
+2026-10-31 12:44:43 - Processing K1266-181778389 [110/301] for code: TREAT4U
+2026-10-31 12:44:43 - 181778389 - Result: Successfully redeemed
+2026-10-31 12:44:44 - Processing K1266-181793958 [111/301] for code: TREAT4U
+2026-10-31 12:44:44 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-31 12:44:49 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-31 12:44:57 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-31 12:45:09 - 181793958 - Result: Redemption request failed
+2026-10-31 12:45:10 - Processing K1266-181794115 [112/301] for code: TREAT4U
+2026-10-31 12:45:10 - 181794115 - Result: Successfully redeemed
+2026-10-31 12:45:11 - Processing K1266-181816445 [113/301] for code: TREAT4U
+2026-10-31 12:45:11 - 181816445 - Result: Successfully redeemed
+2026-10-31 12:45:12 - Processing K1266-181859892 [114/301] for code: TREAT4U
+2026-10-31 12:45:13 - 181859892 - Result: Successfully redeemed
+2026-10-31 12:45:14 - Processing K1266-181859948 [115/301] for code: TREAT4U
+2026-10-31 12:45:14 - 181859948 - Result: Successfully redeemed
+2026-10-31 12:45:15 - Processing K1266-181860239 [116/301] for code: TREAT4U
+2026-10-31 12:45:15 - 181860239 - Result: Successfully redeemed
+2026-10-31 12:45:16 - Processing K1266-181860336 [117/301] for code: TREAT4U
+2026-10-31 12:45:17 - 181860336 - Result: Successfully redeemed
+2026-10-31 12:45:18 - Processing K1266-181882185 [118/301] for code: TREAT4U
+2026-10-31 12:45:18 - 181882185 - Result: Successfully redeemed
+2026-10-31 12:45:19 - Processing K1266-181892750 [119/301] for code: TREAT4U
+2026-10-31 12:45:19 - 181892750 - Result: Successfully redeemed
+2026-10-31 12:45:20 - Processing K1266-181941995 [120/301] for code: TREAT4U
+2026-10-31 12:45:20 - 181941995 - Result: Already redeemed
+2026-10-31 12:45:22 - Processing K1266-181958341 [121/301] for code: TREAT4U
+2026-10-31 12:45:22 - 181958341 - Result: Successfully redeemed
+2026-10-31 12:45:23 - Processing K1266-181958534 [122/301] for code: TREAT4U
+2026-10-31 12:45:23 - 181958534 - Result: Successfully redeemed
+2026-10-31 12:45:25 - Processing K1266-182007379 [123/301] for code: TREAT4U
+2026-10-31 12:45:25 - 182007379 - Result: Successfully redeemed
+2026-10-31 12:45:26 - Processing K1266-182007601 [124/301] for code: TREAT4U
+2026-10-31 12:45:26 - 182007601 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-10-31 12:45:28 - 182007601 - Result: Successfully redeemed
+2026-10-31 12:45:30 - Processing K1266-182013382 [125/301] for code: TREAT4U
+2026-10-31 12:45:30 - 182013382 - Result: Successfully redeemed
+2026-10-31 12:45:31 - Processing K1266-182022970 [126/301] for code: TREAT4U
+2026-10-31 12:45:31 - 182022970 - Result: Successfully redeemed
+2026-10-31 12:45:33 - Processing K1266-182046115 [127/301] for code: TREAT4U
+2026-10-31 12:45:33 - 182046115 - Result: Successfully redeemed
+2026-10-31 12:45:34 - Processing K1266-182072645 [128/301] for code: TREAT4U
+2026-10-31 12:45:34 - 182072645 - Result: Successfully redeemed
+2026-10-31 12:45:35 - Processing K1266-182144355 [129/301] for code: TREAT4U
+2026-10-31 12:45:35 - 182144355 - Result: Successfully redeemed
+2026-10-31 12:45:37 - Processing K1266-182203508 [130/301] for code: TREAT4U
+2026-10-31 12:45:37 - 182203508 - Result: Successfully redeemed
+2026-10-31 12:45:38 - Processing K1266-182203900 [131/301] for code: TREAT4U
+2026-10-31 12:45:38 - 182203900 - Result: Successfully redeemed
+2026-10-31 12:45:40 - Processing K1266-182203950 [132/301] for code: TREAT4U
+2026-10-31 12:45:40 - 182203950 - Result: Successfully redeemed
+2026-10-31 12:45:41 - Processing K1266-182220585 [133/301] for code: TREAT4U
+2026-10-31 12:45:41 - 182220585 - Result: Successfully redeemed
+2026-10-31 12:45:42 - Processing K1266-182269737 [134/301] for code: TREAT4U
+2026-10-31 12:45:42 - 182269737 - Result: Successfully redeemed
+2026-10-31 12:45:44 - Processing K1266-182286440 [135/301] for code: TREAT4U
+2026-10-31 12:45:44 - 182286440 - Result: Successfully redeemed
+2026-10-31 12:45:45 - Processing K1266-182302366 [136/301] for code: TREAT4U
+2026-10-31 12:45:45 - 182302366 - Result: Successfully redeemed
+2026-10-31 12:45:47 - Processing K1266-182318888 [137/301] for code: TREAT4U
+2026-10-31 12:45:47 - 182318888 - Result: Successfully redeemed
+2026-10-31 12:45:48 - Processing K1266-182318992 [138/301] for code: TREAT4U
+2026-10-31 12:45:48 - 182318992 - Result: Successfully redeemed
+2026-10-31 12:45:49 - Processing K1266-182334781 [139/301] for code: TREAT4U
+2026-10-31 12:45:49 - 182334781 - Result: Successfully redeemed
+2026-10-31 12:45:51 - Processing K1266-182384322 [140/301] for code: TREAT4U
+2026-10-31 12:45:51 - 182384322 - Result: Successfully redeemed
+2026-10-31 12:45:52 - Processing K1266-182390223 [141/301] for code: TREAT4U
+2026-10-31 12:45:52 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-31 12:45:56 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-31 12:46:04 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-31 12:46:16 - 182390223 - Result: Redemption request failed
+2026-10-31 12:46:18 - Processing K1266-182449206 [142/301] for code: TREAT4U
+2026-10-31 12:46:18 - 182449206 - Result: Successfully redeemed
+2026-10-31 12:46:19 - Processing K1266-182450074 [143/301] for code: TREAT4U
+2026-10-31 12:46:19 - 182450074 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-10-31 12:46:21 - 182450074 - Result: Successfully redeemed
+2026-10-31 12:46:22 - Processing K1266-182466031 [144/301] for code: TREAT4U
+2026-10-31 12:46:23 - 182466031 - Result: Successfully redeemed
+2026-10-31 12:46:24 - Processing K1266-182472038 [145/301] for code: TREAT4U
+2026-10-31 12:46:24 - 182472038 - Result: Successfully redeemed
+2026-10-31 12:46:25 - Processing K1266-182488759 [146/301] for code: TREAT4U
+2026-10-31 12:46:25 - 182488759 - Result: Successfully redeemed
+2026-10-31 12:46:26 - Processing K1266-182531700 [147/301] for code: TREAT4U
+2026-10-31 12:46:27 - 182531700 - Result: Successfully redeemed
+2026-10-31 12:46:28 - Processing K1266-182548386 [148/301] for code: TREAT4U
+2026-10-31 12:46:28 - 182548386 - Result: Successfully redeemed
+2026-10-31 12:46:29 - Processing K1266-182646613 [149/301] for code: TREAT4U
+2026-10-31 12:46:29 - 182646613 - Result: Successfully redeemed
+2026-10-31 12:46:31 - Processing K1266-182668737 [150/301] for code: TREAT4U
+2026-10-31 12:46:31 - 182668737 - Result: Successfully redeemed
+2026-10-31 12:46:32 - Processing K1266-182679587 [151/301] for code: TREAT4U
+2026-10-31 12:46:32 - 182679587 - Result: Successfully redeemed
+2026-10-31 12:46:34 - Processing K1266-182717899 [152/301] for code: TREAT4U
+2026-10-31 12:46:34 - 182717899 - Result: Successfully redeemed
+2026-10-31 12:46:35 - Processing K1266-182767010 [153/301] for code: TREAT4U
+2026-10-31 12:46:35 - 182767010 - Result: Successfully redeemed
+2026-10-31 12:46:36 - Processing K1266-182810221 [154/301] for code: TREAT4U
+2026-10-31 12:46:37 - 182810221 - Result: Successfully redeemed
+2026-10-31 12:46:38 - Processing K1266-182842833 [155/301] for code: TREAT4U
+2026-10-31 12:46:38 - 182842833 - Result: Successfully redeemed
+2026-10-31 12:46:39 - Processing K1266-182848942 [156/301] for code: TREAT4U
+2026-10-31 12:46:39 - 182848942 - Result: Successfully redeemed
+2026-10-31 12:46:40 - Processing K1266-182849233 [157/301] for code: TREAT4U
+2026-10-31 12:46:41 - 182849233 - Result: Successfully redeemed
+2026-10-31 12:46:42 - Processing K1266-182858998 [158/301] for code: TREAT4U
+2026-10-31 12:46:42 - 182858998 - Result: Successfully redeemed
+2026-10-31 12:46:43 - Processing K1266-182859667 [159/301] for code: TREAT4U
+2026-10-31 12:46:43 - 182859667 - Result: Successfully redeemed
+2026-10-31 12:46:45 - Processing K1266-182892217 [160/301] for code: TREAT4U
+2026-10-31 12:46:45 - 182892217 - Result: Successfully redeemed
+2026-10-31 12:46:46 - Processing K1266-182898057 [161/301] for code: TREAT4U
+2026-10-31 12:46:46 - 182898057 - Result: Successfully redeemed
+2026-10-31 12:46:47 - Processing K1266-182908483 [162/301] for code: TREAT4U
+2026-10-31 12:46:48 - 182908483 - Result: Successfully redeemed
+2026-10-31 12:46:49 - Processing K1266-182941162 [163/301] for code: TREAT4U
+2026-10-31 12:46:49 - 182941162 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-10-31 12:46:51 - 182941162 - [Attempt 2/3] TIMEOUT RETRY. Retrying...
+2026-10-31 12:46:55 - 182941162 - Result: Successfully redeemed
+2026-10-31 12:46:57 - Processing K1266-182941502 [164/301] for code: TREAT4U
+2026-10-31 12:46:57 - 182941502 - Result: Successfully redeemed
+2026-10-31 12:46:58 - Processing K1266-182957878 [165/301] for code: TREAT4U
+2026-10-31 12:46:58 - 182957878 - Result: Successfully redeemed
+2026-10-31 12:46:59 - Processing K1266-182990423 [166/301] for code: TREAT4U
+2026-10-31 12:47:00 - 182990423 - Result: Successfully redeemed
+2026-10-31 12:47:01 - Processing K1266-183006892 [167/301] for code: TREAT4U
+2026-10-31 12:47:01 - 183006892 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-10-31 12:47:03 - 183006892 - Result: Successfully redeemed
+2026-10-31 12:47:04 - Processing K1266-183012848 [168/301] for code: TREAT4U
+2026-10-31 12:47:04 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-31 12:47:08 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-31 12:47:16 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-31 12:47:28 - 183012848 - Result: Redemption request failed
+2026-10-31 12:47:29 - Processing K1266-183028805 [169/301] for code: TREAT4U
+2026-10-31 12:47:30 - 183028805 - Result: Successfully redeemed
+2026-10-31 12:47:31 - Processing K1266-183029342 [170/301] for code: TREAT4U
+2026-10-31 12:47:31 - 183029342 - Result: Successfully redeemed
+2026-10-31 12:47:32 - Processing K1266-183039758 [171/301] for code: TREAT4U
+2026-10-31 12:47:32 - 183039758 - Result: Successfully redeemed
+2026-10-31 12:47:33 - Processing K1266-183072306 [172/301] for code: TREAT4U
+2026-10-31 12:47:33 - 183072306 - Result: Successfully redeemed
+2026-10-31 12:47:35 - Processing K1266-183072824 [173/301] for code: TREAT4U
+2026-10-31 12:47:35 - 183072824 - Result: Successfully redeemed
+2026-10-31 12:47:36 - Processing K1266-183089209 [174/301] for code: TREAT4U
+2026-10-31 12:47:36 - 183089209 - Result: Successfully redeemed
+2026-10-31 12:47:37 - Processing K1266-183104870 [175/301] for code: TREAT4U
+2026-10-31 12:47:37 - 183104870 - Result: Successfully redeemed
+2026-10-31 12:47:38 - Processing K1266-183121113 [176/301] for code: TREAT4U
+2026-10-31 12:47:39 - 183121113 - Result: Successfully redeemed
+2026-10-31 12:47:40 - Processing K1266-183137287 [177/301] for code: TREAT4U
+2026-10-31 12:47:40 - 183137287 - Result: Already redeemed
+2026-10-31 12:47:41 - Processing K1266-183154102 [178/301] for code: TREAT4U
+2026-10-31 12:47:42 - 183154102 - Result: Successfully redeemed
+2026-10-31 12:47:43 - Processing K1266-183154303 [179/301] for code: TREAT4U
+2026-10-31 12:47:43 - 183154303 - Result: Successfully redeemed
+2026-10-31 12:47:44 - Processing K1266-183154798 [180/301] for code: TREAT4U
+2026-10-31 12:47:45 - 183154798 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-10-31 12:47:47 - 183154798 - Result: Successfully redeemed
+2026-10-31 12:47:48 - Processing K1266-183170657 [181/301] for code: TREAT4U
+2026-10-31 12:47:48 - 183170657 - Result: Successfully redeemed
+2026-10-31 12:47:49 - Processing K1266-183176536 [182/301] for code: TREAT4U
+2026-10-31 12:47:49 - 183176536 - Result: Successfully redeemed
+2026-10-31 12:47:51 - Processing K1266-183219217 [183/301] for code: TREAT4U
+2026-10-31 12:47:51 - 183219217 - Result: Successfully redeemed
+2026-10-31 12:47:52 - Processing K1266-183219343 [184/301] for code: TREAT4U
+2026-10-31 12:47:52 - 183219343 - Result: Successfully redeemed
+2026-10-31 12:47:53 - Processing K1266-183285360 [185/301] for code: TREAT4U
+2026-10-31 12:47:54 - 183285360 - Result: Successfully redeemed
+2026-10-31 12:47:55 - Processing K1266-183317601 [186/301] for code: TREAT4U
+2026-10-31 12:47:55 - 183317601 - Result: Successfully redeemed
+2026-10-31 12:47:56 - Processing K1266-183350823 [187/301] for code: TREAT4U
+2026-10-31 12:47:56 - 183350823 - Result: Successfully redeemed
+2026-10-31 12:47:58 - Processing K1266-183366693 [188/301] for code: TREAT4U
+2026-10-31 12:47:58 - 183366693 - Result: Successfully redeemed
+2026-10-31 12:47:59 - Processing K1266-183367342 [189/301] for code: TREAT4U
+2026-10-31 12:47:59 - 183367342 - Result: Successfully redeemed
+2026-10-31 12:48:00 - Processing K1266-183383666 [190/301] for code: TREAT4U
+2026-10-31 12:48:00 - 183383666 - Result: Successfully redeemed
+2026-10-31 12:48:02 - Processing K1266-183384158 [191/301] for code: TREAT4U
+2026-10-31 12:48:02 - 183384158 - Result: Successfully redeemed
+2026-10-31 12:48:03 - Processing K1266-183455373 [192/301] for code: TREAT4U
+2026-10-31 12:48:03 - 183455373 - Result: Successfully redeemed
+2026-10-31 12:48:05 - Processing K1266-183531242 [193/301] for code: TREAT4U
+2026-10-31 12:48:05 - 183531242 - Result: Successfully redeemed
+2026-10-31 12:48:06 - Processing K1266-183563334 [194/301] for code: TREAT4U
+2026-10-31 12:48:06 - 183563334 - Result: Successfully redeemed
+2026-10-31 12:48:07 - Processing K1266-183579641 [195/301] for code: TREAT4U
+2026-10-31 12:48:07 - 183579641 - Result: Successfully redeemed
+2026-10-31 12:48:08 - Processing K1266-183602956 [196/301] for code: TREAT4U
+2026-10-31 12:48:08 - 183602956 - Result: Successfully redeemed
+2026-10-31 12:48:10 - Processing K1266-183635567 [197/301] for code: TREAT4U
+2026-10-31 12:48:10 - 183635567 - Result: Successfully redeemed
+2026-10-31 12:48:11 - Processing K1266-183662249 [198/301] for code: TREAT4U
+2026-10-31 12:48:11 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-31 12:48:15 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-31 12:48:23 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-31 12:48:35 - 183662249 - Result: Redemption request failed
+2026-10-31 12:48:37 - Processing K1266-183695044 [199/301] for code: TREAT4U
+2026-10-31 12:48:37 - 183695044 - Result: Successfully redeemed
+2026-10-31 12:48:38 - Processing K1266-183744074 [200/301] for code: TREAT4U
+2026-10-31 12:48:38 - 183744074 - Result: Successfully redeemed
+2026-10-31 12:48:39 - Processing K1266-183760133 [201/301] for code: TREAT4U
+2026-10-31 12:48:40 - 183760133 - Result: Successfully redeemed
+2026-10-31 12:48:41 - Processing K1266-183776526 [202/301] for code: TREAT4U
+2026-10-31 12:48:41 - 183776526 - Result: Successfully redeemed
+2026-10-31 12:48:42 - Processing K1266-183793260 [203/301] for code: TREAT4U
+2026-10-31 12:48:42 - 183793260 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-10-31 12:48:45 - 183793260 - Result: Successfully redeemed
+2026-10-31 12:48:46 - Processing K1266-183799231 [204/301] for code: TREAT4U
+2026-10-31 12:48:46 - 183799231 - Result: Successfully redeemed
+2026-10-31 12:48:47 - Processing K1266-183809202 [205/301] for code: TREAT4U
+2026-10-31 12:48:48 - 183809202 - Result: Successfully redeemed
+2026-10-31 12:48:49 - Processing K1266-183826046 [206/301] for code: TREAT4U
+2026-10-31 12:48:49 - 183826046 - Result: Successfully redeemed
+2026-10-31 12:48:50 - Processing K1266-183826079 [207/301] for code: TREAT4U
+2026-10-31 12:48:50 - 183826079 - Result: Successfully redeemed
+2026-10-31 12:48:52 - Processing K1266-183826363 [208/301] for code: TREAT4U
+2026-10-31 12:48:52 - 183826363 - Result: Successfully redeemed
+2026-10-31 12:48:53 - Processing K1266-183842707 [209/301] for code: TREAT4U
+2026-10-31 12:48:53 - 183842707 - Result: Successfully redeemed
+2026-10-31 12:48:54 - Processing K1266-183858943 [210/301] for code: TREAT4U
+2026-10-31 12:48:54 - 183858943 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-10-31 12:48:56 - 183858943 - Result: Successfully redeemed
+2026-10-31 12:48:58 - Processing K1266-183859043 [211/301] for code: TREAT4U
+2026-10-31 12:48:58 - 183859043 - Result: Successfully redeemed
+2026-10-31 12:48:59 - Processing K1266-183864332 [212/301] for code: TREAT4U
+2026-10-31 12:48:59 - 183864332 - Result: Successfully redeemed
+2026-10-31 12:49:01 - Processing K1266-183897678 [213/301] for code: TREAT4U
+2026-10-31 12:49:01 - 183897678 - Result: Successfully redeemed
+2026-10-31 12:49:02 - Processing K1266-183907791 [214/301] for code: TREAT4U
+2026-10-31 12:49:02 - 183907791 - Result: Successfully redeemed
+2026-10-31 12:49:03 - Processing K1266-183907855 [215/301] for code: TREAT4U
+2026-10-31 12:49:03 - 183907855 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-10-31 12:49:05 - 183907855 - Result: Successfully redeemed
+2026-10-31 12:49:06 - Processing K1266-183924658 [216/301] for code: TREAT4U
+2026-10-31 12:49:06 - 183924658 - Result: Successfully redeemed
+2026-10-31 12:49:08 - Processing K1266-183924660 [217/301] for code: TREAT4U
+2026-10-31 12:49:08 - 183924660 - Result: Successfully redeemed
+2026-10-31 12:49:09 - Processing K1266-183940809 [218/301] for code: TREAT4U
+2026-10-31 12:49:09 - 183940809 - Result: Successfully redeemed
+2026-10-31 12:49:11 - Processing K1266-183946385 [219/301] for code: TREAT4U
+2026-10-31 12:49:11 - 183946385 - Result: Successfully redeemed
+2026-10-31 12:49:12 - Processing K1266-183946804 [220/301] for code: TREAT4U
+2026-10-31 12:49:12 - 183946804 - Result: Successfully redeemed
+2026-10-31 12:49:14 - Processing K1266-183996371 [221/301] for code: TREAT4U
+2026-10-31 12:49:14 - 183996371 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-10-31 12:49:16 - 183996371 - Result: Successfully redeemed
+2026-10-31 12:49:17 - Processing K1266-184005794 [222/301] for code: TREAT4U
+2026-10-31 12:49:17 - 184005794 - Result: Successfully redeemed
+2026-10-31 12:49:19 - Processing K1266-184022781 [223/301] for code: TREAT4U
+2026-10-31 12:49:19 - 184022781 - Result: Successfully redeemed
+2026-10-31 12:49:20 - Processing K1266-184038545 [224/301] for code: TREAT4U
+2026-10-31 12:49:20 - 184038545 - Result: Successfully redeemed
+2026-10-31 12:49:21 - Processing K1266-184071743 [225/301] for code: TREAT4U
+2026-10-31 12:49:21 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-31 12:49:25 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-31 12:49:34 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-31 12:49:46 - 184071743 - Result: Redemption request failed
+2026-10-31 12:49:47 - Processing K1266-184088377 [226/301] for code: TREAT4U
+2026-10-31 12:49:47 - 184088377 - Result: Successfully redeemed
+2026-10-31 12:49:48 - Processing K1266-184137674 [227/301] for code: TREAT4U
+2026-10-31 12:49:48 - 184137674 - Result: Successfully redeemed
+2026-10-31 12:49:49 - Processing K1266-184159552 [228/301] for code: TREAT4U
+2026-10-31 12:49:50 - 184159552 - Result: Successfully redeemed
+2026-10-31 12:49:51 - Processing K1266-184169916 [229/301] for code: TREAT4U
+2026-10-31 12:49:51 - 184169916 - Result: Successfully redeemed
+2026-10-31 12:49:52 - Processing K1266-184170263 [230/301] for code: TREAT4U
+2026-10-31 12:49:52 - 184170263 - Result: Successfully redeemed
+2026-10-31 12:49:53 - Processing K1266-184175883 [231/301] for code: TREAT4U
+2026-10-31 12:49:53 - 184175883 - Result: Successfully redeemed
+2026-10-31 12:49:55 - Processing K1266-184186546 [232/301] for code: TREAT4U
+2026-10-31 12:49:55 - 184186546 - Result: Successfully redeemed
+2026-10-31 12:49:56 - Processing K1266-184202442 [233/301] for code: TREAT4U
+2026-10-31 12:49:56 - 184202442 - Result: Successfully redeemed
+2026-10-31 12:49:57 - Processing K1266-184202684 [234/301] for code: TREAT4U
+2026-10-31 12:49:57 - 184202684 - Result: Successfully redeemed
+2026-10-31 12:49:58 - Processing K1266-184219240 [235/301] for code: TREAT4U
+2026-10-31 12:49:59 - 184219240 - Result: Successfully redeemed
+2026-10-31 12:50:00 - Processing K1266-184252103 [236/301] for code: TREAT4U
+2026-10-31 12:50:00 - 184252103 - Result: Successfully redeemed
+2026-10-31 12:50:01 - Processing K1266-184257548 [237/301] for code: TREAT4U
+2026-10-31 12:50:01 - 184257548 - Result: Successfully redeemed
+2026-10-31 12:50:02 - Processing K1266-184268236 [238/301] for code: TREAT4U
+2026-10-31 12:50:02 - 184268236 - Result: Successfully redeemed
+2026-10-31 12:50:04 - Processing K1266-184268332 [239/301] for code: TREAT4U
+2026-10-31 12:50:04 - 184268332 - Result: Successfully redeemed
+2026-10-31 12:50:05 - Processing K1266-184285099 [240/301] for code: TREAT4U
+2026-10-31 12:50:05 - 184285099 - Result: Successfully redeemed
+2026-10-31 12:50:06 - Processing K1266-184300583 [241/301] for code: TREAT4U
+2026-10-31 12:50:06 - 184300583 - Result: Successfully redeemed
+2026-10-31 12:50:08 - Processing K1266-184301120 [242/301] for code: TREAT4U
+2026-10-31 12:50:08 - 184301120 - Result: Successfully redeemed
+2026-10-31 12:50:09 - Processing K1266-184301482 [243/301] for code: TREAT4U
+2026-10-31 12:50:09 - 184301482 - Result: Successfully redeemed
+2026-10-31 12:50:11 - Processing K1266-184306709 [244/301] for code: TREAT4U
+2026-10-31 12:50:11 - 184306709 - Result: Successfully redeemed
+2026-10-31 12:50:12 - Processing K1266-184323165 [245/301] for code: TREAT4U
+2026-10-31 12:50:12 - 184323165 - Result: Successfully redeemed
+2026-10-31 12:50:14 - Processing K1266-184334160 [246/301] for code: TREAT4U
+2026-10-31 12:50:14 - 184334160 - Result: Successfully redeemed
+2026-10-31 12:50:15 - Processing K1266-184334326 [247/301] for code: TREAT4U
+2026-10-31 12:50:15 - 184334326 - Result: Successfully redeemed
+2026-10-31 12:50:17 - Processing K1266-184355782 [248/301] for code: TREAT4U
+2026-10-31 12:50:17 - 184355782 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-10-31 12:50:19 - 184355782 - Result: Successfully redeemed
+2026-10-31 12:50:20 - Processing K1266-184355850 [249/301] for code: TREAT4U
+2026-10-31 12:50:20 - 184355850 - Result: Successfully redeemed
+2026-10-31 12:50:22 - Processing K1266-184366301 [250/301] for code: TREAT4U
+2026-10-31 12:50:22 - 184366301 - Result: Successfully redeemed
+2026-10-31 12:50:23 - Processing K1266-184398957 [251/301] for code: TREAT4U
+2026-10-31 12:50:23 - 184398957 - Result: Successfully redeemed
+2026-10-31 12:50:25 - Processing K1266-184431865 [252/301] for code: TREAT4U
+2026-10-31 12:50:25 - 184431865 - Result: Successfully redeemed
+2026-10-31 12:50:26 - Processing K1266-184448668 [253/301] for code: TREAT4U
+2026-10-31 12:50:26 - 184448668 - Result: Successfully redeemed
+2026-10-31 12:50:27 - Processing K1266-185122678 [254/301] for code: TREAT4U
+2026-10-31 12:50:27 - 185122678 - Result: Successfully redeemed
+2026-10-31 12:50:29 - Processing K1266-185480245 [255/301] for code: TREAT4U
+2026-10-31 12:50:29 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-31 12:50:33 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-31 12:50:41 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-31 12:50:53 - 185480245 - Result: Redemption request failed
+2026-10-31 12:50:54 - Processing K1266-187102768 [256/301] for code: TREAT4U
+2026-10-31 12:50:54 - 187102768 - Result: Successfully redeemed
+2026-10-31 12:50:56 - Processing K1266-187115851 [257/301] for code: TREAT4U
+2026-10-31 12:50:56 - 187115851 - Result: Successfully redeemed
+2026-10-31 12:50:57 - Processing K1266-188087741 [258/301] for code: TREAT4U
+2026-10-31 12:50:57 - 188087741 - Result: Successfully redeemed
+2026-10-31 12:50:58 - Processing K1266-188470196 [259/301] for code: TREAT4U
+2026-10-31 12:50:58 - 188470196 - Result: Successfully redeemed
+2026-10-31 12:51:00 - Processing K1266-188862376 [260/301] for code: TREAT4U
+2026-10-31 12:51:00 - 188862376 - Result: Successfully redeemed
+2026-10-31 12:51:01 - Processing K1266-190234418 [261/301] for code: TREAT4U
+2026-10-31 12:51:01 - 190234418 - Result: Successfully redeemed
+2026-10-31 12:51:03 - Processing K1266-190573918 [262/301] for code: TREAT4U
+2026-10-31 12:51:03 - 190573918 - Result: Successfully redeemed
+2026-10-31 12:51:04 - Processing K1266-191129295 [263/301] for code: TREAT4U
+2026-10-31 12:51:04 - 191129295 - Result: Successfully redeemed
+2026-10-31 12:51:06 - Processing K1266-192400838 [264/301] for code: TREAT4U
+2026-10-31 12:51:06 - 192400838 - Result: Successfully redeemed
+2026-10-31 12:51:07 - Processing K1266-193616382 [265/301] for code: TREAT4U
+2026-10-31 12:51:07 - 193616382 - Result: Successfully redeemed
+2026-10-31 12:51:08 - Processing K1266-194020665 [266/301] for code: TREAT4U
+2026-10-31 12:51:08 - 194020665 - Result: Successfully redeemed
+2026-10-31 12:51:10 - Processing K1266-194962807 [267/301] for code: TREAT4U
+2026-10-31 12:51:10 - 194962807 - Result: Successfully redeemed
+2026-10-31 12:51:11 - Processing K1266-196209781 [268/301] for code: TREAT4U
+2026-10-31 12:51:11 - 196209781 - Result: Already redeemed
+2026-10-31 12:51:12 - Processing K1266-197077736 [269/301] for code: TREAT4U
+2026-10-31 12:51:13 - 197077736 - Result: Successfully redeemed
+2026-10-31 12:51:14 - Processing K1266-197748881 [270/301] for code: TREAT4U
+2026-10-31 12:51:14 - 197748881 - Result: Successfully redeemed
+2026-10-31 12:51:15 - Processing K1266-198971997 [271/301] for code: TREAT4U
+2026-10-31 12:51:15 - 198971997 - Result: Successfully redeemed
+2026-10-31 12:51:16 - Processing K1266-199766078 [272/301] for code: TREAT4U
+2026-10-31 12:51:17 - 199766078 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-10-31 12:51:19 - 199766078 - Result: Successfully redeemed
+2026-10-31 12:51:20 - Processing K1266-202789741 [273/301] for code: TREAT4U
+2026-10-31 12:51:20 - 202789741 - Result: Successfully redeemed
+2026-10-31 12:51:21 - Processing K1266-208458805 [274/301] for code: TREAT4U
+2026-10-31 12:51:22 - 208458805 - Result: Successfully redeemed
+2026-10-31 12:51:23 - Processing K1266-208469366 [275/301] for code: TREAT4U
+2026-10-31 12:51:23 - 208469366 - Result: Successfully redeemed
+2026-10-31 12:51:24 - Processing K1266-209741428 [276/301] for code: TREAT4U
+2026-10-31 12:51:24 - 209741428 - Result: Successfully redeemed
+2026-10-31 12:51:25 - Processing K1266-215719460 [277/301] for code: TREAT4U
+2026-10-31 12:51:26 - 215719460 - Result: Successfully redeemed
+2026-10-31 12:51:27 - Processing K1266-216820126 [278/301] for code: TREAT4U
+2026-10-31 12:51:27 - 216820126 - Result: Successfully redeemed
+2026-10-31 12:51:28 - Processing K1266-219382121 [279/301] for code: TREAT4U
+2026-10-31 12:51:28 - 219382121 - Result: Successfully redeemed
+2026-10-31 12:51:30 - Processing K1266-221309318 [280/301] for code: TREAT4U
+2026-10-31 12:51:30 - 221309318 - Result: Successfully redeemed
+2026-10-31 12:51:31 - Processing K1266-221445787 [281/301] for code: TREAT4U
+2026-10-31 12:51:31 - 221445787 - Result: Successfully redeemed
+2026-10-31 12:51:32 - Processing K1266-221883902 [282/301] for code: TREAT4U
+2026-10-31 12:51:32 - 221883902 - Result: Successfully redeemed
+2026-10-31 12:51:34 - Processing K1266-226209236 [283/301] for code: TREAT4U
+2026-10-31 12:51:34 - 226209236 - Result: Successfully redeemed
+2026-10-31 12:51:35 - Processing K1266-226703897 [284/301] for code: TREAT4U
+2026-10-31 12:51:35 - 226703897 - Result: Successfully redeemed
+2026-10-31 12:51:36 - Processing K1266-227970815 [285/301] for code: TREAT4U
+2026-10-31 12:51:36 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-31 12:51:40 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-31 12:51:48 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-10-31 12:52:00 - 227970815 - Result: Redemption request failed
+2026-10-31 12:52:02 - Processing K1266-232510086 [286/301] for code: TREAT4U
+2026-10-31 12:52:02 - 232510086 - Result: Successfully redeemed
+2026-10-31 12:52:03 - Processing K1266-239065229 [287/301] for code: TREAT4U
+2026-10-31 12:52:03 - 239065229 - Result: Successfully redeemed
+2026-10-31 12:52:04 - Processing K1266-240864609 [288/301] for code: TREAT4U
+2026-10-31 12:52:04 - 240864609 - Result: Successfully redeemed
+2026-10-31 12:52:05 - Processing K1266-247760465 [289/301] for code: TREAT4U
+2026-10-31 12:52:05 - 247760465 - Result: Successfully redeemed
+2026-10-31 12:52:07 - Processing K1266-264853160 [290/301] for code: TREAT4U
+2026-10-31 12:52:07 - 264853160 - Result: Successfully redeemed
+2026-10-31 12:52:08 - Processing K1266-270896390 [291/301] for code: TREAT4U
+2026-10-31 12:52:08 - 270896390 - Result: Successfully redeemed
+2026-10-31 12:52:09 - Processing K1266-279842790 [292/301] for code: TREAT4U
+2026-10-31 12:52:10 - 279842790 - Result: Successfully redeemed
+2026-10-31 12:52:11 - Processing K1266-286282880 [293/301] for code: TREAT4U
+2026-10-31 12:52:11 - 286282880 - Result: Successfully redeemed
+2026-10-31 12:52:12 - Processing K1266-290460722 [294/301] for code: TREAT4U
+2026-10-31 12:52:12 - 290460722 - Result: Successfully redeemed
+2026-10-31 12:52:13 - Processing K1266-300260967 [295/301] for code: TREAT4U
+2026-10-31 12:52:13 - 300260967 - Result: Successfully redeemed
+2026-10-31 12:52:14 - Processing K1266-302154974 [296/301] for code: TREAT4U
+2026-10-31 12:52:15 - 302154974 - Result: Successfully redeemed
+2026-10-31 12:52:16 - Processing K1266-305821193 [297/301] for code: TREAT4U
+2026-10-31 12:52:16 - 305821193 - Result: Successfully redeemed
+2026-10-31 12:52:17 - Processing K1266-378005527 [298/301] for code: TREAT4U
+2026-10-31 12:52:17 - 378005527 - Result: Successfully redeemed
+2026-10-31 12:52:18 - Processing K1266-378518775 [299/301] for code: TREAT4U
+2026-10-31 12:52:18 - 378518775 - Result: Successfully redeemed
+2026-10-31 12:52:20 - Processing K1266-381967745 [300/301] for code: TREAT4U
+2026-10-31 12:52:20 - 381967745 - Result: Successfully redeemed
+2026-10-31 12:52:21 - Processing K1266-402165713 [301/301] for code: TREAT4U
+2026-10-31 12:52:21 - 402165713 - Result: Successfully redeemed
+2026-10-31 12:52:23 - --- Cycle finished. Total processed: 301/301 ---
+2026-10-31 12:52:23 - 
+========================= Redemption Summary =========================
+2026-10-31 12:52:23 - Code Redeemed: TREAT4U
+2026-10-31 12:52:23 - Total Unique Player IDs Found: 301
+2026-10-31 12:52:23 - Total Player IDs Processed: 301
+2026-10-31 12:52:23 - Successfully redeemed: 286
+2026-10-31 12:52:23 - Already redeemed: 4
+2026-10-31 12:52:23 - Wrong kingdom: 1
+2026-10-31 12:52:23 - Other Errors/Failures: 10
+2026-10-31 12:52:23 - Rate Limit Events: 0
+2026-10-31 12:52:23 - Total execution time: 0:11:51
+2026-10-31 12:52:23 - ======================================================================
+2026-10-31 12:52:23 - Marked 'TREAT4U' as known.
+
