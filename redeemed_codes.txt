@@ -44271,3 +44271,689 @@
 2026-11-08 15:08:58 - Rate Limit Events: 0
 2026-11-08 15:08:58 - Total execution time: 00:10:36
 2026-11-08 15:08:58 - ======================================================================
+2026-11-08 16:18:08 - Starting auto gift code redeemer...
+2026-11-08 16:18:08 - Checking multiple sources for new gift codes...
+2026-11-08 16:18:08 -   [kingshot.net] Fetching https://kingshot.net/gift-codes...
+2026-11-08 16:18:08 -   [kingshot.net] Found 4 codes using selector: code.font-num.font-bold.text-cyan
+2026-11-08 16:18:08 -   [kingshot.net] contributed 4 codes
+2026-11-08 16:18:08 -   [kingshotmastery.com] Fetching https://kingshotmastery.com/gift-codes...
+2026-11-08 16:18:09 -   [kingshotmastery.com] Found 3 codes from JSON-LD structured data
+2026-11-08 16:18:09 -   [kingshotmastery.com] contributed 3 codes
+2026-11-08 16:18:09 - Fetched 4 total codes from all sources.
+2026-11-08 16:18:09 - Found 2 new codes.
+2026-11-08 16:18:09 - 
+🎉 NEW GIFT CODES FOUND: FORTHEKINGDOM, KS1104
+2026-11-08 16:18:09 - Read 300 player IDs from lod.csv (300 with a kingdom)
+2026-11-08 16:18:09 - Total unique player IDs to process: 300
+2026-11-08 16:18:09 - 
+=== Starting redemption for gift code: FORTHEKINGDOM ===
+2026-11-08 16:18:09 - Total unique player IDs to process: 300
+2026-11-08 16:18:09 - 
+--- Starting processing cycle. Ready player IDs: 300 ---
+2026-11-08 16:18:09 - Processing K1266-112607487 [1/300] for code: FORTHEKINGDOM
+2026-11-08 16:18:09 - 112607487 - Result: Successfully redeemed
+2026-11-08 16:18:10 - Processing K1266-134948830 [2/300] for code: FORTHEKINGDOM
+2026-11-08 16:18:10 - 134948830 - Result: Successfully redeemed
+2026-11-08 16:18:11 - Processing K1266-137354109 [3/300] for code: FORTHEKINGDOM
+2026-11-08 16:18:11 - 137354109 - Result: Successfully redeemed
+2026-11-08 16:18:13 - Processing K1266-137881550 [4/300] for code: FORTHEKINGDOM
+2026-11-08 16:18:13 - 137881550 - Result: Successfully redeemed
+2026-11-08 16:18:14 - Processing K1266-138078147 [5/300] for code: FORTHEKINGDOM
+2026-11-08 16:18:14 - 138078147 - Result: Successfully redeemed
+2026-11-08 16:18:15 - Processing K1266-159437876 [6/300] for code: FORTHEKINGDOM
+2026-11-08 16:18:15 - 159437876 - Result: Successfully redeemed
+2026-11-08 16:18:17 - Processing K1266-160961411 [7/300] for code: FORTHEKINGDOM
+2026-11-08 16:18:17 - 160961411 - Result: Successfully redeemed
+2026-11-08 16:18:18 - Processing K1266-160977214 [8/300] for code: FORTHEKINGDOM
+2026-11-08 16:18:18 - 160977214 - Result: Successfully redeemed
+2026-11-08 16:18:19 - Processing K1266-161223459 [9/300] for code: FORTHEKINGDOM
+2026-11-08 16:18:19 - 161223459 - Result: Successfully redeemed
+2026-11-08 16:18:20 - Processing K1266-161321233 [10/300] for code: FORTHEKINGDOM
+2026-11-08 16:18:20 - 161321233 - Result: Successfully redeemed
+2026-11-08 16:18:22 - Processing K1266-161387367 [11/300] for code: FORTHEKINGDOM
+2026-11-08 16:18:22 - 161387367 - Result: Successfully redeemed
+2026-11-08 16:18:23 - Processing K1266-161616297 [12/300] for code: FORTHEKINGDOM
+2026-11-08 16:18:23 - 161616297 - Result: Successfully redeemed
+2026-11-08 16:18:24 - Processing K1266-162042375 [13/300] for code: FORTHEKINGDOM
+2026-11-08 16:18:24 - 162042375 - Result: Successfully redeemed
+2026-11-08 16:18:25 - Processing K1266-162402979 [14/300] for code: FORTHEKINGDOM
+2026-11-08 16:18:25 - 162402979 - Result: Successfully redeemed
+2026-11-08 16:18:27 - Processing K1266-162910751 [15/300] for code: FORTHEKINGDOM
+2026-11-08 16:18:27 - 162910751 - Result: Successfully redeemed
+2026-11-08 16:18:28 - Processing K1266-163042051 [16/300] for code: FORTHEKINGDOM
+2026-11-08 16:18:28 - 163042051 - Result: Successfully redeemed
+2026-11-08 16:18:29 - Processing K1266-176448172 [17/300] for code: FORTHEKINGDOM
+2026-11-08 16:18:29 - 176448172 - Result: Successfully redeemed
+2026-11-08 16:18:30 - Processing K1266-176742470 [18/300] for code: FORTHEKINGDOM
+2026-11-08 16:18:30 - 176742470 - Result: Successfully redeemed
+2026-11-08 16:18:32 - Processing K1266-176939042 [19/300] for code: FORTHEKINGDOM
+2026-11-08 16:18:32 - 176939042 - Result: Successfully redeemed
+2026-11-08 16:18:33 - Processing K1266-177004482 [20/300] for code: FORTHEKINGDOM
+2026-11-08 16:18:33 - 177004482 - Result: Successfully redeemed
+2026-11-08 16:18:34 - Processing K1266-177430530 [21/300] for code: FORTHEKINGDOM
+2026-11-08 16:18:34 - 177430530 - Result: Successfully redeemed
+2026-11-08 16:18:35 - Processing K1266-177594975 [22/300] for code: FORTHEKINGDOM
+2026-11-08 16:18:36 - 177594975 - Result: Successfully redeemed
+2026-11-08 16:18:37 - Processing K1266-177643662 [23/300] for code: FORTHEKINGDOM
+2026-11-08 16:18:37 - 177643662 - Result: Successfully redeemed
+2026-11-08 16:18:38 - Processing K1266-177741835 [24/300] for code: FORTHEKINGDOM
+2026-11-08 16:18:38 - 177741835 - Result: Successfully redeemed
+2026-11-08 16:18:39 - Processing K1266-177758431 [25/300] for code: FORTHEKINGDOM
+2026-11-08 16:18:39 - 177758431 - Result: Successfully redeemed
+2026-11-08 16:18:40 - Processing K1266-177889207 [26/300] for code: FORTHEKINGDOM
+2026-11-08 16:18:40 - 177889207 - Result: Successfully redeemed
+2026-11-08 16:18:41 - Processing K1266-177889304 [27/300] for code: FORTHEKINGDOM
+2026-11-08 16:18:42 - 177889304 - Result: Successfully redeemed
+2026-11-08 16:18:43 - Processing K1266-178003863 [28/300] for code: FORTHEKINGDOM
+2026-11-08 16:18:43 - 178003863 - Result: Successfully redeemed
+2026-11-08 16:18:44 - Processing K1266-178167737 [29/300] for code: FORTHEKINGDOM
+2026-11-08 16:18:45 - 178167737 - Result: Successfully redeemed
+2026-11-08 16:18:46 - Processing K1266-178282383 [30/300] for code: FORTHEKINGDOM
+2026-11-08 16:18:46 - 178282383 - Result: Already redeemed
+2026-11-08 16:18:47 - Processing K1266-178298638 [31/300] for code: FORTHEKINGDOM
+2026-11-08 16:18:47 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-08 16:18:51 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-08 16:18:59 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-08 16:19:11 - 178298638 - Result: Redemption request failed
+2026-11-08 16:19:12 - Processing K1266-178298685 [32/300] for code: FORTHEKINGDOM
+2026-11-08 16:19:12 - 178298685 - Result: Successfully redeemed
+2026-11-08 16:19:14 - Processing K1266-178828379 [33/300] for code: FORTHEKINGDOM
+2026-11-08 16:19:14 - 178828379 - Result: Successfully redeemed
+2026-11-08 16:19:15 - Processing K1266-178872530 [34/300] for code: FORTHEKINGDOM
+2026-11-08 16:19:15 - 178872530 - Result: Successfully redeemed
+2026-11-08 16:19:16 - Processing K1266-179107716 [35/300] for code: FORTHEKINGDOM
+2026-11-08 16:19:16 - 179107716 - Result: Successfully redeemed
+2026-11-08 16:19:18 - Processing K1266-179216885 [36/300] for code: FORTHEKINGDOM
+2026-11-08 16:19:18 - 179216885 - Result: Successfully redeemed
+2026-11-08 16:19:19 - Processing K1266-179479072 [37/300] for code: FORTHEKINGDOM
+2026-11-08 16:19:19 - 179479072 - Result: Successfully redeemed
+2026-11-08 16:19:21 - Processing K1266-179515454 [38/300] for code: FORTHEKINGDOM
+2026-11-08 16:19:21 - 179515454 - Result: Successfully redeemed
+2026-11-08 16:19:22 - Processing K1266-179675357 [39/300] for code: FORTHEKINGDOM
+2026-11-08 16:19:22 - 179675357 - Result: Successfully redeemed
+2026-11-08 16:19:23 - Processing K1266-179691958 [40/300] for code: FORTHEKINGDOM
+2026-11-08 16:19:23 - 179691958 - Result: Successfully redeemed
+2026-11-08 16:19:24 - Processing K1266-180368647 [41/300] for code: FORTHEKINGDOM
+2026-11-08 16:19:25 - 180368647 - Result: Successfully redeemed
+2026-11-08 16:19:26 - Processing K1266-180369109 [42/300] for code: FORTHEKINGDOM
+2026-11-08 16:19:26 - 180369109 - Result: Successfully redeemed
+2026-11-08 16:19:27 - Processing K1266-180369159 [43/300] for code: FORTHEKINGDOM
+2026-11-08 16:19:27 - 180369159 - Result: Successfully redeemed
+2026-11-08 16:19:29 - Processing K1266-180385375 [44/300] for code: FORTHEKINGDOM
+2026-11-08 16:19:29 - 180385375 - Result: Successfully redeemed
+2026-11-08 16:19:30 - Processing K1266-180385792 [45/300] for code: FORTHEKINGDOM
+2026-11-08 16:19:30 - 180385792 - Result: Successfully redeemed
+2026-11-08 16:19:31 - Processing K1266-180418498 [46/300] for code: FORTHEKINGDOM
+2026-11-08 16:19:31 - 180418498 - Result: Successfully redeemed
+2026-11-08 16:19:32 - Processing K1266-180434357 [47/300] for code: FORTHEKINGDOM
+2026-11-08 16:19:32 - 180434357 - Result: Successfully redeemed
+2026-11-08 16:19:34 - Processing K1266-180483302 [48/300] for code: FORTHEKINGDOM
+2026-11-08 16:19:34 - 180483302 - Result: Successfully redeemed
+2026-11-08 16:19:35 - Processing K1266-180565782 [49/300] for code: FORTHEKINGDOM
+2026-11-08 16:19:35 - 180565782 - Result: Successfully redeemed
+2026-11-08 16:19:36 - Processing K1266-180582116 [50/300] for code: FORTHEKINGDOM
+2026-11-08 16:19:36 - 180582116 - Result: Successfully redeemed
+2026-11-08 16:19:38 - Processing K1266-180588134 [51/300] for code: FORTHEKINGDOM
+2026-11-08 16:19:38 - 180588134 - Result: Successfully redeemed
+2026-11-08 16:19:39 - Processing K1266-180598416 [52/300] for code: FORTHEKINGDOM
+2026-11-08 16:19:39 - 180598416 - Result: Successfully redeemed
+2026-11-08 16:19:41 - Processing K1266-180614319 [53/300] for code: FORTHEKINGDOM
+2026-11-08 16:19:41 - 180614319 - Result: Successfully redeemed
+2026-11-08 16:19:42 - Processing K1266-180636958 [54/300] for code: FORTHEKINGDOM
+2026-11-08 16:19:42 - 180636958 - Result: Already redeemed
+2026-11-08 16:19:43 - Processing K1266-180647291 [55/300] for code: FORTHEKINGDOM
+2026-11-08 16:19:43 - 180647291 - Result: Already redeemed
+2026-11-08 16:19:44 - Processing K1266-180647824 [56/300] for code: FORTHEKINGDOM
+2026-11-08 16:19:44 - 180647824 - Result: Successfully redeemed
+2026-11-08 16:19:46 - Processing K1266-180669914 [57/300] for code: FORTHEKINGDOM
+2026-11-08 16:19:46 - 180669914 - Result: Successfully redeemed
+2026-11-08 16:19:47 - Processing K1266-180696652 [58/300] for code: FORTHEKINGDOM
+2026-11-08 16:19:47 - 180696652 - Result: Already redeemed
+2026-11-08 16:19:48 - Processing K1266-180729920 [59/300] for code: FORTHEKINGDOM
+2026-11-08 16:19:48 - 180729920 - Result: Successfully redeemed
+2026-11-08 16:19:49 - Processing K1266-180778760 [60/300] for code: FORTHEKINGDOM
+2026-11-08 16:19:49 - 180778760 - Result: Successfully redeemed
+2026-11-08 16:19:50 - Processing K1266-180779049 [61/300] for code: FORTHEKINGDOM
+2026-11-08 16:19:51 - 180779049 - Result: Successfully redeemed
+2026-11-08 16:19:52 - Processing K1266-180795047 [62/300] for code: FORTHEKINGDOM
+2026-11-08 16:19:52 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-08 16:19:56 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-08 16:20:04 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-08 16:20:16 - 180795047 - Result: Redemption request failed
+2026-11-08 16:20:17 - Processing K1266-180827986 [63/300] for code: FORTHEKINGDOM
+2026-11-08 16:20:17 - 180827986 - Result: Successfully redeemed
+2026-11-08 16:20:19 - Processing K1266-180893684 [64/300] for code: FORTHEKINGDOM
+2026-11-08 16:20:19 - 180893684 - Result: Successfully redeemed
+2026-11-08 16:20:20 - Processing K1266-180893765 [65/300] for code: FORTHEKINGDOM
+2026-11-08 16:20:20 - 180893765 - Result: Already redeemed
+2026-11-08 16:20:22 - Processing K1266-180909451 [66/300] for code: FORTHEKINGDOM
+2026-11-08 16:20:22 - 180909451 - Result: Successfully redeemed
+2026-11-08 16:20:23 - Processing K1266-180959009 [67/300] for code: FORTHEKINGDOM
+2026-11-08 16:20:23 - 180959009 - Result: Successfully redeemed
+2026-11-08 16:20:24 - Processing K1266-180975047 [68/300] for code: FORTHEKINGDOM
+2026-11-08 16:20:24 - 180975047 - Result: Successfully redeemed
+2026-11-08 16:20:25 - Processing K1266-181008488 [69/300] for code: FORTHEKINGDOM
+2026-11-08 16:20:25 - 181008488 - Result: Successfully redeemed
+2026-11-08 16:20:27 - Processing K1266-181024577 [70/300] for code: FORTHEKINGDOM
+2026-11-08 16:20:27 - 181024577 - Result: Already redeemed
+2026-11-08 16:20:28 - Processing K1266-181063111 [71/300] for code: FORTHEKINGDOM
+2026-11-08 16:20:28 - 181063111 - Result: Successfully redeemed
+2026-11-08 16:20:30 - Processing K1266-181089949 [72/300] for code: FORTHEKINGDOM
+2026-11-08 16:20:30 - 181089949 - Result: Successfully redeemed
+2026-11-08 16:20:31 - Processing K1266-181090100 [73/300] for code: FORTHEKINGDOM
+2026-11-08 16:20:31 - 181090100 - Result: Successfully redeemed
+2026-11-08 16:20:32 - Processing K1266-181106609 [74/300] for code: FORTHEKINGDOM
+2026-11-08 16:20:32 - 181106609 - Result: Successfully redeemed
+2026-11-08 16:20:34 - Processing K1266-181122260 [75/300] for code: FORTHEKINGDOM
+2026-11-08 16:20:34 - 181122260 - Result: Successfully redeemed
+2026-11-08 16:20:35 - Processing K1266-181139114 [76/300] for code: FORTHEKINGDOM
+2026-11-08 16:20:35 - 181139114 - Result: Successfully redeemed
+2026-11-08 16:20:37 - Processing K1266-181155772 [77/300] for code: FORTHEKINGDOM
+2026-11-08 16:20:37 - 181155772 - Result: Successfully redeemed
+2026-11-08 16:20:38 - Processing K1266-181171461 [78/300] for code: FORTHEKINGDOM
+2026-11-08 16:20:38 - 181171461 - Result: Successfully redeemed
+2026-11-08 16:20:39 - Processing K1266-181188977 [79/300] for code: FORTHEKINGDOM
+2026-11-08 16:20:39 - 181188977 - Result: Successfully redeemed
+2026-11-08 16:20:41 - Processing K1266-181340930 [80/300] for code: FORTHEKINGDOM
+2026-11-08 16:20:41 - 181340930 - Result: Successfully redeemed
+2026-11-08 16:20:42 - Processing K1266-181351852 [81/300] for code: FORTHEKINGDOM
+2026-11-08 16:20:42 - 181351852 - Result: Successfully redeemed
+2026-11-08 16:20:43 - Processing K1266-181358276 [82/300] for code: FORTHEKINGDOM
+2026-11-08 16:20:43 - 181358276 - Result: Successfully redeemed
+2026-11-08 16:20:44 - Processing K1266-181374419 [83/300] for code: FORTHEKINGDOM
+2026-11-08 16:20:44 - 181374419 - Result: Successfully redeemed
+2026-11-08 16:20:45 - Processing K1266-181384836 [84/300] for code: FORTHEKINGDOM
+2026-11-08 16:20:46 - 181384836 - Result: Successfully redeemed
+2026-11-08 16:20:47 - Processing K1266-181385198 [85/300] for code: FORTHEKINGDOM
+2026-11-08 16:20:47 - 181385198 - Result: Successfully redeemed
+2026-11-08 16:20:48 - Processing K1266-181401589 [86/300] for code: FORTHEKINGDOM
+2026-11-08 16:20:48 - 181401589 - Result: Successfully redeemed
+2026-11-08 16:20:49 - Processing K1266-181407057 [87/300] for code: FORTHEKINGDOM
+2026-11-08 16:20:49 - 181407057 - Result: Successfully redeemed
+2026-11-08 16:20:51 - Processing K1266-181417643 [88/300] for code: FORTHEKINGDOM
+2026-11-08 16:20:51 - 181417643 - Result: Successfully redeemed
+2026-11-08 16:20:52 - Processing K1266-181423528 [89/300] for code: FORTHEKINGDOM
+2026-11-08 16:20:52 - 181423528 - Result: Successfully redeemed
+2026-11-08 16:20:53 - Processing K1266-181466821 [90/300] for code: FORTHEKINGDOM
+2026-11-08 16:20:53 - 181466821 - Result: Successfully redeemed
+2026-11-08 16:20:55 - Processing K1266-181466879 [91/300] for code: FORTHEKINGDOM
+2026-11-08 16:20:55 - 181466879 - Result: Successfully redeemed
+2026-11-08 16:20:56 - Processing K1266-181482560 [92/300] for code: FORTHEKINGDOM
+2026-11-08 16:20:56 - 181482560 - Result: Already redeemed
+2026-11-08 16:20:57 - Processing K1266-181515253 [93/300] for code: FORTHEKINGDOM
+2026-11-08 16:20:57 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-08 16:21:01 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-08 16:21:09 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-08 16:21:21 - 181515253 - Result: Redemption request failed
+2026-11-08 16:21:22 - Processing K1266-181516264 [94/300] for code: FORTHEKINGDOM
+2026-11-08 16:21:22 - 181516264 - Result: Successfully redeemed
+2026-11-08 16:21:24 - Processing K1266-181516335 [95/300] for code: FORTHEKINGDOM
+2026-11-08 16:21:24 - 181516335 - Result: Successfully redeemed
+2026-11-08 16:21:25 - Processing K1266-181521367 [96/300] for code: FORTHEKINGDOM
+2026-11-08 16:21:25 - 181521367 - Result: Successfully redeemed
+2026-11-08 16:21:26 - Processing K1266-181531678 [97/300] for code: FORTHEKINGDOM
+2026-11-08 16:21:26 - 181531678 - Result: Successfully redeemed
+2026-11-08 16:21:27 - Processing K1266-181548141 [98/300] for code: FORTHEKINGDOM
+2026-11-08 16:21:27 - 181548141 - Result: Successfully redeemed
+2026-11-08 16:21:29 - Processing K1266-181565051 [99/300] for code: FORTHEKINGDOM
+2026-11-08 16:21:29 - 181565051 - Result: Successfully redeemed
+2026-11-08 16:21:30 - Processing K1266-181571708 [100/300] for code: FORTHEKINGDOM
+2026-11-08 16:21:30 - 181571708 - Result: Successfully redeemed
+2026-11-08 16:21:31 - Processing K1266-181614011 [101/300] for code: FORTHEKINGDOM
+2026-11-08 16:21:31 - 181614011 - Result: Already redeemed
+2026-11-08 16:21:32 - Processing K1266-181646830 [102/300] for code: FORTHEKINGDOM
+2026-11-08 16:21:32 - 181646830 - Result: Successfully redeemed
+2026-11-08 16:21:34 - Processing K1266-181663028 [103/300] for code: FORTHEKINGDOM
+2026-11-08 16:21:34 - 181663028 - Result: Successfully redeemed
+2026-11-08 16:21:35 - Processing K1266-181669304 [104/300] for code: FORTHEKINGDOM
+2026-11-08 16:21:35 - 181669304 - Result: Successfully redeemed
+2026-11-08 16:21:36 - Processing K1266-181712653 [105/300] for code: FORTHEKINGDOM
+2026-11-08 16:21:36 - 181712653 - Result: Successfully redeemed
+2026-11-08 16:21:37 - Processing K1266-181728933 [106/300] for code: FORTHEKINGDOM
+2026-11-08 16:21:37 - 181728933 - Result: Successfully redeemed
+2026-11-08 16:21:38 - Processing K1266-181734398 [107/300] for code: FORTHEKINGDOM
+2026-11-08 16:21:39 - 181734398 - Result: Successfully redeemed
+2026-11-08 16:21:40 - Processing K1266-181761437 [108/300] for code: FORTHEKINGDOM
+2026-11-08 16:21:40 - 181761437 - Result: Successfully redeemed
+2026-11-08 16:21:41 - Processing K1266-181778389 [109/300] for code: FORTHEKINGDOM
+2026-11-08 16:21:41 - 181778389 - Result: Successfully redeemed
+2026-11-08 16:21:43 - Processing K1266-181793958 [110/300] for code: FORTHEKINGDOM
+2026-11-08 16:21:43 - 181793958 - Result: Successfully redeemed
+2026-11-08 16:21:44 - Processing K1266-181794115 [111/300] for code: FORTHEKINGDOM
+2026-11-08 16:21:44 - 181794115 - Result: Already redeemed
+2026-11-08 16:21:45 - Processing K1266-181816445 [112/300] for code: FORTHEKINGDOM
+2026-11-08 16:21:45 - 181816445 - Result: Successfully redeemed
+2026-11-08 16:21:47 - Processing K1266-181859892 [113/300] for code: FORTHEKINGDOM
+2026-11-08 16:21:47 - 181859892 - Result: Successfully redeemed
+2026-11-08 16:21:48 - Processing K1266-181859948 [114/300] for code: FORTHEKINGDOM
+2026-11-08 16:21:48 - 181859948 - Result: Successfully redeemed
+2026-11-08 16:21:49 - Processing K1266-181860239 [115/300] for code: FORTHEKINGDOM
+2026-11-08 16:21:49 - 181860239 - Result: Successfully redeemed
+2026-11-08 16:21:50 - Processing K1266-181860336 [116/300] for code: FORTHEKINGDOM
+2026-11-08 16:21:50 - 181860336 - Result: Already redeemed
+2026-11-08 16:21:51 - Processing K1266-181882185 [117/300] for code: FORTHEKINGDOM
+2026-11-08 16:21:51 - 181882185 - Result: Successfully redeemed
+2026-11-08 16:21:53 - Processing K1266-181892750 [118/300] for code: FORTHEKINGDOM
+2026-11-08 16:21:53 - 181892750 - Result: Successfully redeemed
+2026-11-08 16:21:54 - Processing K1266-181941995 [119/300] for code: FORTHEKINGDOM
+2026-11-08 16:21:54 - 181941995 - Result: Successfully redeemed
+2026-11-08 16:21:55 - Processing K1266-181958341 [120/300] for code: FORTHEKINGDOM
+2026-11-08 16:21:55 - 181958341 - Result: Successfully redeemed
+2026-11-08 16:21:57 - Processing K1266-181958534 [121/300] for code: FORTHEKINGDOM
+2026-11-08 16:21:57 - 181958534 - Result: Successfully redeemed
+2026-11-08 16:21:58 - Processing K1266-182007379 [122/300] for code: FORTHEKINGDOM
+2026-11-08 16:21:58 - 182007379 - Result: Successfully redeemed
+2026-11-08 16:21:59 - Processing K1266-182007601 [123/300] for code: FORTHEKINGDOM
+2026-11-08 16:21:59 - 182007601 - Result: Successfully redeemed
+2026-11-08 16:22:01 - Processing K1266-182013382 [124/300] for code: FORTHEKINGDOM
+2026-11-08 16:22:01 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-08 16:22:05 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-08 16:22:13 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-08 16:22:25 - 182013382 - Result: Redemption request failed
+2026-11-08 16:22:26 - Processing K1266-182022970 [125/300] for code: FORTHEKINGDOM
+2026-11-08 16:22:26 - 182022970 - Result: Successfully redeemed
+2026-11-08 16:22:27 - Processing K1266-182046115 [126/300] for code: FORTHEKINGDOM
+2026-11-08 16:22:27 - 182046115 - Result: Successfully redeemed
+2026-11-08 16:22:29 - Processing K1266-182072645 [127/300] for code: FORTHEKINGDOM
+2026-11-08 16:22:29 - 182072645 - Result: Successfully redeemed
+2026-11-08 16:22:30 - Processing K1266-182144355 [128/300] for code: FORTHEKINGDOM
+2026-11-08 16:22:30 - 182144355 - Result: Successfully redeemed
+2026-11-08 16:22:31 - Processing K1266-182203508 [129/300] for code: FORTHEKINGDOM
+2026-11-08 16:22:31 - 182203508 - Result: Successfully redeemed
+2026-11-08 16:22:32 - Processing K1266-182203900 [130/300] for code: FORTHEKINGDOM
+2026-11-08 16:22:32 - 182203900 - Result: Successfully redeemed
+2026-11-08 16:22:34 - Processing K1266-182203950 [131/300] for code: FORTHEKINGDOM
+2026-11-08 16:22:34 - 182203950 - Result: Successfully redeemed
+2026-11-08 16:22:35 - Processing K1266-182220585 [132/300] for code: FORTHEKINGDOM
+2026-11-08 16:22:35 - 182220585 - Result: Successfully redeemed
+2026-11-08 16:22:36 - Processing K1266-182269737 [133/300] for code: FORTHEKINGDOM
+2026-11-08 16:22:36 - 182269737 - Result: Successfully redeemed
+2026-11-08 16:22:37 - Processing K1266-182286440 [134/300] for code: FORTHEKINGDOM
+2026-11-08 16:22:37 - 182286440 - Result: Successfully redeemed
+2026-11-08 16:22:38 - Processing K1266-182302366 [135/300] for code: FORTHEKINGDOM
+2026-11-08 16:22:38 - 182302366 - Result: Successfully redeemed
+2026-11-08 16:22:39 - Processing K1266-182318888 [136/300] for code: FORTHEKINGDOM
+2026-11-08 16:22:40 - 182318888 - Result: Successfully redeemed
+2026-11-08 16:22:41 - Processing K1266-182318992 [137/300] for code: FORTHEKINGDOM
+2026-11-08 16:22:41 - 182318992 - Result: Successfully redeemed
+2026-11-08 16:22:42 - Processing K1266-182334781 [138/300] for code: FORTHEKINGDOM
+2026-11-08 16:22:42 - 182334781 - Result: Successfully redeemed
+2026-11-08 16:22:44 - Processing K1266-182384322 [139/300] for code: FORTHEKINGDOM
+2026-11-08 16:22:44 - 182384322 - Result: Successfully redeemed
+2026-11-08 16:22:45 - Processing K1266-182390223 [140/300] for code: FORTHEKINGDOM
+2026-11-08 16:22:45 - 182390223 - Result: Successfully redeemed
+2026-11-08 16:22:46 - Processing K1266-182449206 [141/300] for code: FORTHEKINGDOM
+2026-11-08 16:22:47 - 182449206 - Result: Successfully redeemed
+2026-11-08 16:22:48 - Processing K1266-182450074 [142/300] for code: FORTHEKINGDOM
+2026-11-08 16:22:48 - 182450074 - Result: Successfully redeemed
+2026-11-08 16:22:49 - Processing K1266-182466031 [143/300] for code: FORTHEKINGDOM
+2026-11-08 16:22:49 - 182466031 - Result: Successfully redeemed
+2026-11-08 16:22:50 - Processing K1266-182472038 [144/300] for code: FORTHEKINGDOM
+2026-11-08 16:22:51 - 182472038 - Result: Successfully redeemed
+2026-11-08 16:22:52 - Processing K1266-182488759 [145/300] for code: FORTHEKINGDOM
+2026-11-08 16:22:52 - 182488759 - Result: Successfully redeemed
+2026-11-08 16:22:53 - Processing K1266-182531700 [146/300] for code: FORTHEKINGDOM
+2026-11-08 16:22:53 - 182531700 - Result: Successfully redeemed
+2026-11-08 16:22:54 - Processing K1266-182548386 [147/300] for code: FORTHEKINGDOM
+2026-11-08 16:22:54 - 182548386 - Result: Successfully redeemed
+2026-11-08 16:22:55 - Processing K1266-182646613 [148/300] for code: FORTHEKINGDOM
+2026-11-08 16:22:55 - 182646613 - Result: Successfully redeemed
+2026-11-08 16:22:57 - Processing K1266-182668737 [149/300] for code: FORTHEKINGDOM
+2026-11-08 16:22:57 - 182668737 - Result: Successfully redeemed
+2026-11-08 16:22:58 - Processing K1266-182679587 [150/300] for code: FORTHEKINGDOM
+2026-11-08 16:22:58 - 182679587 - Result: Successfully redeemed
+2026-11-08 16:22:59 - Processing K1266-182717899 [151/300] for code: FORTHEKINGDOM
+2026-11-08 16:22:59 - 182717899 - Result: Successfully redeemed
+2026-11-08 16:23:01 - Processing K1266-182767010 [152/300] for code: FORTHEKINGDOM
+2026-11-08 16:23:01 - 182767010 - Result: Successfully redeemed
+2026-11-08 16:23:02 - Processing K1266-182810221 [153/300] for code: FORTHEKINGDOM
+2026-11-08 16:23:02 - 182810221 - Result: Successfully redeemed
+2026-11-08 16:23:04 - Processing K1266-182842833 [154/300] for code: FORTHEKINGDOM
+2026-11-08 16:23:04 - 182842833 - Result: Successfully redeemed
+2026-11-08 16:23:05 - Processing K1266-182848942 [155/300] for code: FORTHEKINGDOM
+2026-11-08 16:23:05 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-08 16:23:09 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-08 16:23:17 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-08 16:23:29 - 182848942 - Result: Redemption request failed
+2026-11-08 16:23:30 - Processing K1266-182849233 [156/300] for code: FORTHEKINGDOM
+2026-11-08 16:23:30 - 182849233 - Result: Successfully redeemed
+2026-11-08 16:23:31 - Processing K1266-182858998 [157/300] for code: FORTHEKINGDOM
+2026-11-08 16:23:31 - 182858998 - Result: Successfully redeemed
+2026-11-08 16:23:33 - Processing K1266-182859667 [158/300] for code: FORTHEKINGDOM
+2026-11-08 16:23:33 - 182859667 - Result: Successfully redeemed
+2026-11-08 16:23:34 - Processing K1266-182892217 [159/300] for code: FORTHEKINGDOM
+2026-11-08 16:23:34 - 182892217 - Result: Successfully redeemed
+2026-11-08 16:23:35 - Processing K1266-182898057 [160/300] for code: FORTHEKINGDOM
+2026-11-08 16:23:35 - 182898057 - Result: Successfully redeemed
+2026-11-08 16:23:37 - Processing K1266-182908483 [161/300] for code: FORTHEKINGDOM
+2026-11-08 16:23:37 - 182908483 - Result: Successfully redeemed
+2026-11-08 16:23:38 - Processing K1266-182941162 [162/300] for code: FORTHEKINGDOM
+2026-11-08 16:23:38 - 182941162 - Result: Successfully redeemed
+2026-11-08 16:23:39 - Processing K1266-182941502 [163/300] for code: FORTHEKINGDOM
+2026-11-08 16:23:39 - 182941502 - Result: Successfully redeemed
+2026-11-08 16:23:41 - Processing K1266-182957878 [164/300] for code: FORTHEKINGDOM
+2026-11-08 16:23:41 - 182957878 - Result: Successfully redeemed
+2026-11-08 16:23:42 - Processing K1266-182990423 [165/300] for code: FORTHEKINGDOM
+2026-11-08 16:23:42 - 182990423 - Result: Successfully redeemed
+2026-11-08 16:23:44 - Processing K1266-183006892 [166/300] for code: FORTHEKINGDOM
+2026-11-08 16:23:44 - 183006892 - Result: Successfully redeemed
+2026-11-08 16:23:45 - Processing K1266-183012848 [167/300] for code: FORTHEKINGDOM
+2026-11-08 16:23:45 - 183012848 - Result: Successfully redeemed
+2026-11-08 16:23:46 - Processing K1266-183028805 [168/300] for code: FORTHEKINGDOM
+2026-11-08 16:23:46 - 183028805 - Result: Successfully redeemed
+2026-11-08 16:23:48 - Processing K1266-183029342 [169/300] for code: FORTHEKINGDOM
+2026-11-08 16:23:48 - 183029342 - Result: Successfully redeemed
+2026-11-08 16:23:49 - Processing K1266-183039758 [170/300] for code: FORTHEKINGDOM
+2026-11-08 16:23:49 - 183039758 - Result: Successfully redeemed
+2026-11-08 16:23:51 - Processing K1266-183072306 [171/300] for code: FORTHEKINGDOM
+2026-11-08 16:23:51 - 183072306 - Result: Successfully redeemed
+2026-11-08 16:23:52 - Processing K1266-183072824 [172/300] for code: FORTHEKINGDOM
+2026-11-08 16:23:52 - 183072824 - Result: Successfully redeemed
+2026-11-08 16:23:53 - Processing K1266-183089209 [173/300] for code: FORTHEKINGDOM
+2026-11-08 16:23:53 - 183089209 - Result: Already redeemed
+2026-11-08 16:23:54 - Processing K1266-183104870 [174/300] for code: FORTHEKINGDOM
+2026-11-08 16:23:54 - 183104870 - Result: Successfully redeemed
+2026-11-08 16:23:56 - Processing K1266-183121113 [175/300] for code: FORTHEKINGDOM
+2026-11-08 16:23:56 - 183121113 - Result: Already redeemed
+2026-11-08 16:23:57 - Processing K1266-183137287 [176/300] for code: FORTHEKINGDOM
+2026-11-08 16:23:57 - 183137287 - Result: Already redeemed
+2026-11-08 16:23:59 - Processing K1266-183154102 [177/300] for code: FORTHEKINGDOM
+2026-11-08 16:23:59 - 183154102 - Result: Successfully redeemed
+2026-11-08 16:24:00 - Processing K1266-183154303 [178/300] for code: FORTHEKINGDOM
+2026-11-08 16:24:00 - 183154303 - Result: Successfully redeemed
+2026-11-08 16:24:02 - Processing K1266-183154798 [179/300] for code: FORTHEKINGDOM
+2026-11-08 16:24:02 - 183154798 - Result: Successfully redeemed
+2026-11-08 16:24:03 - Processing K1266-183170657 [180/300] for code: FORTHEKINGDOM
+2026-11-08 16:24:03 - 183170657 - Result: Successfully redeemed
+2026-11-08 16:24:04 - Processing K1266-183176536 [181/300] for code: FORTHEKINGDOM
+2026-11-08 16:24:04 - 183176536 - Result: Successfully redeemed
+2026-11-08 16:24:05 - Processing K1266-183219217 [182/300] for code: FORTHEKINGDOM
+2026-11-08 16:24:05 - 183219217 - Result: Successfully redeemed
+2026-11-08 16:24:07 - Processing K1266-183219343 [183/300] for code: FORTHEKINGDOM
+2026-11-08 16:24:07 - 183219343 - Result: Successfully redeemed
+2026-11-08 16:24:08 - Processing K1266-183285360 [184/300] for code: FORTHEKINGDOM
+2026-11-08 16:24:08 - 183285360 - Result: Successfully redeemed
+2026-11-08 16:24:09 - Processing K1266-183317601 [185/300] for code: FORTHEKINGDOM
+2026-11-08 16:24:09 - 183317601 - Result: Successfully redeemed
+2026-11-08 16:24:11 - Processing K1266-183350823 [186/300] for code: FORTHEKINGDOM
+2026-11-08 16:24:11 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-08 16:24:15 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-08 16:24:23 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-08 16:24:35 - 183350823 - Result: Redemption request failed
+2026-11-08 16:24:36 - Processing K1266-183366693 [187/300] for code: FORTHEKINGDOM
+2026-11-08 16:24:37 - 183366693 - Result: Successfully redeemed
+2026-11-08 16:24:38 - Processing K1266-183367342 [188/300] for code: FORTHEKINGDOM
+2026-11-08 16:24:38 - 183367342 - Result: Successfully redeemed
+2026-11-08 16:24:39 - Processing K1266-183383666 [189/300] for code: FORTHEKINGDOM
+2026-11-08 16:24:39 - 183383666 - Result: Successfully redeemed
+2026-11-08 16:24:40 - Processing K1266-183384158 [190/300] for code: FORTHEKINGDOM
+2026-11-08 16:24:40 - 183384158 - Result: Successfully redeemed
+2026-11-08 16:24:42 - Processing K1266-183455373 [191/300] for code: FORTHEKINGDOM
+2026-11-08 16:24:42 - 183455373 - Result: Successfully redeemed
+2026-11-08 16:24:43 - Processing K1266-183531242 [192/300] for code: FORTHEKINGDOM
+2026-11-08 16:24:43 - 183531242 - Result: Successfully redeemed
+2026-11-08 16:24:44 - Processing K1266-183563334 [193/300] for code: FORTHEKINGDOM
+2026-11-08 16:24:44 - 183563334 - Result: Successfully redeemed
+2026-11-08 16:24:46 - Processing K1266-183579641 [194/300] for code: FORTHEKINGDOM
+2026-11-08 16:24:46 - 183579641 - Result: Successfully redeemed
+2026-11-08 16:24:47 - Processing K1266-183602956 [195/300] for code: FORTHEKINGDOM
+2026-11-08 16:24:47 - 183602956 - Result: Successfully redeemed
+2026-11-08 16:24:49 - Processing K1266-183635567 [196/300] for code: FORTHEKINGDOM
+2026-11-08 16:24:49 - 183635567 - Result: Successfully redeemed
+2026-11-08 16:24:50 - Processing K1266-183662249 [197/300] for code: FORTHEKINGDOM
+2026-11-08 16:24:50 - 183662249 - Result: Successfully redeemed
+2026-11-08 16:24:51 - Processing K1266-183695044 [198/300] for code: FORTHEKINGDOM
+2026-11-08 16:24:51 - 183695044 - Result: Successfully redeemed
+2026-11-08 16:24:52 - Processing K1266-183744074 [199/300] for code: FORTHEKINGDOM
+2026-11-08 16:24:52 - 183744074 - Result: Successfully redeemed
+2026-11-08 16:24:54 - Processing K1266-183760133 [200/300] for code: FORTHEKINGDOM
+2026-11-08 16:24:54 - 183760133 - Result: Successfully redeemed
+2026-11-08 16:24:55 - Processing K1266-183776526 [201/300] for code: FORTHEKINGDOM
+2026-11-08 16:24:55 - 183776526 - Result: Successfully redeemed
+2026-11-08 16:24:56 - Processing K1266-183793260 [202/300] for code: FORTHEKINGDOM
+2026-11-08 16:24:56 - 183793260 - Result: Successfully redeemed
+2026-11-08 16:24:57 - Processing K1266-183799231 [203/300] for code: FORTHEKINGDOM
+2026-11-08 16:24:57 - 183799231 - Result: Successfully redeemed
+2026-11-08 16:24:59 - Processing K1266-183809202 [204/300] for code: FORTHEKINGDOM
+2026-11-08 16:24:59 - 183809202 - Result: Already redeemed
+2026-11-08 16:25:00 - Processing K1266-183826046 [205/300] for code: FORTHEKINGDOM
+2026-11-08 16:25:01 - 183826046 - Result: Successfully redeemed
+2026-11-08 16:25:02 - Processing K1266-183826079 [206/300] for code: FORTHEKINGDOM
+2026-11-08 16:25:02 - 183826079 - Result: Successfully redeemed
+2026-11-08 16:25:03 - Processing K1266-183826363 [207/300] for code: FORTHEKINGDOM
+2026-11-08 16:25:03 - 183826363 - Result: Already redeemed
+2026-11-08 16:25:04 - Processing K1266-183842707 [208/300] for code: FORTHEKINGDOM
+2026-11-08 16:25:04 - 183842707 - Result: Successfully redeemed
+2026-11-08 16:25:06 - Processing K1266-183858943 [209/300] for code: FORTHEKINGDOM
+2026-11-08 16:25:06 - 183858943 - Result: Successfully redeemed
+2026-11-08 16:25:07 - Processing K1266-183859043 [210/300] for code: FORTHEKINGDOM
+2026-11-08 16:25:07 - 183859043 - Result: Successfully redeemed
+2026-11-08 16:25:08 - Processing K1266-183864332 [211/300] for code: FORTHEKINGDOM
+2026-11-08 16:25:09 - 183864332 - Result: Successfully redeemed
+2026-11-08 16:25:10 - Processing K1266-183897678 [212/300] for code: FORTHEKINGDOM
+2026-11-08 16:25:10 - 183897678 - Result: Successfully redeemed
+2026-11-08 16:25:11 - Processing K1266-183907791 [213/300] for code: FORTHEKINGDOM
+2026-11-08 16:25:11 - 183907791 - Result: Successfully redeemed
+2026-11-08 16:25:12 - Processing K1266-183907855 [214/300] for code: FORTHEKINGDOM
+2026-11-08 16:25:13 - 183907855 - Result: Successfully redeemed
+2026-11-08 16:25:14 - Processing K1266-183924658 [215/300] for code: FORTHEKINGDOM
+2026-11-08 16:25:14 - 183924658 - Result: Successfully redeemed
+2026-11-08 16:25:15 - Processing K1266-183924660 [216/300] for code: FORTHEKINGDOM
+2026-11-08 16:25:15 - 183924660 - Result: Successfully redeemed
+2026-11-08 16:25:16 - Processing K1266-183940809 [217/300] for code: FORTHEKINGDOM
+2026-11-08 16:25:16 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-08 16:25:20 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-08 16:25:28 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-08 16:25:40 - 183940809 - Result: Redemption request failed
+2026-11-08 16:25:41 - Processing K1266-183946385 [218/300] for code: FORTHEKINGDOM
+2026-11-08 16:25:41 - 183946385 - Result: Successfully redeemed
+2026-11-08 16:25:42 - Processing K1266-183946804 [219/300] for code: FORTHEKINGDOM
+2026-11-08 16:25:43 - 183946804 - Result: Successfully redeemed
+2026-11-08 16:25:44 - Processing K1266-183996371 [220/300] for code: FORTHEKINGDOM
+2026-11-08 16:25:44 - 183996371 - Result: Successfully redeemed
+2026-11-08 16:25:45 - Processing K1266-184005794 [221/300] for code: FORTHEKINGDOM
+2026-11-08 16:25:45 - 184005794 - Result: Successfully redeemed
+2026-11-08 16:25:46 - Processing K1266-184022781 [222/300] for code: FORTHEKINGDOM
+2026-11-08 16:25:46 - 184022781 - Result: Successfully redeemed
+2026-11-08 16:25:47 - Processing K1266-184038545 [223/300] for code: FORTHEKINGDOM
+2026-11-08 16:25:47 - 184038545 - Result: Successfully redeemed
+2026-11-08 16:25:49 - Processing K1266-184071743 [224/300] for code: FORTHEKINGDOM
+2026-11-08 16:25:49 - 184071743 - Result: Already redeemed
+2026-11-08 16:25:50 - Processing K1266-184088377 [225/300] for code: FORTHEKINGDOM
+2026-11-08 16:25:50 - 184088377 - Result: Successfully redeemed
+2026-11-08 16:25:51 - Processing K1266-184137674 [226/300] for code: FORTHEKINGDOM
+2026-11-08 16:25:51 - 184137674 - Result: Already redeemed
+2026-11-08 16:25:53 - Processing K1266-184159552 [227/300] for code: FORTHEKINGDOM
+2026-11-08 16:25:53 - 184159552 - Result: Successfully redeemed
+2026-11-08 16:25:54 - Processing K1266-184169916 [228/300] for code: FORTHEKINGDOM
+2026-11-08 16:25:54 - 184169916 - Result: Successfully redeemed
+2026-11-08 16:25:55 - Processing K1266-184170263 [229/300] for code: FORTHEKINGDOM
+2026-11-08 16:25:55 - 184170263 - Result: Successfully redeemed
+2026-11-08 16:25:56 - Processing K1266-184175883 [230/300] for code: FORTHEKINGDOM
+2026-11-08 16:25:56 - 184175883 - Result: Successfully redeemed
+2026-11-08 16:25:57 - Processing K1266-184186546 [231/300] for code: FORTHEKINGDOM
+2026-11-08 16:25:58 - 184186546 - Result: Successfully redeemed
+2026-11-08 16:25:59 - Processing K1266-184202442 [232/300] for code: FORTHEKINGDOM
+2026-11-08 16:25:59 - 184202442 - Result: Successfully redeemed
+2026-11-08 16:26:00 - Processing K1266-184202684 [233/300] for code: FORTHEKINGDOM
+2026-11-08 16:26:00 - 184202684 - Result: Successfully redeemed
+2026-11-08 16:26:01 - Processing K1266-184219240 [234/300] for code: FORTHEKINGDOM
+2026-11-08 16:26:01 - 184219240 - Result: Successfully redeemed
+2026-11-08 16:26:03 - Processing K1266-184252103 [235/300] for code: FORTHEKINGDOM
+2026-11-08 16:26:03 - 184252103 - Result: Successfully redeemed
+2026-11-08 16:26:04 - Processing K1266-184257548 [236/300] for code: FORTHEKINGDOM
+2026-11-08 16:26:04 - 184257548 - Result: Successfully redeemed
+2026-11-08 16:26:05 - Processing K1266-184268236 [237/300] for code: FORTHEKINGDOM
+2026-11-08 16:26:05 - 184268236 - Result: Successfully redeemed
+2026-11-08 16:26:07 - Processing K1266-184268332 [238/300] for code: FORTHEKINGDOM
+2026-11-08 16:26:07 - 184268332 - Result: Successfully redeemed
+2026-11-08 16:26:08 - Processing K1266-184285099 [239/300] for code: FORTHEKINGDOM
+2026-11-08 16:26:08 - 184285099 - Result: Successfully redeemed
+2026-11-08 16:26:09 - Processing K1266-184300583 [240/300] for code: FORTHEKINGDOM
+2026-11-08 16:26:09 - 184300583 - Result: Successfully redeemed
+2026-11-08 16:26:10 - Processing K1266-184301120 [241/300] for code: FORTHEKINGDOM
+2026-11-08 16:26:10 - 184301120 - Result: Successfully redeemed
+2026-11-08 16:26:12 - Processing K1266-184301482 [242/300] for code: FORTHEKINGDOM
+2026-11-08 16:26:12 - 184301482 - Result: Successfully redeemed
+2026-11-08 16:26:13 - Processing K1266-184306709 [243/300] for code: FORTHEKINGDOM
+2026-11-08 16:26:13 - 184306709 - Result: Successfully redeemed
+2026-11-08 16:26:14 - Processing K1266-184323165 [244/300] for code: FORTHEKINGDOM
+2026-11-08 16:26:14 - 184323165 - Result: Successfully redeemed
+2026-11-08 16:26:16 - Processing K1266-184334160 [245/300] for code: FORTHEKINGDOM
+2026-11-08 16:26:16 - 184334160 - Result: Successfully redeemed
+2026-11-08 16:26:17 - Processing K1266-184334326 [246/300] for code: FORTHEKINGDOM
+2026-11-08 16:26:17 - 184334326 - Result: Successfully redeemed
+2026-11-08 16:26:18 - Processing K1266-184355782 [247/300] for code: FORTHEKINGDOM
+2026-11-08 16:26:18 - 184355782 - Result: Successfully redeemed
+2026-11-08 16:26:20 - Processing K1266-184355850 [248/300] for code: FORTHEKINGDOM
+2026-11-08 16:26:20 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-08 16:26:24 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-08 16:26:32 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-08 16:26:44 - 184355850 - Result: Redemption request failed
+2026-11-08 16:26:45 - Processing K1266-184366301 [249/300] for code: FORTHEKINGDOM
+2026-11-08 16:26:45 - 184366301 - Result: Already redeemed
+2026-11-08 16:26:46 - Processing K1266-184398957 [250/300] for code: FORTHEKINGDOM
+2026-11-08 16:26:46 - 184398957 - Result: Successfully redeemed
+2026-11-08 16:26:47 - Processing K1266-184431865 [251/300] for code: FORTHEKINGDOM
+2026-11-08 16:26:47 - 184431865 - Result: Successfully redeemed
+2026-11-08 16:26:49 - Processing K1266-184448668 [252/300] for code: FORTHEKINGDOM
+2026-11-08 16:26:49 - 184448668 - Result: Successfully redeemed
+2026-11-08 16:26:50 - Processing K1266-185122678 [253/300] for code: FORTHEKINGDOM
+2026-11-08 16:26:50 - 185122678 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-08 16:26:52 - 185122678 - Result: Successfully redeemed
+2026-11-08 16:26:53 - Processing K1266-185480245 [254/300] for code: FORTHEKINGDOM
+2026-11-08 16:26:53 - 185480245 - Result: Successfully redeemed
+2026-11-08 16:26:54 - Processing K1266-187102768 [255/300] for code: FORTHEKINGDOM
+2026-11-08 16:26:54 - 187102768 - Result: Successfully redeemed
+2026-11-08 16:26:56 - Processing K1266-187115851 [256/300] for code: FORTHEKINGDOM
+2026-11-08 16:26:56 - 187115851 - Result: Successfully redeemed
+2026-11-08 16:26:57 - Processing K1266-188087741 [257/300] for code: FORTHEKINGDOM
+2026-11-08 16:26:57 - 188087741 - Result: Successfully redeemed
+2026-11-08 16:26:59 - Processing K1266-188470196 [258/300] for code: FORTHEKINGDOM
+2026-11-08 16:26:59 - 188470196 - Result: Successfully redeemed
+2026-11-08 16:27:00 - Processing K1266-188862376 [259/300] for code: FORTHEKINGDOM
+2026-11-08 16:27:00 - 188862376 - Result: Successfully redeemed
+2026-11-08 16:27:01 - Processing K1266-190234418 [260/300] for code: FORTHEKINGDOM
+2026-11-08 16:27:02 - 190234418 - Result: Successfully redeemed
+2026-11-08 16:27:03 - Processing K1266-190573918 [261/300] for code: FORTHEKINGDOM
+2026-11-08 16:27:03 - 190573918 - Result: Successfully redeemed
+2026-11-08 16:27:04 - Processing K1266-191129295 [262/300] for code: FORTHEKINGDOM
+2026-11-08 16:27:04 - 191129295 - Result: Successfully redeemed
+2026-11-08 16:27:05 - Processing K1266-192400838 [263/300] for code: FORTHEKINGDOM
+2026-11-08 16:27:05 - 192400838 - Result: Successfully redeemed
+2026-11-08 16:27:06 - Processing K1266-193616382 [264/300] for code: FORTHEKINGDOM
+2026-11-08 16:27:06 - 193616382 - Result: Successfully redeemed
+2026-11-08 16:27:08 - Processing K1266-194020665 [265/300] for code: FORTHEKINGDOM
+2026-11-08 16:27:08 - 194020665 - Result: Successfully redeemed
+2026-11-08 16:27:09 - Processing K1266-194962807 [266/300] for code: FORTHEKINGDOM
+2026-11-08 16:27:09 - 194962807 - Result: Successfully redeemed
+2026-11-08 16:27:10 - Processing K1266-196209781 [267/300] for code: FORTHEKINGDOM
+2026-11-08 16:27:10 - 196209781 - Result: Already redeemed
+2026-11-08 16:27:12 - Processing K1266-197077736 [268/300] for code: FORTHEKINGDOM
+2026-11-08 16:27:12 - 197077736 - Result: Successfully redeemed
+2026-11-08 16:27:13 - Processing K1266-197748881 [269/300] for code: FORTHEKINGDOM
+2026-11-08 16:27:13 - 197748881 - Result: Successfully redeemed
+2026-11-08 16:27:15 - Processing K1266-198971997 [270/300] for code: FORTHEKINGDOM
+2026-11-08 16:27:15 - 198971997 - Result: Successfully redeemed
+2026-11-08 16:27:16 - Processing K1266-199766078 [271/300] for code: FORTHEKINGDOM
+2026-11-08 16:27:16 - 199766078 - Result: Successfully redeemed
+2026-11-08 16:27:17 - Processing K1266-202789741 [272/300] for code: FORTHEKINGDOM
+2026-11-08 16:27:17 - 202789741 - Result: Successfully redeemed
+2026-11-08 16:27:19 - Processing K1266-208458805 [273/300] for code: FORTHEKINGDOM
+2026-11-08 16:27:19 - 208458805 - Result: Successfully redeemed
+2026-11-08 16:27:20 - Processing K1266-208469366 [274/300] for code: FORTHEKINGDOM
+2026-11-08 16:27:20 - 208469366 - Result: Successfully redeemed
+2026-11-08 16:27:21 - Processing K1266-209741428 [275/300] for code: FORTHEKINGDOM
+2026-11-08 16:27:21 - 209741428 - Result: Already redeemed
+2026-11-08 16:27:22 - Processing K1266-215719460 [276/300] for code: FORTHEKINGDOM
+2026-11-08 16:27:22 - 215719460 - Result: Successfully redeemed
+2026-11-08 16:27:23 - Processing K1266-216820126 [277/300] for code: FORTHEKINGDOM
+2026-11-08 16:27:24 - 216820126 - Result: Successfully redeemed
+2026-11-08 16:27:25 - Processing K1266-219382121 [278/300] for code: FORTHEKINGDOM
+2026-11-08 16:27:25 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-08 16:27:29 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-08 16:27:37 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-08 16:27:49 - 219382121 - Result: Redemption request failed
+2026-11-08 16:27:50 - Processing K1266-221309318 [279/300] for code: FORTHEKINGDOM
+2026-11-08 16:27:50 - 221309318 - Result: Successfully redeemed
+2026-11-08 16:27:51 - Processing K1266-221445787 [280/300] for code: FORTHEKINGDOM
+2026-11-08 16:27:51 - 221445787 - Result: Successfully redeemed
+2026-11-08 16:27:52 - Processing K1266-221883902 [281/300] for code: FORTHEKINGDOM
+2026-11-08 16:27:52 - 221883902 - Result: Successfully redeemed
+2026-11-08 16:27:53 - Processing K1266-226209236 [282/300] for code: FORTHEKINGDOM
+2026-11-08 16:27:53 - 226209236 - Result: Already redeemed
+2026-11-08 16:27:55 - Processing K1266-226703897 [283/300] for code: FORTHEKINGDOM
+2026-11-08 16:27:55 - 226703897 - Result: Successfully redeemed
+2026-11-08 16:27:56 - Processing K1266-227970815 [284/300] for code: FORTHEKINGDOM
+2026-11-08 16:27:56 - 227970815 - Result: Successfully redeemed
+2026-11-08 16:27:58 - Processing K1266-232510086 [285/300] for code: FORTHEKINGDOM
+2026-11-08 16:27:58 - 232510086 - Result: Successfully redeemed
+2026-11-08 16:27:59 - Processing K1266-239065229 [286/300] for code: FORTHEKINGDOM
+2026-11-08 16:27:59 - 239065229 - Result: Successfully redeemed
+2026-11-08 16:28:00 - Processing K1266-240864609 [287/300] for code: FORTHEKINGDOM
+2026-11-08 16:28:00 - 240864609 - Result: Successfully redeemed
+2026-11-08 16:28:01 - Processing K1266-247760465 [288/300] for code: FORTHEKINGDOM
+2026-11-08 16:28:01 - 247760465 - Result: Successfully redeemed
+2026-11-08 16:28:02 - Processing K1266-264853160 [289/300] for code: FORTHEKINGDOM
+2026-11-08 16:28:02 - 264853160 - Result: Successfully redeemed
+2026-11-08 16:28:04 - Processing K1266-270896390 [290/300] for code: FORTHEKINGDOM
+2026-11-08 16:28:04 - 270896390 - Result: Successfully redeemed
+2026-11-08 16:28:05 - Processing K1266-279842790 [291/300] for code: FORTHEKINGDOM
+2026-11-08 16:28:05 - 279842790 - Result: Successfully redeemed
+2026-11-08 16:28:06 - Processing K1266-286282880 [292/300] for code: FORTHEKINGDOM
+2026-11-08 16:28:06 - 286282880 - Result: Successfully redeemed
+2026-11-08 16:28:08 - Processing K1266-290460722 [293/300] for code: FORTHEKINGDOM
+2026-11-08 16:28:08 - 290460722 - Result: Successfully redeemed
+2026-11-08 16:28:09 - Processing K1266-300260967 [294/300] for code: FORTHEKINGDOM
+2026-11-08 16:28:09 - 300260967 - Result: Successfully redeemed
+2026-11-08 16:28:10 - Processing K1266-302154974 [295/300] for code: FORTHEKINGDOM
+2026-11-08 16:28:10 - 302154974 - Result: Already redeemed
+2026-11-08 16:28:12 - Processing K1266-305821193 [296/300] for code: FORTHEKINGDOM
+2026-11-08 16:28:12 - 305821193 - Result: Already redeemed
+2026-11-08 16:28:13 - Processing K1266-378005527 [297/300] for code: FORTHEKINGDOM
+2026-11-08 16:28:13 - 378005527 - Result: Successfully redeemed
+2026-11-08 16:28:14 - Processing K1266-378518775 [298/300] for code: FORTHEKINGDOM
+2026-11-08 16:28:15 - 378518775 - Result: Successfully redeemed
+2026-11-08 16:28:16 - Processing K1266-381967745 [299/300] for code: FORTHEKINGDOM
+2026-11-08 16:28:16 - 381967745 - Result: Successfully redeemed
+2026-11-08 16:28:17 - Processing K1266-402165713 [300/300] for code: FORTHEKINGDOM
+2026-11-08 16:28:17 - 402165713 - Result: Successfully redeemed
+2026-11-08 16:28:18 - --- Cycle finished. Total processed: 300/300 ---
+2026-11-08 16:28:18 - 
+========================= Redemption Summary =========================
+2026-11-08 16:28:18 - Code Redeemed: FORTHEKINGDOM
+2026-11-08 16:28:18 - Total Unique Player IDs Found: 300
+2026-11-08 16:28:18 - Total Player IDs Processed: 300
+2026-11-08 16:28:18 - Successfully redeemed: 268
+2026-11-08 16:28:18 - Already redeemed: 23
+2026-11-08 16:28:18 - Wrong kingdom: 0
+2026-11-08 16:28:18 - Other Errors/Failures: 9
+2026-11-08 16:28:18 - Rate Limit Events: 0
+2026-11-08 16:28:18 - Total execution time: 00:10:09
+2026-11-08 16:28:18 - ======================================================================
+2026-11-08 16:28:18 - Marked 'FORTHEKINGDOM' as known.
+
+2026-11-08 16:28:18 - 
+=== Starting redemption for gift code: KS1104 ===
+2026-11-08 16:28:18 - Total unique player IDs to process: 300
+2026-11-08 16:28:18 - 
+--- Starting processing cycle. Ready player IDs: 300 ---
+2026-11-08 16:28:18 - Processing K1266-112607487 [1/300] for code: KS1104
+2026-11-08 16:28:18 - 112607487 - Result: Code has expired
+2026-11-08 16:28:18 - 
+ *** Code has expired! Stopping further processing. ***
+2026-11-08 16:28:18 - --- Cycle finished. Total processed: 1/300 ---
+2026-11-08 16:28:18 - 
+========================= Redemption Summary =========================
+2026-11-08 16:28:18 - Code Redeemed: KS1104
+2026-11-08 16:28:18 - Total Unique Player IDs Found: 300
+2026-11-08 16:28:18 - Total Player IDs Processed: 1
+2026-11-08 16:28:18 - Successfully redeemed: 0
+2026-11-08 16:28:18 - Already redeemed: 0
+2026-11-08 16:28:18 - Wrong kingdom: 0
+2026-11-08 16:28:18 - Other Errors/Failures: 0
+2026-11-08 16:28:18 - Rate Limit Events: 0
+2026-11-08 16:28:18 - Total execution time: 00:00:00
+2026-11-08 16:28:18 - ======================================================================
+2026-11-08 16:28:18 - Marked 'KS1104' as known.
+
