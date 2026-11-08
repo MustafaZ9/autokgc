@@ -6,11 +6,12 @@ const URL: &str = "https://kingshot.net/gift-codes";
 
 /// CSS selectors to try for kingshot.net, broadest last.
 const SELECTORS: &[&str] = &[
-    "p.font-mono.text-xl.font-bold.tracking-wider",   // original (pre-Nov 2026)
-    "p.font-mono.font-bold",                            // broader
-    "p.font-mono",                                      // broadest p
-    "span.font-mono.font-bold",                         // alternate tag
-    "code",                                             // semantic fallback
+    "code.font-num.font-bold.text-cyan",                // current (Nov 2026)
+    "code.font-num.font-bold",                          // broader variant
+    "code.font-bold.tracking-wide",                     // alternative
+    "p.font-mono.text-xl.font-bold.tracking-wider",     // legacy (pre-Nov 2026)
+    "p.font-mono.font-bold",                            // broader legacy
+    "code.text-cyan",                                   // minimal code match
 ];
 
 pub struct KingshotNet;

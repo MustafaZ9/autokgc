@@ -6,12 +6,11 @@ const URL: &str = "https://kingshotmastery.com/gift-codes";
 
 /// CSS selectors to try for kingshotmastery.com.
 const SELECTORS: &[&str] = &[
-    "span.code-string",
-    ".code-card span",
-    "p.font-mono.font-bold",
-    "p.font-mono",
-    ".gift-code code",
-    "code",
+    "code.font-bold.tracking-wide",                     // active code cards
+    "code.font-num.font-bold",                          // variant
+    "td.font-mono:not(:has(s))",                        // table cells without strikethrough (active)
+    "span.code-string",                                 // possible future format
+    ".code-card code",                                  // card-based layout
 ];
 
 pub struct KingshotMastery;
