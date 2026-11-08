@@ -220,7 +220,9 @@ def parse_csv_row(row):
     fields = [item.strip() for item in row if item.strip()]
     if not fields or fields[0].startswith("#"):
         return []
-    if len(fields) == 2 and all(f.isdigit() for f in fields) and int(fields[1]) <= MAX_KINGDOM_ID:
+    # 2+ columns: if first two are numeric and second looks like a kingdom ID,
+    # treat as (fid, kid) regardless of extra columns (e.g. name)
+    if len(fields) >= 2 and fields[0].isdigit() and fields[1].isdigit() and int(fields[1]) <= MAX_KINGDOM_ID:
         return [(fields[0], fields[1])]
     return [(f, None) for f in fields if f.isdigit()]
 

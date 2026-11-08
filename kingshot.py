@@ -119,49 +119,119 @@ def save_known_codes(codes):
             f.write(code + "\n")
 
 
-def scrape_gift_codes():
-    """Fetch all gift codes currently listed on kingshot.net."""
+MASTERY_URL = "https://kingshotmastery.com/gift-codes"
+
+# CSS selectors to try, in priority order (sites change their HTML frequently)
+KINGSHOT_NET_SELECTORS = [
+    ("p", {"class_": "font-mono text-xl font-bold tracking-wider"}),  # original
+    ("p", {"class_": "font-mono"}),                                    # broader
+    ("span", {"class_": "font-mono"}),                                 # alternate tag
+    ("code", {}),                                                      # semantic
+]
+
+MASTERY_SELECTORS = [
+    ("span", {"class_": "code-string"}),
+    ("div.code-card span", {}),
+    ("p", {"class_": "font-mono"}),
+    ("code", {}),
+]
+
+
+def _extract_codes_from_html(html_text, selectors, source_name):
+    """Try multiple CSS selectors to extract gift codes from HTML."""
+    import re
+    soup = BeautifulSoup(html_text, "html.parser")
+
+    for tag, attrs in selectors:
+        # Handle compound selectors like "div.code-card span"
+        if " " in tag:
+            parent_sel, child_tag = tag.rsplit(" ", 1)
+            parents = soup.select(parent_sel)
+            elements = []
+            for p in parents:
+                elements.extend(p.find_all(child_tag, **attrs))
+        else:
+            elements = soup.find_all(tag, **attrs)
+
+        codes = []
+        for el in elements:
+            text = el.get_text(strip=True)
+            # Gift codes are typically 4-30 alphanumeric chars (may include underscores)
+            if text and re.match(r'^[A-Za-z0-9_]{3,30}$', text):
+                codes.append(text)
+
+        if codes:
+            log(f"  [{source_name}] Found {len(codes)} codes using selector: {tag} {attrs}")
+            return codes
+
+    log(f"  [{source_name}] WARNING: No codes found with any known selector — site HTML may have changed!")
+    return []
+
+
+def _fetch_html(url, source_name):
+    """Fetch a page, trying curl_cffi first, then plain requests."""
     response = None
 
-    # Try curl_cffi with multiple browser targets (best Cloudflare bypass)
     try:
         from curl_cffi import requests as cffi_requests
-        log("Using curl_cffi for Cloudflare bypass...")
+        log(f"  [{source_name}] Using curl_cffi for Cloudflare bypass...")
 
         for browser in ["chrome124", "chrome120", "chrome110", "safari17_0"]:
             try:
-                resp = cffi_requests.get(SCRAPE_URL, impersonate=browser)
+                resp = cffi_requests.get(url, impersonate=browser)
                 if resp.status_code == 200:
-                    log(f"Success with {browser} impersonation")
-                    response = resp
-                    break
-                log(f"  {browser}: HTTP {resp.status_code}, trying next target...")
+                    log(f"  [{source_name}] Success with {browser} impersonation")
+                    return resp.text
+                log(f"  [{source_name}] {browser}: HTTP {resp.status_code}, trying next...")
             except Exception as e:
-                log(f"  {browser} failed: {e}")
+                log(f"  [{source_name}] {browser} failed: {e}")
                 continue
-
     except ImportError:
-        log("WARNING: curl_cffi is not installed! "
-            "Install it with: pip install 'curl-cffi>=0.7.3,<0.14'")
+        pass
 
     # Fallback to plain requests
-    if response is None or response.status_code != 200:
-        log("Falling back to plain requests (may be blocked by Cloudflare)...")
-        headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) '
-                          'AppleWebKit/537.36 (KHTML, like Gecko) '
-                          'Chrome/124.0.0.0 Safari/537.36',
-            'Accept': 'text/html,application/xhtml+xml,application/xml;'
-                      'q=0.9,image/avif,image/webp,*/*;q=0.8',
-            'Accept-Language': 'en-US,en;q=0.5',
-        }
-        response = requests.get(SCRAPE_URL, headers=headers)
+    log(f"  [{source_name}] Trying plain requests...")
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) '
+                      'AppleWebKit/537.36 (KHTML, like Gecko) '
+                      'Chrome/130.0.0.0 Safari/537.36',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;'
+                  'q=0.9,image/avif,image/webp,*/*;q=0.8',
+        'Accept-Language': 'en-US,en;q=0.5',
+    }
+    resp = requests.get(url, headers=headers, timeout=30)
+    if resp.status_code == 200:
+        return resp.text
+    log(f"  [{source_name}] HTTP {resp.status_code}")
+    return None
 
-    response.raise_for_status()
 
-    soup = BeautifulSoup(response.text, "html.parser")
-    code_elements = soup.find_all("p", class_="font-mono text-xl font-bold tracking-wider")
-    return [el.text.strip() for el in code_elements]
+def scrape_gift_codes():
+    """Fetch gift codes from multiple sources (kingshot.net + kingshotmastery.com)."""
+    all_codes = set()
+
+    # Source 1: kingshot.net (primary)
+    try:
+        html = _fetch_html(SCRAPE_URL, "kingshot.net")
+        if html:
+            codes = _extract_codes_from_html(html, KINGSHOT_NET_SELECTORS, "kingshot.net")
+            all_codes.update(codes)
+    except Exception as e:
+        log(f"  [kingshot.net] Error: {e}")
+
+    # Source 2: kingshotmastery.com (secondary)
+    try:
+        html = _fetch_html(MASTERY_URL, "kingshotmastery.com")
+        if html:
+            codes = _extract_codes_from_html(html, MASTERY_SELECTORS, "kingshotmastery.com")
+            all_codes.update(codes)
+    except Exception as e:
+        log(f"  [kingshotmastery.com] Error: {e}")
+
+    if not all_codes:
+        log("WARNING: ALL sources returned 0 codes. Scraping may be completely broken!")
+
+    return list(all_codes)
 
 
 def find_new_codes():
@@ -347,14 +417,23 @@ def redeem_gift_code(fid, kid, cdk, position, total, retry_queue, counters, cool
 
 # ─────────────────────────── CSV Parsing ──────────────────────────────
 def parse_csv_row(row):
-    """One CSV row -> [(fid, kid or None), ...]."""
+    """One CSV row -> [(fid, kid or None), ...].
+
+    Handles formats:
+      fid,kid,name   →  [(fid, kid)]
+      fid,kid        →  [(fid, kid)]
+      fid            →  [(fid, None)]
+    """
     fields = [item.strip() for item in row if item.strip()]
     if not fields or fields[0].startswith("#"):
         return []
 
-    if len(fields) == 2 and all(f.isdigit() for f in fields) and int(fields[1]) <= MAX_KINGDOM_ID:
+    # 2+ columns: if first two are numeric and second looks like a kingdom ID,
+    # treat as (fid, kid) regardless of extra columns (e.g. name)
+    if len(fields) >= 2 and fields[0].isdigit() and fields[1].isdigit() and int(fields[1]) <= MAX_KINGDOM_ID:
         return [(fields[0], fields[1])]
 
+    # Bare FID(s) on a line
     return [(f, None) for f in fields if f.isdigit()]
 
 
