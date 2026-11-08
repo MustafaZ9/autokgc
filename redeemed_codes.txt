@@ -43614,3 +43614,660 @@
 2026-11-08 12:37:56 - Success with chrome124 impersonation
 2026-11-08 12:37:56 - No new gift codes found. All codes have been seen previously.
 2026-11-08 12:37:56 - Nothing to redeem.
+2026-11-08 14:58:21 - Starting manual redemption for code: 11OFFICIALSTORE08
+2026-11-08 14:58:21 - Read 300 player IDs from lod.csv (300 with a kingdom)
+2026-11-08 14:58:21 - Total unique player IDs to process: 300
+2026-11-08 14:58:21 - 
+=== Starting redemption for gift code: 11OFFICIALSTORE08 ===
+2026-11-08 14:58:21 - Total unique player IDs to process: 300
+2026-11-08 14:58:21 - 
+--- Starting processing cycle. Ready player IDs: 300 ---
+2026-11-08 14:58:21 - Processing K1266-112607487 [1/300] for code: 11OFFICIALSTORE08
+2026-11-08 14:58:22 - 112607487 - Result: Successfully redeemed
+2026-11-08 14:58:23 - Processing K1266-134948830 [2/300] for code: 11OFFICIALSTORE08
+2026-11-08 14:58:23 - 134948830 - Result: Successfully redeemed
+2026-11-08 14:58:24 - Processing K1266-137354109 [3/300] for code: 11OFFICIALSTORE08
+2026-11-08 14:58:24 - 137354109 - Result: Successfully redeemed
+2026-11-08 14:58:26 - Processing K1266-137881550 [4/300] for code: 11OFFICIALSTORE08
+2026-11-08 14:58:26 - 137881550 - Result: Successfully redeemed
+2026-11-08 14:58:27 - Processing K1266-138078147 [5/300] for code: 11OFFICIALSTORE08
+2026-11-08 14:58:27 - 138078147 - Result: Successfully redeemed
+2026-11-08 14:58:28 - Processing K1266-159437876 [6/300] for code: 11OFFICIALSTORE08
+2026-11-08 14:58:28 - 159437876 - Result: Successfully redeemed
+2026-11-08 14:58:29 - Processing K1266-160961411 [7/300] for code: 11OFFICIALSTORE08
+2026-11-08 14:58:29 - 160961411 - Result: Successfully redeemed
+2026-11-08 14:58:31 - Processing K1266-160977214 [8/300] for code: 11OFFICIALSTORE08
+2026-11-08 14:58:31 - 160977214 - Result: Already redeemed
+2026-11-08 14:58:32 - Processing K1266-161223459 [9/300] for code: 11OFFICIALSTORE08
+2026-11-08 14:58:32 - 161223459 - Result: Successfully redeemed
+2026-11-08 14:58:33 - Processing K1266-161321233 [10/300] for code: 11OFFICIALSTORE08
+2026-11-08 14:58:33 - 161321233 - Result: Successfully redeemed
+2026-11-08 14:58:34 - Processing K1266-161387367 [11/300] for code: 11OFFICIALSTORE08
+2026-11-08 14:58:34 - 161387367 - Result: Successfully redeemed
+2026-11-08 14:58:36 - Processing K1266-161616297 [12/300] for code: 11OFFICIALSTORE08
+2026-11-08 14:58:36 - 161616297 - Result: Successfully redeemed
+2026-11-08 14:58:37 - Processing K1266-162042375 [13/300] for code: 11OFFICIALSTORE08
+2026-11-08 14:58:37 - 162042375 - Result: Successfully redeemed
+2026-11-08 14:58:38 - Processing K1266-162402979 [14/300] for code: 11OFFICIALSTORE08
+2026-11-08 14:58:38 - 162402979 - Result: Successfully redeemed
+2026-11-08 14:58:40 - Processing K1266-162910751 [15/300] for code: 11OFFICIALSTORE08
+2026-11-08 14:58:40 - 162910751 - Result: Successfully redeemed
+2026-11-08 14:58:41 - Processing K1266-163042051 [16/300] for code: 11OFFICIALSTORE08
+2026-11-08 14:58:41 - 163042051 - Result: Successfully redeemed
+2026-11-08 14:58:42 - Processing K1266-176448172 [17/300] for code: 11OFFICIALSTORE08
+2026-11-08 14:58:42 - 176448172 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-08 14:58:44 - 176448172 - Result: Successfully redeemed
+2026-11-08 14:58:46 - Processing K1266-176742470 [18/300] for code: 11OFFICIALSTORE08
+2026-11-08 14:58:46 - 176742470 - Result: Successfully redeemed
+2026-11-08 14:58:47 - Processing K1266-176939042 [19/300] for code: 11OFFICIALSTORE08
+2026-11-08 14:58:47 - 176939042 - Result: Successfully redeemed
+2026-11-08 14:58:48 - Processing K1266-177004482 [20/300] for code: 11OFFICIALSTORE08
+2026-11-08 14:58:48 - 177004482 - Result: Successfully redeemed
+2026-11-08 14:58:50 - Processing K1266-177430530 [21/300] for code: 11OFFICIALSTORE08
+2026-11-08 14:58:50 - 177430530 - Result: Already redeemed
+2026-11-08 14:58:51 - Processing K1266-177594975 [22/300] for code: 11OFFICIALSTORE08
+2026-11-08 14:58:51 - 177594975 - Result: Successfully redeemed
+2026-11-08 14:58:52 - Processing K1266-177643662 [23/300] for code: 11OFFICIALSTORE08
+2026-11-08 14:58:52 - 177643662 - Result: Successfully redeemed
+2026-11-08 14:58:54 - Processing K1266-177741835 [24/300] for code: 11OFFICIALSTORE08
+2026-11-08 14:58:54 - 177741835 - Result: Successfully redeemed
+2026-11-08 14:58:55 - Processing K1266-177758431 [25/300] for code: 11OFFICIALSTORE08
+2026-11-08 14:58:55 - 177758431 - Result: Successfully redeemed
+2026-11-08 14:58:57 - Processing K1266-177889207 [26/300] for code: 11OFFICIALSTORE08
+2026-11-08 14:58:57 - 177889207 - Result: Successfully redeemed
+2026-11-08 14:58:58 - Processing K1266-177889304 [27/300] for code: 11OFFICIALSTORE08
+2026-11-08 14:58:58 - 177889304 - Result: Successfully redeemed
+2026-11-08 14:58:59 - Processing K1266-178003863 [28/300] for code: 11OFFICIALSTORE08
+2026-11-08 14:58:59 - 178003863 - Result: Already redeemed
+2026-11-08 14:59:01 - Processing K1266-178167737 [29/300] for code: 11OFFICIALSTORE08
+2026-11-08 14:59:01 - 178167737 - Result: Successfully redeemed
+2026-11-08 14:59:02 - Processing K1266-178282383 [30/300] for code: 11OFFICIALSTORE08
+2026-11-08 14:59:02 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-08 14:59:06 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-08 14:59:14 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-08 14:59:26 - 178282383 - Result: Redemption request failed
+2026-11-08 14:59:27 - Processing K1266-178298638 [31/300] for code: 11OFFICIALSTORE08
+2026-11-08 14:59:27 - 178298638 - Result: Already redeemed
+2026-11-08 14:59:29 - Processing K1266-178298685 [32/300] for code: 11OFFICIALSTORE08
+2026-11-08 14:59:29 - 178298685 - Result: Successfully redeemed
+2026-11-08 14:59:30 - Processing K1266-178828379 [33/300] for code: 11OFFICIALSTORE08
+2026-11-08 14:59:30 - 178828379 - Result: Successfully redeemed
+2026-11-08 14:59:31 - Processing K1266-178872530 [34/300] for code: 11OFFICIALSTORE08
+2026-11-08 14:59:31 - 178872530 - Result: Already redeemed
+2026-11-08 14:59:32 - Processing K1266-179107716 [35/300] for code: 11OFFICIALSTORE08
+2026-11-08 14:59:33 - 179107716 - Result: Successfully redeemed
+2026-11-08 14:59:34 - Processing K1266-179216885 [36/300] for code: 11OFFICIALSTORE08
+2026-11-08 14:59:34 - 179216885 - Result: Successfully redeemed
+2026-11-08 14:59:35 - Processing K1266-179479072 [37/300] for code: 11OFFICIALSTORE08
+2026-11-08 14:59:35 - 179479072 - Result: Successfully redeemed
+2026-11-08 14:59:36 - Processing K1266-179515454 [38/300] for code: 11OFFICIALSTORE08
+2026-11-08 14:59:37 - 179515454 - Result: Successfully redeemed
+2026-11-08 14:59:38 - Processing K1266-179675357 [39/300] for code: 11OFFICIALSTORE08
+2026-11-08 14:59:38 - 179675357 - Result: Successfully redeemed
+2026-11-08 14:59:39 - Processing K1266-179691958 [40/300] for code: 11OFFICIALSTORE08
+2026-11-08 14:59:39 - 179691958 - Result: Successfully redeemed
+2026-11-08 14:59:40 - Processing K1266-180368647 [41/300] for code: 11OFFICIALSTORE08
+2026-11-08 14:59:40 - 180368647 - Result: Successfully redeemed
+2026-11-08 14:59:42 - Processing K1266-180369109 [42/300] for code: 11OFFICIALSTORE08
+2026-11-08 14:59:42 - 180369109 - Result: Successfully redeemed
+2026-11-08 14:59:43 - Processing K1266-180369159 [43/300] for code: 11OFFICIALSTORE08
+2026-11-08 14:59:43 - 180369159 - Result: Successfully redeemed
+2026-11-08 14:59:44 - Processing K1266-180385375 [44/300] for code: 11OFFICIALSTORE08
+2026-11-08 14:59:44 - 180385375 - Result: Successfully redeemed
+2026-11-08 14:59:46 - Processing K1266-180385792 [45/300] for code: 11OFFICIALSTORE08
+2026-11-08 14:59:46 - 180385792 - Result: Successfully redeemed
+2026-11-08 14:59:47 - Processing K1266-180418498 [46/300] for code: 11OFFICIALSTORE08
+2026-11-08 14:59:47 - 180418498 - Result: Successfully redeemed
+2026-11-08 14:59:49 - Processing K1266-180434357 [47/300] for code: 11OFFICIALSTORE08
+2026-11-08 14:59:49 - 180434357 - Result: Successfully redeemed
+2026-11-08 14:59:50 - Processing K1266-180483302 [48/300] for code: 11OFFICIALSTORE08
+2026-11-08 14:59:50 - 180483302 - Result: Successfully redeemed
+2026-11-08 14:59:51 - Processing K1266-180565782 [49/300] for code: 11OFFICIALSTORE08
+2026-11-08 14:59:51 - 180565782 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-08 14:59:53 - 180565782 - Result: Successfully redeemed
+2026-11-08 14:59:55 - Processing K1266-180582116 [50/300] for code: 11OFFICIALSTORE08
+2026-11-08 14:59:55 - 180582116 - Result: Successfully redeemed
+2026-11-08 14:59:56 - Processing K1266-180588134 [51/300] for code: 11OFFICIALSTORE08
+2026-11-08 14:59:56 - 180588134 - Result: Successfully redeemed
+2026-11-08 14:59:57 - Processing K1266-180598416 [52/300] for code: 11OFFICIALSTORE08
+2026-11-08 14:59:58 - 180598416 - Result: Successfully redeemed
+2026-11-08 14:59:59 - Processing K1266-180614319 [53/300] for code: 11OFFICIALSTORE08
+2026-11-08 14:59:59 - 180614319 - Result: Successfully redeemed
+2026-11-08 15:00:00 - Processing K1266-180636958 [54/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:00:00 - 180636958 - Result: Already redeemed
+2026-11-08 15:00:01 - Processing K1266-180647291 [55/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:00:01 - 180647291 - Result: Successfully redeemed
+2026-11-08 15:00:03 - Processing K1266-180647824 [56/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:00:03 - 180647824 - Result: Successfully redeemed
+2026-11-08 15:00:04 - Processing K1266-180669914 [57/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:00:04 - 180669914 - Result: Successfully redeemed
+2026-11-08 15:00:06 - Processing K1266-180696652 [58/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:00:06 - 180696652 - Result: Successfully redeemed
+2026-11-08 15:00:07 - Processing K1266-180729920 [59/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:00:07 - 180729920 - Result: Successfully redeemed
+2026-11-08 15:00:08 - Processing K1266-180778760 [60/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:00:08 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-08 15:00:12 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-08 15:00:20 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-08 15:00:32 - 180778760 - Result: Redemption request failed
+2026-11-08 15:00:34 - Processing K1266-180779049 [61/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:00:34 - 180779049 - Result: Successfully redeemed
+2026-11-08 15:00:35 - Processing K1266-180795047 [62/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:00:35 - 180795047 - Result: Successfully redeemed
+2026-11-08 15:00:36 - Processing K1266-180827986 [63/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:00:37 - 180827986 - Result: Successfully redeemed
+2026-11-08 15:00:38 - Processing K1266-180893684 [64/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:00:38 - 180893684 - Result: Successfully redeemed
+2026-11-08 15:00:39 - Processing K1266-180893765 [65/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:00:39 - 180893765 - Result: Already redeemed
+2026-11-08 15:00:40 - Processing K1266-180909451 [66/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:00:40 - 180909451 - Result: Successfully redeemed
+2026-11-08 15:00:42 - Processing K1266-180959009 [67/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:00:42 - 180959009 - Result: Successfully redeemed
+2026-11-08 15:00:43 - Processing K1266-180975047 [68/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:00:43 - 180975047 - Result: Successfully redeemed
+2026-11-08 15:00:44 - Processing K1266-181008488 [69/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:00:44 - 181008488 - Result: Successfully redeemed
+2026-11-08 15:00:46 - Processing K1266-181024577 [70/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:00:46 - 181024577 - Result: Successfully redeemed
+2026-11-08 15:00:47 - Processing K1266-181063111 [71/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:00:47 - 181063111 - Result: Successfully redeemed
+2026-11-08 15:00:49 - Processing K1266-181089949 [72/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:00:49 - 181089949 - Result: Successfully redeemed
+2026-11-08 15:00:50 - Processing K1266-181090100 [73/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:00:50 - 181090100 - Result: Successfully redeemed
+2026-11-08 15:00:52 - Processing K1266-181106609 [74/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:00:52 - 181106609 - Result: Successfully redeemed
+2026-11-08 15:00:53 - Processing K1266-181122260 [75/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:00:53 - 181122260 - Result: Successfully redeemed
+2026-11-08 15:00:54 - Processing K1266-181139114 [76/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:00:54 - 181139114 - Result: Successfully redeemed
+2026-11-08 15:00:56 - Processing K1266-181155772 [77/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:00:56 - 181155772 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-08 15:00:58 - 181155772 - Result: Successfully redeemed
+2026-11-08 15:00:59 - Processing K1266-181171461 [78/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:00:59 - 181171461 - Result: Successfully redeemed
+2026-11-08 15:01:01 - Processing K1266-181188977 [79/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:01:01 - 181188977 - Result: Successfully redeemed
+2026-11-08 15:01:02 - Processing K1266-181340930 [80/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:01:02 - 181340930 - Result: Successfully redeemed
+2026-11-08 15:01:03 - Processing K1266-181351852 [81/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:01:03 - 181351852 - Result: Successfully redeemed
+2026-11-08 15:01:05 - Processing K1266-181358276 [82/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:01:05 - 181358276 - Result: Successfully redeemed
+2026-11-08 15:01:06 - Processing K1266-181374419 [83/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:01:06 - 181374419 - Result: Successfully redeemed
+2026-11-08 15:01:07 - Processing K1266-181384836 [84/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:01:08 - 181384836 - Result: Successfully redeemed
+2026-11-08 15:01:09 - Processing K1266-181385198 [85/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:01:09 - 181385198 - Result: Successfully redeemed
+2026-11-08 15:01:10 - Processing K1266-181401589 [86/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:01:10 - 181401589 - Result: Successfully redeemed
+2026-11-08 15:01:11 - Processing K1266-181407057 [87/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:01:11 - 181407057 - Result: Successfully redeemed
+2026-11-08 15:01:12 - Processing K1266-181417643 [88/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:01:13 - 181417643 - Result: Successfully redeemed
+2026-11-08 15:01:14 - Processing K1266-181423528 [89/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:01:14 - 181423528 - Result: Successfully redeemed
+2026-11-08 15:01:15 - Processing K1266-181466821 [90/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:01:15 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-08 15:01:19 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-08 15:01:27 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-08 15:01:39 - 181466821 - Result: Redemption request failed
+2026-11-08 15:01:41 - Processing K1266-181466879 [91/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:01:41 - 181466879 - Result: Successfully redeemed
+2026-11-08 15:01:42 - Processing K1266-181482560 [92/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:01:42 - 181482560 - Result: Successfully redeemed
+2026-11-08 15:01:44 - Processing K1266-181515253 [93/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:01:44 - 181515253 - Result: Successfully redeemed
+2026-11-08 15:01:45 - Processing K1266-181516264 [94/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:01:45 - 181516264 - Result: Successfully redeemed
+2026-11-08 15:01:47 - Processing K1266-181516335 [95/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:01:47 - 181516335 - Result: Successfully redeemed
+2026-11-08 15:01:48 - Processing K1266-181521367 [96/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:01:48 - 181521367 - Result: Successfully redeemed
+2026-11-08 15:01:49 - Processing K1266-181531678 [97/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:01:49 - 181531678 - Result: Successfully redeemed
+2026-11-08 15:01:51 - Processing K1266-181548141 [98/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:01:51 - 181548141 - Result: Successfully redeemed
+2026-11-08 15:01:52 - Processing K1266-181565051 [99/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:01:52 - 181565051 - Result: Successfully redeemed
+2026-11-08 15:01:53 - Processing K1266-181571708 [100/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:01:53 - 181571708 - Result: Successfully redeemed
+2026-11-08 15:01:54 - Processing K1266-181614011 [101/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:01:55 - 181614011 - Result: Successfully redeemed
+2026-11-08 15:01:56 - Processing K1266-181646830 [102/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:01:56 - 181646830 - Result: Successfully redeemed
+2026-11-08 15:01:57 - Processing K1266-181663028 [103/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:01:57 - 181663028 - Result: Successfully redeemed
+2026-11-08 15:01:58 - Processing K1266-181669304 [104/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:01:59 - 181669304 - Result: Successfully redeemed
+2026-11-08 15:02:00 - Processing K1266-181712653 [105/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:02:00 - 181712653 - Result: Successfully redeemed
+2026-11-08 15:02:01 - Processing K1266-181728933 [106/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:02:01 - 181728933 - Result: Successfully redeemed
+2026-11-08 15:02:02 - Processing K1266-181734398 [107/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:02:02 - 181734398 - Result: Successfully redeemed
+2026-11-08 15:02:04 - Processing K1266-181761437 [108/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:02:04 - 181761437 - Result: Successfully redeemed
+2026-11-08 15:02:05 - Processing K1266-181778389 [109/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:02:05 - 181778389 - Result: Successfully redeemed
+2026-11-08 15:02:07 - Processing K1266-181793958 [110/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:02:07 - 181793958 - Result: Successfully redeemed
+2026-11-08 15:02:08 - Processing K1266-181794115 [111/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:02:08 - 181794115 - Result: Successfully redeemed
+2026-11-08 15:02:10 - Processing K1266-181816445 [112/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:02:10 - 181816445 - Result: Successfully redeemed
+2026-11-08 15:02:11 - Processing K1266-181859892 [113/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:02:11 - 181859892 - Result: Successfully redeemed
+2026-11-08 15:02:12 - Processing K1266-181859948 [114/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:02:12 - 181859948 - Result: Successfully redeemed
+2026-11-08 15:02:14 - Processing K1266-181860239 [115/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:02:14 - 181860239 - Result: Successfully redeemed
+2026-11-08 15:02:15 - Processing K1266-181860336 [116/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:02:15 - 181860336 - Result: Successfully redeemed
+2026-11-08 15:02:16 - Processing K1266-181882185 [117/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:02:16 - 181882185 - Result: Successfully redeemed
+2026-11-08 15:02:18 - Processing K1266-181892750 [118/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:02:18 - 181892750 - Result: Successfully redeemed
+2026-11-08 15:02:19 - Processing K1266-181941995 [119/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:02:19 - 181941995 - Result: Successfully redeemed
+2026-11-08 15:02:21 - Processing K1266-181958341 [120/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:02:21 - 181958341 - Result: Successfully redeemed
+2026-11-08 15:02:22 - Processing K1266-181958534 [121/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:02:22 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-08 15:02:26 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-08 15:02:34 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-08 15:02:46 - 181958534 - Result: Redemption request failed
+2026-11-08 15:02:48 - Processing K1266-182007379 [122/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:02:48 - 182007379 - Result: Successfully redeemed
+2026-11-08 15:02:49 - Processing K1266-182007601 [123/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:02:49 - 182007601 - Result: Successfully redeemed
+2026-11-08 15:02:50 - Processing K1266-182013382 [124/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:02:50 - 182013382 - Result: Already redeemed
+2026-11-08 15:02:52 - Processing K1266-182022970 [125/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:02:52 - 182022970 - Result: Successfully redeemed
+2026-11-08 15:02:53 - Processing K1266-182046115 [126/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:02:53 - 182046115 - Result: Successfully redeemed
+2026-11-08 15:02:54 - Processing K1266-182072645 [127/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:02:55 - 182072645 - Result: Successfully redeemed
+2026-11-08 15:02:56 - Processing K1266-182144355 [128/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:02:56 - 182144355 - Result: Successfully redeemed
+2026-11-08 15:02:57 - Processing K1266-182203508 [129/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:02:57 - 182203508 - Result: Successfully redeemed
+2026-11-08 15:02:59 - Processing K1266-182203900 [130/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:02:59 - 182203900 - Result: Successfully redeemed
+2026-11-08 15:03:00 - Processing K1266-182203950 [131/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:03:00 - 182203950 - Result: Successfully redeemed
+2026-11-08 15:03:01 - Processing K1266-182220585 [132/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:03:01 - 182220585 - Result: Successfully redeemed
+2026-11-08 15:03:03 - Processing K1266-182269737 [133/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:03:03 - 182269737 - Result: Successfully redeemed
+2026-11-08 15:03:04 - Processing K1266-182286440 [134/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:03:04 - 182286440 - Result: Successfully redeemed
+2026-11-08 15:03:05 - Processing K1266-182302366 [135/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:03:05 - 182302366 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-08 15:03:08 - 182302366 - Result: Successfully redeemed
+2026-11-08 15:03:09 - Processing K1266-182318888 [136/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:03:09 - 182318888 - Result: Successfully redeemed
+2026-11-08 15:03:10 - Processing K1266-182318992 [137/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:03:10 - 182318992 - Result: Successfully redeemed
+2026-11-08 15:03:11 - Processing K1266-182334781 [138/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:03:11 - 182334781 - Result: Successfully redeemed
+2026-11-08 15:03:13 - Processing K1266-182384322 [139/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:03:13 - 182384322 - Result: Successfully redeemed
+2026-11-08 15:03:14 - Processing K1266-182390223 [140/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:03:14 - 182390223 - Result: Successfully redeemed
+2026-11-08 15:03:16 - Processing K1266-182449206 [141/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:03:16 - 182449206 - Result: Successfully redeemed
+2026-11-08 15:03:17 - Processing K1266-182450074 [142/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:03:17 - 182450074 - Result: Successfully redeemed
+2026-11-08 15:03:18 - Processing K1266-182466031 [143/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:03:18 - 182466031 - Result: Successfully redeemed
+2026-11-08 15:03:20 - Processing K1266-182472038 [144/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:03:20 - 182472038 - Result: Successfully redeemed
+2026-11-08 15:03:21 - Processing K1266-182488759 [145/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:03:21 - 182488759 - Result: Successfully redeemed
+2026-11-08 15:03:23 - Processing K1266-182531700 [146/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:03:23 - 182531700 - Result: Successfully redeemed
+2026-11-08 15:03:24 - Processing K1266-182548386 [147/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:03:24 - 182548386 - Result: Successfully redeemed
+2026-11-08 15:03:26 - Processing K1266-182646613 [148/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:03:26 - 182646613 - Result: Successfully redeemed
+2026-11-08 15:03:27 - Processing K1266-182668737 [149/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:03:27 - 182668737 - Result: Successfully redeemed
+2026-11-08 15:03:28 - Processing K1266-182679587 [150/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:03:28 - 182679587 - Result: Successfully redeemed
+2026-11-08 15:03:29 - Processing K1266-182717899 [151/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:03:29 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-08 15:03:33 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-08 15:03:41 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-08 15:03:53 - 182717899 - Result: Redemption request failed
+2026-11-08 15:03:55 - Processing K1266-182767010 [152/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:03:55 - 182767010 - Result: Successfully redeemed
+2026-11-08 15:03:56 - Processing K1266-182810221 [153/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:03:56 - 182810221 - Result: Successfully redeemed
+2026-11-08 15:03:58 - Processing K1266-182842833 [154/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:03:58 - 182842833 - Result: Successfully redeemed
+2026-11-08 15:03:59 - Processing K1266-182848942 [155/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:03:59 - 182848942 - Result: Successfully redeemed
+2026-11-08 15:04:00 - Processing K1266-182849233 [156/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:04:00 - 182849233 - Result: Successfully redeemed
+2026-11-08 15:04:01 - Processing K1266-182858998 [157/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:04:01 - 182858998 - Result: Successfully redeemed
+2026-11-08 15:04:03 - Processing K1266-182859667 [158/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:04:03 - 182859667 - Result: Successfully redeemed
+2026-11-08 15:04:04 - Processing K1266-182892217 [159/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:04:04 - 182892217 - Result: Successfully redeemed
+2026-11-08 15:04:05 - Processing K1266-182898057 [160/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:04:05 - 182898057 - Result: Successfully redeemed
+2026-11-08 15:04:07 - Processing K1266-182908483 [161/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:04:07 - 182908483 - Result: Successfully redeemed
+2026-11-08 15:04:08 - Processing K1266-182941162 [162/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:04:08 - 182941162 - Result: Successfully redeemed
+2026-11-08 15:04:09 - Processing K1266-182941502 [163/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:04:09 - 182941502 - Result: Successfully redeemed
+2026-11-08 15:04:11 - Processing K1266-182957878 [164/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:04:11 - 182957878 - Result: Successfully redeemed
+2026-11-08 15:04:12 - Processing K1266-182990423 [165/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:04:12 - 182990423 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-08 15:04:14 - 182990423 - Result: Successfully redeemed
+2026-11-08 15:04:15 - Processing K1266-183006892 [166/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:04:15 - 183006892 - Result: Successfully redeemed
+2026-11-08 15:04:17 - Processing K1266-183012848 [167/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:04:17 - 183012848 - Result: Successfully redeemed
+2026-11-08 15:04:18 - Processing K1266-183028805 [168/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:04:18 - 183028805 - Result: Successfully redeemed
+2026-11-08 15:04:20 - Processing K1266-183029342 [169/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:04:20 - 183029342 - Result: Successfully redeemed
+2026-11-08 15:04:21 - Processing K1266-183039758 [170/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:04:21 - 183039758 - Result: Successfully redeemed
+2026-11-08 15:04:22 - Processing K1266-183072306 [171/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:04:23 - 183072306 - Result: Successfully redeemed
+2026-11-08 15:04:24 - Processing K1266-183072824 [172/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:04:24 - 183072824 - Result: Successfully redeemed
+2026-11-08 15:04:25 - Processing K1266-183089209 [173/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:04:25 - 183089209 - Result: Successfully redeemed
+2026-11-08 15:04:26 - Processing K1266-183104870 [174/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:04:26 - 183104870 - Result: Successfully redeemed
+2026-11-08 15:04:28 - Processing K1266-183121113 [175/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:04:28 - 183121113 - Result: Successfully redeemed
+2026-11-08 15:04:29 - Processing K1266-183137287 [176/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:04:29 - 183137287 - Result: Already redeemed
+2026-11-08 15:04:30 - Processing K1266-183154102 [177/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:04:30 - 183154102 - Result: Successfully redeemed
+2026-11-08 15:04:32 - Processing K1266-183154303 [178/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:04:32 - 183154303 - Result: Successfully redeemed
+2026-11-08 15:04:33 - Processing K1266-183154798 [179/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:04:33 - 183154798 - Result: Successfully redeemed
+2026-11-08 15:04:34 - Processing K1266-183170657 [180/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:04:34 - 183170657 - Result: Successfully redeemed
+2026-11-08 15:04:35 - Processing K1266-183176536 [181/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:04:35 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-08 15:04:39 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-08 15:04:47 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-08 15:04:59 - 183176536 - Result: Redemption request failed
+2026-11-08 15:05:00 - Processing K1266-183219217 [182/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:05:01 - 183219217 - Result: Successfully redeemed
+2026-11-08 15:05:02 - Processing K1266-183219343 [183/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:05:02 - 183219343 - Result: Successfully redeemed
+2026-11-08 15:05:03 - Processing K1266-183285360 [184/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:05:03 - 183285360 - Result: Successfully redeemed
+2026-11-08 15:05:04 - Processing K1266-183317601 [185/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:05:04 - 183317601 - Result: Successfully redeemed
+2026-11-08 15:05:06 - Processing K1266-183350823 [186/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:05:06 - 183350823 - Result: Successfully redeemed
+2026-11-08 15:05:07 - Processing K1266-183366693 [187/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:05:07 - 183366693 - Result: Successfully redeemed
+2026-11-08 15:05:08 - Processing K1266-183367342 [188/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:05:08 - 183367342 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-08 15:05:10 - 183367342 - Result: Successfully redeemed
+2026-11-08 15:05:11 - Processing K1266-183383666 [189/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:05:11 - 183383666 - Result: Successfully redeemed
+2026-11-08 15:05:12 - Processing K1266-183384158 [190/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:05:13 - 183384158 - Result: Successfully redeemed
+2026-11-08 15:05:14 - Processing K1266-183455373 [191/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:05:14 - 183455373 - Result: Successfully redeemed
+2026-11-08 15:05:15 - Processing K1266-183531242 [192/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:05:15 - 183531242 - Result: Successfully redeemed
+2026-11-08 15:05:16 - Processing K1266-183563334 [193/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:05:16 - 183563334 - Result: Successfully redeemed
+2026-11-08 15:05:18 - Processing K1266-183579641 [194/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:05:18 - 183579641 - Result: Successfully redeemed
+2026-11-08 15:05:19 - Processing K1266-183602956 [195/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:05:19 - 183602956 - Result: Successfully redeemed
+2026-11-08 15:05:20 - Processing K1266-183635567 [196/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:05:20 - 183635567 - Result: Successfully redeemed
+2026-11-08 15:05:22 - Processing K1266-183662249 [197/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:05:22 - 183662249 - Result: Successfully redeemed
+2026-11-08 15:05:23 - Processing K1266-183695044 [198/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:05:23 - 183695044 - Result: Successfully redeemed
+2026-11-08 15:05:24 - Processing K1266-183744074 [199/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:05:24 - 183744074 - Result: Successfully redeemed
+2026-11-08 15:05:26 - Processing K1266-183760133 [200/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:05:26 - 183760133 - Result: Successfully redeemed
+2026-11-08 15:05:27 - Processing K1266-183776526 [201/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:05:27 - 183776526 - Result: Successfully redeemed
+2026-11-08 15:05:29 - Processing K1266-183793260 [202/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:05:29 - 183793260 - Result: Successfully redeemed
+2026-11-08 15:05:30 - Processing K1266-183799231 [203/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:05:30 - 183799231 - Result: Successfully redeemed
+2026-11-08 15:05:32 - Processing K1266-183809202 [204/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:05:32 - 183809202 - Result: Successfully redeemed
+2026-11-08 15:05:33 - Processing K1266-183826046 [205/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:05:33 - 183826046 - Result: Successfully redeemed
+2026-11-08 15:05:34 - Processing K1266-183826079 [206/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:05:34 - 183826079 - Result: Successfully redeemed
+2026-11-08 15:05:36 - Processing K1266-183826363 [207/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:05:36 - 183826363 - Result: Successfully redeemed
+2026-11-08 15:05:37 - Processing K1266-183842707 [208/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:05:37 - 183842707 - Result: Successfully redeemed
+2026-11-08 15:05:38 - Processing K1266-183858943 [209/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:05:38 - 183858943 - Result: Successfully redeemed
+2026-11-08 15:05:40 - Processing K1266-183859043 [210/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:05:40 - 183859043 - Result: Successfully redeemed
+2026-11-08 15:05:41 - Processing K1266-183864332 [211/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:05:41 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-08 15:05:45 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-08 15:05:53 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-08 15:06:05 - 183864332 - Result: Redemption request failed
+2026-11-08 15:06:06 - Processing K1266-183897678 [212/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:06:06 - 183897678 - Result: Successfully redeemed
+2026-11-08 15:06:07 - Processing K1266-183907791 [213/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:06:07 - 183907791 - Result: Successfully redeemed
+2026-11-08 15:06:09 - Processing K1266-183907855 [214/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:06:09 - 183907855 - Result: Successfully redeemed
+2026-11-08 15:06:10 - Processing K1266-183924658 [215/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:06:10 - 183924658 - Result: Already redeemed
+2026-11-08 15:06:11 - Processing K1266-183924660 [216/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:06:11 - 183924660 - Result: Successfully redeemed
+2026-11-08 15:06:12 - Processing K1266-183940809 [217/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:06:13 - 183940809 - Result: Already redeemed
+2026-11-08 15:06:14 - Processing K1266-183946385 [218/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:06:14 - 183946385 - Result: Successfully redeemed
+2026-11-08 15:06:15 - Processing K1266-183946804 [219/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:06:15 - 183946804 - Result: Successfully redeemed
+2026-11-08 15:06:16 - Processing K1266-183996371 [220/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:06:16 - 183996371 - Result: Successfully redeemed
+2026-11-08 15:06:18 - Processing K1266-184005794 [221/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:06:18 - 184005794 - Result: Successfully redeemed
+2026-11-08 15:06:19 - Processing K1266-184022781 [222/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:06:19 - 184022781 - Result: Successfully redeemed
+2026-11-08 15:06:20 - Processing K1266-184038545 [223/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:06:20 - 184038545 - Result: Successfully redeemed
+2026-11-08 15:06:22 - Processing K1266-184071743 [224/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:06:22 - 184071743 - Result: Successfully redeemed
+2026-11-08 15:06:23 - Processing K1266-184088377 [225/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:06:23 - 184088377 - Result: Successfully redeemed
+2026-11-08 15:06:24 - Processing K1266-184137674 [226/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:06:24 - 184137674 - Result: Already redeemed
+2026-11-08 15:06:25 - Processing K1266-184159552 [227/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:06:25 - 184159552 - Result: Successfully redeemed
+2026-11-08 15:06:27 - Processing K1266-184169916 [228/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:06:27 - 184169916 - Result: Successfully redeemed
+2026-11-08 15:06:28 - Processing K1266-184170263 [229/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:06:28 - 184170263 - Result: Successfully redeemed
+2026-11-08 15:06:29 - Processing K1266-184175883 [230/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:06:30 - 184175883 - Result: Successfully redeemed
+2026-11-08 15:06:31 - Processing K1266-184186546 [231/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:06:31 - 184186546 - Result: Successfully redeemed
+2026-11-08 15:06:32 - Processing K1266-184202442 [232/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:06:32 - 184202442 - Result: Successfully redeemed
+2026-11-08 15:06:33 - Processing K1266-184202684 [233/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:06:33 - 184202684 - Result: Successfully redeemed
+2026-11-08 15:06:34 - Processing K1266-184219240 [234/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:06:34 - 184219240 - Result: Successfully redeemed
+2026-11-08 15:06:36 - Processing K1266-184252103 [235/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:06:36 - 184252103 - Result: Successfully redeemed
+2026-11-08 15:06:37 - Processing K1266-184257548 [236/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:06:37 - 184257548 - Result: Successfully redeemed
+2026-11-08 15:06:38 - Processing K1266-184268236 [237/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:06:38 - 184268236 - Result: Successfully redeemed
+2026-11-08 15:06:40 - Processing K1266-184268332 [238/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:06:40 - 184268332 - Result: Successfully redeemed
+2026-11-08 15:06:41 - Processing K1266-184285099 [239/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:06:41 - 184285099 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-08 15:06:43 - 184285099 - Result: Successfully redeemed
+2026-11-08 15:06:45 - Processing K1266-184300583 [240/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:06:45 - 184300583 - Result: Successfully redeemed
+2026-11-08 15:06:46 - Processing K1266-184301120 [241/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:06:46 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-08 15:06:50 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-08 15:06:58 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-08 15:07:10 - 184301120 - Result: Redemption request failed
+2026-11-08 15:07:12 - Processing K1266-184301482 [242/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:07:12 - 184301482 - Result: Successfully redeemed
+2026-11-08 15:07:13 - Processing K1266-184306709 [243/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:07:13 - 184306709 - Result: Already redeemed
+2026-11-08 15:07:14 - Processing K1266-184323165 [244/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:07:15 - 184323165 - Result: Successfully redeemed
+2026-11-08 15:07:16 - Processing K1266-184334160 [245/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:07:16 - 184334160 - Result: Successfully redeemed
+2026-11-08 15:07:17 - Processing K1266-184334326 [246/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:07:17 - 184334326 - Result: Successfully redeemed
+2026-11-08 15:07:18 - Processing K1266-184355782 [247/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:07:18 - 184355782 - Result: Successfully redeemed
+2026-11-08 15:07:19 - Processing K1266-184355850 [248/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:07:19 - 184355850 - Result: Successfully redeemed
+2026-11-08 15:07:21 - Processing K1266-184366301 [249/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:07:21 - 184366301 - Result: Successfully redeemed
+2026-11-08 15:07:22 - Processing K1266-184398957 [250/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:07:22 - 184398957 - Result: Successfully redeemed
+2026-11-08 15:07:24 - Processing K1266-184431865 [251/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:07:24 - 184431865 - Result: Successfully redeemed
+2026-11-08 15:07:25 - Processing K1266-184448668 [252/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:07:25 - 184448668 - Result: Successfully redeemed
+2026-11-08 15:07:26 - Processing K1266-185122678 [253/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:07:26 - 185122678 - Result: Successfully redeemed
+2026-11-08 15:07:27 - Processing K1266-185480245 [254/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:07:27 - 185480245 - Result: Already redeemed
+2026-11-08 15:07:29 - Processing K1266-187102768 [255/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:07:29 - 187102768 - Result: Successfully redeemed
+2026-11-08 15:07:30 - Processing K1266-187115851 [256/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:07:30 - 187115851 - Result: Successfully redeemed
+2026-11-08 15:07:32 - Processing K1266-188087741 [257/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:07:32 - 188087741 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-08 15:07:34 - 188087741 - Result: Successfully redeemed
+2026-11-08 15:07:35 - Processing K1266-188470196 [258/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:07:35 - 188470196 - Result: Successfully redeemed
+2026-11-08 15:07:37 - Processing K1266-188862376 [259/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:07:37 - 188862376 - Result: Successfully redeemed
+2026-11-08 15:07:38 - Processing K1266-190234418 [260/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:07:38 - 190234418 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-08 15:07:40 - 190234418 - Result: Successfully redeemed
+2026-11-08 15:07:41 - Processing K1266-190573918 [261/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:07:41 - 190573918 - Result: Successfully redeemed
+2026-11-08 15:07:42 - Processing K1266-191129295 [262/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:07:42 - 191129295 - Result: Successfully redeemed
+2026-11-08 15:07:44 - Processing K1266-192400838 [263/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:07:44 - 192400838 - Result: Successfully redeemed
+2026-11-08 15:07:45 - Processing K1266-193616382 [264/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:07:45 - 193616382 - Result: Successfully redeemed
+2026-11-08 15:07:46 - Processing K1266-194020665 [265/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:07:46 - 194020665 - Result: Successfully redeemed
+2026-11-08 15:07:48 - Processing K1266-194962807 [266/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:07:48 - 194962807 - Result: Successfully redeemed
+2026-11-08 15:07:49 - Processing K1266-196209781 [267/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:07:49 - 196209781 - Result: Already redeemed
+2026-11-08 15:07:50 - Processing K1266-197077736 [268/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:07:50 - 197077736 - Result: Successfully redeemed
+2026-11-08 15:07:51 - Processing K1266-197748881 [269/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:07:51 - 197748881 - Result: Successfully redeemed
+2026-11-08 15:07:53 - Processing K1266-198971997 [270/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:07:53 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-08 15:07:57 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-08 15:08:05 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-08 15:08:17 - 198971997 - Result: Redemption request failed
+2026-11-08 15:08:18 - Processing K1266-199766078 [271/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:08:19 - 199766078 - Result: Successfully redeemed
+2026-11-08 15:08:20 - Processing K1266-202789741 [272/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:08:20 - 202789741 - Result: Successfully redeemed
+2026-11-08 15:08:21 - Processing K1266-208458805 [273/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:08:21 - 208458805 - Result: Successfully redeemed
+2026-11-08 15:08:23 - Processing K1266-208469366 [274/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:08:23 - 208469366 - Result: Successfully redeemed
+2026-11-08 15:08:24 - Processing K1266-209741428 [275/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:08:24 - 209741428 - Result: Already redeemed
+2026-11-08 15:08:25 - Processing K1266-215719460 [276/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:08:25 - 215719460 - Result: Successfully redeemed
+2026-11-08 15:08:26 - Processing K1266-216820126 [277/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:08:26 - 216820126 - Result: Successfully redeemed
+2026-11-08 15:08:28 - Processing K1266-219382121 [278/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:08:28 - 219382121 - Result: Successfully redeemed
+2026-11-08 15:08:29 - Processing K1266-221309318 [279/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:08:29 - 221309318 - Result: Successfully redeemed
+2026-11-08 15:08:31 - Processing K1266-221445787 [280/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:08:31 - 221445787 - Result: Successfully redeemed
+2026-11-08 15:08:32 - Processing K1266-221883902 [281/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:08:32 - 221883902 - Result: Successfully redeemed
+2026-11-08 15:08:33 - Processing K1266-226209236 [282/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:08:33 - 226209236 - Result: Successfully redeemed
+2026-11-08 15:08:35 - Processing K1266-226703897 [283/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:08:35 - 226703897 - Result: Successfully redeemed
+2026-11-08 15:08:36 - Processing K1266-227970815 [284/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:08:36 - 227970815 - Result: Successfully redeemed
+2026-11-08 15:08:37 - Processing K1266-232510086 [285/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:08:37 - 232510086 - Result: Already redeemed
+2026-11-08 15:08:38 - Processing K1266-239065229 [286/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:08:38 - 239065229 - Result: Successfully redeemed
+2026-11-08 15:08:40 - Processing K1266-240864609 [287/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:08:40 - 240864609 - Result: Successfully redeemed
+2026-11-08 15:08:41 - Processing K1266-247760465 [288/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:08:41 - 247760465 - Result: Successfully redeemed
+2026-11-08 15:08:43 - Processing K1266-264853160 [289/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:08:43 - 264853160 - Result: Successfully redeemed
+2026-11-08 15:08:44 - Processing K1266-270896390 [290/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:08:44 - 270896390 - Result: Successfully redeemed
+2026-11-08 15:08:45 - Processing K1266-279842790 [291/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:08:45 - 279842790 - Result: Successfully redeemed
+2026-11-08 15:08:47 - Processing K1266-286282880 [292/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:08:47 - 286282880 - Result: Successfully redeemed
+2026-11-08 15:08:48 - Processing K1266-290460722 [293/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:08:48 - 290460722 - Result: Successfully redeemed
+2026-11-08 15:08:49 - Processing K1266-300260967 [294/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:08:49 - 300260967 - Result: Successfully redeemed
+2026-11-08 15:08:50 - Processing K1266-302154974 [295/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:08:50 - 302154974 - Result: Successfully redeemed
+2026-11-08 15:08:52 - Processing K1266-305821193 [296/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:08:52 - 305821193 - Result: Successfully redeemed
+2026-11-08 15:08:53 - Processing K1266-378005527 [297/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:08:53 - 378005527 - Result: Successfully redeemed
+2026-11-08 15:08:54 - Processing K1266-378518775 [298/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:08:54 - 378518775 - Result: Successfully redeemed
+2026-11-08 15:08:55 - Processing K1266-381967745 [299/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:08:55 - 381967745 - Result: Successfully redeemed
+2026-11-08 15:08:57 - Processing K1266-402165713 [300/300] for code: 11OFFICIALSTORE08
+2026-11-08 15:08:57 - 402165713 - Result: Successfully redeemed
+2026-11-08 15:08:58 - --- Cycle finished. Total processed: 300/300 ---
+2026-11-08 15:08:58 - 
+========================= Redemption Summary =========================
+2026-11-08 15:08:58 - Code Redeemed: 11OFFICIALSTORE08
+2026-11-08 15:08:58 - Total Unique Player IDs Found: 300
+2026-11-08 15:08:58 - Total Player IDs Processed: 300
+2026-11-08 15:08:58 - Successfully redeemed: 274
+2026-11-08 15:08:58 - Already redeemed: 17
+2026-11-08 15:08:58 - Wrong kingdom: 0
+2026-11-08 15:08:58 - Other Errors/Failures: 9
+2026-11-08 15:08:58 - Rate Limit Events: 0
+2026-11-08 15:08:58 - Total execution time: 00:10:36
+2026-11-08 15:08:58 - ======================================================================
