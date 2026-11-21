@@ -46709,3 +46709,669 @@
 2026-11-21 04:41:55 - ======================================================================
 2026-11-21 04:41:55 - Marked 'Bw8Gkp9Kn' as known.
 
+2026-11-21 13:55:08 - Starting auto gift code redeemer...
+2026-11-21 13:55:08 - Checking multiple sources for new gift codes...
+2026-11-21 13:55:08 -   [kingshot.net] Fetching https://kingshot.net/gift-codes...
+2026-11-21 13:55:09 -   [kingshot.net] Found 3 codes using selector: code.font-num.font-bold.text-cyan
+2026-11-21 13:55:09 -   [kingshot.net] contributed 3 codes
+2026-11-21 13:55:09 -   [kingshotmastery.com] Fetching https://kingshotmastery.com/gift-codes...
+2026-11-21 13:55:09 -   [kingshotmastery.com] Found 3 codes from JSON-LD structured data
+2026-11-21 13:55:09 -   [kingshotmastery.com] contributed 3 codes
+2026-11-21 13:55:09 - Fetched 3 total codes from all sources.
+2026-11-21 13:55:09 - Found 1 new codes.
+2026-11-21 13:55:09 - 
+🎉 NEW GIFT CODES FOUND: SAYHIHI
+2026-11-21 13:55:09 - Read 300 player IDs from lod.csv (300 with a kingdom)
+2026-11-21 13:55:09 - Total unique player IDs to process: 300
+2026-11-21 13:55:09 - 
+=== Starting redemption for gift code: SAYHIHI ===
+2026-11-21 13:55:09 - Total unique player IDs to process: 300
+2026-11-21 13:55:09 - 
+--- Starting processing cycle. Ready player IDs: 300 ---
+2026-11-21 13:55:09 - Processing K1266-112607487 [1/300] for code: SAYHIHI
+2026-11-21 13:55:09 - 112607487 - Result: Successfully redeemed
+2026-11-21 13:55:10 - Processing K1266-134948830 [2/300] for code: SAYHIHI
+2026-11-21 13:55:10 - 134948830 - Result: Successfully redeemed
+2026-11-21 13:55:12 - Processing K1266-137354109 [3/300] for code: SAYHIHI
+2026-11-21 13:55:12 - 137354109 - Result: Successfully redeemed
+2026-11-21 13:55:13 - Processing K1266-137881550 [4/300] for code: SAYHIHI
+2026-11-21 13:55:13 - 137881550 - Result: Successfully redeemed
+2026-11-21 13:55:14 - Processing K1266-138078147 [5/300] for code: SAYHIHI
+2026-11-21 13:55:15 - 138078147 - Result: Successfully redeemed
+2026-11-21 13:55:16 - Processing K1266-159437876 [6/300] for code: SAYHIHI
+2026-11-21 13:55:16 - 159437876 - Result: Successfully redeemed
+2026-11-21 13:55:17 - Processing K1266-160961411 [7/300] for code: SAYHIHI
+2026-11-21 13:55:18 - 160961411 - Result: Successfully redeemed
+2026-11-21 13:55:19 - Processing K1266-160977214 [8/300] for code: SAYHIHI
+2026-11-21 13:55:19 - 160977214 - Result: Successfully redeemed
+2026-11-21 13:55:21 - Processing K1266-161223459 [9/300] for code: SAYHIHI
+2026-11-21 13:55:21 - 161223459 - Result: Successfully redeemed
+2026-11-21 13:55:22 - Processing K1266-161321233 [10/300] for code: SAYHIHI
+2026-11-21 13:55:22 - 161321233 - Result: Successfully redeemed
+2026-11-21 13:55:23 - Processing K1266-161387367 [11/300] for code: SAYHIHI
+2026-11-21 13:55:23 - 161387367 - Result: Successfully redeemed
+2026-11-21 13:55:25 - Processing K1266-161616297 [12/300] for code: SAYHIHI
+2026-11-21 13:55:25 - 161616297 - Result: Successfully redeemed
+2026-11-21 13:55:26 - Processing K1266-162042375 [13/300] for code: SAYHIHI
+2026-11-21 13:55:26 - 162042375 - Result: Successfully redeemed
+2026-11-21 13:55:28 - Processing K1266-162402979 [14/300] for code: SAYHIHI
+2026-11-21 13:55:28 - 162402979 - Result: Successfully redeemed
+2026-11-21 13:55:29 - Processing K1266-162910751 [15/300] for code: SAYHIHI
+2026-11-21 13:55:29 - 162910751 - Result: Successfully redeemed
+2026-11-21 13:55:30 - Processing K1266-163042051 [16/300] for code: SAYHIHI
+2026-11-21 13:55:31 - 163042051 - Result: Successfully redeemed
+2026-11-21 13:55:32 - Processing K1266-176448172 [17/300] for code: SAYHIHI
+2026-11-21 13:55:32 - 176448172 - Result: Successfully redeemed
+2026-11-21 13:55:33 - Processing K1266-176742470 [18/300] for code: SAYHIHI
+2026-11-21 13:55:33 - 176742470 - Result: Successfully redeemed
+2026-11-21 13:55:34 - Processing K1266-176939042 [19/300] for code: SAYHIHI
+2026-11-21 13:55:34 - 176939042 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-21 13:55:37 - 176939042 - Result: Successfully redeemed
+2026-11-21 13:55:38 - Processing K1266-177004482 [20/300] for code: SAYHIHI
+2026-11-21 13:55:38 - 177004482 - Result: Successfully redeemed
+2026-11-21 13:55:39 - Processing K1266-177430530 [21/300] for code: SAYHIHI
+2026-11-21 13:55:40 - 177430530 - Result: Successfully redeemed
+2026-11-21 13:55:41 - Processing K1266-177594975 [22/300] for code: SAYHIHI
+2026-11-21 13:55:41 - 177594975 - Result: Successfully redeemed
+2026-11-21 13:55:42 - Processing K1266-177643662 [23/300] for code: SAYHIHI
+2026-11-21 13:55:42 - 177643662 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-21 13:55:45 - 177643662 - Result: Successfully redeemed
+2026-11-21 13:55:46 - Processing K1266-177741835 [24/300] for code: SAYHIHI
+2026-11-21 13:55:46 - 177741835 - Result: Successfully redeemed
+2026-11-21 13:55:47 - Processing K1266-177758431 [25/300] for code: SAYHIHI
+2026-11-21 13:55:48 - 177758431 - Result: Successfully redeemed
+2026-11-21 13:55:49 - Processing K1266-177889207 [26/300] for code: SAYHIHI
+2026-11-21 13:55:49 - 177889207 - Result: Successfully redeemed
+2026-11-21 13:55:50 - Processing K1266-177889304 [27/300] for code: SAYHIHI
+2026-11-21 13:55:50 - 177889304 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-21 13:55:52 - 177889304 - Result: Successfully redeemed
+2026-11-21 13:55:54 - Processing K1266-178003863 [28/300] for code: SAYHIHI
+2026-11-21 13:55:54 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-21 13:55:58 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-21 13:56:06 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-21 13:56:18 - 178003863 - Result: Redemption request failed
+2026-11-21 13:56:19 - Processing K1266-178167737 [29/300] for code: SAYHIHI
+2026-11-21 13:56:19 - 178167737 - Result: Successfully redeemed
+2026-11-21 13:56:20 - Processing K1266-178282383 [30/300] for code: SAYHIHI
+2026-11-21 13:56:21 - 178282383 - Result: Successfully redeemed
+2026-11-21 13:56:22 - Processing K1266-178298638 [31/300] for code: SAYHIHI
+2026-11-21 13:56:22 - 178298638 - Result: Successfully redeemed
+2026-11-21 13:56:23 - Processing K1266-178298685 [32/300] for code: SAYHIHI
+2026-11-21 13:56:23 - 178298685 - Result: Successfully redeemed
+2026-11-21 13:56:25 - Processing K1266-178828379 [33/300] for code: SAYHIHI
+2026-11-21 13:56:25 - 178828379 - Result: Successfully redeemed
+2026-11-21 13:56:26 - Processing K1266-178872530 [34/300] for code: SAYHIHI
+2026-11-21 13:56:26 - 178872530 - Result: Successfully redeemed
+2026-11-21 13:56:27 - Processing K1266-179107716 [35/300] for code: SAYHIHI
+2026-11-21 13:56:27 - 179107716 - Result: Successfully redeemed
+2026-11-21 13:56:29 - Processing K1266-179216885 [36/300] for code: SAYHIHI
+2026-11-21 13:56:29 - 179216885 - Result: Successfully redeemed
+2026-11-21 13:56:30 - Processing K1266-179479072 [37/300] for code: SAYHIHI
+2026-11-21 13:56:30 - 179479072 - Result: Successfully redeemed
+2026-11-21 13:56:31 - Processing K1266-179515454 [38/300] for code: SAYHIHI
+2026-11-21 13:56:32 - 179515454 - Result: Successfully redeemed
+2026-11-21 13:56:33 - Processing K1266-179675357 [39/300] for code: SAYHIHI
+2026-11-21 13:56:33 - 179675357 - Result: Successfully redeemed
+2026-11-21 13:56:34 - Processing K1266-179691958 [40/300] for code: SAYHIHI
+2026-11-21 13:56:35 - 179691958 - Result: Successfully redeemed
+2026-11-21 13:56:36 - Processing K1266-180368647 [41/300] for code: SAYHIHI
+2026-11-21 13:56:36 - 180368647 - Result: Successfully redeemed
+2026-11-21 13:56:37 - Processing K1266-180369109 [42/300] for code: SAYHIHI
+2026-11-21 13:56:37 - 180369109 - Result: Successfully redeemed
+2026-11-21 13:56:39 - Processing K1266-180369159 [43/300] for code: SAYHIHI
+2026-11-21 13:56:39 - 180369159 - Result: Successfully redeemed
+2026-11-21 13:56:40 - Processing K1266-180385375 [44/300] for code: SAYHIHI
+2026-11-21 13:56:40 - 180385375 - Result: Successfully redeemed
+2026-11-21 13:56:41 - Processing K1266-180385792 [45/300] for code: SAYHIHI
+2026-11-21 13:56:41 - 180385792 - Result: Successfully redeemed
+2026-11-21 13:56:43 - Processing K1266-180418498 [46/300] for code: SAYHIHI
+2026-11-21 13:56:43 - 180418498 - Result: Successfully redeemed
+2026-11-21 13:56:44 - Processing K1266-180434357 [47/300] for code: SAYHIHI
+2026-11-21 13:56:44 - 180434357 - Result: Successfully redeemed
+2026-11-21 13:56:46 - Processing K1266-180483302 [48/300] for code: SAYHIHI
+2026-11-21 13:56:46 - 180483302 - Result: Successfully redeemed
+2026-11-21 13:56:47 - Processing K1266-180565782 [49/300] for code: SAYHIHI
+2026-11-21 13:56:47 - 180565782 - Result: Successfully redeemed
+2026-11-21 13:56:48 - Processing K1266-180582116 [50/300] for code: SAYHIHI
+2026-11-21 13:56:49 - 180582116 - Result: Successfully redeemed
+2026-11-21 13:56:50 - Processing K1266-180588134 [51/300] for code: SAYHIHI
+2026-11-21 13:56:50 - 180588134 - Result: Successfully redeemed
+2026-11-21 13:56:52 - Processing K1266-180598416 [52/300] for code: SAYHIHI
+2026-11-21 13:56:52 - 180598416 - Result: Successfully redeemed
+2026-11-21 13:56:53 - Processing K1266-180614319 [53/300] for code: SAYHIHI
+2026-11-21 13:56:53 - 180614319 - Result: Successfully redeemed
+2026-11-21 13:56:54 - Processing K1266-180636958 [54/300] for code: SAYHIHI
+2026-11-21 13:56:55 - 180636958 - Result: Already redeemed
+2026-11-21 13:56:56 - Processing K1266-180647291 [55/300] for code: SAYHIHI
+2026-11-21 13:56:56 - 180647291 - Result: Successfully redeemed
+2026-11-21 13:56:57 - Processing K1266-180647824 [56/300] for code: SAYHIHI
+2026-11-21 13:56:58 - 180647824 - Result: Successfully redeemed
+2026-11-21 13:56:59 - Processing K1266-180669914 [57/300] for code: SAYHIHI
+2026-11-21 13:56:59 - 180669914 - Result: Successfully redeemed
+2026-11-21 13:57:01 - Processing K1266-180696652 [58/300] for code: SAYHIHI
+2026-11-21 13:57:01 - 180696652 - Result: Successfully redeemed
+2026-11-21 13:57:02 - Processing K1266-180729920 [59/300] for code: SAYHIHI
+2026-11-21 13:57:02 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-21 13:57:06 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-21 13:57:14 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-21 13:57:26 - 180729920 - Result: Redemption request failed
+2026-11-21 13:57:28 - Processing K1266-180778760 [60/300] for code: SAYHIHI
+2026-11-21 13:57:28 - 180778760 - Result: Successfully redeemed
+2026-11-21 13:57:29 - Processing K1266-180779049 [61/300] for code: SAYHIHI
+2026-11-21 13:57:29 - 180779049 - Result: Successfully redeemed
+2026-11-21 13:57:30 - Processing K1266-180795047 [62/300] for code: SAYHIHI
+2026-11-21 13:57:31 - 180795047 - Result: Successfully redeemed
+2026-11-21 13:57:32 - Processing K1266-180827986 [63/300] for code: SAYHIHI
+2026-11-21 13:57:32 - 180827986 - Result: Successfully redeemed
+2026-11-21 13:57:33 - Processing K1266-180893684 [64/300] for code: SAYHIHI
+2026-11-21 13:57:33 - 180893684 - Result: Successfully redeemed
+2026-11-21 13:57:34 - Processing K1266-180893765 [65/300] for code: SAYHIHI
+2026-11-21 13:57:34 - 180893765 - Result: Successfully redeemed
+2026-11-21 13:57:36 - Processing K1266-180909451 [66/300] for code: SAYHIHI
+2026-11-21 13:57:36 - 180909451 - Result: Successfully redeemed
+2026-11-21 13:57:37 - Processing K1266-180959009 [67/300] for code: SAYHIHI
+2026-11-21 13:57:37 - 180959009 - Result: Successfully redeemed
+2026-11-21 13:57:39 - Processing K1266-180975047 [68/300] for code: SAYHIHI
+2026-11-21 13:57:39 - 180975047 - Result: Successfully redeemed
+2026-11-21 13:57:40 - Processing K1266-181008488 [69/300] for code: SAYHIHI
+2026-11-21 13:57:40 - 181008488 - Result: Successfully redeemed
+2026-11-21 13:57:41 - Processing K1266-181024577 [70/300] for code: SAYHIHI
+2026-11-21 13:57:41 - 181024577 - Result: Successfully redeemed
+2026-11-21 13:57:43 - Processing K1266-181063111 [71/300] for code: SAYHIHI
+2026-11-21 13:57:43 - 181063111 - Result: Successfully redeemed
+2026-11-21 13:57:44 - Processing K1266-181089949 [72/300] for code: SAYHIHI
+2026-11-21 13:57:44 - 181089949 - Result: Successfully redeemed
+2026-11-21 13:57:45 - Processing K1266-181090100 [73/300] for code: SAYHIHI
+2026-11-21 13:57:46 - 181090100 - Result: Successfully redeemed
+2026-11-21 13:57:47 - Processing K1266-181106609 [74/300] for code: SAYHIHI
+2026-11-21 13:57:47 - 181106609 - Result: Successfully redeemed
+2026-11-21 13:57:48 - Processing K1266-181122260 [75/300] for code: SAYHIHI
+2026-11-21 13:57:48 - 181122260 - Result: Successfully redeemed
+2026-11-21 13:57:50 - Processing K1266-181139114 [76/300] for code: SAYHIHI
+2026-11-21 13:57:50 - 181139114 - Result: Successfully redeemed
+2026-11-21 13:57:51 - Processing K1266-181155772 [77/300] for code: SAYHIHI
+2026-11-21 13:57:51 - 181155772 - Result: Successfully redeemed
+2026-11-21 13:57:53 - Processing K1266-181171461 [78/300] for code: SAYHIHI
+2026-11-21 13:57:53 - 181171461 - Result: Successfully redeemed
+2026-11-21 13:57:54 - Processing K1266-181188977 [79/300] for code: SAYHIHI
+2026-11-21 13:57:54 - 181188977 - Result: Successfully redeemed
+2026-11-21 13:57:55 - Processing K1266-181340930 [80/300] for code: SAYHIHI
+2026-11-21 13:57:56 - 181340930 - Result: Successfully redeemed
+2026-11-21 13:57:57 - Processing K1266-181351852 [81/300] for code: SAYHIHI
+2026-11-21 13:57:57 - 181351852 - Result: Successfully redeemed
+2026-11-21 13:57:58 - Processing K1266-181358276 [82/300] for code: SAYHIHI
+2026-11-21 13:57:58 - 181358276 - Result: Successfully redeemed
+2026-11-21 13:58:00 - Processing K1266-181374419 [83/300] for code: SAYHIHI
+2026-11-21 13:58:00 - 181374419 - Result: Successfully redeemed
+2026-11-21 13:58:01 - Processing K1266-181384836 [84/300] for code: SAYHIHI
+2026-11-21 13:58:01 - 181384836 - Result: Successfully redeemed
+2026-11-21 13:58:02 - Processing K1266-181385198 [85/300] for code: SAYHIHI
+2026-11-21 13:58:02 - 181385198 - Result: Successfully redeemed
+2026-11-21 13:58:04 - Processing K1266-181401589 [86/300] for code: SAYHIHI
+2026-11-21 13:58:04 - 181401589 - Result: Successfully redeemed
+2026-11-21 13:58:05 - Processing K1266-181407057 [87/300] for code: SAYHIHI
+2026-11-21 13:58:05 - 181407057 - Result: Successfully redeemed
+2026-11-21 13:58:06 - Processing K1266-181417643 [88/300] for code: SAYHIHI
+2026-11-21 13:58:07 - 181417643 - Result: Successfully redeemed
+2026-11-21 13:58:08 - Processing K1266-181423528 [89/300] for code: SAYHIHI
+2026-11-21 13:58:08 - 181423528 - Result: Successfully redeemed
+2026-11-21 13:58:09 - Processing K1266-181466821 [90/300] for code: SAYHIHI
+2026-11-21 13:58:09 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-21 13:58:13 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-21 13:58:22 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-21 13:58:34 - 181466821 - Result: Redemption request failed
+2026-11-21 13:58:35 - Processing K1266-181466879 [91/300] for code: SAYHIHI
+2026-11-21 13:58:35 - 181466879 - Result: Successfully redeemed
+2026-11-21 13:58:36 - Processing K1266-181482560 [92/300] for code: SAYHIHI
+2026-11-21 13:58:36 - 181482560 - Result: Successfully redeemed
+2026-11-21 13:58:38 - Processing K1266-181515253 [93/300] for code: SAYHIHI
+2026-11-21 13:58:38 - 181515253 - Result: Successfully redeemed
+2026-11-21 13:58:39 - Processing K1266-181516264 [94/300] for code: SAYHIHI
+2026-11-21 13:58:39 - 181516264 - Result: Successfully redeemed
+2026-11-21 13:58:40 - Processing K1266-181516335 [95/300] for code: SAYHIHI
+2026-11-21 13:58:41 - 181516335 - Result: Successfully redeemed
+2026-11-21 13:58:42 - Processing K1266-181521367 [96/300] for code: SAYHIHI
+2026-11-21 13:58:42 - 181521367 - Result: Successfully redeemed
+2026-11-21 13:58:43 - Processing K1266-181531678 [97/300] for code: SAYHIHI
+2026-11-21 13:58:43 - 181531678 - Result: Successfully redeemed
+2026-11-21 13:58:45 - Processing K1266-181548141 [98/300] for code: SAYHIHI
+2026-11-21 13:58:45 - 181548141 - Result: Successfully redeemed
+2026-11-21 13:58:46 - Processing K1266-181565051 [99/300] for code: SAYHIHI
+2026-11-21 13:58:46 - 181565051 - Result: Successfully redeemed
+2026-11-21 13:58:48 - Processing K1266-181571708 [100/300] for code: SAYHIHI
+2026-11-21 13:58:48 - 181571708 - Result: Successfully redeemed
+2026-11-21 13:58:49 - Processing K1266-181614011 [101/300] for code: SAYHIHI
+2026-11-21 13:58:49 - 181614011 - Result: Successfully redeemed
+2026-11-21 13:58:51 - Processing K1266-181646830 [102/300] for code: SAYHIHI
+2026-11-21 13:58:51 - 181646830 - Result: Successfully redeemed
+2026-11-21 13:58:52 - Processing K1266-181663028 [103/300] for code: SAYHIHI
+2026-11-21 13:58:52 - 181663028 - Result: Successfully redeemed
+2026-11-21 13:58:53 - Processing K1266-181669304 [104/300] for code: SAYHIHI
+2026-11-21 13:58:53 - 181669304 - Result: Successfully redeemed
+2026-11-21 13:58:55 - Processing K1266-181712653 [105/300] for code: SAYHIHI
+2026-11-21 13:58:55 - 181712653 - Result: Successfully redeemed
+2026-11-21 13:58:56 - Processing K1266-181728933 [106/300] for code: SAYHIHI
+2026-11-21 13:58:56 - 181728933 - Result: Successfully redeemed
+2026-11-21 13:58:57 - Processing K1266-181734398 [107/300] for code: SAYHIHI
+2026-11-21 13:58:57 - 181734398 - Result: Successfully redeemed
+2026-11-21 13:58:58 - Processing K1266-181761437 [108/300] for code: SAYHIHI
+2026-11-21 13:58:58 - 181761437 - Result: Successfully redeemed
+2026-11-21 13:59:00 - Processing K1266-181778389 [109/300] for code: SAYHIHI
+2026-11-21 13:59:00 - 181778389 - Result: Successfully redeemed
+2026-11-21 13:59:01 - Processing K1266-181793958 [110/300] for code: SAYHIHI
+2026-11-21 13:59:01 - 181793958 - Result: Successfully redeemed
+2026-11-21 13:59:03 - Processing K1266-181794115 [111/300] for code: SAYHIHI
+2026-11-21 13:59:03 - 181794115 - Result: Successfully redeemed
+2026-11-21 13:59:04 - Processing K1266-181816445 [112/300] for code: SAYHIHI
+2026-11-21 13:59:04 - 181816445 - Result: Successfully redeemed
+2026-11-21 13:59:05 - Processing K1266-181859892 [113/300] for code: SAYHIHI
+2026-11-21 13:59:05 - 181859892 - Result: Successfully redeemed
+2026-11-21 13:59:07 - Processing K1266-181859948 [114/300] for code: SAYHIHI
+2026-11-21 13:59:07 - 181859948 - Result: Successfully redeemed
+2026-11-21 13:59:08 - Processing K1266-181860239 [115/300] for code: SAYHIHI
+2026-11-21 13:59:08 - 181860239 - Result: Successfully redeemed
+2026-11-21 13:59:09 - Processing K1266-181860336 [116/300] for code: SAYHIHI
+2026-11-21 13:59:09 - 181860336 - Result: Successfully redeemed
+2026-11-21 13:59:10 - Processing K1266-181882185 [117/300] for code: SAYHIHI
+2026-11-21 13:59:11 - 181882185 - Result: Successfully redeemed
+2026-11-21 13:59:12 - Processing K1266-181892750 [118/300] for code: SAYHIHI
+2026-11-21 13:59:12 - 181892750 - Result: Successfully redeemed
+2026-11-21 13:59:13 - Processing K1266-181941995 [119/300] for code: SAYHIHI
+2026-11-21 13:59:13 - 181941995 - Result: Successfully redeemed
+2026-11-21 13:59:14 - Processing K1266-181958341 [120/300] for code: SAYHIHI
+2026-11-21 13:59:14 - 181958341 - Result: Successfully redeemed
+2026-11-21 13:59:15 - Processing K1266-181958534 [121/300] for code: SAYHIHI
+2026-11-21 13:59:16 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-21 13:59:20 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-21 13:59:28 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-21 13:59:40 - 181958534 - Result: Redemption request failed
+2026-11-21 13:59:41 - Processing K1266-182007379 [122/300] for code: SAYHIHI
+2026-11-21 13:59:41 - 182007379 - Result: Successfully redeemed
+2026-11-21 13:59:42 - Processing K1266-182007601 [123/300] for code: SAYHIHI
+2026-11-21 13:59:42 - 182007601 - Result: Successfully redeemed
+2026-11-21 13:59:44 - Processing K1266-182013382 [124/300] for code: SAYHIHI
+2026-11-21 13:59:44 - 182013382 - Result: Successfully redeemed
+2026-11-21 13:59:45 - Processing K1266-182022970 [125/300] for code: SAYHIHI
+2026-11-21 13:59:45 - 182022970 - Result: Successfully redeemed
+2026-11-21 13:59:46 - Processing K1266-182046115 [126/300] for code: SAYHIHI
+2026-11-21 13:59:46 - 182046115 - Result: Successfully redeemed
+2026-11-21 13:59:48 - Processing K1266-182072645 [127/300] for code: SAYHIHI
+2026-11-21 13:59:48 - 182072645 - Result: Successfully redeemed
+2026-11-21 13:59:49 - Processing K1266-182144355 [128/300] for code: SAYHIHI
+2026-11-21 13:59:49 - 182144355 - Result: Successfully redeemed
+2026-11-21 13:59:50 - Processing K1266-182203508 [129/300] for code: SAYHIHI
+2026-11-21 13:59:50 - 182203508 - Result: Successfully redeemed
+2026-11-21 13:59:51 - Processing K1266-182203900 [130/300] for code: SAYHIHI
+2026-11-21 13:59:52 - 182203900 - Result: Successfully redeemed
+2026-11-21 13:59:53 - Processing K1266-182203950 [131/300] for code: SAYHIHI
+2026-11-21 13:59:53 - 182203950 - Result: Successfully redeemed
+2026-11-21 13:59:54 - Processing K1266-182220585 [132/300] for code: SAYHIHI
+2026-11-21 13:59:54 - 182220585 - Result: Successfully redeemed
+2026-11-21 13:59:56 - Processing K1266-182269737 [133/300] for code: SAYHIHI
+2026-11-21 13:59:56 - 182269737 - Result: Successfully redeemed
+2026-11-21 13:59:57 - Processing K1266-182286440 [134/300] for code: SAYHIHI
+2026-11-21 13:59:58 - 182286440 - Result: Successfully redeemed
+2026-11-21 13:59:59 - Processing K1266-182302366 [135/300] for code: SAYHIHI
+2026-11-21 13:59:59 - 182302366 - Result: Successfully redeemed
+2026-11-21 14:00:00 - Processing K1266-182318888 [136/300] for code: SAYHIHI
+2026-11-21 14:00:00 - 182318888 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-21 14:00:03 - 182318888 - Result: Successfully redeemed
+2026-11-21 14:00:04 - Processing K1266-182318992 [137/300] for code: SAYHIHI
+2026-11-21 14:00:04 - 182318992 - Result: Successfully redeemed
+2026-11-21 14:00:05 - Processing K1266-182334781 [138/300] for code: SAYHIHI
+2026-11-21 14:00:05 - 182334781 - Result: Successfully redeemed
+2026-11-21 14:00:06 - Processing K1266-182384322 [139/300] for code: SAYHIHI
+2026-11-21 14:00:07 - 182384322 - Result: Successfully redeemed
+2026-11-21 14:00:08 - Processing K1266-182390223 [140/300] for code: SAYHIHI
+2026-11-21 14:00:08 - 182390223 - Result: Successfully redeemed
+2026-11-21 14:00:09 - Processing K1266-182449206 [141/300] for code: SAYHIHI
+2026-11-21 14:00:09 - 182449206 - Result: Successfully redeemed
+2026-11-21 14:00:10 - Processing K1266-182450074 [142/300] for code: SAYHIHI
+2026-11-21 14:00:11 - 182450074 - Result: Successfully redeemed
+2026-11-21 14:00:12 - Processing K1266-182466031 [143/300] for code: SAYHIHI
+2026-11-21 14:00:12 - 182466031 - Result: Wrong kingdom for this player ID
+2026-11-21 14:00:13 - Processing K1266-182472038 [144/300] for code: SAYHIHI
+2026-11-21 14:00:13 - 182472038 - Result: Successfully redeemed
+2026-11-21 14:00:15 - Processing K1266-182488759 [145/300] for code: SAYHIHI
+2026-11-21 14:00:15 - 182488759 - Result: Successfully redeemed
+2026-11-21 14:00:16 - Processing K1266-182531700 [146/300] for code: SAYHIHI
+2026-11-21 14:00:16 - 182531700 - Result: Successfully redeemed
+2026-11-21 14:00:18 - Processing K1266-182548386 [147/300] for code: SAYHIHI
+2026-11-21 14:00:18 - 182548386 - Result: Successfully redeemed
+2026-11-21 14:00:19 - Processing K1266-182646613 [148/300] for code: SAYHIHI
+2026-11-21 14:00:19 - 182646613 - Result: Successfully redeemed
+2026-11-21 14:00:20 - Processing K1266-182668737 [149/300] for code: SAYHIHI
+2026-11-21 14:00:20 - 182668737 - Result: Successfully redeemed
+2026-11-21 14:00:21 - Processing K1266-182679587 [150/300] for code: SAYHIHI
+2026-11-21 14:00:22 - 182679587 - Result: Successfully redeemed
+2026-11-21 14:00:23 - Processing K1266-182717899 [151/300] for code: SAYHIHI
+2026-11-21 14:00:23 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-21 14:00:27 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-21 14:00:35 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-21 14:00:47 - 182717899 - Result: Redemption request failed
+2026-11-21 14:00:48 - Processing K1266-182767010 [152/300] for code: SAYHIHI
+2026-11-21 14:00:48 - 182767010 - Result: Successfully redeemed
+2026-11-21 14:00:50 - Processing K1266-182810221 [153/300] for code: SAYHIHI
+2026-11-21 14:00:50 - 182810221 - Result: Successfully redeemed
+2026-11-21 14:00:51 - Processing K1266-182842833 [154/300] for code: SAYHIHI
+2026-11-21 14:00:51 - 182842833 - Result: Successfully redeemed
+2026-11-21 14:00:52 - Processing K1266-182848942 [155/300] for code: SAYHIHI
+2026-11-21 14:00:52 - 182848942 - Result: Successfully redeemed
+2026-11-21 14:00:54 - Processing K1266-182849233 [156/300] for code: SAYHIHI
+2026-11-21 14:00:54 - 182849233 - Result: Successfully redeemed
+2026-11-21 14:00:55 - Processing K1266-182858998 [157/300] for code: SAYHIHI
+2026-11-21 14:00:55 - 182858998 - Result: Successfully redeemed
+2026-11-21 14:00:57 - Processing K1266-182859667 [158/300] for code: SAYHIHI
+2026-11-21 14:00:57 - 182859667 - Result: Successfully redeemed
+2026-11-21 14:00:58 - Processing K1266-182892217 [159/300] for code: SAYHIHI
+2026-11-21 14:00:58 - 182892217 - Result: Successfully redeemed
+2026-11-21 14:00:59 - Processing K1266-182898057 [160/300] for code: SAYHIHI
+2026-11-21 14:00:59 - 182898057 - Result: Successfully redeemed
+2026-11-21 14:01:00 - Processing K1266-182908483 [161/300] for code: SAYHIHI
+2026-11-21 14:01:01 - 182908483 - Result: Successfully redeemed
+2026-11-21 14:01:02 - Processing K1266-182941162 [162/300] for code: SAYHIHI
+2026-11-21 14:01:02 - 182941162 - Result: Successfully redeemed
+2026-11-21 14:01:03 - Processing K1266-182941502 [163/300] for code: SAYHIHI
+2026-11-21 14:01:03 - 182941502 - Result: Successfully redeemed
+2026-11-21 14:01:04 - Processing K1266-182957878 [164/300] for code: SAYHIHI
+2026-11-21 14:01:04 - 182957878 - Result: Successfully redeemed
+2026-11-21 14:01:05 - Processing K1266-182990423 [165/300] for code: SAYHIHI
+2026-11-21 14:01:05 - 182990423 - Result: Successfully redeemed
+2026-11-21 14:01:07 - Processing K1266-183006892 [166/300] for code: SAYHIHI
+2026-11-21 14:01:07 - 183006892 - Result: Successfully redeemed
+2026-11-21 14:01:08 - Processing K1266-183012848 [167/300] for code: SAYHIHI
+2026-11-21 14:01:08 - 183012848 - Result: Successfully redeemed
+2026-11-21 14:01:09 - Processing K1266-183028805 [168/300] for code: SAYHIHI
+2026-11-21 14:01:09 - 183028805 - Result: Successfully redeemed
+2026-11-21 14:01:11 - Processing K1266-183029342 [169/300] for code: SAYHIHI
+2026-11-21 14:01:11 - 183029342 - Result: Successfully redeemed
+2026-11-21 14:01:12 - Processing K1266-183039758 [170/300] for code: SAYHIHI
+2026-11-21 14:01:12 - 183039758 - Result: Successfully redeemed
+2026-11-21 14:01:13 - Processing K1266-183072306 [171/300] for code: SAYHIHI
+2026-11-21 14:01:13 - 183072306 - Result: Successfully redeemed
+2026-11-21 14:01:15 - Processing K1266-183072824 [172/300] for code: SAYHIHI
+2026-11-21 14:01:15 - 183072824 - Result: Successfully redeemed
+2026-11-21 14:01:16 - Processing K1266-183089209 [173/300] for code: SAYHIHI
+2026-11-21 14:01:16 - 183089209 - Result: Successfully redeemed
+2026-11-21 14:01:17 - Processing K1266-183104870 [174/300] for code: SAYHIHI
+2026-11-21 14:01:17 - 183104870 - Result: Successfully redeemed
+2026-11-21 14:01:18 - Processing K1266-183121113 [175/300] for code: SAYHIHI
+2026-11-21 14:01:18 - 183121113 - Result: Successfully redeemed
+2026-11-21 14:01:20 - Processing K1266-183137287 [176/300] for code: SAYHIHI
+2026-11-21 14:01:20 - 183137287 - Result: Already redeemed
+2026-11-21 14:01:21 - Processing K1266-183154102 [177/300] for code: SAYHIHI
+2026-11-21 14:01:21 - 183154102 - Result: Successfully redeemed
+2026-11-21 14:01:23 - Processing K1266-183154303 [178/300] for code: SAYHIHI
+2026-11-21 14:01:23 - 183154303 - Result: Successfully redeemed
+2026-11-21 14:01:24 - Processing K1266-183154798 [179/300] for code: SAYHIHI
+2026-11-21 14:01:24 - 183154798 - Result: Successfully redeemed
+2026-11-21 14:01:25 - Processing K1266-183170657 [180/300] for code: SAYHIHI
+2026-11-21 14:01:26 - 183170657 - Result: Successfully redeemed
+2026-11-21 14:01:27 - Processing K1266-183176536 [181/300] for code: SAYHIHI
+2026-11-21 14:01:27 - 183176536 - Result: Successfully redeemed
+2026-11-21 14:01:28 - Processing K1266-183219217 [182/300] for code: SAYHIHI
+2026-11-21 14:01:28 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-21 14:01:32 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-21 14:01:41 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-21 14:01:53 - 183219217 - Result: Redemption request failed
+2026-11-21 14:01:54 - Processing K1266-183219343 [183/300] for code: SAYHIHI
+2026-11-21 14:01:54 - 183219343 - Result: Successfully redeemed
+2026-11-21 14:01:55 - Processing K1266-183285360 [184/300] for code: SAYHIHI
+2026-11-21 14:01:55 - 183285360 - Result: Successfully redeemed
+2026-11-21 14:01:57 - Processing K1266-183317601 [185/300] for code: SAYHIHI
+2026-11-21 14:01:57 - 183317601 - Result: Successfully redeemed
+2026-11-21 14:01:58 - Processing K1266-183350823 [186/300] for code: SAYHIHI
+2026-11-21 14:01:58 - 183350823 - Result: Successfully redeemed
+2026-11-21 14:02:00 - Processing K1266-183366693 [187/300] for code: SAYHIHI
+2026-11-21 14:02:00 - 183366693 - Result: Successfully redeemed
+2026-11-21 14:02:01 - Processing K1266-183367342 [188/300] for code: SAYHIHI
+2026-11-21 14:02:01 - 183367342 - Result: Successfully redeemed
+2026-11-21 14:02:02 - Processing K1266-183383666 [189/300] for code: SAYHIHI
+2026-11-21 14:02:02 - 183383666 - Result: Successfully redeemed
+2026-11-21 14:02:04 - Processing K1266-183384158 [190/300] for code: SAYHIHI
+2026-11-21 14:02:04 - 183384158 - Result: Successfully redeemed
+2026-11-21 14:02:05 - Processing K1266-183455373 [191/300] for code: SAYHIHI
+2026-11-21 14:02:05 - 183455373 - Result: Successfully redeemed
+2026-11-21 14:02:07 - Processing K1266-183531242 [192/300] for code: SAYHIHI
+2026-11-21 14:02:07 - 183531242 - Result: Successfully redeemed
+2026-11-21 14:02:08 - Processing K1266-183563334 [193/300] for code: SAYHIHI
+2026-11-21 14:02:08 - 183563334 - Result: Successfully redeemed
+2026-11-21 14:02:09 - Processing K1266-183579641 [194/300] for code: SAYHIHI
+2026-11-21 14:02:10 - 183579641 - Result: Successfully redeemed
+2026-11-21 14:02:11 - Processing K1266-183602956 [195/300] for code: SAYHIHI
+2026-11-21 14:02:11 - 183602956 - Result: Successfully redeemed
+2026-11-21 14:02:12 - Processing K1266-183635567 [196/300] for code: SAYHIHI
+2026-11-21 14:02:12 - 183635567 - Result: Successfully redeemed
+2026-11-21 14:02:13 - Processing K1266-183662249 [197/300] for code: SAYHIHI
+2026-11-21 14:02:13 - 183662249 - Result: Successfully redeemed
+2026-11-21 14:02:14 - Processing K1266-183695044 [198/300] for code: SAYHIHI
+2026-11-21 14:02:15 - 183695044 - Result: Successfully redeemed
+2026-11-21 14:02:16 - Processing K1266-183744074 [199/300] for code: SAYHIHI
+2026-11-21 14:02:16 - 183744074 - Result: Successfully redeemed
+2026-11-21 14:02:17 - Processing K1266-183760133 [200/300] for code: SAYHIHI
+2026-11-21 14:02:17 - 183760133 - Result: Successfully redeemed
+2026-11-21 14:02:19 - Processing K1266-183776526 [201/300] for code: SAYHIHI
+2026-11-21 14:02:19 - 183776526 - Result: Successfully redeemed
+2026-11-21 14:02:20 - Processing K1266-183793260 [202/300] for code: SAYHIHI
+2026-11-21 14:02:20 - 183793260 - Result: Successfully redeemed
+2026-11-21 14:02:22 - Processing K1266-183799231 [203/300] for code: SAYHIHI
+2026-11-21 14:02:22 - 183799231 - Result: Successfully redeemed
+2026-11-21 14:02:23 - Processing K1266-183809202 [204/300] for code: SAYHIHI
+2026-11-21 14:02:23 - 183809202 - Result: Successfully redeemed
+2026-11-21 14:02:24 - Processing K1266-183826046 [205/300] for code: SAYHIHI
+2026-11-21 14:02:24 - 183826046 - Result: Successfully redeemed
+2026-11-21 14:02:26 - Processing K1266-183826079 [206/300] for code: SAYHIHI
+2026-11-21 14:02:26 - 183826079 - Result: Successfully redeemed
+2026-11-21 14:02:27 - Processing K1266-183826363 [207/300] for code: SAYHIHI
+2026-11-21 14:02:27 - 183826363 - Result: Successfully redeemed
+2026-11-21 14:02:28 - Processing K1266-183842707 [208/300] for code: SAYHIHI
+2026-11-21 14:02:29 - 183842707 - Result: Successfully redeemed
+2026-11-21 14:02:30 - Processing K1266-183858943 [209/300] for code: SAYHIHI
+2026-11-21 14:02:30 - 183858943 - Result: Successfully redeemed
+2026-11-21 14:02:31 - Processing K1266-183859043 [210/300] for code: SAYHIHI
+2026-11-21 14:02:32 - 183859043 - Result: Successfully redeemed
+2026-11-21 14:02:33 - Processing K1266-183864332 [211/300] for code: SAYHIHI
+2026-11-21 14:02:33 - 183864332 - Result: Successfully redeemed
+2026-11-21 14:02:34 - Processing K1266-183897678 [212/300] for code: SAYHIHI
+2026-11-21 14:02:34 - 183897678 - Result: Successfully redeemed
+2026-11-21 14:02:36 - Processing K1266-183907791 [213/300] for code: SAYHIHI
+2026-11-21 14:02:36 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-21 14:02:40 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-21 14:02:48 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-21 14:03:00 - 183907791 - Result: Redemption request failed
+2026-11-21 14:03:01 - Processing K1266-183907855 [214/300] for code: SAYHIHI
+2026-11-21 14:03:02 - 183907855 - Result: Successfully redeemed
+2026-11-21 14:03:03 - Processing K1266-183924658 [215/300] for code: SAYHIHI
+2026-11-21 14:03:03 - 183924658 - Result: Successfully redeemed
+2026-11-21 14:03:04 - Processing K1266-183924660 [216/300] for code: SAYHIHI
+2026-11-21 14:03:04 - 183924660 - Result: Successfully redeemed
+2026-11-21 14:03:06 - Processing K1266-183940809 [217/300] for code: SAYHIHI
+2026-11-21 14:03:06 - 183940809 - Result: Successfully redeemed
+2026-11-21 14:03:07 - Processing K1266-183946385 [218/300] for code: SAYHIHI
+2026-11-21 14:03:07 - 183946385 - Result: Successfully redeemed
+2026-11-21 14:03:09 - Processing K1266-183946804 [219/300] for code: SAYHIHI
+2026-11-21 14:03:09 - 183946804 - Result: Successfully redeemed
+2026-11-21 14:03:10 - Processing K1266-183996371 [220/300] for code: SAYHIHI
+2026-11-21 14:03:10 - 183996371 - Result: Successfully redeemed
+2026-11-21 14:03:11 - Processing K1266-184005794 [221/300] for code: SAYHIHI
+2026-11-21 14:03:11 - 184005794 - Result: Successfully redeemed
+2026-11-21 14:03:13 - Processing K1266-184022781 [222/300] for code: SAYHIHI
+2026-11-21 14:03:13 - 184022781 - Result: Successfully redeemed
+2026-11-21 14:03:14 - Processing K1266-184038545 [223/300] for code: SAYHIHI
+2026-11-21 14:03:14 - 184038545 - Result: Successfully redeemed
+2026-11-21 14:03:15 - Processing K1266-184071743 [224/300] for code: SAYHIHI
+2026-11-21 14:03:15 - 184071743 - Result: Successfully redeemed
+2026-11-21 14:03:17 - Processing K1266-184088377 [225/300] for code: SAYHIHI
+2026-11-21 14:03:17 - 184088377 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-21 14:03:19 - 184088377 - Result: Successfully redeemed
+2026-11-21 14:03:21 - Processing K1266-184137674 [226/300] for code: SAYHIHI
+2026-11-21 14:03:21 - 184137674 - Result: Successfully redeemed
+2026-11-21 14:03:22 - Processing K1266-184159552 [227/300] for code: SAYHIHI
+2026-11-21 14:03:22 - 184159552 - Result: Successfully redeemed
+2026-11-21 14:03:23 - Processing K1266-184169916 [228/300] for code: SAYHIHI
+2026-11-21 14:03:23 - 184169916 - Result: Successfully redeemed
+2026-11-21 14:03:25 - Processing K1266-184170263 [229/300] for code: SAYHIHI
+2026-11-21 14:03:25 - 184170263 - Result: Successfully redeemed
+2026-11-21 14:03:26 - Processing K1266-184175883 [230/300] for code: SAYHIHI
+2026-11-21 14:03:26 - 184175883 - Result: Successfully redeemed
+2026-11-21 14:03:28 - Processing K1266-184186546 [231/300] for code: SAYHIHI
+2026-11-21 14:03:28 - 184186546 - Result: Successfully redeemed
+2026-11-21 14:03:29 - Processing K1266-184202442 [232/300] for code: SAYHIHI
+2026-11-21 14:03:29 - 184202442 - Result: Successfully redeemed
+2026-11-21 14:03:30 - Processing K1266-184202684 [233/300] for code: SAYHIHI
+2026-11-21 14:03:31 - 184202684 - Result: Successfully redeemed
+2026-11-21 14:03:32 - Processing K1266-184219240 [234/300] for code: SAYHIHI
+2026-11-21 14:03:32 - 184219240 - Result: Successfully redeemed
+2026-11-21 14:03:33 - Processing K1266-184252103 [235/300] for code: SAYHIHI
+2026-11-21 14:03:33 - 184252103 - Result: Successfully redeemed
+2026-11-21 14:03:34 - Processing K1266-184257548 [236/300] for code: SAYHIHI
+2026-11-21 14:03:34 - 184257548 - Result: Successfully redeemed
+2026-11-21 14:03:36 - Processing K1266-184268236 [237/300] for code: SAYHIHI
+2026-11-21 14:03:36 - 184268236 - Result: Successfully redeemed
+2026-11-21 14:03:37 - Processing K1266-184268332 [238/300] for code: SAYHIHI
+2026-11-21 14:03:37 - 184268332 - Result: Successfully redeemed
+2026-11-21 14:03:39 - Processing K1266-184285099 [239/300] for code: SAYHIHI
+2026-11-21 14:03:39 - 184285099 - Result: Successfully redeemed
+2026-11-21 14:03:40 - Processing K1266-184300583 [240/300] for code: SAYHIHI
+2026-11-21 14:03:40 - 184300583 - Result: Successfully redeemed
+2026-11-21 14:03:41 - Processing K1266-184301120 [241/300] for code: SAYHIHI
+2026-11-21 14:03:42 - 184301120 - Result: Successfully redeemed
+2026-11-21 14:03:43 - Processing K1266-184301482 [242/300] for code: SAYHIHI
+2026-11-21 14:03:43 - 184301482 - Result: Successfully redeemed
+2026-11-21 14:03:44 - Processing K1266-184306709 [243/300] for code: SAYHIHI
+2026-11-21 14:03:44 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-21 14:03:48 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-21 14:03:56 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-21 14:04:08 - 184306709 - Result: Redemption request failed
+2026-11-21 14:04:10 - Processing K1266-184323165 [244/300] for code: SAYHIHI
+2026-11-21 14:04:10 - 184323165 - Result: Successfully redeemed
+2026-11-21 14:04:11 - Processing K1266-184334160 [245/300] for code: SAYHIHI
+2026-11-21 14:04:11 - 184334160 - Result: Successfully redeemed
+2026-11-21 14:04:12 - Processing K1266-184334326 [246/300] for code: SAYHIHI
+2026-11-21 14:04:12 - 184334326 - Result: Successfully redeemed
+2026-11-21 14:04:13 - Processing K1266-184355782 [247/300] for code: SAYHIHI
+2026-11-21 14:04:14 - 184355782 - Result: Successfully redeemed
+2026-11-21 14:04:15 - Processing K1266-184355850 [248/300] for code: SAYHIHI
+2026-11-21 14:04:15 - 184355850 - Result: Successfully redeemed
+2026-11-21 14:04:16 - Processing K1266-184366301 [249/300] for code: SAYHIHI
+2026-11-21 14:04:16 - 184366301 - Result: Successfully redeemed
+2026-11-21 14:04:18 - Processing K1266-184398957 [250/300] for code: SAYHIHI
+2026-11-21 14:04:18 - 184398957 - Result: Successfully redeemed
+2026-11-21 14:04:19 - Processing K1266-184431865 [251/300] for code: SAYHIHI
+2026-11-21 14:04:19 - 184431865 - Result: Successfully redeemed
+2026-11-21 14:04:20 - Processing K1266-184448668 [252/300] for code: SAYHIHI
+2026-11-21 14:04:20 - 184448668 - Result: Successfully redeemed
+2026-11-21 14:04:22 - Processing K1266-185122678 [253/300] for code: SAYHIHI
+2026-11-21 14:04:22 - 185122678 - Result: Successfully redeemed
+2026-11-21 14:04:23 - Processing K1266-185480245 [254/300] for code: SAYHIHI
+2026-11-21 14:04:23 - 185480245 - Result: Successfully redeemed
+2026-11-21 14:04:24 - Processing K1266-187102768 [255/300] for code: SAYHIHI
+2026-11-21 14:04:24 - 187102768 - Result: Successfully redeemed
+2026-11-21 14:04:25 - Processing K1266-187115851 [256/300] for code: SAYHIHI
+2026-11-21 14:04:25 - 187115851 - Result: Successfully redeemed
+2026-11-21 14:04:27 - Processing K1266-188087741 [257/300] for code: SAYHIHI
+2026-11-21 14:04:27 - 188087741 - Result: Successfully redeemed
+2026-11-21 14:04:28 - Processing K1266-188470196 [258/300] for code: SAYHIHI
+2026-11-21 14:04:28 - 188470196 - Result: Successfully redeemed
+2026-11-21 14:04:29 - Processing K1266-188862376 [259/300] for code: SAYHIHI
+2026-11-21 14:04:29 - 188862376 - Result: Successfully redeemed
+2026-11-21 14:04:31 - Processing K1266-190234418 [260/300] for code: SAYHIHI
+2026-11-21 14:04:31 - 190234418 - Result: Successfully redeemed
+2026-11-21 14:04:32 - Processing K1266-190573918 [261/300] for code: SAYHIHI
+2026-11-21 14:04:32 - 190573918 - Result: Successfully redeemed
+2026-11-21 14:04:33 - Processing K1266-191129295 [262/300] for code: SAYHIHI
+2026-11-21 14:04:34 - 191129295 - Result: Successfully redeemed
+2026-11-21 14:04:35 - Processing K1266-192400838 [263/300] for code: SAYHIHI
+2026-11-21 14:04:35 - 192400838 - Result: Successfully redeemed
+2026-11-21 14:04:36 - Processing K1266-193616382 [264/300] for code: SAYHIHI
+2026-11-21 14:04:36 - 193616382 - Result: Successfully redeemed
+2026-11-21 14:04:37 - Processing K1266-194020665 [265/300] for code: SAYHIHI
+2026-11-21 14:04:37 - 194020665 - Result: Successfully redeemed
+2026-11-21 14:04:39 - Processing K1266-194962807 [266/300] for code: SAYHIHI
+2026-11-21 14:04:39 - 194962807 - Result: Successfully redeemed
+2026-11-21 14:04:40 - Processing K1266-196209781 [267/300] for code: SAYHIHI
+2026-11-21 14:04:40 - 196209781 - Result: Already redeemed
+2026-11-21 14:04:42 - Processing K1266-197077736 [268/300] for code: SAYHIHI
+2026-11-21 14:04:42 - 197077736 - Result: Successfully redeemed
+2026-11-21 14:04:43 - Processing K1266-197748881 [269/300] for code: SAYHIHI
+2026-11-21 14:04:43 - 197748881 - Result: Successfully redeemed
+2026-11-21 14:04:44 - Processing K1266-198971997 [270/300] for code: SAYHIHI
+2026-11-21 14:04:44 - 198971997 - Result: Successfully redeemed
+2026-11-21 14:04:46 - Processing K1266-199766078 [271/300] for code: SAYHIHI
+2026-11-21 14:04:46 - 199766078 - Result: Successfully redeemed
+2026-11-21 14:04:47 - Processing K1266-202789741 [272/300] for code: SAYHIHI
+2026-11-21 14:04:47 - 202789741 - Result: Successfully redeemed
+2026-11-21 14:04:48 - Processing K1266-208458805 [273/300] for code: SAYHIHI
+2026-11-21 14:04:48 - 208458805 - Result: Wrong kingdom for this player ID
+2026-11-21 14:04:50 - Processing K1266-208469366 [274/300] for code: SAYHIHI
+2026-11-21 14:04:50 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-21 14:04:54 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-21 14:05:02 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-21 14:05:14 - 208469366 - Result: Redemption request failed
+2026-11-21 14:05:15 - Processing K1266-209741428 [275/300] for code: SAYHIHI
+2026-11-21 14:05:15 - 209741428 - Result: Successfully redeemed
+2026-11-21 14:05:17 - Processing K1266-215719460 [276/300] for code: SAYHIHI
+2026-11-21 14:05:17 - 215719460 - Result: Successfully redeemed
+2026-11-21 14:05:18 - Processing K1266-216820126 [277/300] for code: SAYHIHI
+2026-11-21 14:05:18 - 216820126 - Result: Successfully redeemed
+2026-11-21 14:05:20 - Processing K1266-219382121 [278/300] for code: SAYHIHI
+2026-11-21 14:05:20 - 219382121 - Result: Successfully redeemed
+2026-11-21 14:05:21 - Processing K1266-221309318 [279/300] for code: SAYHIHI
+2026-11-21 14:05:21 - 221309318 - Result: Successfully redeemed
+2026-11-21 14:05:22 - Processing K1266-221445787 [280/300] for code: SAYHIHI
+2026-11-21 14:05:22 - 221445787 - Result: Successfully redeemed
+2026-11-21 14:05:24 - Processing K1266-221883902 [281/300] for code: SAYHIHI
+2026-11-21 14:05:24 - 221883902 - Result: Successfully redeemed
+2026-11-21 14:05:25 - Processing K1266-226209236 [282/300] for code: SAYHIHI
+2026-11-21 14:05:25 - 226209236 - Result: Successfully redeemed
+2026-11-21 14:05:26 - Processing K1266-226703897 [283/300] for code: SAYHIHI
+2026-11-21 14:05:27 - 226703897 - Result: Successfully redeemed
+2026-11-21 14:05:28 - Processing K1266-227970815 [284/300] for code: SAYHIHI
+2026-11-21 14:05:28 - 227970815 - Result: Successfully redeemed
+2026-11-21 14:05:29 - Processing K1266-232510086 [285/300] for code: SAYHIHI
+2026-11-21 14:05:29 - 232510086 - Result: Successfully redeemed
+2026-11-21 14:05:31 - Processing K1266-239065229 [286/300] for code: SAYHIHI
+2026-11-21 14:05:31 - 239065229 - Result: Successfully redeemed
+2026-11-21 14:05:32 - Processing K1266-240864609 [287/300] for code: SAYHIHI
+2026-11-21 14:05:33 - 240864609 - Result: Successfully redeemed
+2026-11-21 14:05:34 - Processing K1266-247760465 [288/300] for code: SAYHIHI
+2026-11-21 14:05:34 - 247760465 - Result: Successfully redeemed
+2026-11-21 14:05:35 - Processing K1266-264853160 [289/300] for code: SAYHIHI
+2026-11-21 14:05:35 - 264853160 - Result: Successfully redeemed
+2026-11-21 14:05:36 - Processing K1266-270896390 [290/300] for code: SAYHIHI
+2026-11-21 14:05:36 - 270896390 - Result: Successfully redeemed
+2026-11-21 14:05:38 - Processing K1266-279842790 [291/300] for code: SAYHIHI
+2026-11-21 14:05:38 - 279842790 - Result: Successfully redeemed
+2026-11-21 14:05:39 - Processing K1266-286282880 [292/300] for code: SAYHIHI
+2026-11-21 14:05:39 - 286282880 - Result: Successfully redeemed
+2026-11-21 14:05:40 - Processing K1266-290460722 [293/300] for code: SAYHIHI
+2026-11-21 14:05:40 - 290460722 - Result: Successfully redeemed
+2026-11-21 14:05:41 - Processing K1266-300260967 [294/300] for code: SAYHIHI
+2026-11-21 14:05:41 - 300260967 - Result: Successfully redeemed
+2026-11-21 14:05:43 - Processing K1266-302154974 [295/300] for code: SAYHIHI
+2026-11-21 14:05:43 - 302154974 - Result: Successfully redeemed
+2026-11-21 14:05:44 - Processing K1266-305821193 [296/300] for code: SAYHIHI
+2026-11-21 14:05:44 - 305821193 - Result: Already redeemed
+2026-11-21 14:05:45 - Processing K1266-378005527 [297/300] for code: SAYHIHI
+2026-11-21 14:05:45 - 378005527 - Result: Successfully redeemed
+2026-11-21 14:05:47 - Processing K1266-378518775 [298/300] for code: SAYHIHI
+2026-11-21 14:05:47 - 378518775 - Result: Successfully redeemed
+2026-11-21 14:05:48 - Processing K1266-381967745 [299/300] for code: SAYHIHI
+2026-11-21 14:05:48 - 381967745 - Result: Successfully redeemed
+2026-11-21 14:05:50 - Processing K1266-402165713 [300/300] for code: SAYHIHI
+2026-11-21 14:05:50 - 402165713 - Result: Already redeemed
+2026-11-21 14:05:51 - --- Cycle finished. Total processed: 300/300 ---
+2026-11-21 14:05:51 - 
+========================= Redemption Summary =========================
+2026-11-21 14:05:51 - Code Redeemed: SAYHIHI
+2026-11-21 14:05:51 - Total Unique Player IDs Found: 300
+2026-11-21 14:05:51 - Total Player IDs Processed: 300
+2026-11-21 14:05:51 - Successfully redeemed: 284
+2026-11-21 14:05:51 - Already redeemed: 5
+2026-11-21 14:05:51 - Wrong kingdom: 2
+2026-11-21 14:05:51 - Other Errors/Failures: 9
+2026-11-21 14:05:51 - Rate Limit Events: 0
+2026-11-21 14:05:51 - Total execution time: 00:10:41
+2026-11-21 14:05:51 - ======================================================================
+2026-11-21 14:05:51 - Marked 'SAYHIHI' as known.
+
