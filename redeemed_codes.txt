@@ -48073,3 +48073,28 @@
 2026-11-22 09:44:56 - Rate Limit Events: 0
 2026-11-22 09:44:56 - Total execution time: 00:11:01
 2026-11-22 09:44:56 - ======================================================================
+2026-11-22 10:01:59 - Starting manual redemption for code: vfdg
+2026-11-22 10:01:59 - Read 300 player IDs from lod.csv (300 with a kingdom)
+2026-11-22 10:01:59 - Total unique player IDs to process: 300
+2026-11-22 10:01:59 - 
+=== Starting redemption for gift code: vfdg ===
+2026-11-22 10:01:59 - Total unique player IDs to process: 300
+2026-11-22 10:01:59 - 
+--- Starting processing cycle. Ready player IDs: 300 ---
+2026-11-22 10:01:59 - Processing K1266-112607487 [1/300] for code: vfdg
+2026-11-22 10:01:59 - 112607487 - Result: Code not found or incorrect
+2026-11-22 10:01:59 - 
+ *** Code not found or incorrect! Stopping further processing. ***
+2026-11-22 10:01:59 - --- Cycle finished. Total processed: 1/300 ---
+2026-11-22 10:01:59 - 
+========================= Redemption Summary =========================
+2026-11-22 10:01:59 - Code Redeemed: vfdg
+2026-11-22 10:01:59 - Total Unique Player IDs Found: 300
+2026-11-22 10:01:59 - Total Player IDs Processed: 1
+2026-11-22 10:01:59 - Successfully redeemed: 0
+2026-11-22 10:01:59 - Already redeemed: 0
+2026-11-22 10:01:59 - Wrong kingdom: 0
+2026-11-22 10:01:59 - Other Errors/Failures: 0
+2026-11-22 10:01:59 - Rate Limit Events: 0
+2026-11-22 10:01:59 - Total execution time: 00:00:00
+2026-11-22 10:01:59 - ======================================================================
