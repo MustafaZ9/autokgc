@@ -47408,3 +47408,668 @@
 2026-11-22 03:56:22 - Fetched 3 total codes from all sources.
 2026-11-22 03:56:22 - Found 0 new codes.
 2026-11-22 03:56:22 - Nothing to redeem.
+2026-11-22 09:33:54 - Starting manual redemption for code: 1T1G2D2
+2026-11-22 09:33:54 - Read 300 player IDs from lod.csv (300 with a kingdom)
+2026-11-22 09:33:54 - Total unique player IDs to process: 300
+2026-11-22 09:33:54 - 
+=== Starting redemption for gift code: 1T1G2D2 ===
+2026-11-22 09:33:54 - Total unique player IDs to process: 300
+2026-11-22 09:33:54 - 
+--- Starting processing cycle. Ready player IDs: 300 ---
+2026-11-22 09:33:54 - Processing K1266-112607487 [1/300] for code: 1T1G2D2
+2026-11-22 09:33:54 - 112607487 - Result: Successfully redeemed
+2026-11-22 09:33:55 - Processing K1266-134948830 [2/300] for code: 1T1G2D2
+2026-11-22 09:33:55 - 134948830 - Result: Successfully redeemed
+2026-11-22 09:33:57 - Processing K1266-137354109 [3/300] for code: 1T1G2D2
+2026-11-22 09:33:57 - 137354109 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-22 09:33:59 - 137354109 - Result: Successfully redeemed
+2026-11-22 09:34:00 - Processing K1266-137881550 [4/300] for code: 1T1G2D2
+2026-11-22 09:34:00 - 137881550 - Result: Successfully redeemed
+2026-11-22 09:34:01 - Processing K1266-138078147 [5/300] for code: 1T1G2D2
+2026-11-22 09:34:01 - 138078147 - Result: Successfully redeemed
+2026-11-22 09:34:03 - Processing K1266-159437876 [6/300] for code: 1T1G2D2
+2026-11-22 09:34:03 - 159437876 - Result: Already redeemed
+2026-11-22 09:34:04 - Processing K1266-160961411 [7/300] for code: 1T1G2D2
+2026-11-22 09:34:04 - 160961411 - Result: Successfully redeemed
+2026-11-22 09:34:05 - Processing K1266-160977214 [8/300] for code: 1T1G2D2
+2026-11-22 09:34:05 - 160977214 - Result: Already redeemed
+2026-11-22 09:34:06 - Processing K1266-161223459 [9/300] for code: 1T1G2D2
+2026-11-22 09:34:06 - 161223459 - Result: Successfully redeemed
+2026-11-22 09:34:07 - Processing K1266-161321233 [10/300] for code: 1T1G2D2
+2026-11-22 09:34:07 - 161321233 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-22 09:34:09 - 161321233 - Result: Successfully redeemed
+2026-11-22 09:34:11 - Processing K1266-161387367 [11/300] for code: 1T1G2D2
+2026-11-22 09:34:11 - 161387367 - Result: Successfully redeemed
+2026-11-22 09:34:12 - Processing K1266-161616297 [12/300] for code: 1T1G2D2
+2026-11-22 09:34:12 - 161616297 - Result: Successfully redeemed
+2026-11-22 09:34:14 - Processing K1266-162042375 [13/300] for code: 1T1G2D2
+2026-11-22 09:34:14 - 162042375 - Result: Successfully redeemed
+2026-11-22 09:34:15 - Processing K1266-162402979 [14/300] for code: 1T1G2D2
+2026-11-22 09:34:15 - 162402979 - Result: Successfully redeemed
+2026-11-22 09:34:16 - Processing K1266-162910751 [15/300] for code: 1T1G2D2
+2026-11-22 09:34:16 - 162910751 - Result: Successfully redeemed
+2026-11-22 09:34:18 - Processing K1266-163042051 [16/300] for code: 1T1G2D2
+2026-11-22 09:34:18 - 163042051 - Result: Successfully redeemed
+2026-11-22 09:34:19 - Processing K1266-176448172 [17/300] for code: 1T1G2D2
+2026-11-22 09:34:19 - 176448172 - Result: Successfully redeemed
+2026-11-22 09:34:20 - Processing K1266-176742470 [18/300] for code: 1T1G2D2
+2026-11-22 09:34:20 - 176742470 - Result: Successfully redeemed
+2026-11-22 09:34:22 - Processing K1266-176939042 [19/300] for code: 1T1G2D2
+2026-11-22 09:34:22 - 176939042 - Result: Successfully redeemed
+2026-11-22 09:34:23 - Processing K1266-177004482 [20/300] for code: 1T1G2D2
+2026-11-22 09:34:23 - 177004482 - Result: Successfully redeemed
+2026-11-22 09:34:24 - Processing K1266-177430530 [21/300] for code: 1T1G2D2
+2026-11-22 09:34:25 - 177430530 - Result: Successfully redeemed
+2026-11-22 09:34:26 - Processing K1266-177594975 [22/300] for code: 1T1G2D2
+2026-11-22 09:34:26 - 177594975 - Result: Successfully redeemed
+2026-11-22 09:34:27 - Processing K1266-177643662 [23/300] for code: 1T1G2D2
+2026-11-22 09:34:27 - 177643662 - Result: Successfully redeemed
+2026-11-22 09:34:28 - Processing K1266-177741835 [24/300] for code: 1T1G2D2
+2026-11-22 09:34:28 - 177741835 - Result: Successfully redeemed
+2026-11-22 09:34:30 - Processing K1266-177758431 [25/300] for code: 1T1G2D2
+2026-11-22 09:34:30 - 177758431 - Result: Successfully redeemed
+2026-11-22 09:34:31 - Processing K1266-177889207 [26/300] for code: 1T1G2D2
+2026-11-22 09:34:31 - 177889207 - Result: Successfully redeemed
+2026-11-22 09:34:32 - Processing K1266-177889304 [27/300] for code: 1T1G2D2
+2026-11-22 09:34:32 - 177889304 - Result: Successfully redeemed
+2026-11-22 09:34:33 - Processing K1266-178003863 [28/300] for code: 1T1G2D2
+2026-11-22 09:34:33 - 178003863 - Result: Already redeemed
+2026-11-22 09:34:35 - Processing K1266-178167737 [29/300] for code: 1T1G2D2
+2026-11-22 09:34:35 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-22 09:34:39 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-22 09:34:47 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-22 09:34:59 - 178167737 - Result: Redemption request failed
+2026-11-22 09:35:00 - Processing K1266-178282383 [30/300] for code: 1T1G2D2
+2026-11-22 09:35:00 - 178282383 - Result: Successfully redeemed
+2026-11-22 09:35:01 - Processing K1266-178298638 [31/300] for code: 1T1G2D2
+2026-11-22 09:35:01 - 178298638 - Result: Already redeemed
+2026-11-22 09:35:02 - Processing K1266-178298685 [32/300] for code: 1T1G2D2
+2026-11-22 09:35:02 - 178298685 - Result: Already redeemed
+2026-11-22 09:35:03 - Processing K1266-178828379 [33/300] for code: 1T1G2D2
+2026-11-22 09:35:03 - 178828379 - Result: Successfully redeemed
+2026-11-22 09:35:05 - Processing K1266-178872530 [34/300] for code: 1T1G2D2
+2026-11-22 09:35:05 - 178872530 - Result: Already redeemed
+2026-11-22 09:35:06 - Processing K1266-179107716 [35/300] for code: 1T1G2D2
+2026-11-22 09:35:06 - 179107716 - Result: Successfully redeemed
+2026-11-22 09:35:07 - Processing K1266-179216885 [36/300] for code: 1T1G2D2
+2026-11-22 09:35:07 - 179216885 - Result: Successfully redeemed
+2026-11-22 09:35:08 - Processing K1266-179479072 [37/300] for code: 1T1G2D2
+2026-11-22 09:35:08 - 179479072 - Result: Successfully redeemed
+2026-11-22 09:35:10 - Processing K1266-179515454 [38/300] for code: 1T1G2D2
+2026-11-22 09:35:10 - 179515454 - Result: Successfully redeemed
+2026-11-22 09:35:11 - Processing K1266-179675357 [39/300] for code: 1T1G2D2
+2026-11-22 09:35:11 - 179675357 - Result: Successfully redeemed
+2026-11-22 09:35:12 - Processing K1266-179691958 [40/300] for code: 1T1G2D2
+2026-11-22 09:35:12 - 179691958 - Result: Already redeemed
+2026-11-22 09:35:13 - Processing K1266-180368647 [41/300] for code: 1T1G2D2
+2026-11-22 09:35:13 - 180368647 - Result: Successfully redeemed
+2026-11-22 09:35:14 - Processing K1266-180369109 [42/300] for code: 1T1G2D2
+2026-11-22 09:35:15 - 180369109 - Result: Successfully redeemed
+2026-11-22 09:35:16 - Processing K1266-180369159 [43/300] for code: 1T1G2D2
+2026-11-22 09:35:16 - 180369159 - Result: Successfully redeemed
+2026-11-22 09:35:17 - Processing K1266-180385375 [44/300] for code: 1T1G2D2
+2026-11-22 09:35:17 - 180385375 - Result: Successfully redeemed
+2026-11-22 09:35:19 - Processing K1266-180385792 [45/300] for code: 1T1G2D2
+2026-11-22 09:35:19 - 180385792 - Result: Successfully redeemed
+2026-11-22 09:35:20 - Processing K1266-180418498 [46/300] for code: 1T1G2D2
+2026-11-22 09:35:20 - 180418498 - Result: Successfully redeemed
+2026-11-22 09:35:21 - Processing K1266-180434357 [47/300] for code: 1T1G2D2
+2026-11-22 09:35:21 - 180434357 - Result: Successfully redeemed
+2026-11-22 09:35:22 - Processing K1266-180483302 [48/300] for code: 1T1G2D2
+2026-11-22 09:35:22 - 180483302 - Result: Successfully redeemed
+2026-11-22 09:35:23 - Processing K1266-180565782 [49/300] for code: 1T1G2D2
+2026-11-22 09:35:23 - 180565782 - Result: Successfully redeemed
+2026-11-22 09:35:25 - Processing K1266-180582116 [50/300] for code: 1T1G2D2
+2026-11-22 09:35:25 - 180582116 - Result: Successfully redeemed
+2026-11-22 09:35:26 - Processing K1266-180588134 [51/300] for code: 1T1G2D2
+2026-11-22 09:35:26 - 180588134 - Result: Successfully redeemed
+2026-11-22 09:35:27 - Processing K1266-180598416 [52/300] for code: 1T1G2D2
+2026-11-22 09:35:27 - 180598416 - Result: Already redeemed
+2026-11-22 09:35:28 - Processing K1266-180614319 [53/300] for code: 1T1G2D2
+2026-11-22 09:35:28 - 180614319 - Result: Successfully redeemed
+2026-11-22 09:35:30 - Processing K1266-180636958 [54/300] for code: 1T1G2D2
+2026-11-22 09:35:30 - 180636958 - Result: Already redeemed
+2026-11-22 09:35:31 - Processing K1266-180647291 [55/300] for code: 1T1G2D2
+2026-11-22 09:35:31 - 180647291 - Result: Already redeemed
+2026-11-22 09:35:33 - Processing K1266-180647824 [56/300] for code: 1T1G2D2
+2026-11-22 09:35:33 - 180647824 - Result: Successfully redeemed
+2026-11-22 09:35:34 - Processing K1266-180669914 [57/300] for code: 1T1G2D2
+2026-11-22 09:35:34 - 180669914 - Result: Successfully redeemed
+2026-11-22 09:35:35 - Processing K1266-180696652 [58/300] for code: 1T1G2D2
+2026-11-22 09:35:35 - 180696652 - Result: Successfully redeemed
+2026-11-22 09:35:36 - Processing K1266-180729920 [59/300] for code: 1T1G2D2
+2026-11-22 09:35:36 - 180729920 - Result: Successfully redeemed
+2026-11-22 09:35:37 - Processing K1266-180778760 [60/300] for code: 1T1G2D2
+2026-11-22 09:35:37 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-22 09:35:41 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-22 09:35:49 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-22 09:36:01 - 180778760 - Result: Redemption request failed
+2026-11-22 09:36:03 - Processing K1266-180779049 [61/300] for code: 1T1G2D2
+2026-11-22 09:36:03 - 180779049 - Result: Successfully redeemed
+2026-11-22 09:36:04 - Processing K1266-180795047 [62/300] for code: 1T1G2D2
+2026-11-22 09:36:04 - 180795047 - Result: Successfully redeemed
+2026-11-22 09:36:05 - Processing K1266-180827986 [63/300] for code: 1T1G2D2
+2026-11-22 09:36:05 - 180827986 - Result: Successfully redeemed
+2026-11-22 09:36:07 - Processing K1266-180893684 [64/300] for code: 1T1G2D2
+2026-11-22 09:36:07 - 180893684 - Result: Successfully redeemed
+2026-11-22 09:36:08 - Processing K1266-180893765 [65/300] for code: 1T1G2D2
+2026-11-22 09:36:08 - 180893765 - Result: Already redeemed
+2026-11-22 09:36:09 - Processing K1266-180909451 [66/300] for code: 1T1G2D2
+2026-11-22 09:36:09 - 180909451 - Result: Successfully redeemed
+2026-11-22 09:36:10 - Processing K1266-180959009 [67/300] for code: 1T1G2D2
+2026-11-22 09:36:11 - 180959009 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-22 09:36:13 - 180959009 - Result: Successfully redeemed
+2026-11-22 09:36:14 - Processing K1266-180975047 [68/300] for code: 1T1G2D2
+2026-11-22 09:36:14 - 180975047 - Result: Successfully redeemed
+2026-11-22 09:36:15 - Processing K1266-181008488 [69/300] for code: 1T1G2D2
+2026-11-22 09:36:15 - 181008488 - Result: Successfully redeemed
+2026-11-22 09:36:17 - Processing K1266-181024577 [70/300] for code: 1T1G2D2
+2026-11-22 09:36:17 - 181024577 - Result: Successfully redeemed
+2026-11-22 09:36:18 - Processing K1266-181063111 [71/300] for code: 1T1G2D2
+2026-11-22 09:36:18 - 181063111 - Result: Successfully redeemed
+2026-11-22 09:36:19 - Processing K1266-181089949 [72/300] for code: 1T1G2D2
+2026-11-22 09:36:19 - 181089949 - Result: Successfully redeemed
+2026-11-22 09:36:21 - Processing K1266-181090100 [73/300] for code: 1T1G2D2
+2026-11-22 09:36:21 - 181090100 - Result: Successfully redeemed
+2026-11-22 09:36:22 - Processing K1266-181106609 [74/300] for code: 1T1G2D2
+2026-11-22 09:36:22 - 181106609 - Result: Successfully redeemed
+2026-11-22 09:36:23 - Processing K1266-181122260 [75/300] for code: 1T1G2D2
+2026-11-22 09:36:23 - 181122260 - Result: Successfully redeemed
+2026-11-22 09:36:24 - Processing K1266-181139114 [76/300] for code: 1T1G2D2
+2026-11-22 09:36:24 - 181139114 - Result: Successfully redeemed
+2026-11-22 09:36:26 - Processing K1266-181155772 [77/300] for code: 1T1G2D2
+2026-11-22 09:36:26 - 181155772 - Result: Successfully redeemed
+2026-11-22 09:36:27 - Processing K1266-181171461 [78/300] for code: 1T1G2D2
+2026-11-22 09:36:27 - 181171461 - Result: Successfully redeemed
+2026-11-22 09:36:28 - Processing K1266-181188977 [79/300] for code: 1T1G2D2
+2026-11-22 09:36:28 - 181188977 - Result: Successfully redeemed
+2026-11-22 09:36:30 - Processing K1266-181340930 [80/300] for code: 1T1G2D2
+2026-11-22 09:36:30 - 181340930 - Result: Successfully redeemed
+2026-11-22 09:36:31 - Processing K1266-181351852 [81/300] for code: 1T1G2D2
+2026-11-22 09:36:31 - 181351852 - Result: Successfully redeemed
+2026-11-22 09:36:32 - Processing K1266-181358276 [82/300] for code: 1T1G2D2
+2026-11-22 09:36:33 - 181358276 - Result: Successfully redeemed
+2026-11-22 09:36:34 - Processing K1266-181374419 [83/300] for code: 1T1G2D2
+2026-11-22 09:36:34 - 181374419 - Result: Successfully redeemed
+2026-11-22 09:36:35 - Processing K1266-181384836 [84/300] for code: 1T1G2D2
+2026-11-22 09:36:35 - 181384836 - Result: Successfully redeemed
+2026-11-22 09:36:36 - Processing K1266-181385198 [85/300] for code: 1T1G2D2
+2026-11-22 09:36:36 - 181385198 - Result: Successfully redeemed
+2026-11-22 09:36:37 - Processing K1266-181401589 [86/300] for code: 1T1G2D2
+2026-11-22 09:36:37 - 181401589 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-22 09:36:39 - 181401589 - Result: Successfully redeemed
+2026-11-22 09:36:41 - Processing K1266-181407057 [87/300] for code: 1T1G2D2
+2026-11-22 09:36:41 - 181407057 - Result: Successfully redeemed
+2026-11-22 09:36:42 - Processing K1266-181417643 [88/300] for code: 1T1G2D2
+2026-11-22 09:36:42 - 181417643 - Result: Successfully redeemed
+2026-11-22 09:36:44 - Processing K1266-181423528 [89/300] for code: 1T1G2D2
+2026-11-22 09:36:44 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-22 09:36:48 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-22 09:36:56 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-22 09:37:08 - 181423528 - Result: Redemption request failed
+2026-11-22 09:37:09 - Processing K1266-181466821 [90/300] for code: 1T1G2D2
+2026-11-22 09:37:09 - 181466821 - Result: Successfully redeemed
+2026-11-22 09:37:10 - Processing K1266-181466879 [91/300] for code: 1T1G2D2
+2026-11-22 09:37:10 - 181466879 - Result: Successfully redeemed
+2026-11-22 09:37:11 - Processing K1266-181482560 [92/300] for code: 1T1G2D2
+2026-11-22 09:37:11 - 181482560 - Result: Already redeemed
+2026-11-22 09:37:13 - Processing K1266-181515253 [93/300] for code: 1T1G2D2
+2026-11-22 09:37:13 - 181515253 - Result: Successfully redeemed
+2026-11-22 09:37:14 - Processing K1266-181516264 [94/300] for code: 1T1G2D2
+2026-11-22 09:37:14 - 181516264 - Result: Successfully redeemed
+2026-11-22 09:37:15 - Processing K1266-181516335 [95/300] for code: 1T1G2D2
+2026-11-22 09:37:15 - 181516335 - Result: Successfully redeemed
+2026-11-22 09:37:17 - Processing K1266-181521367 [96/300] for code: 1T1G2D2
+2026-11-22 09:37:17 - 181521367 - Result: Successfully redeemed
+2026-11-22 09:37:18 - Processing K1266-181531678 [97/300] for code: 1T1G2D2
+2026-11-22 09:37:18 - 181531678 - Result: Successfully redeemed
+2026-11-22 09:37:19 - Processing K1266-181548141 [98/300] for code: 1T1G2D2
+2026-11-22 09:37:19 - 181548141 - Result: Successfully redeemed
+2026-11-22 09:37:21 - Processing K1266-181565051 [99/300] for code: 1T1G2D2
+2026-11-22 09:37:21 - 181565051 - Result: Successfully redeemed
+2026-11-22 09:37:22 - Processing K1266-181571708 [100/300] for code: 1T1G2D2
+2026-11-22 09:37:22 - 181571708 - Result: Successfully redeemed
+2026-11-22 09:37:24 - Processing K1266-181614011 [101/300] for code: 1T1G2D2
+2026-11-22 09:37:24 - 181614011 - Result: Successfully redeemed
+2026-11-22 09:37:25 - Processing K1266-181646830 [102/300] for code: 1T1G2D2
+2026-11-22 09:37:25 - 181646830 - Result: Successfully redeemed
+2026-11-22 09:37:26 - Processing K1266-181663028 [103/300] for code: 1T1G2D2
+2026-11-22 09:37:26 - 181663028 - Result: Successfully redeemed
+2026-11-22 09:37:28 - Processing K1266-181669304 [104/300] for code: 1T1G2D2
+2026-11-22 09:37:28 - 181669304 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-22 09:37:30 - 181669304 - Result: Successfully redeemed
+2026-11-22 09:37:31 - Processing K1266-181712653 [105/300] for code: 1T1G2D2
+2026-11-22 09:37:31 - 181712653 - Result: Successfully redeemed
+2026-11-22 09:37:32 - Processing K1266-181728933 [106/300] for code: 1T1G2D2
+2026-11-22 09:37:32 - 181728933 - Result: Successfully redeemed
+2026-11-22 09:37:34 - Processing K1266-181734398 [107/300] for code: 1T1G2D2
+2026-11-22 09:37:34 - 181734398 - Result: Successfully redeemed
+2026-11-22 09:37:35 - Processing K1266-181761437 [108/300] for code: 1T1G2D2
+2026-11-22 09:37:35 - 181761437 - Result: Successfully redeemed
+2026-11-22 09:37:36 - Processing K1266-181778389 [109/300] for code: 1T1G2D2
+2026-11-22 09:37:36 - 181778389 - Result: Successfully redeemed
+2026-11-22 09:37:37 - Processing K1266-181793958 [110/300] for code: 1T1G2D2
+2026-11-22 09:37:37 - 181793958 - Result: Successfully redeemed
+2026-11-22 09:37:39 - Processing K1266-181794115 [111/300] for code: 1T1G2D2
+2026-11-22 09:37:39 - 181794115 - Result: Successfully redeemed
+2026-11-22 09:37:40 - Processing K1266-181816445 [112/300] for code: 1T1G2D2
+2026-11-22 09:37:40 - 181816445 - Result: Successfully redeemed
+2026-11-22 09:37:42 - Processing K1266-181859892 [113/300] for code: 1T1G2D2
+2026-11-22 09:37:42 - 181859892 - Result: Successfully redeemed
+2026-11-22 09:37:43 - Processing K1266-181859948 [114/300] for code: 1T1G2D2
+2026-11-22 09:37:43 - 181859948 - Result: Successfully redeemed
+2026-11-22 09:37:44 - Processing K1266-181860239 [115/300] for code: 1T1G2D2
+2026-11-22 09:37:44 - 181860239 - Result: Successfully redeemed
+2026-11-22 09:37:46 - Processing K1266-181860336 [116/300] for code: 1T1G2D2
+2026-11-22 09:37:46 - 181860336 - Result: Already redeemed
+2026-11-22 09:37:47 - Processing K1266-181882185 [117/300] for code: 1T1G2D2
+2026-11-22 09:37:47 - 181882185 - Result: Already redeemed
+2026-11-22 09:37:48 - Processing K1266-181892750 [118/300] for code: 1T1G2D2
+2026-11-22 09:37:48 - 181892750 - Result: Successfully redeemed
+2026-11-22 09:37:50 - Processing K1266-181941995 [119/300] for code: 1T1G2D2
+2026-11-22 09:37:50 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-22 09:37:54 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-22 09:38:02 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-22 09:38:14 - 181941995 - Result: Redemption request failed
+2026-11-22 09:38:15 - Processing K1266-181958341 [120/300] for code: 1T1G2D2
+2026-11-22 09:38:15 - 181958341 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-22 09:38:17 - 181958341 - Result: Successfully redeemed
+2026-11-22 09:38:18 - Processing K1266-181958534 [121/300] for code: 1T1G2D2
+2026-11-22 09:38:18 - 181958534 - Result: Successfully redeemed
+2026-11-22 09:38:19 - Processing K1266-182007379 [122/300] for code: 1T1G2D2
+2026-11-22 09:38:20 - 182007379 - Result: Successfully redeemed
+2026-11-22 09:38:21 - Processing K1266-182007601 [123/300] for code: 1T1G2D2
+2026-11-22 09:38:21 - 182007601 - Result: Successfully redeemed
+2026-11-22 09:38:22 - Processing K1266-182013382 [124/300] for code: 1T1G2D2
+2026-11-22 09:38:22 - 182013382 - Result: Successfully redeemed
+2026-11-22 09:38:24 - Processing K1266-182022970 [125/300] for code: 1T1G2D2
+2026-11-22 09:38:24 - 182022970 - Result: Successfully redeemed
+2026-11-22 09:38:25 - Processing K1266-182046115 [126/300] for code: 1T1G2D2
+2026-11-22 09:38:25 - 182046115 - Result: Successfully redeemed
+2026-11-22 09:38:27 - Processing K1266-182072645 [127/300] for code: 1T1G2D2
+2026-11-22 09:38:27 - 182072645 - Result: Successfully redeemed
+2026-11-22 09:38:28 - Processing K1266-182144355 [128/300] for code: 1T1G2D2
+2026-11-22 09:38:28 - 182144355 - Result: Successfully redeemed
+2026-11-22 09:38:29 - Processing K1266-182203508 [129/300] for code: 1T1G2D2
+2026-11-22 09:38:29 - 182203508 - Result: Successfully redeemed
+2026-11-22 09:38:31 - Processing K1266-182203900 [130/300] for code: 1T1G2D2
+2026-11-22 09:38:31 - 182203900 - Result: Successfully redeemed
+2026-11-22 09:38:32 - Processing K1266-182203950 [131/300] for code: 1T1G2D2
+2026-11-22 09:38:32 - 182203950 - Result: Successfully redeemed
+2026-11-22 09:38:33 - Processing K1266-182220585 [132/300] for code: 1T1G2D2
+2026-11-22 09:38:33 - 182220585 - Result: Successfully redeemed
+2026-11-22 09:38:35 - Processing K1266-182269737 [133/300] for code: 1T1G2D2
+2026-11-22 09:38:35 - 182269737 - Result: Successfully redeemed
+2026-11-22 09:38:36 - Processing K1266-182286440 [134/300] for code: 1T1G2D2
+2026-11-22 09:38:36 - 182286440 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-22 09:38:38 - 182286440 - Result: Successfully redeemed
+2026-11-22 09:38:40 - Processing K1266-182302366 [135/300] for code: 1T1G2D2
+2026-11-22 09:38:40 - 182302366 - Result: Successfully redeemed
+2026-11-22 09:38:41 - Processing K1266-182318888 [136/300] for code: 1T1G2D2
+2026-11-22 09:38:41 - 182318888 - Result: Successfully redeemed
+2026-11-22 09:38:42 - Processing K1266-182318992 [137/300] for code: 1T1G2D2
+2026-11-22 09:38:42 - 182318992 - Result: Successfully redeemed
+2026-11-22 09:38:44 - Processing K1266-182334781 [138/300] for code: 1T1G2D2
+2026-11-22 09:38:44 - 182334781 - Result: Successfully redeemed
+2026-11-22 09:38:45 - Processing K1266-182384322 [139/300] for code: 1T1G2D2
+2026-11-22 09:38:45 - 182384322 - Result: Successfully redeemed
+2026-11-22 09:38:46 - Processing K1266-182390223 [140/300] for code: 1T1G2D2
+2026-11-22 09:38:46 - 182390223 - Result: Successfully redeemed
+2026-11-22 09:38:47 - Processing K1266-182449206 [141/300] for code: 1T1G2D2
+2026-11-22 09:38:48 - 182449206 - Result: Successfully redeemed
+2026-11-22 09:38:49 - Processing K1266-182450074 [142/300] for code: 1T1G2D2
+2026-11-22 09:38:49 - 182450074 - Result: Successfully redeemed
+2026-11-22 09:38:50 - Processing K1266-182466031 [143/300] for code: 1T1G2D2
+2026-11-22 09:38:51 - 182466031 - Result: Wrong kingdom for this player ID
+2026-11-22 09:38:52 - Processing K1266-182472038 [144/300] for code: 1T1G2D2
+2026-11-22 09:38:52 - 182472038 - Result: Successfully redeemed
+2026-11-22 09:38:53 - Processing K1266-182488759 [145/300] for code: 1T1G2D2
+2026-11-22 09:38:53 - 182488759 - Result: Successfully redeemed
+2026-11-22 09:38:55 - Processing K1266-182531700 [146/300] for code: 1T1G2D2
+2026-11-22 09:38:55 - 182531700 - Result: Successfully redeemed
+2026-11-22 09:38:56 - Processing K1266-182548386 [147/300] for code: 1T1G2D2
+2026-11-22 09:38:56 - 182548386 - Result: Successfully redeemed
+2026-11-22 09:38:58 - Processing K1266-182646613 [148/300] for code: 1T1G2D2
+2026-11-22 09:38:58 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-22 09:39:02 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-22 09:39:10 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-22 09:39:22 - 182646613 - Result: Redemption request failed
+2026-11-22 09:39:23 - Processing K1266-182668737 [149/300] for code: 1T1G2D2
+2026-11-22 09:39:23 - 182668737 - Result: Successfully redeemed
+2026-11-22 09:39:25 - Processing K1266-182679587 [150/300] for code: 1T1G2D2
+2026-11-22 09:39:25 - 182679587 - Result: Successfully redeemed
+2026-11-22 09:39:26 - Processing K1266-182717899 [151/300] for code: 1T1G2D2
+2026-11-22 09:39:26 - 182717899 - Result: Successfully redeemed
+2026-11-22 09:39:27 - Processing K1266-182767010 [152/300] for code: 1T1G2D2
+2026-11-22 09:39:27 - 182767010 - Result: Successfully redeemed
+2026-11-22 09:39:28 - Processing K1266-182810221 [153/300] for code: 1T1G2D2
+2026-11-22 09:39:28 - 182810221 - Result: Successfully redeemed
+2026-11-22 09:39:30 - Processing K1266-182842833 [154/300] for code: 1T1G2D2
+2026-11-22 09:39:30 - 182842833 - Result: Successfully redeemed
+2026-11-22 09:39:31 - Processing K1266-182848942 [155/300] for code: 1T1G2D2
+2026-11-22 09:39:31 - 182848942 - Result: Successfully redeemed
+2026-11-22 09:39:32 - Processing K1266-182849233 [156/300] for code: 1T1G2D2
+2026-11-22 09:39:32 - 182849233 - Result: Successfully redeemed
+2026-11-22 09:39:34 - Processing K1266-182858998 [157/300] for code: 1T1G2D2
+2026-11-22 09:39:34 - 182858998 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-22 09:39:36 - 182858998 - Result: Successfully redeemed
+2026-11-22 09:39:37 - Processing K1266-182859667 [158/300] for code: 1T1G2D2
+2026-11-22 09:39:37 - 182859667 - Result: Successfully redeemed
+2026-11-22 09:39:38 - Processing K1266-182892217 [159/300] for code: 1T1G2D2
+2026-11-22 09:39:39 - 182892217 - Result: Successfully redeemed
+2026-11-22 09:39:40 - Processing K1266-182898057 [160/300] for code: 1T1G2D2
+2026-11-22 09:39:40 - 182898057 - Result: Successfully redeemed
+2026-11-22 09:39:41 - Processing K1266-182908483 [161/300] for code: 1T1G2D2
+2026-11-22 09:39:41 - 182908483 - Result: Successfully redeemed
+2026-11-22 09:39:42 - Processing K1266-182941162 [162/300] for code: 1T1G2D2
+2026-11-22 09:39:42 - 182941162 - Result: Successfully redeemed
+2026-11-22 09:39:43 - Processing K1266-182941502 [163/300] for code: 1T1G2D2
+2026-11-22 09:39:43 - 182941502 - Result: Successfully redeemed
+2026-11-22 09:39:44 - Processing K1266-182957878 [164/300] for code: 1T1G2D2
+2026-11-22 09:39:44 - 182957878 - Result: Successfully redeemed
+2026-11-22 09:39:45 - Processing K1266-182990423 [165/300] for code: 1T1G2D2
+2026-11-22 09:39:46 - 182990423 - Result: Successfully redeemed
+2026-11-22 09:39:47 - Processing K1266-183006892 [166/300] for code: 1T1G2D2
+2026-11-22 09:39:47 - 183006892 - Result: Successfully redeemed
+2026-11-22 09:39:48 - Processing K1266-183012848 [167/300] for code: 1T1G2D2
+2026-11-22 09:39:48 - 183012848 - Result: Successfully redeemed
+2026-11-22 09:39:50 - Processing K1266-183028805 [168/300] for code: 1T1G2D2
+2026-11-22 09:39:50 - 183028805 - Result: Successfully redeemed
+2026-11-22 09:39:51 - Processing K1266-183029342 [169/300] for code: 1T1G2D2
+2026-11-22 09:39:51 - 183029342 - Result: Successfully redeemed
+2026-11-22 09:39:52 - Processing K1266-183039758 [170/300] for code: 1T1G2D2
+2026-11-22 09:39:52 - 183039758 - Result: Successfully redeemed
+2026-11-22 09:39:53 - Processing K1266-183072306 [171/300] for code: 1T1G2D2
+2026-11-22 09:39:53 - 183072306 - Result: Successfully redeemed
+2026-11-22 09:39:55 - Processing K1266-183072824 [172/300] for code: 1T1G2D2
+2026-11-22 09:39:55 - 183072824 - Result: Successfully redeemed
+2026-11-22 09:39:56 - Processing K1266-183089209 [173/300] for code: 1T1G2D2
+2026-11-22 09:39:56 - 183089209 - Result: Successfully redeemed
+2026-11-22 09:39:57 - Processing K1266-183104870 [174/300] for code: 1T1G2D2
+2026-11-22 09:39:57 - 183104870 - Result: Successfully redeemed
+2026-11-22 09:39:58 - Processing K1266-183121113 [175/300] for code: 1T1G2D2
+2026-11-22 09:39:59 - 183121113 - Result: Successfully redeemed
+2026-11-22 09:40:00 - Processing K1266-183137287 [176/300] for code: 1T1G2D2
+2026-11-22 09:40:00 - 183137287 - Result: Already redeemed
+2026-11-22 09:40:01 - Processing K1266-183154102 [177/300] for code: 1T1G2D2
+2026-11-22 09:40:01 - 183154102 - Result: Successfully redeemed
+2026-11-22 09:40:03 - Processing K1266-183154303 [178/300] for code: 1T1G2D2
+2026-11-22 09:40:03 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-22 09:40:07 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-22 09:40:15 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-22 09:40:27 - 183154303 - Result: Redemption request failed
+2026-11-22 09:40:28 - Processing K1266-183154798 [179/300] for code: 1T1G2D2
+2026-11-22 09:40:28 - 183154798 - Result: Successfully redeemed
+2026-11-22 09:40:29 - Processing K1266-183170657 [180/300] for code: 1T1G2D2
+2026-11-22 09:40:29 - 183170657 - Result: Successfully redeemed
+2026-11-22 09:40:30 - Processing K1266-183176536 [181/300] for code: 1T1G2D2
+2026-11-22 09:40:30 - 183176536 - Result: Successfully redeemed
+2026-11-22 09:40:32 - Processing K1266-183219217 [182/300] for code: 1T1G2D2
+2026-11-22 09:40:32 - 183219217 - Result: Successfully redeemed
+2026-11-22 09:40:33 - Processing K1266-183219343 [183/300] for code: 1T1G2D2
+2026-11-22 09:40:33 - 183219343 - Result: Successfully redeemed
+2026-11-22 09:40:34 - Processing K1266-183285360 [184/300] for code: 1T1G2D2
+2026-11-22 09:40:34 - 183285360 - Result: Successfully redeemed
+2026-11-22 09:40:35 - Processing K1266-183317601 [185/300] for code: 1T1G2D2
+2026-11-22 09:40:36 - 183317601 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-22 09:40:38 - 183317601 - Result: Successfully redeemed
+2026-11-22 09:40:39 - Processing K1266-183350823 [186/300] for code: 1T1G2D2
+2026-11-22 09:40:39 - 183350823 - Result: Successfully redeemed
+2026-11-22 09:40:40 - Processing K1266-183366693 [187/300] for code: 1T1G2D2
+2026-11-22 09:40:40 - 183366693 - Result: Successfully redeemed
+2026-11-22 09:40:41 - Processing K1266-183367342 [188/300] for code: 1T1G2D2
+2026-11-22 09:40:41 - 183367342 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-22 09:40:43 - 183367342 - [Attempt 2/3] TIMEOUT RETRY. Retrying...
+2026-11-22 09:40:48 - 183367342 - Result: Successfully redeemed
+2026-11-22 09:40:49 - Processing K1266-183383666 [189/300] for code: 1T1G2D2
+2026-11-22 09:40:49 - 183383666 - Result: Successfully redeemed
+2026-11-22 09:40:50 - Processing K1266-183384158 [190/300] for code: 1T1G2D2
+2026-11-22 09:40:50 - 183384158 - Result: Successfully redeemed
+2026-11-22 09:40:52 - Processing K1266-183455373 [191/300] for code: 1T1G2D2
+2026-11-22 09:40:52 - 183455373 - Result: Successfully redeemed
+2026-11-22 09:40:53 - Processing K1266-183531242 [192/300] for code: 1T1G2D2
+2026-11-22 09:40:53 - 183531242 - Result: Successfully redeemed
+2026-11-22 09:40:54 - Processing K1266-183563334 [193/300] for code: 1T1G2D2
+2026-11-22 09:40:54 - 183563334 - Result: Successfully redeemed
+2026-11-22 09:40:55 - Processing K1266-183579641 [194/300] for code: 1T1G2D2
+2026-11-22 09:40:55 - 183579641 - Result: Successfully redeemed
+2026-11-22 09:40:56 - Processing K1266-183602956 [195/300] for code: 1T1G2D2
+2026-11-22 09:40:56 - 183602956 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-22 09:40:58 - 183602956 - Result: Successfully redeemed
+2026-11-22 09:41:00 - Processing K1266-183635567 [196/300] for code: 1T1G2D2
+2026-11-22 09:41:00 - 183635567 - Result: Successfully redeemed
+2026-11-22 09:41:01 - Processing K1266-183662249 [197/300] for code: 1T1G2D2
+2026-11-22 09:41:01 - 183662249 - Result: Successfully redeemed
+2026-11-22 09:41:02 - Processing K1266-183695044 [198/300] for code: 1T1G2D2
+2026-11-22 09:41:02 - 183695044 - Result: Successfully redeemed
+2026-11-22 09:41:04 - Processing K1266-183744074 [199/300] for code: 1T1G2D2
+2026-11-22 09:41:04 - 183744074 - Result: Successfully redeemed
+2026-11-22 09:41:05 - Processing K1266-183760133 [200/300] for code: 1T1G2D2
+2026-11-22 09:41:05 - 183760133 - Result: Successfully redeemed
+2026-11-22 09:41:06 - Processing K1266-183776526 [201/300] for code: 1T1G2D2
+2026-11-22 09:41:06 - 183776526 - Result: Successfully redeemed
+2026-11-22 09:41:07 - Processing K1266-183793260 [202/300] for code: 1T1G2D2
+2026-11-22 09:41:08 - 183793260 - Result: Successfully redeemed
+2026-11-22 09:41:09 - Processing K1266-183799231 [203/300] for code: 1T1G2D2
+2026-11-22 09:41:09 - 183799231 - Result: Successfully redeemed
+2026-11-22 09:41:10 - Processing K1266-183809202 [204/300] for code: 1T1G2D2
+2026-11-22 09:41:10 - 183809202 - Result: Successfully redeemed
+2026-11-22 09:41:12 - Processing K1266-183826046 [205/300] for code: 1T1G2D2
+2026-11-22 09:41:12 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-22 09:41:16 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-22 09:41:24 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-22 09:41:36 - 183826046 - Result: Redemption request failed
+2026-11-22 09:41:37 - Processing K1266-183826079 [206/300] for code: 1T1G2D2
+2026-11-22 09:41:37 - 183826079 - Result: Successfully redeemed
+2026-11-22 09:41:38 - Processing K1266-183826363 [207/300] for code: 1T1G2D2
+2026-11-22 09:41:38 - 183826363 - Result: Successfully redeemed
+2026-11-22 09:41:40 - Processing K1266-183842707 [208/300] for code: 1T1G2D2
+2026-11-22 09:41:40 - 183842707 - Result: Successfully redeemed
+2026-11-22 09:41:41 - Processing K1266-183858943 [209/300] for code: 1T1G2D2
+2026-11-22 09:41:41 - 183858943 - Result: Successfully redeemed
+2026-11-22 09:41:42 - Processing K1266-183859043 [210/300] for code: 1T1G2D2
+2026-11-22 09:41:42 - 183859043 - Result: Successfully redeemed
+2026-11-22 09:41:43 - Processing K1266-183864332 [211/300] for code: 1T1G2D2
+2026-11-22 09:41:43 - 183864332 - Result: Successfully redeemed
+2026-11-22 09:41:45 - Processing K1266-183897678 [212/300] for code: 1T1G2D2
+2026-11-22 09:41:45 - 183897678 - Result: Successfully redeemed
+2026-11-22 09:41:46 - Processing K1266-183907791 [213/300] for code: 1T1G2D2
+2026-11-22 09:41:46 - 183907791 - Result: Successfully redeemed
+2026-11-22 09:41:48 - Processing K1266-183907855 [214/300] for code: 1T1G2D2
+2026-11-22 09:41:48 - 183907855 - Result: Successfully redeemed
+2026-11-22 09:41:49 - Processing K1266-183924658 [215/300] for code: 1T1G2D2
+2026-11-22 09:41:49 - 183924658 - Result: Successfully redeemed
+2026-11-22 09:41:50 - Processing K1266-183924660 [216/300] for code: 1T1G2D2
+2026-11-22 09:41:50 - 183924660 - Result: Successfully redeemed
+2026-11-22 09:41:52 - Processing K1266-183940809 [217/300] for code: 1T1G2D2
+2026-11-22 09:41:52 - 183940809 - Result: Already redeemed
+2026-11-22 09:41:53 - Processing K1266-183946385 [218/300] for code: 1T1G2D2
+2026-11-22 09:41:53 - 183946385 - Result: Successfully redeemed
+2026-11-22 09:41:54 - Processing K1266-183946804 [219/300] for code: 1T1G2D2
+2026-11-22 09:41:54 - 183946804 - Result: Successfully redeemed
+2026-11-22 09:41:56 - Processing K1266-183996371 [220/300] for code: 1T1G2D2
+2026-11-22 09:41:56 - 183996371 - Result: Successfully redeemed
+2026-11-22 09:41:57 - Processing K1266-184005794 [221/300] for code: 1T1G2D2
+2026-11-22 09:41:57 - 184005794 - Result: Successfully redeemed
+2026-11-22 09:41:58 - Processing K1266-184022781 [222/300] for code: 1T1G2D2
+2026-11-22 09:41:58 - 184022781 - Result: Successfully redeemed
+2026-11-22 09:41:59 - Processing K1266-184038545 [223/300] for code: 1T1G2D2
+2026-11-22 09:41:59 - 184038545 - Result: Successfully redeemed
+2026-11-22 09:42:00 - Processing K1266-184071743 [224/300] for code: 1T1G2D2
+2026-11-22 09:42:00 - 184071743 - Result: Successfully redeemed
+2026-11-22 09:42:02 - Processing K1266-184088377 [225/300] for code: 1T1G2D2
+2026-11-22 09:42:02 - 184088377 - Result: Successfully redeemed
+2026-11-22 09:42:03 - Processing K1266-184137674 [226/300] for code: 1T1G2D2
+2026-11-22 09:42:03 - 184137674 - Result: Successfully redeemed
+2026-11-22 09:42:04 - Processing K1266-184159552 [227/300] for code: 1T1G2D2
+2026-11-22 09:42:04 - 184159552 - Result: Successfully redeemed
+2026-11-22 09:42:05 - Processing K1266-184169916 [228/300] for code: 1T1G2D2
+2026-11-22 09:42:05 - 184169916 - Result: Successfully redeemed
+2026-11-22 09:42:06 - Processing K1266-184170263 [229/300] for code: 1T1G2D2
+2026-11-22 09:42:07 - 184170263 - Result: Successfully redeemed
+2026-11-22 09:42:08 - Processing K1266-184175883 [230/300] for code: 1T1G2D2
+2026-11-22 09:42:08 - 184175883 - Result: Successfully redeemed
+2026-11-22 09:42:09 - Processing K1266-184186546 [231/300] for code: 1T1G2D2
+2026-11-22 09:42:09 - 184186546 - Result: Successfully redeemed
+2026-11-22 09:42:10 - Processing K1266-184202442 [232/300] for code: 1T1G2D2
+2026-11-22 09:42:10 - 184202442 - Result: Successfully redeemed
+2026-11-22 09:42:12 - Processing K1266-184202684 [233/300] for code: 1T1G2D2
+2026-11-22 09:42:12 - 184202684 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-22 09:42:14 - 184202684 - Result: Successfully redeemed
+2026-11-22 09:42:15 - Processing K1266-184219240 [234/300] for code: 1T1G2D2
+2026-11-22 09:42:15 - 184219240 - Result: Successfully redeemed
+2026-11-22 09:42:16 - Processing K1266-184252103 [235/300] for code: 1T1G2D2
+2026-11-22 09:42:16 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-22 09:42:20 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-22 09:42:28 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-22 09:42:40 - 184252103 - Result: Redemption request failed
+2026-11-22 09:42:42 - Processing K1266-184257548 [236/300] for code: 1T1G2D2
+2026-11-22 09:42:42 - 184257548 - Result: Successfully redeemed
+2026-11-22 09:42:43 - Processing K1266-184268236 [237/300] for code: 1T1G2D2
+2026-11-22 09:42:43 - 184268236 - Result: Successfully redeemed
+2026-11-22 09:42:44 - Processing K1266-184268332 [238/300] for code: 1T1G2D2
+2026-11-22 09:42:44 - 184268332 - Result: Successfully redeemed
+2026-11-22 09:42:45 - Processing K1266-184285099 [239/300] for code: 1T1G2D2
+2026-11-22 09:42:45 - 184285099 - Result: Successfully redeemed
+2026-11-22 09:42:47 - Processing K1266-184300583 [240/300] for code: 1T1G2D2
+2026-11-22 09:42:47 - 184300583 - Result: Successfully redeemed
+2026-11-22 09:42:48 - Processing K1266-184301120 [241/300] for code: 1T1G2D2
+2026-11-22 09:42:48 - 184301120 - Result: Successfully redeemed
+2026-11-22 09:42:50 - Processing K1266-184301482 [242/300] for code: 1T1G2D2
+2026-11-22 09:42:50 - 184301482 - Result: Successfully redeemed
+2026-11-22 09:42:51 - Processing K1266-184306709 [243/300] for code: 1T1G2D2
+2026-11-22 09:42:51 - 184306709 - Result: Successfully redeemed
+2026-11-22 09:42:53 - Processing K1266-184323165 [244/300] for code: 1T1G2D2
+2026-11-22 09:42:53 - 184323165 - Result: Successfully redeemed
+2026-11-22 09:42:54 - Processing K1266-184334160 [245/300] for code: 1T1G2D2
+2026-11-22 09:42:54 - 184334160 - Result: Successfully redeemed
+2026-11-22 09:42:55 - Processing K1266-184334326 [246/300] for code: 1T1G2D2
+2026-11-22 09:42:56 - 184334326 - Result: Successfully redeemed
+2026-11-22 09:42:57 - Processing K1266-184355782 [247/300] for code: 1T1G2D2
+2026-11-22 09:42:57 - 184355782 - Result: Successfully redeemed
+2026-11-22 09:42:58 - Processing K1266-184355850 [248/300] for code: 1T1G2D2
+2026-11-22 09:42:58 - 184355850 - Result: Successfully redeemed
+2026-11-22 09:42:59 - Processing K1266-184366301 [249/300] for code: 1T1G2D2
+2026-11-22 09:42:59 - 184366301 - Result: Successfully redeemed
+2026-11-22 09:43:00 - Processing K1266-184398957 [250/300] for code: 1T1G2D2
+2026-11-22 09:43:01 - 184398957 - Result: Successfully redeemed
+2026-11-22 09:43:02 - Processing K1266-184431865 [251/300] for code: 1T1G2D2
+2026-11-22 09:43:02 - 184431865 - Result: Successfully redeemed
+2026-11-22 09:43:03 - Processing K1266-184448668 [252/300] for code: 1T1G2D2
+2026-11-22 09:43:03 - 184448668 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-22 09:43:05 - 184448668 - Result: Successfully redeemed
+2026-11-22 09:43:06 - Processing K1266-185122678 [253/300] for code: 1T1G2D2
+2026-11-22 09:43:06 - 185122678 - Result: Successfully redeemed
+2026-11-22 09:43:07 - Processing K1266-185480245 [254/300] for code: 1T1G2D2
+2026-11-22 09:43:07 - 185480245 - Result: Successfully redeemed
+2026-11-22 09:43:09 - Processing K1266-187102768 [255/300] for code: 1T1G2D2
+2026-11-22 09:43:09 - 187102768 - Result: Successfully redeemed
+2026-11-22 09:43:10 - Processing K1266-187115851 [256/300] for code: 1T1G2D2
+2026-11-22 09:43:10 - 187115851 - Result: Successfully redeemed
+2026-11-22 09:43:11 - Processing K1266-188087741 [257/300] for code: 1T1G2D2
+2026-11-22 09:43:11 - 188087741 - Result: Successfully redeemed
+2026-11-22 09:43:13 - Processing K1266-188470196 [258/300] for code: 1T1G2D2
+2026-11-22 09:43:13 - 188470196 - Result: Successfully redeemed
+2026-11-22 09:43:14 - Processing K1266-188862376 [259/300] for code: 1T1G2D2
+2026-11-22 09:43:14 - 188862376 - Result: Successfully redeemed
+2026-11-22 09:43:15 - Processing K1266-190234418 [260/300] for code: 1T1G2D2
+2026-11-22 09:43:15 - 190234418 - Result: Successfully redeemed
+2026-11-22 09:43:16 - Processing K1266-190573918 [261/300] for code: 1T1G2D2
+2026-11-22 09:43:16 - 190573918 - Result: Successfully redeemed
+2026-11-22 09:43:17 - Processing K1266-191129295 [262/300] for code: 1T1G2D2
+2026-11-22 09:43:18 - 191129295 - Result: Successfully redeemed
+2026-11-22 09:43:19 - Processing K1266-192400838 [263/300] for code: 1T1G2D2
+2026-11-22 09:43:19 - 192400838 - Result: Successfully redeemed
+2026-11-22 09:43:20 - Processing K1266-193616382 [264/300] for code: 1T1G2D2
+2026-11-22 09:43:20 - 193616382 - Result: Successfully redeemed
+2026-11-22 09:43:21 - Processing K1266-194020665 [265/300] for code: 1T1G2D2
+2026-11-22 09:43:21 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-22 09:43:25 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-22 09:43:33 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-22 09:43:45 - 194020665 - Result: Redemption request failed
+2026-11-22 09:43:46 - Processing K1266-194962807 [266/300] for code: 1T1G2D2
+2026-11-22 09:43:46 - 194962807 - Result: Successfully redeemed
+2026-11-22 09:43:48 - Processing K1266-196209781 [267/300] for code: 1T1G2D2
+2026-11-22 09:43:48 - 196209781 - Result: Already redeemed
+2026-11-22 09:43:49 - Processing K1266-197077736 [268/300] for code: 1T1G2D2
+2026-11-22 09:43:49 - 197077736 - Result: Successfully redeemed
+2026-11-22 09:43:50 - Processing K1266-197748881 [269/300] for code: 1T1G2D2
+2026-11-22 09:43:50 - 197748881 - Result: Already redeemed
+2026-11-22 09:43:52 - Processing K1266-198971997 [270/300] for code: 1T1G2D2
+2026-11-22 09:43:52 - 198971997 - Result: Successfully redeemed
+2026-11-22 09:43:53 - Processing K1266-199766078 [271/300] for code: 1T1G2D2
+2026-11-22 09:43:53 - 199766078 - Result: Successfully redeemed
+2026-11-22 09:43:54 - Processing K1266-202789741 [272/300] for code: 1T1G2D2
+2026-11-22 09:43:54 - 202789741 - Result: Successfully redeemed
+2026-11-22 09:43:55 - Processing K1266-208458805 [273/300] for code: 1T1G2D2
+2026-11-22 09:43:55 - 208458805 - Result: Wrong kingdom for this player ID
+2026-11-22 09:43:57 - Processing K1266-208469366 [274/300] for code: 1T1G2D2
+2026-11-22 09:43:57 - 208469366 - Result: Successfully redeemed
+2026-11-22 09:43:58 - Processing K1266-209741428 [275/300] for code: 1T1G2D2
+2026-11-22 09:43:58 - 209741428 - Result: Successfully redeemed
+2026-11-22 09:43:59 - Processing K1266-215719460 [276/300] for code: 1T1G2D2
+2026-11-22 09:43:59 - 215719460 - Result: Successfully redeemed
+2026-11-22 09:44:00 - Processing K1266-216820126 [277/300] for code: 1T1G2D2
+2026-11-22 09:44:00 - 216820126 - Result: Already redeemed
+2026-11-22 09:44:01 - Processing K1266-219382121 [278/300] for code: 1T1G2D2
+2026-11-22 09:44:02 - 219382121 - Result: Successfully redeemed
+2026-11-22 09:44:03 - Processing K1266-221309318 [279/300] for code: 1T1G2D2
+2026-11-22 09:44:03 - 221309318 - Result: Successfully redeemed
+2026-11-22 09:44:04 - Processing K1266-221445787 [280/300] for code: 1T1G2D2
+2026-11-22 09:44:04 - 221445787 - Result: Successfully redeemed
+2026-11-22 09:44:05 - Processing K1266-221883902 [281/300] for code: 1T1G2D2
+2026-11-22 09:44:05 - 221883902 - Result: Successfully redeemed
+2026-11-22 09:44:06 - Processing K1266-226209236 [282/300] for code: 1T1G2D2
+2026-11-22 09:44:07 - 226209236 - Result: Successfully redeemed
+2026-11-22 09:44:08 - Processing K1266-226703897 [283/300] for code: 1T1G2D2
+2026-11-22 09:44:08 - 226703897 - Result: Successfully redeemed
+2026-11-22 09:44:09 - Processing K1266-227970815 [284/300] for code: 1T1G2D2
+2026-11-22 09:44:09 - 227970815 - Result: Successfully redeemed
+2026-11-22 09:44:11 - Processing K1266-232510086 [285/300] for code: 1T1G2D2
+2026-11-22 09:44:11 - 232510086 - Result: Already redeemed
+2026-11-22 09:44:12 - Processing K1266-239065229 [286/300] for code: 1T1G2D2
+2026-11-22 09:44:12 - 239065229 - Result: Successfully redeemed
+2026-11-22 09:44:13 - Processing K1266-240864609 [287/300] for code: 1T1G2D2
+2026-11-22 09:44:13 - 240864609 - Result: Successfully redeemed
+2026-11-22 09:44:14 - Processing K1266-247760465 [288/300] for code: 1T1G2D2
+2026-11-22 09:44:15 - 247760465 - Result: Successfully redeemed
+2026-11-22 09:44:16 - Processing K1266-264853160 [289/300] for code: 1T1G2D2
+2026-11-22 09:44:16 - 264853160 - Result: Successfully redeemed
+2026-11-22 09:44:17 - Processing K1266-270896390 [290/300] for code: 1T1G2D2
+2026-11-22 09:44:17 - 270896390 - Result: Successfully redeemed
+2026-11-22 09:44:18 - Processing K1266-279842790 [291/300] for code: 1T1G2D2
+2026-11-22 09:44:18 - 279842790 - Result: Already redeemed
+2026-11-22 09:44:20 - Processing K1266-286282880 [292/300] for code: 1T1G2D2
+2026-11-22 09:44:20 - 286282880 - Result: Successfully redeemed
+2026-11-22 09:44:21 - Processing K1266-290460722 [293/300] for code: 1T1G2D2
+2026-11-22 09:44:21 - 290460722 - Result: Successfully redeemed
+2026-11-22 09:44:22 - Processing K1266-300260967 [294/300] for code: 1T1G2D2
+2026-11-22 09:44:22 - 300260967 - Result: Successfully redeemed
+2026-11-22 09:44:23 - Processing K1266-302154974 [295/300] for code: 1T1G2D2
+2026-11-22 09:44:23 - 302154974 - Result: Already redeemed
+2026-11-22 09:44:25 - Processing K1266-305821193 [296/300] for code: 1T1G2D2
+2026-11-22 09:44:25 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-22 09:44:29 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-22 09:44:37 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-22 09:44:49 - 305821193 - Result: Redemption request failed
+2026-11-22 09:44:50 - Processing K1266-378005527 [297/300] for code: 1T1G2D2
+2026-11-22 09:44:50 - 378005527 - Result: Successfully redeemed
+2026-11-22 09:44:51 - Processing K1266-378518775 [298/300] for code: 1T1G2D2
+2026-11-22 09:44:51 - 378518775 - Result: Successfully redeemed
+2026-11-22 09:44:53 - Processing K1266-381967745 [299/300] for code: 1T1G2D2
+2026-11-22 09:44:53 - 381967745 - Result: Successfully redeemed
+2026-11-22 09:44:54 - Processing K1266-402165713 [300/300] for code: 1T1G2D2
+2026-11-22 09:44:54 - 402165713 - Result: Already redeemed
+2026-11-22 09:44:56 - --- Cycle finished. Total processed: 300/300 ---
+2026-11-22 09:44:56 - 
+========================= Redemption Summary =========================
+2026-11-22 09:44:56 - Code Redeemed: 1T1G2D2
+2026-11-22 09:44:56 - Total Unique Player IDs Found: 300
+2026-11-22 09:44:56 - Total Player IDs Processed: 300
+2026-11-22 09:44:56 - Successfully redeemed: 265
+2026-11-22 09:44:56 - Already redeemed: 23
+2026-11-22 09:44:56 - Wrong kingdom: 2
+2026-11-22 09:44:56 - Other Errors/Failures: 10
+2026-11-22 09:44:56 - Rate Limit Events: 0
+2026-11-22 09:44:56 - Total execution time: 00:11:01
+2026-11-22 09:44:56 - ======================================================================
