@@ -48770,3 +48770,41 @@
 2026-11-22 21:24:36 - Fetched 4 total codes from all sources.
 2026-11-22 21:24:36 - Found 0 new codes.
 2026-11-22 21:24:36 - Nothing to redeem.
+2026-11-23 04:36:42 - Starting auto gift code redeemer...
+2026-11-23 04:36:42 - Checking multiple sources for new gift codes...
+2026-11-23 04:36:42 -   [kingshot.net] Fetching https://kingshot.net/gift-codes...
+2026-11-23 04:36:43 -   [kingshot.net] Found 5 codes using selector: code.font-num.font-bold.text-cyan
+2026-11-23 04:36:43 -   [kingshot.net] contributed 5 codes
+2026-11-23 04:36:43 -   [kingshotmastery.com] Fetching https://kingshotmastery.com/gift-codes...
+2026-11-23 04:36:43 -   [kingshotmastery.com] Found 4 codes from JSON-LD structured data
+2026-11-23 04:36:43 -   [kingshotmastery.com] contributed 4 codes
+2026-11-23 04:36:43 - Fetched 5 total codes from all sources.
+2026-11-23 04:36:43 - Found 1 new codes.
+2026-11-23 04:36:43 - 
+🎉 NEW GIFT CODES FOUND: 7VAEyXPV7
+2026-11-23 04:36:43 - Read 300 player IDs from lod.csv (300 with a kingdom)
+2026-11-23 04:36:43 - Total unique player IDs to process: 300
+2026-11-23 04:36:43 - 
+=== Starting redemption for gift code: 7VAEyXPV7 ===
+2026-11-23 04:36:43 - Total unique player IDs to process: 300
+2026-11-23 04:36:43 - 
+--- Starting processing cycle. Ready player IDs: 300 ---
+2026-11-23 04:36:43 - Processing K1266-112607487 [1/300] for code: 7VAEyXPV7
+2026-11-23 04:36:44 - 112607487 - Result: Claim limit reached, unable to claim
+2026-11-23 04:36:44 - 
+ *** Claim limit reached, unable to claim! Stopping further processing. ***
+2026-11-23 04:36:44 - --- Cycle finished. Total processed: 1/300 ---
+2026-11-23 04:36:44 - 
+========================= Redemption Summary =========================
+2026-11-23 04:36:44 - Code Redeemed: 7VAEyXPV7
+2026-11-23 04:36:44 - Total Unique Player IDs Found: 300
+2026-11-23 04:36:44 - Total Player IDs Processed: 1
+2026-11-23 04:36:44 - Successfully redeemed: 0
+2026-11-23 04:36:44 - Already redeemed: 0
+2026-11-23 04:36:44 - Wrong kingdom: 0
+2026-11-23 04:36:44 - Other Errors/Failures: 0
+2026-11-23 04:36:44 - Rate Limit Events: 0
+2026-11-23 04:36:44 - Total execution time: 00:00:00
+2026-11-23 04:36:44 - ======================================================================
+2026-11-23 04:36:44 - Marked '7VAEyXPV7' as known.
+
