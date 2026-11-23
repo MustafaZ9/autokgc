@@ -52468,3 +52468,1519 @@
 2026-11-23 17:28:39 - Rate Limit Events: 0
 2026-11-23 17:28:39 - Total execution time: 00:12:14
 2026-11-23 17:28:39 - ======================================================================
+2026-11-23 19:38:26 - Starting auto gift code redeemer...
+2026-11-23 19:38:26 - Checking multiple sources for new gift codes...
+2026-11-23 19:38:26 -   [kingshot.net] Fetching https://kingshot.net/gift-codes...
+2026-11-23 19:38:26 -   [kingshot.net] Found 6 codes using selector: code.font-num.font-bold.text-cyan
+2026-11-23 19:38:26 -   [kingshot.net] contributed 6 codes
+2026-11-23 19:38:26 -   [kingshotmastery.com] Fetching https://kingshotmastery.com/gift-codes...
+2026-11-23 19:38:26 -   [kingshotmastery.com] Found 6 codes from JSON-LD structured data
+2026-11-23 19:38:26 -   [kingshotmastery.com] contributed 6 codes
+2026-11-23 19:38:26 - Fetched 6 total codes from all sources.
+2026-11-23 19:38:26 - Found 2 new codes.
+2026-11-23 19:38:26 - 
+🎉 NEW GIFT CODES FOUND: KS27TGS, THANKS4WORK
+2026-11-23 19:38:26 - Read 349 player IDs from lod.csv (349 with a kingdom)
+2026-11-23 19:38:26 - Total unique player IDs to process: 349
+2026-11-23 19:38:26 - 
+=== Starting redemption for gift code: KS27TGS ===
+2026-11-23 19:38:26 - Total unique player IDs to process: 349
+2026-11-23 19:38:26 - 
+--- Starting processing cycle. Ready player IDs: 349 ---
+2026-11-23 19:38:26 - Processing K1266-134948830 [1/349] for code: KS27TGS
+2026-11-23 19:38:26 - 134948830 - Result: Already redeemed
+2026-11-23 19:38:28 - Processing K1266-137881550 [2/349] for code: KS27TGS
+2026-11-23 19:38:28 - 137881550 - Result: Already redeemed
+2026-11-23 19:38:29 - Processing K1266-138078147 [3/349] for code: KS27TGS
+2026-11-23 19:38:29 - 138078147 - Result: Already redeemed
+2026-11-23 19:38:31 - Processing K1266-159388060 [4/349] for code: KS27TGS
+2026-11-23 19:38:31 - 159388060 - Result: Already redeemed
+2026-11-23 19:38:32 - Processing K1266-159437876 [5/349] for code: KS27TGS
+2026-11-23 19:38:32 - 159437876 - Result: Already redeemed
+2026-11-23 19:38:33 - Processing K1266-160141562 [6/349] for code: KS27TGS
+2026-11-23 19:38:33 - 160141562 - Result: Already redeemed
+2026-11-23 19:38:35 - Processing K1266-160289155 [7/349] for code: KS27TGS
+2026-11-23 19:38:35 - 160289155 - Result: Already redeemed
+2026-11-23 19:38:36 - Processing K1266-160387420 [8/349] for code: KS27TGS
+2026-11-23 19:38:36 - 160387420 - Result: Already redeemed
+2026-11-23 19:38:37 - Processing K1266-160617102 [9/349] for code: KS27TGS
+2026-11-23 19:38:37 - 160617102 - Result: Already redeemed
+2026-11-23 19:38:38 - Processing K1266-160961411 [10/349] for code: KS27TGS
+2026-11-23 19:38:38 - 160961411 - Result: Already redeemed
+2026-11-23 19:38:40 - Processing K1266-160977214 [11/349] for code: KS27TGS
+2026-11-23 19:38:40 - 160977214 - Result: Already redeemed
+2026-11-23 19:38:41 - Processing K1266-161174001 [12/349] for code: KS27TGS
+2026-11-23 19:38:41 - 161174001 - Result: Already redeemed
+2026-11-23 19:38:42 - Processing K1266-161223459 [13/349] for code: KS27TGS
+2026-11-23 19:38:42 - 161223459 - Result: Already redeemed
+2026-11-23 19:38:44 - Processing K1266-161321233 [14/349] for code: KS27TGS
+2026-11-23 19:38:44 - 161321233 - Result: Already redeemed
+2026-11-23 19:38:45 - Processing K1266-161387367 [15/349] for code: KS27TGS
+2026-11-23 19:38:45 - 161387367 - Result: Already redeemed
+2026-11-23 19:38:46 - Processing K1266-161600251 [16/349] for code: KS27TGS
+2026-11-23 19:38:47 - 161600251 - Result: Already redeemed
+2026-11-23 19:38:48 - Processing K1266-161616297 [17/349] for code: KS27TGS
+2026-11-23 19:38:48 - 161616297 - Result: Already redeemed
+2026-11-23 19:38:49 - Processing K1266-162042375 [18/349] for code: KS27TGS
+2026-11-23 19:38:49 - 162042375 - Result: Already redeemed
+2026-11-23 19:38:51 - Processing K1266-162402979 [19/349] for code: KS27TGS
+2026-11-23 19:38:51 - 162402979 - Result: Already redeemed
+2026-11-23 19:38:52 - Processing K1266-162501078 [20/349] for code: KS27TGS
+2026-11-23 19:38:52 - 162501078 - Result: Already redeemed
+2026-11-23 19:38:53 - Processing K1266-162812562 [21/349] for code: KS27TGS
+2026-11-23 19:38:53 - 162812562 - Result: Already redeemed
+2026-11-23 19:38:55 - Processing K1266-162910751 [22/349] for code: KS27TGS
+2026-11-23 19:38:55 - 162910751 - Result: Already redeemed
+2026-11-23 19:38:56 - Processing K1266-163042051 [23/349] for code: KS27TGS
+2026-11-23 19:38:56 - 163042051 - Result: Already redeemed
+2026-11-23 19:38:57 - Processing K1266-163385778 [24/349] for code: KS27TGS
+2026-11-23 19:38:57 - 163385778 - Result: Already redeemed
+2026-11-23 19:38:59 - Processing K1266-166002850 [25/349] for code: KS27TGS
+2026-11-23 19:38:59 - 166002850 - Result: Already redeemed
+2026-11-23 19:39:00 - Processing K1266-168075619 [26/349] for code: KS27TGS
+2026-11-23 19:39:00 - 168075619 - Result: Already redeemed
+2026-11-23 19:39:01 - Processing K1266-171034082 [27/349] for code: KS27TGS
+2026-11-23 19:39:02 - 171034082 - Result: Already redeemed
+2026-11-23 19:39:03 - Processing K1266-171492491 [28/349] for code: KS27TGS
+2026-11-23 19:39:03 - 171492491 - Result: Already redeemed
+2026-11-23 19:39:04 - Processing K1266-171738442 [29/349] for code: KS27TGS
+2026-11-23 19:39:04 - 171738442 - Result: Already redeemed
+2026-11-23 19:39:05 - Processing K1266-176448172 [30/349] for code: KS27TGS
+2026-11-23 19:39:05 - 176448172 - Result: Already redeemed
+2026-11-23 19:39:07 - Processing K1266-176742470 [31/349] for code: KS27TGS
+2026-11-23 19:39:07 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 19:39:11 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 19:39:19 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 19:39:31 - 176742470 - Result: Redemption request failed
+2026-11-23 19:39:32 - Processing K1266-176939042 [32/349] for code: KS27TGS
+2026-11-23 19:39:32 - 176939042 - Result: Already redeemed
+2026-11-23 19:39:33 - Processing K1266-176955954 [33/349] for code: KS27TGS
+2026-11-23 19:39:33 - 176955954 - Result: Already redeemed
+2026-11-23 19:39:34 - Processing K1266-177004482 [34/349] for code: KS27TGS
+2026-11-23 19:39:34 - 177004482 - Result: Already redeemed
+2026-11-23 19:39:35 - Processing K1266-177430530 [35/349] for code: KS27TGS
+2026-11-23 19:39:36 - 177430530 - Result: Already redeemed
+2026-11-23 19:39:37 - Processing K1266-177578072 [36/349] for code: KS27TGS
+2026-11-23 19:39:37 - 177578072 - Result: Already redeemed
+2026-11-23 19:39:38 - Processing K1266-177594975 [37/349] for code: KS27TGS
+2026-11-23 19:39:38 - 177594975 - Result: Already redeemed
+2026-11-23 19:39:40 - Processing K1266-177643662 [38/349] for code: KS27TGS
+2026-11-23 19:39:40 - 177643662 - Result: Already redeemed
+2026-11-23 19:39:41 - Processing K1266-177741835 [39/349] for code: KS27TGS
+2026-11-23 19:39:41 - 177741835 - Result: Already redeemed
+2026-11-23 19:39:42 - Processing K1266-177742515 [40/349] for code: KS27TGS
+2026-11-23 19:39:42 - 177742515 - Result: Already redeemed
+2026-11-23 19:39:44 - Processing K1266-177758431 [41/349] for code: KS27TGS
+2026-11-23 19:39:44 - 177758431 - Result: Already redeemed
+2026-11-23 19:39:45 - Processing K1266-177889207 [42/349] for code: KS27TGS
+2026-11-23 19:39:45 - 177889207 - Result: Already redeemed
+2026-11-23 19:39:47 - Processing K1266-177889304 [43/349] for code: KS27TGS
+2026-11-23 19:39:47 - 177889304 - Result: Already redeemed
+2026-11-23 19:39:48 - Processing K1266-178003863 [44/349] for code: KS27TGS
+2026-11-23 19:39:48 - 178003863 - Result: Already redeemed
+2026-11-23 19:39:49 - Processing K1266-178167737 [45/349] for code: KS27TGS
+2026-11-23 19:39:49 - 178167737 - Result: Already redeemed
+2026-11-23 19:39:51 - Processing K1266-178282383 [46/349] for code: KS27TGS
+2026-11-23 19:39:51 - 178282383 - Result: Already redeemed
+2026-11-23 19:39:52 - Processing K1266-178298638 [47/349] for code: KS27TGS
+2026-11-23 19:39:52 - 178298638 - Result: Already redeemed
+2026-11-23 19:39:53 - Processing K1266-178298685 [48/349] for code: KS27TGS
+2026-11-23 19:39:54 - 178298685 - Result: Already redeemed
+2026-11-23 19:39:55 - Processing K1266-178828379 [49/349] for code: KS27TGS
+2026-11-23 19:39:55 - 178828379 - Result: Already redeemed
+2026-11-23 19:39:56 - Processing K1266-178872530 [50/349] for code: KS27TGS
+2026-11-23 19:39:56 - 178872530 - Result: Already redeemed
+2026-11-23 19:39:57 - Processing K1266-179107716 [51/349] for code: KS27TGS
+2026-11-23 19:39:57 - 179107716 - Result: Already redeemed
+2026-11-23 19:39:58 - Processing K1266-179216885 [52/349] for code: KS27TGS
+2026-11-23 19:39:58 - 179216885 - Result: Already redeemed
+2026-11-23 19:40:00 - Processing K1266-179515454 [53/349] for code: KS27TGS
+2026-11-23 19:40:00 - 179515454 - Result: Already redeemed
+2026-11-23 19:40:01 - Processing K1266-179675357 [54/349] for code: KS27TGS
+2026-11-23 19:40:01 - 179675357 - Result: Already redeemed
+2026-11-23 19:40:02 - Processing K1266-179691958 [55/349] for code: KS27TGS
+2026-11-23 19:40:02 - 179691958 - Result: Already redeemed
+2026-11-23 19:40:04 - Processing K1266-179937381 [56/349] for code: KS27TGS
+2026-11-23 19:40:04 - 179937381 - Result: Already redeemed
+2026-11-23 19:40:05 - Processing K1266-180084701 [57/349] for code: KS27TGS
+2026-11-23 19:40:05 - 180084701 - Result: Already redeemed
+2026-11-23 19:40:07 - Processing K1266-180347034 [58/349] for code: KS27TGS
+2026-11-23 19:40:07 - 180347034 - Result: Already redeemed
+2026-11-23 19:40:08 - Processing K1266-180368647 [59/349] for code: KS27TGS
+2026-11-23 19:40:08 - 180368647 - Result: Already redeemed
+2026-11-23 19:40:10 - Processing K1266-180369159 [60/349] for code: KS27TGS
+2026-11-23 19:40:10 - 180369159 - Result: Already redeemed
+2026-11-23 19:40:11 - Processing K1266-180385375 [61/349] for code: KS27TGS
+2026-11-23 19:40:11 - 180385375 - Result: Already redeemed
+2026-11-23 19:40:12 - Processing K1266-180385792 [62/349] for code: KS27TGS
+2026-11-23 19:40:12 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 19:40:16 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 19:40:24 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 19:40:36 - 180385792 - Result: Redemption request failed
+2026-11-23 19:40:37 - Processing K1266-180418498 [63/349] for code: KS27TGS
+2026-11-23 19:40:38 - 180418498 - Result: Already redeemed
+2026-11-23 19:40:39 - Processing K1266-180434357 [64/349] for code: KS27TGS
+2026-11-23 19:40:39 - 180434357 - Result: Already redeemed
+2026-11-23 19:40:40 - Processing K1266-180451010 [65/349] for code: KS27TGS
+2026-11-23 19:40:40 - 180451010 - Result: Already redeemed
+2026-11-23 19:40:42 - Processing K1266-180483302 [66/349] for code: KS27TGS
+2026-11-23 19:40:42 - 180483302 - Result: Already redeemed
+2026-11-23 19:40:43 - Processing K1266-180516559 [67/349] for code: KS27TGS
+2026-11-23 19:40:43 - 180516559 - Result: Already redeemed
+2026-11-23 19:40:44 - Processing K1266-180565782 [68/349] for code: KS27TGS
+2026-11-23 19:40:44 - 180565782 - Result: Already redeemed
+2026-11-23 19:40:45 - Processing K1266-180581975 [69/349] for code: KS27TGS
+2026-11-23 19:40:46 - 180581975 - Result: Already redeemed
+2026-11-23 19:40:47 - Processing K1266-180582116 [70/349] for code: KS27TGS
+2026-11-23 19:40:47 - 180582116 - Result: Already redeemed
+2026-11-23 19:40:48 - Processing K1266-180588134 [71/349] for code: KS27TGS
+2026-11-23 19:40:48 - 180588134 - Result: Already redeemed
+2026-11-23 19:40:49 - Processing K1266-180598416 [72/349] for code: KS27TGS
+2026-11-23 19:40:49 - 180598416 - Result: Already redeemed
+2026-11-23 19:40:51 - Processing K1266-180614319 [73/349] for code: KS27TGS
+2026-11-23 19:40:51 - 180614319 - Result: Already redeemed
+2026-11-23 19:40:52 - Processing K1266-180636958 [74/349] for code: KS27TGS
+2026-11-23 19:40:52 - 180636958 - Result: Already redeemed
+2026-11-23 19:40:54 - Processing K1266-180647291 [75/349] for code: KS27TGS
+2026-11-23 19:40:54 - 180647291 - Result: Already redeemed
+2026-11-23 19:40:55 - Processing K1266-180647824 [76/349] for code: KS27TGS
+2026-11-23 19:40:55 - 180647824 - Result: Already redeemed
+2026-11-23 19:40:56 - Processing K1266-180669914 [77/349] for code: KS27TGS
+2026-11-23 19:40:56 - 180669914 - Result: Already redeemed
+2026-11-23 19:40:57 - Processing K1266-180696652 [78/349] for code: KS27TGS
+2026-11-23 19:40:57 - 180696652 - Result: Already redeemed
+2026-11-23 19:40:58 - Processing K1266-180729920 [79/349] for code: KS27TGS
+2026-11-23 19:40:59 - 180729920 - Result: Already redeemed
+2026-11-23 19:41:00 - Processing K1266-180778760 [80/349] for code: KS27TGS
+2026-11-23 19:41:00 - 180778760 - Result: Already redeemed
+2026-11-23 19:41:01 - Processing K1266-180779049 [81/349] for code: KS27TGS
+2026-11-23 19:41:01 - 180779049 - Result: Already redeemed
+2026-11-23 19:41:02 - Processing K1266-180827986 [82/349] for code: KS27TGS
+2026-11-23 19:41:02 - 180827986 - Result: Already redeemed
+2026-11-23 19:41:04 - Processing K1266-180893684 [83/349] for code: KS27TGS
+2026-11-23 19:41:04 - 180893684 - Result: Already redeemed
+2026-11-23 19:41:05 - Processing K1266-180893765 [84/349] for code: KS27TGS
+2026-11-23 19:41:05 - 180893765 - Result: Already redeemed
+2026-11-23 19:41:06 - Processing K1266-180909451 [85/349] for code: KS27TGS
+2026-11-23 19:41:06 - 180909451 - Result: Already redeemed
+2026-11-23 19:41:07 - Processing K1266-180959009 [86/349] for code: KS27TGS
+2026-11-23 19:41:07 - 180959009 - Result: Already redeemed
+2026-11-23 19:41:08 - Processing K1266-180975047 [87/349] for code: KS27TGS
+2026-11-23 19:41:08 - 180975047 - Result: Already redeemed
+2026-11-23 19:41:09 - Processing K1266-180975180 [88/349] for code: KS27TGS
+2026-11-23 19:41:10 - 180975180 - Result: Already redeemed
+2026-11-23 19:41:11 - Processing K1266-181008488 [89/349] for code: KS27TGS
+2026-11-23 19:41:11 - 181008488 - Result: Already redeemed
+2026-11-23 19:41:12 - Processing K1266-181024577 [90/349] for code: KS27TGS
+2026-11-23 19:41:12 - 181024577 - Result: Already redeemed
+2026-11-23 19:41:13 - Processing K1266-181090100 [91/349] for code: KS27TGS
+2026-11-23 19:41:14 - 181090100 - Result: Already redeemed
+2026-11-23 19:41:15 - Processing K1266-181106609 [92/349] for code: KS27TGS
+2026-11-23 19:41:15 - 181106609 - Result: Already redeemed
+2026-11-23 19:41:16 - Processing K1266-181122260 [93/349] for code: KS27TGS
+2026-11-23 19:41:16 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 19:41:20 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 19:41:28 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 19:41:40 - 181122260 - Result: Redemption request failed
+2026-11-23 19:41:42 - Processing K1266-181128922 [94/349] for code: KS27TGS
+2026-11-23 19:41:42 - 181128922 - Result: Already redeemed
+2026-11-23 19:41:43 - Processing K1266-181139114 [95/349] for code: KS27TGS
+2026-11-23 19:41:43 - 181139114 - Result: Already redeemed
+2026-11-23 19:41:44 - Processing K1266-181171461 [96/349] for code: KS27TGS
+2026-11-23 19:41:44 - 181171461 - Result: Already redeemed
+2026-11-23 19:41:46 - Processing K1266-181335322 [97/349] for code: KS27TGS
+2026-11-23 19:41:46 - 181335322 - Result: Already redeemed
+2026-11-23 19:41:47 - Processing K1266-181340930 [98/349] for code: KS27TGS
+2026-11-23 19:41:47 - 181340930 - Result: Already redeemed
+2026-11-23 19:41:48 - Processing K1266-181351852 [99/349] for code: KS27TGS
+2026-11-23 19:41:48 - 181351852 - Result: Already redeemed
+2026-11-23 19:41:50 - Processing K1266-181374419 [100/349] for code: KS27TGS
+2026-11-23 19:41:50 - 181374419 - Result: Already redeemed
+2026-11-23 19:41:51 - Processing K1266-181384836 [101/349] for code: KS27TGS
+2026-11-23 19:41:51 - 181384836 - Result: Already redeemed
+2026-11-23 19:41:52 - Processing K1266-181385198 [102/349] for code: KS27TGS
+2026-11-23 19:41:52 - 181385198 - Result: Already redeemed
+2026-11-23 19:41:54 - Processing K1266-181401589 [103/349] for code: KS27TGS
+2026-11-23 19:41:54 - 181401589 - Result: Already redeemed
+2026-11-23 19:41:55 - Processing K1266-181407057 [104/349] for code: KS27TGS
+2026-11-23 19:41:55 - 181407057 - Result: Already redeemed
+2026-11-23 19:41:56 - Processing K1266-181433954 [105/349] for code: KS27TGS
+2026-11-23 19:41:56 - 181433954 - Result: Already redeemed
+2026-11-23 19:41:57 - Processing K1266-181466879 [106/349] for code: KS27TGS
+2026-11-23 19:41:58 - 181466879 - Result: Already redeemed
+2026-11-23 19:41:59 - Processing K1266-181482560 [107/349] for code: KS27TGS
+2026-11-23 19:41:59 - 181482560 - Result: Already redeemed
+2026-11-23 19:42:00 - Processing K1266-181515253 [108/349] for code: KS27TGS
+2026-11-23 19:42:00 - 181515253 - Result: Already redeemed
+2026-11-23 19:42:01 - Processing K1266-181516335 [109/349] for code: KS27TGS
+2026-11-23 19:42:01 - 181516335 - Result: Already redeemed
+2026-11-23 19:42:02 - Processing K1266-181521367 [110/349] for code: KS27TGS
+2026-11-23 19:42:02 - 181521367 - Result: Already redeemed
+2026-11-23 19:42:03 - Processing K1266-181531678 [111/349] for code: KS27TGS
+2026-11-23 19:42:03 - 181531678 - Result: Already redeemed
+2026-11-23 19:42:04 - Processing K1266-181548141 [112/349] for code: KS27TGS
+2026-11-23 19:42:04 - 181548141 - Result: Already redeemed
+2026-11-23 19:42:06 - Processing K1266-181614011 [113/349] for code: KS27TGS
+2026-11-23 19:42:06 - 181614011 - Result: Already redeemed
+2026-11-23 19:42:07 - Processing K1266-181663028 [114/349] for code: KS27TGS
+2026-11-23 19:42:07 - 181663028 - Result: Already redeemed
+2026-11-23 19:42:08 - Processing K1266-181712653 [115/349] for code: KS27TGS
+2026-11-23 19:42:09 - 181712653 - Result: Already redeemed
+2026-11-23 19:42:10 - Processing K1266-181728933 [116/349] for code: KS27TGS
+2026-11-23 19:42:10 - 181728933 - Result: Already redeemed
+2026-11-23 19:42:11 - Processing K1266-181734398 [117/349] for code: KS27TGS
+2026-11-23 19:42:11 - 181734398 - Result: Already redeemed
+2026-11-23 19:42:12 - Processing K1266-181761437 [118/349] for code: KS27TGS
+2026-11-23 19:42:12 - 181761437 - Result: Already redeemed
+2026-11-23 19:42:13 - Processing K1266-181794115 [119/349] for code: KS27TGS
+2026-11-23 19:42:13 - 181794115 - Result: Already redeemed
+2026-11-23 19:42:15 - Processing K1266-181816445 [120/349] for code: KS27TGS
+2026-11-23 19:42:15 - 181816445 - Result: Already redeemed
+2026-11-23 19:42:16 - Processing K1266-181859892 [121/349] for code: KS27TGS
+2026-11-23 19:42:16 - 181859892 - Result: Already redeemed
+2026-11-23 19:42:17 - Processing K1266-181859948 [122/349] for code: KS27TGS
+2026-11-23 19:42:17 - 181859948 - Result: Already redeemed
+2026-11-23 19:42:19 - Processing K1266-181860336 [123/349] for code: KS27TGS
+2026-11-23 19:42:19 - 181860336 - Result: Already redeemed
+2026-11-23 19:42:20 - Processing K1266-181882185 [124/349] for code: KS27TGS
+2026-11-23 19:42:20 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 19:42:24 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 19:42:32 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 19:42:44 - 181882185 - Result: Redemption request failed
+2026-11-23 19:42:46 - Processing K1266-181892750 [125/349] for code: KS27TGS
+2026-11-23 19:42:46 - 181892750 - Result: Already redeemed
+2026-11-23 19:42:47 - Processing K1266-181941995 [126/349] for code: KS27TGS
+2026-11-23 19:42:47 - 181941995 - Result: Already redeemed
+2026-11-23 19:42:48 - Processing K1266-181958341 [127/349] for code: KS27TGS
+2026-11-23 19:42:48 - 181958341 - Result: Already redeemed
+2026-11-23 19:42:49 - Processing K1266-181958534 [128/349] for code: KS27TGS
+2026-11-23 19:42:49 - 181958534 - Result: Already redeemed
+2026-11-23 19:42:51 - Processing K1266-182007379 [129/349] for code: KS27TGS
+2026-11-23 19:42:51 - 182007379 - Result: Already redeemed
+2026-11-23 19:42:52 - Processing K1266-182013382 [130/349] for code: KS27TGS
+2026-11-23 19:42:52 - 182013382 - Result: Already redeemed
+2026-11-23 19:42:53 - Processing K1266-182022970 [131/349] for code: KS27TGS
+2026-11-23 19:42:53 - 182022970 - Result: Already redeemed
+2026-11-23 19:42:55 - Processing K1266-182046115 [132/349] for code: KS27TGS
+2026-11-23 19:42:55 - 182046115 - Result: Already redeemed
+2026-11-23 19:42:56 - Processing K1266-182072645 [133/349] for code: KS27TGS
+2026-11-23 19:42:56 - 182072645 - Result: Already redeemed
+2026-11-23 19:42:58 - Processing K1266-182138227 [134/349] for code: KS27TGS
+2026-11-23 19:42:58 - 182138227 - Result: Already redeemed
+2026-11-23 19:42:59 - Processing K1266-182144355 [135/349] for code: KS27TGS
+2026-11-23 19:42:59 - 182144355 - Result: Already redeemed
+2026-11-23 19:43:00 - Processing K1266-182203508 [136/349] for code: KS27TGS
+2026-11-23 19:43:01 - 182203508 - Result: Already redeemed
+2026-11-23 19:43:02 - Processing K1266-182203900 [137/349] for code: KS27TGS
+2026-11-23 19:43:02 - 182203900 - Result: Already redeemed
+2026-11-23 19:43:03 - Processing K1266-182203950 [138/349] for code: KS27TGS
+2026-11-23 19:43:03 - 182203950 - Result: Already redeemed
+2026-11-23 19:43:04 - Processing K1266-182220426 [139/349] for code: KS27TGS
+2026-11-23 19:43:04 - 182220426 - Result: Already redeemed
+2026-11-23 19:43:05 - Processing K1266-182220585 [140/349] for code: KS27TGS
+2026-11-23 19:43:05 - 182220585 - Result: Already redeemed
+2026-11-23 19:43:07 - Processing K1266-182269737 [141/349] for code: KS27TGS
+2026-11-23 19:43:07 - 182269737 - Result: Already redeemed
+2026-11-23 19:43:08 - Processing K1266-182286440 [142/349] for code: KS27TGS
+2026-11-23 19:43:08 - 182286440 - Result: Already redeemed
+2026-11-23 19:43:09 - Processing K1266-182302366 [143/349] for code: KS27TGS
+2026-11-23 19:43:10 - 182302366 - Result: Already redeemed
+2026-11-23 19:43:11 - Processing K1266-182318888 [144/349] for code: KS27TGS
+2026-11-23 19:43:11 - 182318888 - Result: Already redeemed
+2026-11-23 19:43:12 - Processing K1266-182318938 [145/349] for code: KS27TGS
+2026-11-23 19:43:12 - 182318938 - Result: Already redeemed
+2026-11-23 19:43:13 - Processing K1266-182318966 [146/349] for code: KS27TGS
+2026-11-23 19:43:13 - 182318966 - Result: Already redeemed
+2026-11-23 19:43:15 - Processing K1266-182318992 [147/349] for code: KS27TGS
+2026-11-23 19:43:15 - 182318992 - Result: Already redeemed
+2026-11-23 19:43:16 - Processing K1266-182334781 [148/349] for code: KS27TGS
+2026-11-23 19:43:16 - 182334781 - Result: Already redeemed
+2026-11-23 19:43:17 - Processing K1266-182335566 [149/349] for code: KS27TGS
+2026-11-23 19:43:17 - 182335566 - Result: Already redeemed
+2026-11-23 19:43:18 - Processing K1266-182351447 [150/349] for code: KS27TGS
+2026-11-23 19:43:19 - 182351447 - Result: Already redeemed
+2026-11-23 19:43:20 - Processing K1266-182390223 [151/349] for code: KS27TGS
+2026-11-23 19:43:20 - 182390223 - Result: Already redeemed
+2026-11-23 19:43:21 - Processing K1266-182400586 [152/349] for code: KS27TGS
+2026-11-23 19:43:21 - 182400586 - Result: Already redeemed
+2026-11-23 19:43:22 - Processing K1266-182449206 [153/349] for code: KS27TGS
+2026-11-23 19:43:22 - 182449206 - Result: Already redeemed
+2026-11-23 19:43:24 - Processing K1266-182450074 [154/349] for code: KS27TGS
+2026-11-23 19:43:24 - 182450074 - Result: Already redeemed
+2026-11-23 19:43:25 - Processing K1266-182472038 [155/349] for code: KS27TGS
+2026-11-23 19:43:25 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 19:43:29 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 19:43:37 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 19:43:49 - 182472038 - Result: Redemption request failed
+2026-11-23 19:43:51 - Processing K1266-182488759 [156/349] for code: KS27TGS
+2026-11-23 19:43:51 - 182488759 - Result: Already redeemed
+2026-11-23 19:43:52 - Processing K1266-182531700 [157/349] for code: KS27TGS
+2026-11-23 19:43:52 - 182531700 - Result: Already redeemed
+2026-11-23 19:43:53 - Processing K1266-182646613 [158/349] for code: KS27TGS
+2026-11-23 19:43:53 - 182646613 - Result: Already redeemed
+2026-11-23 19:43:55 - Processing K1266-182668737 [159/349] for code: KS27TGS
+2026-11-23 19:43:55 - 182668737 - Result: Already redeemed
+2026-11-23 19:43:56 - Processing K1266-182679587 [160/349] for code: KS27TGS
+2026-11-23 19:43:56 - 182679587 - Result: Already redeemed
+2026-11-23 19:43:57 - Processing K1266-182717899 [161/349] for code: KS27TGS
+2026-11-23 19:43:57 - 182717899 - Result: Already redeemed
+2026-11-23 19:43:58 - Processing K1266-182767010 [162/349] for code: KS27TGS
+2026-11-23 19:43:58 - 182767010 - Result: Already redeemed
+2026-11-23 19:44:00 - Processing K1266-182810221 [163/349] for code: KS27TGS
+2026-11-23 19:44:00 - 182810221 - Result: Already redeemed
+2026-11-23 19:44:01 - Processing K1266-182842833 [164/349] for code: KS27TGS
+2026-11-23 19:44:01 - 182842833 - Result: Already redeemed
+2026-11-23 19:44:02 - Processing K1266-182848942 [165/349] for code: KS27TGS
+2026-11-23 19:44:02 - 182848942 - Result: Already redeemed
+2026-11-23 19:44:03 - Processing K1266-182849233 [166/349] for code: KS27TGS
+2026-11-23 19:44:03 - 182849233 - Result: Already redeemed
+2026-11-23 19:44:05 - Processing K1266-182858998 [167/349] for code: KS27TGS
+2026-11-23 19:44:05 - 182858998 - Result: Already redeemed
+2026-11-23 19:44:06 - Processing K1266-182859667 [168/349] for code: KS27TGS
+2026-11-23 19:44:06 - 182859667 - Result: Already redeemed
+2026-11-23 19:44:07 - Processing K1266-182892217 [169/349] for code: KS27TGS
+2026-11-23 19:44:07 - 182892217 - Result: Already redeemed
+2026-11-23 19:44:09 - Processing K1266-182898057 [170/349] for code: KS27TGS
+2026-11-23 19:44:09 - 182898057 - Result: Already redeemed
+2026-11-23 19:44:10 - Processing K1266-182908483 [171/349] for code: KS27TGS
+2026-11-23 19:44:10 - 182908483 - Result: Already redeemed
+2026-11-23 19:44:11 - Processing K1266-182941162 [172/349] for code: KS27TGS
+2026-11-23 19:44:11 - 182941162 - Result: Already redeemed
+2026-11-23 19:44:13 - Processing K1266-182941502 [173/349] for code: KS27TGS
+2026-11-23 19:44:13 - 182941502 - Result: Already redeemed
+2026-11-23 19:44:14 - Processing K1266-182957878 [174/349] for code: KS27TGS
+2026-11-23 19:44:14 - 182957878 - Result: Already redeemed
+2026-11-23 19:44:15 - Processing K1266-182990423 [175/349] for code: KS27TGS
+2026-11-23 19:44:15 - 182990423 - Result: Already redeemed
+2026-11-23 19:44:17 - Processing K1266-183028805 [176/349] for code: KS27TGS
+2026-11-23 19:44:17 - 183028805 - Result: Already redeemed
+2026-11-23 19:44:18 - Processing K1266-183029342 [177/349] for code: KS27TGS
+2026-11-23 19:44:18 - 183029342 - Result: Already redeemed
+2026-11-23 19:44:20 - Processing K1266-183039758 [178/349] for code: KS27TGS
+2026-11-23 19:44:20 - 183039758 - Result: Already redeemed
+2026-11-23 19:44:21 - Processing K1266-183072824 [179/349] for code: KS27TGS
+2026-11-23 19:44:21 - 183072824 - Result: Already redeemed
+2026-11-23 19:44:23 - Processing K1266-183089209 [180/349] for code: KS27TGS
+2026-11-23 19:44:23 - 183089209 - Result: Already redeemed
+2026-11-23 19:44:24 - Processing K1266-183104870 [181/349] for code: KS27TGS
+2026-11-23 19:44:24 - 183104870 - Result: Already redeemed
+2026-11-23 19:44:25 - Processing K1266-183121113 [182/349] for code: KS27TGS
+2026-11-23 19:44:25 - 183121113 - Result: Already redeemed
+2026-11-23 19:44:26 - Processing K1266-183121451 [183/349] for code: KS27TGS
+2026-11-23 19:44:26 - 183121451 - Result: Already redeemed
+2026-11-23 19:44:28 - Processing K1266-183137287 [184/349] for code: KS27TGS
+2026-11-23 19:44:28 - 183137287 - Result: Already redeemed
+2026-11-23 19:44:29 - Processing K1266-183154303 [185/349] for code: KS27TGS
+2026-11-23 19:44:29 - 183154303 - Result: Already redeemed
+2026-11-23 19:44:30 - Processing K1266-183154798 [186/349] for code: KS27TGS
+2026-11-23 19:44:30 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 19:44:34 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 19:44:42 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 19:44:54 - 183154798 - Result: Redemption request failed
+2026-11-23 19:44:56 - Processing K1266-183170657 [187/349] for code: KS27TGS
+2026-11-23 19:44:56 - 183170657 - Result: Already redeemed
+2026-11-23 19:44:57 - Processing K1266-183219343 [188/349] for code: KS27TGS
+2026-11-23 19:44:57 - 183219343 - Result: Already redeemed
+2026-11-23 19:44:59 - Processing K1266-183285360 [189/349] for code: KS27TGS
+2026-11-23 19:44:59 - 183285360 - Result: Already redeemed
+2026-11-23 19:45:00 - Processing K1266-183317601 [190/349] for code: KS27TGS
+2026-11-23 19:45:00 - 183317601 - Result: Already redeemed
+2026-11-23 19:45:02 - Processing K1266-183350823 [191/349] for code: KS27TGS
+2026-11-23 19:45:02 - 183350823 - Result: Already redeemed
+2026-11-23 19:45:03 - Processing K1266-183366693 [192/349] for code: KS27TGS
+2026-11-23 19:45:03 - 183366693 - Result: Already redeemed
+2026-11-23 19:45:04 - Processing K1266-183367342 [193/349] for code: KS27TGS
+2026-11-23 19:45:04 - 183367342 - Result: Already redeemed
+2026-11-23 19:45:05 - Processing K1266-183383666 [194/349] for code: KS27TGS
+2026-11-23 19:45:05 - 183383666 - Result: Already redeemed
+2026-11-23 19:45:06 - Processing K1266-183384158 [195/349] for code: KS27TGS
+2026-11-23 19:45:07 - 183384158 - Result: Already redeemed
+2026-11-23 19:45:08 - Processing K1266-183455373 [196/349] for code: KS27TGS
+2026-11-23 19:45:08 - 183455373 - Result: Already redeemed
+2026-11-23 19:45:09 - Processing K1266-183498033 [197/349] for code: KS27TGS
+2026-11-23 19:45:09 - 183498033 - Result: Already redeemed
+2026-11-23 19:45:11 - Processing K1266-183531242 [198/349] for code: KS27TGS
+2026-11-23 19:45:11 - 183531242 - Result: Already redeemed
+2026-11-23 19:45:12 - Processing K1266-183563334 [199/349] for code: KS27TGS
+2026-11-23 19:45:12 - 183563334 - Result: Already redeemed
+2026-11-23 19:45:13 - Processing K1266-183579641 [200/349] for code: KS27TGS
+2026-11-23 19:45:13 - 183579641 - Result: Already redeemed
+2026-11-23 19:45:15 - Processing K1266-183602956 [201/349] for code: KS27TGS
+2026-11-23 19:45:15 - 183602956 - Result: Already redeemed
+2026-11-23 19:45:16 - Processing K1266-183635567 [202/349] for code: KS27TGS
+2026-11-23 19:45:16 - 183635567 - Result: Already redeemed
+2026-11-23 19:45:18 - Processing K1266-183662249 [203/349] for code: KS27TGS
+2026-11-23 19:45:18 - 183662249 - Result: Already redeemed
+2026-11-23 19:45:20 - Processing K1266-183678347 [204/349] for code: KS27TGS
+2026-11-23 19:45:20 - 183678347 - Result: Already redeemed
+2026-11-23 19:45:21 - Processing K1266-183695044 [205/349] for code: KS27TGS
+2026-11-23 19:45:21 - 183695044 - Result: Already redeemed
+2026-11-23 19:45:22 - Processing K1266-183744074 [206/349] for code: KS27TGS
+2026-11-23 19:45:22 - 183744074 - Result: Already redeemed
+2026-11-23 19:45:23 - Processing K1266-183760133 [207/349] for code: KS27TGS
+2026-11-23 19:45:23 - 183760133 - Result: Already redeemed
+2026-11-23 19:45:25 - Processing K1266-183776526 [208/349] for code: KS27TGS
+2026-11-23 19:45:25 - 183776526 - Result: Already redeemed
+2026-11-23 19:45:26 - Processing K1266-183799231 [209/349] for code: KS27TGS
+2026-11-23 19:45:26 - 183799231 - Result: Already redeemed
+2026-11-23 19:45:27 - Processing K1266-183809202 [210/349] for code: KS27TGS
+2026-11-23 19:45:27 - 183809202 - Result: Already redeemed
+2026-11-23 19:45:28 - Processing K1266-183826046 [211/349] for code: KS27TGS
+2026-11-23 19:45:28 - 183826046 - Result: Already redeemed
+2026-11-23 19:45:29 - Processing K1266-183826363 [212/349] for code: KS27TGS
+2026-11-23 19:45:30 - 183826363 - Result: Already redeemed
+2026-11-23 19:45:31 - Processing K1266-183842707 [213/349] for code: KS27TGS
+2026-11-23 19:45:31 - 183842707 - Result: Already redeemed
+2026-11-23 19:45:32 - Processing K1266-183864332 [214/349] for code: KS27TGS
+2026-11-23 19:45:32 - 183864332 - Result: Already redeemed
+2026-11-23 19:45:33 - Processing K1266-183897678 [215/349] for code: KS27TGS
+2026-11-23 19:45:33 - 183897678 - Result: Already redeemed
+2026-11-23 19:45:34 - Processing K1266-183907791 [216/349] for code: KS27TGS
+2026-11-23 19:45:34 - 183907791 - Result: Already redeemed
+2026-11-23 19:45:35 - Processing K1266-183907855 [217/349] for code: KS27TGS
+2026-11-23 19:45:35 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 19:45:39 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 19:45:48 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 19:46:00 - 183907855 - Result: Redemption request failed
+2026-11-23 19:46:01 - Processing K1266-183924658 [218/349] for code: KS27TGS
+2026-11-23 19:46:01 - 183924658 - Result: Already redeemed
+2026-11-23 19:46:02 - Processing K1266-183924660 [219/349] for code: KS27TGS
+2026-11-23 19:46:02 - 183924660 - Result: Already redeemed
+2026-11-23 19:46:03 - Processing K1266-183940809 [220/349] for code: KS27TGS
+2026-11-23 19:46:03 - 183940809 - Result: Already redeemed
+2026-11-23 19:46:05 - Processing K1266-183940867 [221/349] for code: KS27TGS
+2026-11-23 19:46:05 - 183940867 - Result: Already redeemed
+2026-11-23 19:46:06 - Processing K1266-183946385 [222/349] for code: KS27TGS
+2026-11-23 19:46:06 - 183946385 - Result: Already redeemed
+2026-11-23 19:46:07 - Processing K1266-183946804 [223/349] for code: KS27TGS
+2026-11-23 19:46:07 - 183946804 - Result: Already redeemed
+2026-11-23 19:46:09 - Processing K1266-183973904 [224/349] for code: KS27TGS
+2026-11-23 19:46:09 - 183973904 - Result: Already redeemed
+2026-11-23 19:46:10 - Processing K1266-183996371 [225/349] for code: KS27TGS
+2026-11-23 19:46:10 - 183996371 - Result: Already redeemed
+2026-11-23 19:46:12 - Processing K1266-184005794 [226/349] for code: KS27TGS
+2026-11-23 19:46:12 - 184005794 - Result: Already redeemed
+2026-11-23 19:46:13 - Processing K1266-184038545 [227/349] for code: KS27TGS
+2026-11-23 19:46:13 - 184038545 - Result: Already redeemed
+2026-11-23 19:46:14 - Processing K1266-184071743 [228/349] for code: KS27TGS
+2026-11-23 19:46:14 - 184071743 - Result: Already redeemed
+2026-11-23 19:46:15 - Processing K1266-184088377 [229/349] for code: KS27TGS
+2026-11-23 19:46:16 - 184088377 - Result: Already redeemed
+2026-11-23 19:46:17 - Processing K1266-184137674 [230/349] for code: KS27TGS
+2026-11-23 19:46:17 - 184137674 - Result: Already redeemed
+2026-11-23 19:46:18 - Processing K1266-184153916 [231/349] for code: KS27TGS
+2026-11-23 19:46:18 - 184153916 - Result: Already redeemed
+2026-11-23 19:46:20 - Processing K1266-184159552 [232/349] for code: KS27TGS
+2026-11-23 19:46:20 - 184159552 - Result: Already redeemed
+2026-11-23 19:46:21 - Processing K1266-184169916 [233/349] for code: KS27TGS
+2026-11-23 19:46:21 - 184169916 - Result: Already redeemed
+2026-11-23 19:46:22 - Processing K1266-184170263 [234/349] for code: KS27TGS
+2026-11-23 19:46:22 - 184170263 - Result: Already redeemed
+2026-11-23 19:46:23 - Processing K1266-184175883 [235/349] for code: KS27TGS
+2026-11-23 19:46:24 - 184175883 - Result: Already redeemed
+2026-11-23 19:46:25 - Processing K1266-184186546 [236/349] for code: KS27TGS
+2026-11-23 19:46:25 - 184186546 - Result: Already redeemed
+2026-11-23 19:46:26 - Processing K1266-184202442 [237/349] for code: KS27TGS
+2026-11-23 19:46:26 - 184202442 - Result: Already redeemed
+2026-11-23 19:46:27 - Processing K1266-184202684 [238/349] for code: KS27TGS
+2026-11-23 19:46:27 - 184202684 - Result: Already redeemed
+2026-11-23 19:46:29 - Processing K1266-184219240 [239/349] for code: KS27TGS
+2026-11-23 19:46:29 - 184219240 - Result: Already redeemed
+2026-11-23 19:46:30 - Processing K1266-184235170 [240/349] for code: KS27TGS
+2026-11-23 19:46:30 - 184235170 - Result: Already redeemed
+2026-11-23 19:46:31 - Processing K1266-184252103 [241/349] for code: KS27TGS
+2026-11-23 19:46:31 - 184252103 - Result: Already redeemed
+2026-11-23 19:46:33 - Processing K1266-184257548 [242/349] for code: KS27TGS
+2026-11-23 19:46:33 - 184257548 - Result: Already redeemed
+2026-11-23 19:46:34 - Processing K1266-184268236 [243/349] for code: KS27TGS
+2026-11-23 19:46:34 - 184268236 - Result: Already redeemed
+2026-11-23 19:46:35 - Processing K1266-184268332 [244/349] for code: KS27TGS
+2026-11-23 19:46:35 - 184268332 - Result: Already redeemed
+2026-11-23 19:46:36 - Processing K1266-184300583 [245/349] for code: KS27TGS
+2026-11-23 19:46:36 - 184300583 - Result: Already redeemed
+2026-11-23 19:46:37 - Processing K1266-184301120 [246/349] for code: KS27TGS
+2026-11-23 19:46:38 - 184301120 - Result: Already redeemed
+2026-11-23 19:46:39 - Processing K1266-184301482 [247/349] for code: KS27TGS
+2026-11-23 19:46:39 - 184301482 - Result: Already redeemed
+2026-11-23 19:46:40 - Processing K1266-184306709 [248/349] for code: KS27TGS
+2026-11-23 19:46:40 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 19:46:44 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 19:46:52 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 19:47:04 - 184306709 - Result: Redemption request failed
+2026-11-23 19:47:05 - Processing K1266-184323165 [249/349] for code: KS27TGS
+2026-11-23 19:47:05 - 184323165 - Result: Already redeemed
+2026-11-23 19:47:07 - Processing K1266-184334160 [250/349] for code: KS27TGS
+2026-11-23 19:47:07 - 184334160 - Result: Already redeemed
+2026-11-23 19:47:08 - Processing K1266-184334326 [251/349] for code: KS27TGS
+2026-11-23 19:47:08 - 184334326 - Result: Already redeemed
+2026-11-23 19:47:10 - Processing K1266-184355782 [252/349] for code: KS27TGS
+2026-11-23 19:47:10 - 184355782 - Result: Already redeemed
+2026-11-23 19:47:11 - Processing K1266-184355850 [253/349] for code: KS27TGS
+2026-11-23 19:47:11 - 184355850 - Result: Already redeemed
+2026-11-23 19:47:12 - Processing K1266-184366301 [254/349] for code: KS27TGS
+2026-11-23 19:47:12 - 184366301 - Result: Already redeemed
+2026-11-23 19:47:13 - Processing K1266-184366770 [255/349] for code: KS27TGS
+2026-11-23 19:47:13 - 184366770 - Result: Already redeemed
+2026-11-23 19:47:14 - Processing K1266-184382529 [256/349] for code: KS27TGS
+2026-11-23 19:47:14 - 184382529 - Result: Already redeemed
+2026-11-23 19:47:15 - Processing K1266-184398957 [257/349] for code: KS27TGS
+2026-11-23 19:47:16 - 184398957 - Result: Already redeemed
+2026-11-23 19:47:17 - Processing K1266-184448668 [258/349] for code: KS27TGS
+2026-11-23 19:47:17 - 184448668 - Result: Already redeemed
+2026-11-23 19:47:19 - Processing K1266-184481446 [259/349] for code: KS27TGS
+2026-11-23 19:47:19 - 184481446 - Result: Already redeemed
+2026-11-23 19:47:20 - Processing K1266-184497430 [260/349] for code: KS27TGS
+2026-11-23 19:47:20 - 184497430 - Result: Already redeemed
+2026-11-23 19:47:21 - Processing K1266-185033617 [261/349] for code: KS27TGS
+2026-11-23 19:47:21 - 185033617 - Result: Already redeemed
+2026-11-23 19:47:22 - Processing K1266-185122678 [262/349] for code: KS27TGS
+2026-11-23 19:47:22 - 185122678 - Result: Already redeemed
+2026-11-23 19:47:24 - Processing K1266-185164978 [263/349] for code: KS27TGS
+2026-11-23 19:47:24 - 185164978 - Result: Already redeemed
+2026-11-23 19:47:25 - Processing K1266-185214402 [264/349] for code: KS27TGS
+2026-11-23 19:47:25 - 185214402 - Result: Already redeemed
+2026-11-23 19:47:26 - Processing K1266-185284726 [265/349] for code: KS27TGS
+2026-11-23 19:47:26 - 185284726 - Result: Already redeemed
+2026-11-23 19:47:28 - Processing K1266-185410447 [266/349] for code: KS27TGS
+2026-11-23 19:47:28 - 185410447 - Result: Already redeemed
+2026-11-23 19:47:29 - Processing K1266-185480245 [267/349] for code: KS27TGS
+2026-11-23 19:47:29 - 185480245 - Result: Already redeemed
+2026-11-23 19:47:30 - Processing K1266-185673013 [268/349] for code: KS27TGS
+2026-11-23 19:47:30 - 185673013 - Result: Already redeemed
+2026-11-23 19:47:32 - Processing K1266-185918037 [269/349] for code: KS27TGS
+2026-11-23 19:47:32 - 185918037 - Result: Already redeemed
+2026-11-23 19:47:33 - Processing K1266-186458869 [270/349] for code: KS27TGS
+2026-11-23 19:47:33 - 186458869 - Result: Already redeemed
+2026-11-23 19:47:35 - Processing K1266-186459593 [271/349] for code: KS27TGS
+2026-11-23 19:47:35 - 186459593 - Result: Already redeemed
+2026-11-23 19:47:36 - Processing K1266-186524489 [272/349] for code: KS27TGS
+2026-11-23 19:47:36 - 186524489 - Result: Already redeemed
+2026-11-23 19:47:37 - Processing K1266-186672006 [273/349] for code: KS27TGS
+2026-11-23 19:47:38 - 186672006 - Result: Already redeemed
+2026-11-23 19:47:39 - Processing K1266-186966675 [274/349] for code: KS27TGS
+2026-11-23 19:47:39 - 186966675 - Result: Already redeemed
+2026-11-23 19:47:40 - Processing K1266-186967524 [275/349] for code: KS27TGS
+2026-11-23 19:47:40 - 186967524 - Result: Already redeemed
+2026-11-23 19:47:42 - Processing K1266-187028067 [276/349] for code: KS27TGS
+2026-11-23 19:47:42 - 187028067 - Result: Already redeemed
+2026-11-23 19:47:43 - Processing K1266-187102768 [277/349] for code: KS27TGS
+2026-11-23 19:47:43 - 187102768 - Result: Already redeemed
+2026-11-23 19:47:45 - Processing K1266-187115851 [278/349] for code: KS27TGS
+2026-11-23 19:47:45 - 187115851 - Result: Already redeemed
+2026-11-23 19:47:46 - Processing K1266-187213112 [279/349] for code: KS27TGS
+2026-11-23 19:47:46 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 19:47:50 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 19:47:58 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 19:48:10 - 187213112 - Result: Redemption request failed
+2026-11-23 19:48:11 - Processing K1266-187409290 [280/349] for code: KS27TGS
+2026-11-23 19:48:11 - 187409290 - Result: Already redeemed
+2026-11-23 19:48:13 - Processing K1266-187557134 [281/349] for code: KS27TGS
+2026-11-23 19:48:13 - 187557134 - Result: Already redeemed
+2026-11-23 19:48:14 - Processing K1266-187589555 [282/349] for code: KS27TGS
+2026-11-23 19:48:14 - 187589555 - Result: Already redeemed
+2026-11-23 19:48:15 - Processing K1266-187753702 [283/349] for code: KS27TGS
+2026-11-23 19:48:15 - 187753702 - Result: Already redeemed
+2026-11-23 19:48:16 - Processing K1266-187950439 [284/349] for code: KS27TGS
+2026-11-23 19:48:17 - 187950439 - Result: Already redeemed
+2026-11-23 19:48:18 - Processing K1266-188087741 [285/349] for code: KS27TGS
+2026-11-23 19:48:18 - 188087741 - Result: Already redeemed
+2026-11-23 19:48:19 - Processing K1266-188147152 [286/349] for code: KS27TGS
+2026-11-23 19:48:19 - 188147152 - Result: Already redeemed
+2026-11-23 19:48:20 - Processing K1266-188343144 [287/349] for code: KS27TGS
+2026-11-23 19:48:20 - 188343144 - Result: Already redeemed
+2026-11-23 19:48:21 - Processing K1266-188409270 [288/349] for code: KS27TGS
+2026-11-23 19:48:21 - 188409270 - Result: Already redeemed
+2026-11-23 19:48:22 - Processing K1266-188458046 [289/349] for code: KS27TGS
+2026-11-23 19:48:22 - 188458046 - Result: Already redeemed
+2026-11-23 19:48:24 - Processing K1266-188470196 [290/349] for code: KS27TGS
+2026-11-23 19:48:24 - 188470196 - Result: Already redeemed
+2026-11-23 19:48:25 - Processing K1266-188862376 [291/349] for code: KS27TGS
+2026-11-23 19:48:25 - 188862376 - Result: Already redeemed
+2026-11-23 19:48:26 - Processing K1266-189063297 [292/349] for code: KS27TGS
+2026-11-23 19:48:26 - 189063297 - Result: Already redeemed
+2026-11-23 19:48:28 - Processing K1266-189666103 [293/349] for code: KS27TGS
+2026-11-23 19:48:28 - 189666103 - Result: Already redeemed
+2026-11-23 19:48:29 - Processing K1266-190234418 [294/349] for code: KS27TGS
+2026-11-23 19:48:29 - 190234418 - Result: Already redeemed
+2026-11-23 19:48:30 - Processing K1266-190553232 [295/349] for code: KS27TGS
+2026-11-23 19:48:30 - 190553232 - Result: Already redeemed
+2026-11-23 19:48:31 - Processing K1266-190573918 [296/349] for code: KS27TGS
+2026-11-23 19:48:31 - 190573918 - Result: Already redeemed
+2026-11-23 19:48:32 - Processing K1266-192400838 [297/349] for code: KS27TGS
+2026-11-23 19:48:32 - 192400838 - Result: Already redeemed
+2026-11-23 19:48:34 - Processing K1266-193616382 [298/349] for code: KS27TGS
+2026-11-23 19:48:34 - 193616382 - Result: Already redeemed
+2026-11-23 19:48:35 - Processing K1266-194020665 [299/349] for code: KS27TGS
+2026-11-23 19:48:35 - 194020665 - Result: Already redeemed
+2026-11-23 19:48:36 - Processing K1266-194962807 [300/349] for code: KS27TGS
+2026-11-23 19:48:36 - 194962807 - Result: Already redeemed
+2026-11-23 19:48:37 - Processing K1266-195609436 [301/349] for code: KS27TGS
+2026-11-23 19:48:37 - 195609436 - Result: Already redeemed
+2026-11-23 19:48:39 - Processing K1266-196209781 [302/349] for code: KS27TGS
+2026-11-23 19:48:39 - 196209781 - Result: Already redeemed
+2026-11-23 19:48:40 - Processing K1266-197077736 [303/349] for code: KS27TGS
+2026-11-23 19:48:40 - 197077736 - Result: Already redeemed
+2026-11-23 19:48:42 - Processing K1266-197748881 [304/349] for code: KS27TGS
+2026-11-23 19:48:42 - 197748881 - Result: Already redeemed
+2026-11-23 19:48:43 - Processing K1266-199766078 [305/349] for code: KS27TGS
+2026-11-23 19:48:43 - 199766078 - Result: Already redeemed
+2026-11-23 19:48:44 - Processing K1266-202789741 [306/349] for code: KS27TGS
+2026-11-23 19:48:44 - 202789741 - Result: Already redeemed
+2026-11-23 19:48:45 - Processing K1266-208469366 [307/349] for code: KS27TGS
+2026-11-23 19:48:45 - 208469366 - Result: Already redeemed
+2026-11-23 19:48:47 - Processing K1266-209741428 [308/349] for code: KS27TGS
+2026-11-23 19:48:47 - 209741428 - Result: Already redeemed
+2026-11-23 19:48:48 - Processing K1266-211074389 [309/349] for code: KS27TGS
+2026-11-23 19:48:48 - 211074389 - Result: Already redeemed
+2026-11-23 19:48:49 - Processing K1266-215719460 [310/349] for code: KS27TGS
+2026-11-23 19:48:49 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 19:48:53 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 19:49:01 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 19:49:13 - 215719460 - Result: Redemption request failed
+2026-11-23 19:49:15 - Processing K1266-216820126 [311/349] for code: KS27TGS
+2026-11-23 19:49:15 - 216820126 - Result: Already redeemed
+2026-11-23 19:49:16 - Processing K1266-219382121 [312/349] for code: KS27TGS
+2026-11-23 19:49:16 - 219382121 - Result: Already redeemed
+2026-11-23 19:49:18 - Processing K1266-221299698 [313/349] for code: KS27TGS
+2026-11-23 19:49:18 - 221299698 - Result: Already redeemed
+2026-11-23 19:49:19 - Processing K1266-221309318 [314/349] for code: KS27TGS
+2026-11-23 19:49:19 - 221309318 - Result: Already redeemed
+2026-11-23 19:49:20 - Processing K1266-221445787 [315/349] for code: KS27TGS
+2026-11-23 19:49:20 - 221445787 - Result: Already redeemed
+2026-11-23 19:49:22 - Processing K1266-221883902 [316/349] for code: KS27TGS
+2026-11-23 19:49:22 - 221883902 - Result: Already redeemed
+2026-11-23 19:49:23 - Processing K1266-222531402 [317/349] for code: KS27TGS
+2026-11-23 19:49:23 - 222531402 - Result: Already redeemed
+2026-11-23 19:49:24 - Processing K1266-226209236 [318/349] for code: KS27TGS
+2026-11-23 19:49:24 - 226209236 - Result: Already redeemed
+2026-11-23 19:49:25 - Processing K1266-226703897 [319/349] for code: KS27TGS
+2026-11-23 19:49:25 - 226703897 - Result: Already redeemed
+2026-11-23 19:49:27 - Processing K1266-227970815 [320/349] for code: KS27TGS
+2026-11-23 19:49:27 - 227970815 - Result: Already redeemed
+2026-11-23 19:49:28 - Processing K1266-230653160 [321/349] for code: KS27TGS
+2026-11-23 19:49:28 - 230653160 - Result: Already redeemed
+2026-11-23 19:49:29 - Processing K1266-232510086 [322/349] for code: KS27TGS
+2026-11-23 19:49:29 - 232510086 - Result: Already redeemed
+2026-11-23 19:49:31 - Processing K1266-240864609 [323/349] for code: KS27TGS
+2026-11-23 19:49:31 - 240864609 - Result: Already redeemed
+2026-11-23 19:49:32 - Processing K1266-247760465 [324/349] for code: KS27TGS
+2026-11-23 19:49:32 - 247760465 - Result: Already redeemed
+2026-11-23 19:49:33 - Processing K1266-257078077 [325/349] for code: KS27TGS
+2026-11-23 19:49:33 - 257078077 - Result: Already redeemed
+2026-11-23 19:49:34 - Processing K1266-264813011 [326/349] for code: KS27TGS
+2026-11-23 19:49:34 - 264813011 - Result: Already redeemed
+2026-11-23 19:49:36 - Processing K1266-264853160 [327/349] for code: KS27TGS
+2026-11-23 19:49:36 - 264853160 - Result: Already redeemed
+2026-11-23 19:49:37 - Processing K1266-270896390 [328/349] for code: KS27TGS
+2026-11-23 19:49:37 - 270896390 - Result: Already redeemed
+2026-11-23 19:49:38 - Processing K1266-278604391 [329/349] for code: KS27TGS
+2026-11-23 19:49:38 - 278604391 - Result: Already redeemed
+2026-11-23 19:49:40 - Processing K1266-279842790 [330/349] for code: KS27TGS
+2026-11-23 19:49:40 - 279842790 - Result: Already redeemed
+2026-11-23 19:49:41 - Processing K1266-300404990 [331/349] for code: KS27TGS
+2026-11-23 19:49:41 - 300404990 - Result: Already redeemed
+2026-11-23 19:49:42 - Processing K1266-302154974 [332/349] for code: KS27TGS
+2026-11-23 19:49:42 - 302154974 - Result: Already redeemed
+2026-11-23 19:49:43 - Processing K1266-305821193 [333/349] for code: KS27TGS
+2026-11-23 19:49:43 - 305821193 - Result: Already redeemed
+2026-11-23 19:49:45 - Processing K1266-306565391 [334/349] for code: KS27TGS
+2026-11-23 19:49:45 - 306565391 - Result: Already redeemed
+2026-11-23 19:49:46 - Processing K1266-331800134 [335/349] for code: KS27TGS
+2026-11-23 19:49:46 - 331800134 - Result: Already redeemed
+2026-11-23 19:49:47 - Processing K1266-377584801 [336/349] for code: KS27TGS
+2026-11-23 19:49:47 - 377584801 - Result: Already redeemed
+2026-11-23 19:49:49 - Processing K1266-378518775 [337/349] for code: KS27TGS
+2026-11-23 19:49:49 - 378518775 - Result: Already redeemed
+2026-11-23 19:49:50 - Processing K1266-381967745 [338/349] for code: KS27TGS
+2026-11-23 19:49:50 - 381967745 - Result: Already redeemed
+2026-11-23 19:49:51 - Processing K1266-402165713 [339/349] for code: KS27TGS
+2026-11-23 19:49:51 - 402165713 - Result: Already redeemed
+2026-11-23 19:49:52 - Processing K1266-413620551 [340/349] for code: KS27TGS
+2026-11-23 19:49:52 - 413620551 - Result: Already redeemed
+2026-11-23 19:49:54 - Processing K1266-419418577 [341/349] for code: KS27TGS
+2026-11-23 19:49:54 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 19:49:58 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 19:50:06 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 19:50:18 - 419418577 - Result: Redemption request failed
+2026-11-23 19:50:19 - Processing K1266-423438308 [342/349] for code: KS27TGS
+2026-11-23 19:50:19 - 423438308 - Result: Already redeemed
+2026-11-23 19:50:21 - Processing K1266-428192624 [343/349] for code: KS27TGS
+2026-11-23 19:50:21 - 428192624 - Result: Already redeemed
+2026-11-23 19:50:22 - Processing K1266-428783906 [344/349] for code: KS27TGS
+2026-11-23 19:50:22 - 428783906 - Result: Already redeemed
+2026-11-23 19:50:23 - Processing K1266-429292382 [345/349] for code: KS27TGS
+2026-11-23 19:50:23 - 429292382 - Result: Already redeemed
+2026-11-23 19:50:25 - Processing K1266-430872448 [346/349] for code: KS27TGS
+2026-11-23 19:50:25 - 430872448 - Result: Already redeemed
+2026-11-23 19:50:26 - Processing K1266-436199125 [347/349] for code: KS27TGS
+2026-11-23 19:50:26 - 436199125 - Result: Already redeemed
+2026-11-23 19:50:27 - Processing K1266-440301202 [348/349] for code: KS27TGS
+2026-11-23 19:50:27 - 440301202 - Result: Already redeemed
+2026-11-23 19:50:29 - Processing K1266-448271166 [349/349] for code: KS27TGS
+2026-11-23 19:50:29 - 448271166 - Result: Already redeemed
+2026-11-23 19:50:30 - --- Cycle finished. Total processed: 349/349 ---
+2026-11-23 19:50:30 - 
+========================= Redemption Summary =========================
+2026-11-23 19:50:30 - Code Redeemed: KS27TGS
+2026-11-23 19:50:30 - Total Unique Player IDs Found: 349
+2026-11-23 19:50:30 - Total Player IDs Processed: 349
+2026-11-23 19:50:30 - Successfully redeemed: 0
+2026-11-23 19:50:30 - Already redeemed: 338
+2026-11-23 19:50:30 - Wrong kingdom: 0
+2026-11-23 19:50:30 - Other Errors/Failures: 11
+2026-11-23 19:50:30 - Rate Limit Events: 0
+2026-11-23 19:50:30 - Total execution time: 00:12:03
+2026-11-23 19:50:30 - ======================================================================
+2026-11-23 19:50:30 - Marked 'KS27TGS' as known.
+
+2026-11-23 19:50:30 - 
+=== Starting redemption for gift code: THANKS4WORK ===
+2026-11-23 19:50:30 - Total unique player IDs to process: 349
+2026-11-23 19:50:30 - 
+--- Starting processing cycle. Ready player IDs: 349 ---
+2026-11-23 19:50:30 - Processing K1266-134948830 [1/349] for code: THANKS4WORK
+2026-11-23 19:50:30 - 134948830 - Result: Already redeemed
+2026-11-23 19:50:31 - Processing K1266-137881550 [2/349] for code: THANKS4WORK
+2026-11-23 19:50:31 - 137881550 - Result: Already redeemed
+2026-11-23 19:50:33 - Processing K1266-138078147 [3/349] for code: THANKS4WORK
+2026-11-23 19:50:33 - 138078147 - Result: Already redeemed
+2026-11-23 19:50:34 - Processing K1266-159388060 [4/349] for code: THANKS4WORK
+2026-11-23 19:50:34 - 159388060 - Result: Already redeemed
+2026-11-23 19:50:36 - Processing K1266-159437876 [5/349] for code: THANKS4WORK
+2026-11-23 19:50:36 - 159437876 - Result: Already redeemed
+2026-11-23 19:50:37 - Processing K1266-160141562 [6/349] for code: THANKS4WORK
+2026-11-23 19:50:37 - 160141562 - Result: Already redeemed
+2026-11-23 19:50:38 - Processing K1266-160289155 [7/349] for code: THANKS4WORK
+2026-11-23 19:50:38 - 160289155 - Result: Already redeemed
+2026-11-23 19:50:40 - Processing K1266-160387420 [8/349] for code: THANKS4WORK
+2026-11-23 19:50:40 - 160387420 - Result: Already redeemed
+2026-11-23 19:50:41 - Processing K1266-160617102 [9/349] for code: THANKS4WORK
+2026-11-23 19:50:41 - 160617102 - Result: Already redeemed
+2026-11-23 19:50:42 - Processing K1266-160961411 [10/349] for code: THANKS4WORK
+2026-11-23 19:50:42 - 160961411 - Result: Already redeemed
+2026-11-23 19:50:43 - Processing K1266-160977214 [11/349] for code: THANKS4WORK
+2026-11-23 19:50:44 - 160977214 - Result: Already redeemed
+2026-11-23 19:50:45 - Processing K1266-161174001 [12/349] for code: THANKS4WORK
+2026-11-23 19:50:45 - 161174001 - Result: Already redeemed
+2026-11-23 19:50:46 - Processing K1266-161223459 [13/349] for code: THANKS4WORK
+2026-11-23 19:50:46 - 161223459 - Result: Already redeemed
+2026-11-23 19:50:48 - Processing K1266-161321233 [14/349] for code: THANKS4WORK
+2026-11-23 19:50:48 - 161321233 - Result: Already redeemed
+2026-11-23 19:50:49 - Processing K1266-161387367 [15/349] for code: THANKS4WORK
+2026-11-23 19:50:49 - 161387367 - Result: Already redeemed
+2026-11-23 19:50:50 - Processing K1266-161600251 [16/349] for code: THANKS4WORK
+2026-11-23 19:50:51 - 161600251 - Result: Already redeemed
+2026-11-23 19:50:52 - Processing K1266-161616297 [17/349] for code: THANKS4WORK
+2026-11-23 19:50:52 - 161616297 - Result: Already redeemed
+2026-11-23 19:50:53 - Processing K1266-162042375 [18/349] for code: THANKS4WORK
+2026-11-23 19:50:53 - 162042375 - Result: Already redeemed
+2026-11-23 19:50:55 - Processing K1266-162402979 [19/349] for code: THANKS4WORK
+2026-11-23 19:50:55 - 162402979 - Result: Already redeemed
+2026-11-23 19:50:56 - Processing K1266-162501078 [20/349] for code: THANKS4WORK
+2026-11-23 19:50:56 - 162501078 - Result: Already redeemed
+2026-11-23 19:50:58 - Processing K1266-162812562 [21/349] for code: THANKS4WORK
+2026-11-23 19:50:58 - 162812562 - Result: Already redeemed
+2026-11-23 19:50:59 - Processing K1266-162910751 [22/349] for code: THANKS4WORK
+2026-11-23 19:50:59 - 162910751 - Result: Already redeemed
+2026-11-23 19:51:00 - Processing K1266-163042051 [23/349] for code: THANKS4WORK
+2026-11-23 19:51:00 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 19:51:04 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 19:51:12 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 19:51:24 - 163042051 - Result: Redemption request failed
+2026-11-23 19:51:25 - Processing K1266-163385778 [24/349] for code: THANKS4WORK
+2026-11-23 19:51:25 - 163385778 - Result: Already redeemed
+2026-11-23 19:51:27 - Processing K1266-166002850 [25/349] for code: THANKS4WORK
+2026-11-23 19:51:27 - 166002850 - Result: Already redeemed
+2026-11-23 19:51:28 - Processing K1266-168075619 [26/349] for code: THANKS4WORK
+2026-11-23 19:51:28 - 168075619 - Result: Already redeemed
+2026-11-23 19:51:29 - Processing K1266-171034082 [27/349] for code: THANKS4WORK
+2026-11-23 19:51:30 - 171034082 - Result: Already redeemed
+2026-11-23 19:51:31 - Processing K1266-171492491 [28/349] for code: THANKS4WORK
+2026-11-23 19:51:31 - 171492491 - Result: Already redeemed
+2026-11-23 19:51:32 - Processing K1266-171738442 [29/349] for code: THANKS4WORK
+2026-11-23 19:51:32 - 171738442 - Result: Already redeemed
+2026-11-23 19:51:33 - Processing K1266-176448172 [30/349] for code: THANKS4WORK
+2026-11-23 19:51:34 - 176448172 - Result: Already redeemed
+2026-11-23 19:51:35 - Processing K1266-176742470 [31/349] for code: THANKS4WORK
+2026-11-23 19:51:35 - 176742470 - Result: Already redeemed
+2026-11-23 19:51:36 - Processing K1266-176939042 [32/349] for code: THANKS4WORK
+2026-11-23 19:51:36 - 176939042 - Result: Already redeemed
+2026-11-23 19:51:37 - Processing K1266-176955954 [33/349] for code: THANKS4WORK
+2026-11-23 19:51:37 - 176955954 - Result: Already redeemed
+2026-11-23 19:51:39 - Processing K1266-177004482 [34/349] for code: THANKS4WORK
+2026-11-23 19:51:39 - 177004482 - Result: Already redeemed
+2026-11-23 19:51:40 - Processing K1266-177430530 [35/349] for code: THANKS4WORK
+2026-11-23 19:51:40 - 177430530 - Result: Already redeemed
+2026-11-23 19:51:41 - Processing K1266-177578072 [36/349] for code: THANKS4WORK
+2026-11-23 19:51:41 - 177578072 - Result: Already redeemed
+2026-11-23 19:51:43 - Processing K1266-177594975 [37/349] for code: THANKS4WORK
+2026-11-23 19:51:43 - 177594975 - Result: Already redeemed
+2026-11-23 19:51:44 - Processing K1266-177643662 [38/349] for code: THANKS4WORK
+2026-11-23 19:51:44 - 177643662 - Result: Already redeemed
+2026-11-23 19:51:45 - Processing K1266-177741835 [39/349] for code: THANKS4WORK
+2026-11-23 19:51:45 - 177741835 - Result: Already redeemed
+2026-11-23 19:51:47 - Processing K1266-177742515 [40/349] for code: THANKS4WORK
+2026-11-23 19:51:47 - 177742515 - Result: Already redeemed
+2026-11-23 19:51:48 - Processing K1266-177758431 [41/349] for code: THANKS4WORK
+2026-11-23 19:51:48 - 177758431 - Result: Already redeemed
+2026-11-23 19:51:49 - Processing K1266-177889207 [42/349] for code: THANKS4WORK
+2026-11-23 19:51:49 - 177889207 - Result: Already redeemed
+2026-11-23 19:51:51 - Processing K1266-177889304 [43/349] for code: THANKS4WORK
+2026-11-23 19:51:51 - 177889304 - Result: Already redeemed
+2026-11-23 19:51:52 - Processing K1266-178003863 [44/349] for code: THANKS4WORK
+2026-11-23 19:51:52 - 178003863 - Result: Already redeemed
+2026-11-23 19:51:53 - Processing K1266-178167737 [45/349] for code: THANKS4WORK
+2026-11-23 19:51:53 - 178167737 - Result: Already redeemed
+2026-11-23 19:51:55 - Processing K1266-178282383 [46/349] for code: THANKS4WORK
+2026-11-23 19:51:55 - 178282383 - Result: Already redeemed
+2026-11-23 19:51:56 - Processing K1266-178298638 [47/349] for code: THANKS4WORK
+2026-11-23 19:51:56 - 178298638 - Result: Already redeemed
+2026-11-23 19:51:57 - Processing K1266-178298685 [48/349] for code: THANKS4WORK
+2026-11-23 19:51:57 - 178298685 - Result: Already redeemed
+2026-11-23 19:51:59 - Processing K1266-178828379 [49/349] for code: THANKS4WORK
+2026-11-23 19:51:59 - 178828379 - Result: Already redeemed
+2026-11-23 19:52:00 - Processing K1266-178872530 [50/349] for code: THANKS4WORK
+2026-11-23 19:52:00 - 178872530 - Result: Already redeemed
+2026-11-23 19:52:01 - Processing K1266-179107716 [51/349] for code: THANKS4WORK
+2026-11-23 19:52:01 - 179107716 - Result: Already redeemed
+2026-11-23 19:52:03 - Processing K1266-179216885 [52/349] for code: THANKS4WORK
+2026-11-23 19:52:03 - 179216885 - Result: Already redeemed
+2026-11-23 19:52:04 - Processing K1266-179515454 [53/349] for code: THANKS4WORK
+2026-11-23 19:52:04 - 179515454 - Result: Already redeemed
+2026-11-23 19:52:05 - Processing K1266-179675357 [54/349] for code: THANKS4WORK
+2026-11-23 19:52:05 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 19:52:09 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 19:52:18 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 19:52:30 - 179675357 - Result: Redemption request failed
+2026-11-23 19:52:31 - Processing K1266-179691958 [55/349] for code: THANKS4WORK
+2026-11-23 19:52:31 - 179691958 - Result: Already redeemed
+2026-11-23 19:52:32 - Processing K1266-179937381 [56/349] for code: THANKS4WORK
+2026-11-23 19:52:32 - 179937381 - Result: Already redeemed
+2026-11-23 19:52:34 - Processing K1266-180084701 [57/349] for code: THANKS4WORK
+2026-11-23 19:52:34 - 180084701 - Result: Already redeemed
+2026-11-23 19:52:35 - Processing K1266-180347034 [58/349] for code: THANKS4WORK
+2026-11-23 19:52:35 - 180347034 - Result: Already redeemed
+2026-11-23 19:52:37 - Processing K1266-180368647 [59/349] for code: THANKS4WORK
+2026-11-23 19:52:37 - 180368647 - Result: Already redeemed
+2026-11-23 19:52:38 - Processing K1266-180369159 [60/349] for code: THANKS4WORK
+2026-11-23 19:52:38 - 180369159 - Result: Already redeemed
+2026-11-23 19:52:39 - Processing K1266-180385375 [61/349] for code: THANKS4WORK
+2026-11-23 19:52:39 - 180385375 - Result: Already redeemed
+2026-11-23 19:52:41 - Processing K1266-180385792 [62/349] for code: THANKS4WORK
+2026-11-23 19:52:41 - 180385792 - Result: Already redeemed
+2026-11-23 19:52:42 - Processing K1266-180418498 [63/349] for code: THANKS4WORK
+2026-11-23 19:52:42 - 180418498 - Result: Already redeemed
+2026-11-23 19:52:43 - Processing K1266-180434357 [64/349] for code: THANKS4WORK
+2026-11-23 19:52:43 - 180434357 - Result: Already redeemed
+2026-11-23 19:52:45 - Processing K1266-180451010 [65/349] for code: THANKS4WORK
+2026-11-23 19:52:45 - 180451010 - Result: Already redeemed
+2026-11-23 19:52:46 - Processing K1266-180483302 [66/349] for code: THANKS4WORK
+2026-11-23 19:52:46 - 180483302 - Result: Already redeemed
+2026-11-23 19:52:48 - Processing K1266-180516559 [67/349] for code: THANKS4WORK
+2026-11-23 19:52:48 - 180516559 - Result: Already redeemed
+2026-11-23 19:52:49 - Processing K1266-180565782 [68/349] for code: THANKS4WORK
+2026-11-23 19:52:49 - 180565782 - Result: Already redeemed
+2026-11-23 19:52:50 - Processing K1266-180581975 [69/349] for code: THANKS4WORK
+2026-11-23 19:52:50 - 180581975 - Result: Already redeemed
+2026-11-23 19:52:52 - Processing K1266-180582116 [70/349] for code: THANKS4WORK
+2026-11-23 19:52:52 - 180582116 - Result: Already redeemed
+2026-11-23 19:52:53 - Processing K1266-180588134 [71/349] for code: THANKS4WORK
+2026-11-23 19:52:53 - 180588134 - Result: Already redeemed
+2026-11-23 19:52:54 - Processing K1266-180598416 [72/349] for code: THANKS4WORK
+2026-11-23 19:52:54 - 180598416 - Result: Already redeemed
+2026-11-23 19:52:56 - Processing K1266-180614319 [73/349] for code: THANKS4WORK
+2026-11-23 19:52:56 - 180614319 - Result: Already redeemed
+2026-11-23 19:52:57 - Processing K1266-180636958 [74/349] for code: THANKS4WORK
+2026-11-23 19:52:57 - 180636958 - Result: Already redeemed
+2026-11-23 19:52:58 - Processing K1266-180647291 [75/349] for code: THANKS4WORK
+2026-11-23 19:52:58 - 180647291 - Result: Already redeemed
+2026-11-23 19:53:00 - Processing K1266-180647824 [76/349] for code: THANKS4WORK
+2026-11-23 19:53:00 - 180647824 - Result: Already redeemed
+2026-11-23 19:53:01 - Processing K1266-180669914 [77/349] for code: THANKS4WORK
+2026-11-23 19:53:01 - 180669914 - Result: Already redeemed
+2026-11-23 19:53:03 - Processing K1266-180696652 [78/349] for code: THANKS4WORK
+2026-11-23 19:53:03 - 180696652 - Result: Already redeemed
+2026-11-23 19:53:04 - Processing K1266-180729920 [79/349] for code: THANKS4WORK
+2026-11-23 19:53:04 - 180729920 - Result: Already redeemed
+2026-11-23 19:53:05 - Processing K1266-180778760 [80/349] for code: THANKS4WORK
+2026-11-23 19:53:05 - 180778760 - Result: Already redeemed
+2026-11-23 19:53:06 - Processing K1266-180779049 [81/349] for code: THANKS4WORK
+2026-11-23 19:53:07 - 180779049 - Result: Already redeemed
+2026-11-23 19:53:08 - Processing K1266-180827986 [82/349] for code: THANKS4WORK
+2026-11-23 19:53:08 - 180827986 - Result: Already redeemed
+2026-11-23 19:53:09 - Processing K1266-180893684 [83/349] for code: THANKS4WORK
+2026-11-23 19:53:09 - 180893684 - Result: Already redeemed
+2026-11-23 19:53:11 - Processing K1266-180893765 [84/349] for code: THANKS4WORK
+2026-11-23 19:53:11 - 180893765 - Result: Already redeemed
+2026-11-23 19:53:12 - Processing K1266-180909451 [85/349] for code: THANKS4WORK
+2026-11-23 19:53:12 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 19:53:16 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 19:53:24 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 19:53:36 - 180909451 - Result: Redemption request failed
+2026-11-23 19:53:37 - Processing K1266-180959009 [86/349] for code: THANKS4WORK
+2026-11-23 19:53:37 - 180959009 - Result: Already redeemed
+2026-11-23 19:53:39 - Processing K1266-180975047 [87/349] for code: THANKS4WORK
+2026-11-23 19:53:39 - 180975047 - Result: Already redeemed
+2026-11-23 19:53:40 - Processing K1266-180975180 [88/349] for code: THANKS4WORK
+2026-11-23 19:53:40 - 180975180 - Result: Already redeemed
+2026-11-23 19:53:41 - Processing K1266-181008488 [89/349] for code: THANKS4WORK
+2026-11-23 19:53:41 - 181008488 - Result: Already redeemed
+2026-11-23 19:53:43 - Processing K1266-181024577 [90/349] for code: THANKS4WORK
+2026-11-23 19:53:43 - 181024577 - Result: Already redeemed
+2026-11-23 19:53:44 - Processing K1266-181090100 [91/349] for code: THANKS4WORK
+2026-11-23 19:53:44 - 181090100 - Result: Already redeemed
+2026-11-23 19:53:45 - Processing K1266-181106609 [92/349] for code: THANKS4WORK
+2026-11-23 19:53:45 - 181106609 - Result: Already redeemed
+2026-11-23 19:53:47 - Processing K1266-181122260 [93/349] for code: THANKS4WORK
+2026-11-23 19:53:47 - 181122260 - Result: Already redeemed
+2026-11-23 19:53:48 - Processing K1266-181128922 [94/349] for code: THANKS4WORK
+2026-11-23 19:53:48 - 181128922 - Result: Already redeemed
+2026-11-23 19:53:49 - Processing K1266-181139114 [95/349] for code: THANKS4WORK
+2026-11-23 19:53:49 - 181139114 - Result: Already redeemed
+2026-11-23 19:53:50 - Processing K1266-181171461 [96/349] for code: THANKS4WORK
+2026-11-23 19:53:50 - 181171461 - Result: Already redeemed
+2026-11-23 19:53:52 - Processing K1266-181335322 [97/349] for code: THANKS4WORK
+2026-11-23 19:53:52 - 181335322 - Result: Already redeemed
+2026-11-23 19:53:53 - Processing K1266-181340930 [98/349] for code: THANKS4WORK
+2026-11-23 19:53:53 - 181340930 - Result: Already redeemed
+2026-11-23 19:53:54 - Processing K1266-181351852 [99/349] for code: THANKS4WORK
+2026-11-23 19:53:54 - 181351852 - Result: Already redeemed
+2026-11-23 19:53:56 - Processing K1266-181374419 [100/349] for code: THANKS4WORK
+2026-11-23 19:53:56 - 181374419 - Result: Already redeemed
+2026-11-23 19:53:57 - Processing K1266-181384836 [101/349] for code: THANKS4WORK
+2026-11-23 19:53:57 - 181384836 - Result: Already redeemed
+2026-11-23 19:53:59 - Processing K1266-181385198 [102/349] for code: THANKS4WORK
+2026-11-23 19:53:59 - 181385198 - Result: Already redeemed
+2026-11-23 19:54:00 - Processing K1266-181401589 [103/349] for code: THANKS4WORK
+2026-11-23 19:54:00 - 181401589 - Result: Already redeemed
+2026-11-23 19:54:01 - Processing K1266-181407057 [104/349] for code: THANKS4WORK
+2026-11-23 19:54:01 - 181407057 - Result: Already redeemed
+2026-11-23 19:54:02 - Processing K1266-181433954 [105/349] for code: THANKS4WORK
+2026-11-23 19:54:02 - 181433954 - Result: Already redeemed
+2026-11-23 19:54:03 - Processing K1266-181466879 [106/349] for code: THANKS4WORK
+2026-11-23 19:54:04 - 181466879 - Result: Already redeemed
+2026-11-23 19:54:05 - Processing K1266-181482560 [107/349] for code: THANKS4WORK
+2026-11-23 19:54:05 - 181482560 - Result: Already redeemed
+2026-11-23 19:54:06 - Processing K1266-181515253 [108/349] for code: THANKS4WORK
+2026-11-23 19:54:06 - 181515253 - Result: Already redeemed
+2026-11-23 19:54:07 - Processing K1266-181516335 [109/349] for code: THANKS4WORK
+2026-11-23 19:54:07 - 181516335 - Result: Already redeemed
+2026-11-23 19:54:09 - Processing K1266-181521367 [110/349] for code: THANKS4WORK
+2026-11-23 19:54:09 - 181521367 - Result: Already redeemed
+2026-11-23 19:54:10 - Processing K1266-181531678 [111/349] for code: THANKS4WORK
+2026-11-23 19:54:10 - 181531678 - Result: Already redeemed
+2026-11-23 19:54:11 - Processing K1266-181548141 [112/349] for code: THANKS4WORK
+2026-11-23 19:54:12 - 181548141 - Result: Already redeemed
+2026-11-23 19:54:13 - Processing K1266-181614011 [113/349] for code: THANKS4WORK
+2026-11-23 19:54:13 - 181614011 - Result: Already redeemed
+2026-11-23 19:54:14 - Processing K1266-181663028 [114/349] for code: THANKS4WORK
+2026-11-23 19:54:14 - 181663028 - Result: Already redeemed
+2026-11-23 19:54:15 - Processing K1266-181712653 [115/349] for code: THANKS4WORK
+2026-11-23 19:54:15 - 181712653 - Result: Already redeemed
+2026-11-23 19:54:16 - Processing K1266-181728933 [116/349] for code: THANKS4WORK
+2026-11-23 19:54:16 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 19:54:20 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 19:54:28 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 19:54:40 - 181728933 - Result: Redemption request failed
+2026-11-23 19:54:42 - Processing K1266-181734398 [117/349] for code: THANKS4WORK
+2026-11-23 19:54:42 - 181734398 - Result: Already redeemed
+2026-11-23 19:54:43 - Processing K1266-181761437 [118/349] for code: THANKS4WORK
+2026-11-23 19:54:43 - 181761437 - Result: Already redeemed
+2026-11-23 19:54:45 - Processing K1266-181794115 [119/349] for code: THANKS4WORK
+2026-11-23 19:54:45 - 181794115 - Result: Already redeemed
+2026-11-23 19:54:46 - Processing K1266-181816445 [120/349] for code: THANKS4WORK
+2026-11-23 19:54:46 - 181816445 - Result: Already redeemed
+2026-11-23 19:54:47 - Processing K1266-181859892 [121/349] for code: THANKS4WORK
+2026-11-23 19:54:47 - 181859892 - Result: Already redeemed
+2026-11-23 19:54:49 - Processing K1266-181859948 [122/349] for code: THANKS4WORK
+2026-11-23 19:54:49 - 181859948 - Result: Already redeemed
+2026-11-23 19:54:50 - Processing K1266-181860336 [123/349] for code: THANKS4WORK
+2026-11-23 19:54:50 - 181860336 - Result: Already redeemed
+2026-11-23 19:54:52 - Processing K1266-181882185 [124/349] for code: THANKS4WORK
+2026-11-23 19:54:52 - 181882185 - Result: Already redeemed
+2026-11-23 19:54:53 - Processing K1266-181892750 [125/349] for code: THANKS4WORK
+2026-11-23 19:54:53 - 181892750 - Result: Already redeemed
+2026-11-23 19:54:54 - Processing K1266-181941995 [126/349] for code: THANKS4WORK
+2026-11-23 19:54:54 - 181941995 - Result: Already redeemed
+2026-11-23 19:54:56 - Processing K1266-181958341 [127/349] for code: THANKS4WORK
+2026-11-23 19:54:56 - 181958341 - Result: Already redeemed
+2026-11-23 19:54:57 - Processing K1266-181958534 [128/349] for code: THANKS4WORK
+2026-11-23 19:54:57 - 181958534 - Result: Already redeemed
+2026-11-23 19:54:58 - Processing K1266-182007379 [129/349] for code: THANKS4WORK
+2026-11-23 19:54:58 - 182007379 - Result: Already redeemed
+2026-11-23 19:55:00 - Processing K1266-182013382 [130/349] for code: THANKS4WORK
+2026-11-23 19:55:00 - 182013382 - Result: Already redeemed
+2026-11-23 19:55:01 - Processing K1266-182022970 [131/349] for code: THANKS4WORK
+2026-11-23 19:55:01 - 182022970 - Result: Already redeemed
+2026-11-23 19:55:03 - Processing K1266-182046115 [132/349] for code: THANKS4WORK
+2026-11-23 19:55:03 - 182046115 - Result: Already redeemed
+2026-11-23 19:55:04 - Processing K1266-182072645 [133/349] for code: THANKS4WORK
+2026-11-23 19:55:04 - 182072645 - Result: Already redeemed
+2026-11-23 19:55:05 - Processing K1266-182138227 [134/349] for code: THANKS4WORK
+2026-11-23 19:55:05 - 182138227 - Result: Already redeemed
+2026-11-23 19:55:07 - Processing K1266-182144355 [135/349] for code: THANKS4WORK
+2026-11-23 19:55:07 - 182144355 - Result: Already redeemed
+2026-11-23 19:55:08 - Processing K1266-182203508 [136/349] for code: THANKS4WORK
+2026-11-23 19:55:08 - 182203508 - Result: Already redeemed
+2026-11-23 19:55:09 - Processing K1266-182203900 [137/349] for code: THANKS4WORK
+2026-11-23 19:55:09 - 182203900 - Result: Already redeemed
+2026-11-23 19:55:11 - Processing K1266-182203950 [138/349] for code: THANKS4WORK
+2026-11-23 19:55:11 - 182203950 - Result: Already redeemed
+2026-11-23 19:55:12 - Processing K1266-182220426 [139/349] for code: THANKS4WORK
+2026-11-23 19:55:12 - 182220426 - Result: Already redeemed
+2026-11-23 19:55:13 - Processing K1266-182220585 [140/349] for code: THANKS4WORK
+2026-11-23 19:55:13 - 182220585 - Result: Already redeemed
+2026-11-23 19:55:15 - Processing K1266-182269737 [141/349] for code: THANKS4WORK
+2026-11-23 19:55:15 - 182269737 - Result: Already redeemed
+2026-11-23 19:55:16 - Processing K1266-182286440 [142/349] for code: THANKS4WORK
+2026-11-23 19:55:16 - 182286440 - Result: Already redeemed
+2026-11-23 19:55:18 - Processing K1266-182302366 [143/349] for code: THANKS4WORK
+2026-11-23 19:55:18 - 182302366 - Result: Already redeemed
+2026-11-23 19:55:19 - Processing K1266-182318888 [144/349] for code: THANKS4WORK
+2026-11-23 19:55:19 - 182318888 - Result: Already redeemed
+2026-11-23 19:55:20 - Processing K1266-182318938 [145/349] for code: THANKS4WORK
+2026-11-23 19:55:20 - 182318938 - Result: Already redeemed
+2026-11-23 19:55:22 - Processing K1266-182318966 [146/349] for code: THANKS4WORK
+2026-11-23 19:55:22 - 182318966 - Result: Already redeemed
+2026-11-23 19:55:23 - Processing K1266-182318992 [147/349] for code: THANKS4WORK
+2026-11-23 19:55:23 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 19:55:27 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 19:55:35 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 19:55:47 - 182318992 - Result: Redemption request failed
+2026-11-23 19:55:49 - Processing K1266-182334781 [148/349] for code: THANKS4WORK
+2026-11-23 19:55:49 - 182334781 - Result: Already redeemed
+2026-11-23 19:55:50 - Processing K1266-182335566 [149/349] for code: THANKS4WORK
+2026-11-23 19:55:50 - 182335566 - Result: Already redeemed
+2026-11-23 19:55:51 - Processing K1266-182351447 [150/349] for code: THANKS4WORK
+2026-11-23 19:55:51 - 182351447 - Result: Already redeemed
+2026-11-23 19:55:53 - Processing K1266-182390223 [151/349] for code: THANKS4WORK
+2026-11-23 19:55:53 - 182390223 - Result: Already redeemed
+2026-11-23 19:55:54 - Processing K1266-182400586 [152/349] for code: THANKS4WORK
+2026-11-23 19:55:54 - 182400586 - Result: Already redeemed
+2026-11-23 19:55:56 - Processing K1266-182449206 [153/349] for code: THANKS4WORK
+2026-11-23 19:55:56 - 182449206 - Result: Already redeemed
+2026-11-23 19:55:57 - Processing K1266-182450074 [154/349] for code: THANKS4WORK
+2026-11-23 19:55:57 - 182450074 - Result: Already redeemed
+2026-11-23 19:55:59 - Processing K1266-182472038 [155/349] for code: THANKS4WORK
+2026-11-23 19:55:59 - 182472038 - Result: Already redeemed
+2026-11-23 19:56:00 - Processing K1266-182488759 [156/349] for code: THANKS4WORK
+2026-11-23 19:56:00 - 182488759 - Result: Already redeemed
+2026-11-23 19:56:01 - Processing K1266-182531700 [157/349] for code: THANKS4WORK
+2026-11-23 19:56:01 - 182531700 - Result: Already redeemed
+2026-11-23 19:56:02 - Processing K1266-182646613 [158/349] for code: THANKS4WORK
+2026-11-23 19:56:03 - 182646613 - Result: Already redeemed
+2026-11-23 19:56:04 - Processing K1266-182668737 [159/349] for code: THANKS4WORK
+2026-11-23 19:56:04 - 182668737 - Result: Already redeemed
+2026-11-23 19:56:05 - Processing K1266-182679587 [160/349] for code: THANKS4WORK
+2026-11-23 19:56:05 - 182679587 - Result: Already redeemed
+2026-11-23 19:56:06 - Processing K1266-182717899 [161/349] for code: THANKS4WORK
+2026-11-23 19:56:06 - 182717899 - Result: Already redeemed
+2026-11-23 19:56:07 - Processing K1266-182767010 [162/349] for code: THANKS4WORK
+2026-11-23 19:56:07 - 182767010 - Result: Already redeemed
+2026-11-23 19:56:08 - Processing K1266-182810221 [163/349] for code: THANKS4WORK
+2026-11-23 19:56:09 - 182810221 - Result: Already redeemed
+2026-11-23 19:56:10 - Processing K1266-182842833 [164/349] for code: THANKS4WORK
+2026-11-23 19:56:10 - 182842833 - Result: Already redeemed
+2026-11-23 19:56:11 - Processing K1266-182848942 [165/349] for code: THANKS4WORK
+2026-11-23 19:56:11 - 182848942 - Result: Already redeemed
+2026-11-23 19:56:12 - Processing K1266-182849233 [166/349] for code: THANKS4WORK
+2026-11-23 19:56:12 - 182849233 - Result: Already redeemed
+2026-11-23 19:56:14 - Processing K1266-182858998 [167/349] for code: THANKS4WORK
+2026-11-23 19:56:14 - 182858998 - Result: Already redeemed
+2026-11-23 19:56:15 - Processing K1266-182859667 [168/349] for code: THANKS4WORK
+2026-11-23 19:56:15 - 182859667 - Result: Already redeemed
+2026-11-23 19:56:16 - Processing K1266-182892217 [169/349] for code: THANKS4WORK
+2026-11-23 19:56:16 - 182892217 - Result: Already redeemed
+2026-11-23 19:56:17 - Processing K1266-182898057 [170/349] for code: THANKS4WORK
+2026-11-23 19:56:18 - 182898057 - Result: Already redeemed
+2026-11-23 19:56:19 - Processing K1266-182908483 [171/349] for code: THANKS4WORK
+2026-11-23 19:56:19 - 182908483 - Result: Already redeemed
+2026-11-23 19:56:20 - Processing K1266-182941162 [172/349] for code: THANKS4WORK
+2026-11-23 19:56:20 - 182941162 - Result: Already redeemed
+2026-11-23 19:56:21 - Processing K1266-182941502 [173/349] for code: THANKS4WORK
+2026-11-23 19:56:21 - 182941502 - Result: Already redeemed
+2026-11-23 19:56:22 - Processing K1266-182957878 [174/349] for code: THANKS4WORK
+2026-11-23 19:56:22 - 182957878 - Result: Already redeemed
+2026-11-23 19:56:24 - Processing K1266-182990423 [175/349] for code: THANKS4WORK
+2026-11-23 19:56:24 - 182990423 - Result: Already redeemed
+2026-11-23 19:56:25 - Processing K1266-183028805 [176/349] for code: THANKS4WORK
+2026-11-23 19:56:25 - 183028805 - Result: Already redeemed
+2026-11-23 19:56:26 - Processing K1266-183029342 [177/349] for code: THANKS4WORK
+2026-11-23 19:56:26 - 183029342 - Result: Already redeemed
+2026-11-23 19:56:28 - Processing K1266-183039758 [178/349] for code: THANKS4WORK
+2026-11-23 19:56:28 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 19:56:32 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 19:56:40 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 19:56:52 - 183039758 - Result: Redemption request failed
+2026-11-23 19:56:53 - Processing K1266-183072824 [179/349] for code: THANKS4WORK
+2026-11-23 19:56:53 - 183072824 - Result: Already redeemed
+2026-11-23 19:56:55 - Processing K1266-183089209 [180/349] for code: THANKS4WORK
+2026-11-23 19:56:55 - 183089209 - Result: Already redeemed
+2026-11-23 19:56:56 - Processing K1266-183104870 [181/349] for code: THANKS4WORK
+2026-11-23 19:56:56 - 183104870 - Result: Already redeemed
+2026-11-23 19:56:57 - Processing K1266-183121113 [182/349] for code: THANKS4WORK
+2026-11-23 19:56:57 - 183121113 - Result: Already redeemed
+2026-11-23 19:56:58 - Processing K1266-183121451 [183/349] for code: THANKS4WORK
+2026-11-23 19:56:58 - 183121451 - Result: Already redeemed
+2026-11-23 19:56:59 - Processing K1266-183137287 [184/349] for code: THANKS4WORK
+2026-11-23 19:56:59 - 183137287 - Result: Already redeemed
+2026-11-23 19:57:01 - Processing K1266-183154303 [185/349] for code: THANKS4WORK
+2026-11-23 19:57:01 - 183154303 - Result: Already redeemed
+2026-11-23 19:57:02 - Processing K1266-183154798 [186/349] for code: THANKS4WORK
+2026-11-23 19:57:02 - 183154798 - Result: Already redeemed
+2026-11-23 19:57:03 - Processing K1266-183170657 [187/349] for code: THANKS4WORK
+2026-11-23 19:57:03 - 183170657 - Result: Already redeemed
+2026-11-23 19:57:04 - Processing K1266-183219343 [188/349] for code: THANKS4WORK
+2026-11-23 19:57:04 - 183219343 - Result: Already redeemed
+2026-11-23 19:57:06 - Processing K1266-183285360 [189/349] for code: THANKS4WORK
+2026-11-23 19:57:06 - 183285360 - Result: Already redeemed
+2026-11-23 19:57:07 - Processing K1266-183317601 [190/349] for code: THANKS4WORK
+2026-11-23 19:57:07 - 183317601 - Result: Already redeemed
+2026-11-23 19:57:09 - Processing K1266-183350823 [191/349] for code: THANKS4WORK
+2026-11-23 19:57:09 - 183350823 - Result: Already redeemed
+2026-11-23 19:57:10 - Processing K1266-183366693 [192/349] for code: THANKS4WORK
+2026-11-23 19:57:10 - 183366693 - Result: Already redeemed
+2026-11-23 19:57:11 - Processing K1266-183367342 [193/349] for code: THANKS4WORK
+2026-11-23 19:57:11 - 183367342 - Result: Already redeemed
+2026-11-23 19:57:13 - Processing K1266-183383666 [194/349] for code: THANKS4WORK
+2026-11-23 19:57:13 - 183383666 - Result: Already redeemed
+2026-11-23 19:57:14 - Processing K1266-183384158 [195/349] for code: THANKS4WORK
+2026-11-23 19:57:14 - 183384158 - Result: Already redeemed
+2026-11-23 19:57:15 - Processing K1266-183455373 [196/349] for code: THANKS4WORK
+2026-11-23 19:57:15 - 183455373 - Result: Already redeemed
+2026-11-23 19:57:16 - Processing K1266-183498033 [197/349] for code: THANKS4WORK
+2026-11-23 19:57:16 - 183498033 - Result: Already redeemed
+2026-11-23 19:57:17 - Processing K1266-183531242 [198/349] for code: THANKS4WORK
+2026-11-23 19:57:17 - 183531242 - Result: Already redeemed
+2026-11-23 19:57:19 - Processing K1266-183563334 [199/349] for code: THANKS4WORK
+2026-11-23 19:57:19 - 183563334 - Result: Already redeemed
+2026-11-23 19:57:20 - Processing K1266-183579641 [200/349] for code: THANKS4WORK
+2026-11-23 19:57:20 - 183579641 - Result: Already redeemed
+2026-11-23 19:57:22 - Processing K1266-183602956 [201/349] for code: THANKS4WORK
+2026-11-23 19:57:22 - 183602956 - Result: Already redeemed
+2026-11-23 19:57:23 - Processing K1266-183635567 [202/349] for code: THANKS4WORK
+2026-11-23 19:57:23 - 183635567 - Result: Already redeemed
+2026-11-23 19:57:24 - Processing K1266-183662249 [203/349] for code: THANKS4WORK
+2026-11-23 19:57:24 - 183662249 - Result: Already redeemed
+2026-11-23 19:57:26 - Processing K1266-183678347 [204/349] for code: THANKS4WORK
+2026-11-23 19:57:26 - 183678347 - Result: Already redeemed
+2026-11-23 19:57:27 - Processing K1266-183695044 [205/349] for code: THANKS4WORK
+2026-11-23 19:57:27 - 183695044 - Result: Already redeemed
+2026-11-23 19:57:29 - Processing K1266-183744074 [206/349] for code: THANKS4WORK
+2026-11-23 19:57:29 - 183744074 - Result: Already redeemed
+2026-11-23 19:57:30 - Processing K1266-183760133 [207/349] for code: THANKS4WORK
+2026-11-23 19:57:30 - 183760133 - Result: Already redeemed
+2026-11-23 19:57:31 - Processing K1266-183776526 [208/349] for code: THANKS4WORK
+2026-11-23 19:57:31 - 183776526 - Result: Already redeemed
+2026-11-23 19:57:32 - Processing K1266-183799231 [209/349] for code: THANKS4WORK
+2026-11-23 19:57:33 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 19:57:37 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 19:57:45 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 19:57:57 - 183799231 - Result: Redemption request failed
+2026-11-23 19:57:58 - Processing K1266-183809202 [210/349] for code: THANKS4WORK
+2026-11-23 19:57:58 - 183809202 - Result: Already redeemed
+2026-11-23 19:57:59 - Processing K1266-183826046 [211/349] for code: THANKS4WORK
+2026-11-23 19:57:59 - 183826046 - Result: Already redeemed
+2026-11-23 19:58:00 - Processing K1266-183826363 [212/349] for code: THANKS4WORK
+2026-11-23 19:58:00 - 183826363 - Result: Already redeemed
+2026-11-23 19:58:01 - Processing K1266-183842707 [213/349] for code: THANKS4WORK
+2026-11-23 19:58:02 - 183842707 - Result: Already redeemed
+2026-11-23 19:58:03 - Processing K1266-183864332 [214/349] for code: THANKS4WORK
+2026-11-23 19:58:03 - 183864332 - Result: Already redeemed
+2026-11-23 19:58:04 - Processing K1266-183897678 [215/349] for code: THANKS4WORK
+2026-11-23 19:58:04 - 183897678 - Result: Already redeemed
+2026-11-23 19:58:05 - Processing K1266-183907791 [216/349] for code: THANKS4WORK
+2026-11-23 19:58:05 - 183907791 - Result: Already redeemed
+2026-11-23 19:58:06 - Processing K1266-183907855 [217/349] for code: THANKS4WORK
+2026-11-23 19:58:06 - 183907855 - Result: Already redeemed
+2026-11-23 19:58:08 - Processing K1266-183924658 [218/349] for code: THANKS4WORK
+2026-11-23 19:58:08 - 183924658 - Result: Already redeemed
+2026-11-23 19:58:09 - Processing K1266-183924660 [219/349] for code: THANKS4WORK
+2026-11-23 19:58:09 - 183924660 - Result: Already redeemed
+2026-11-23 19:58:10 - Processing K1266-183940809 [220/349] for code: THANKS4WORK
+2026-11-23 19:58:10 - 183940809 - Result: Already redeemed
+2026-11-23 19:58:12 - Processing K1266-183940867 [221/349] for code: THANKS4WORK
+2026-11-23 19:58:12 - 183940867 - Result: Already redeemed
+2026-11-23 19:58:13 - Processing K1266-183946385 [222/349] for code: THANKS4WORK
+2026-11-23 19:58:13 - 183946385 - Result: Already redeemed
+2026-11-23 19:58:15 - Processing K1266-183946804 [223/349] for code: THANKS4WORK
+2026-11-23 19:58:15 - 183946804 - Result: Already redeemed
+2026-11-23 19:58:16 - Processing K1266-183973904 [224/349] for code: THANKS4WORK
+2026-11-23 19:58:16 - 183973904 - Result: Already redeemed
+2026-11-23 19:58:17 - Processing K1266-183996371 [225/349] for code: THANKS4WORK
+2026-11-23 19:58:17 - 183996371 - Result: Already redeemed
+2026-11-23 19:58:19 - Processing K1266-184005794 [226/349] for code: THANKS4WORK
+2026-11-23 19:58:19 - 184005794 - Result: Already redeemed
+2026-11-23 19:58:20 - Processing K1266-184038545 [227/349] for code: THANKS4WORK
+2026-11-23 19:58:20 - 184038545 - Result: Already redeemed
+2026-11-23 19:58:21 - Processing K1266-184071743 [228/349] for code: THANKS4WORK
+2026-11-23 19:58:21 - 184071743 - Result: Already redeemed
+2026-11-23 19:58:22 - Processing K1266-184088377 [229/349] for code: THANKS4WORK
+2026-11-23 19:58:23 - 184088377 - Result: Already redeemed
+2026-11-23 19:58:24 - Processing K1266-184137674 [230/349] for code: THANKS4WORK
+2026-11-23 19:58:24 - 184137674 - Result: Already redeemed
+2026-11-23 19:58:25 - Processing K1266-184153916 [231/349] for code: THANKS4WORK
+2026-11-23 19:58:25 - 184153916 - Result: Already redeemed
+2026-11-23 19:58:26 - Processing K1266-184159552 [232/349] for code: THANKS4WORK
+2026-11-23 19:58:27 - 184159552 - Result: Already redeemed
+2026-11-23 19:58:28 - Processing K1266-184169916 [233/349] for code: THANKS4WORK
+2026-11-23 19:58:28 - 184169916 - Result: Already redeemed
+2026-11-23 19:58:29 - Processing K1266-184170263 [234/349] for code: THANKS4WORK
+2026-11-23 19:58:29 - 184170263 - Result: Already redeemed
+2026-11-23 19:58:31 - Processing K1266-184175883 [235/349] for code: THANKS4WORK
+2026-11-23 19:58:31 - 184175883 - Result: Already redeemed
+2026-11-23 19:58:32 - Processing K1266-184186546 [236/349] for code: THANKS4WORK
+2026-11-23 19:58:32 - 184186546 - Result: Already redeemed
+2026-11-23 19:58:33 - Processing K1266-184202442 [237/349] for code: THANKS4WORK
+2026-11-23 19:58:33 - 184202442 - Result: Already redeemed
+2026-11-23 19:58:34 - Processing K1266-184202684 [238/349] for code: THANKS4WORK
+2026-11-23 19:58:34 - 184202684 - Result: Already redeemed
+2026-11-23 19:58:36 - Processing K1266-184219240 [239/349] for code: THANKS4WORK
+2026-11-23 19:58:36 - 184219240 - Result: Already redeemed
+2026-11-23 19:58:37 - Processing K1266-184235170 [240/349] for code: THANKS4WORK
+2026-11-23 19:58:37 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 19:58:41 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 19:58:49 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 19:59:01 - 184235170 - Result: Redemption request failed
+2026-11-23 19:59:02 - Processing K1266-184252103 [241/349] for code: THANKS4WORK
+2026-11-23 19:59:02 - 184252103 - Result: Already redeemed
+2026-11-23 19:59:03 - Processing K1266-184257548 [242/349] for code: THANKS4WORK
+2026-11-23 19:59:03 - 184257548 - Result: Already redeemed
+2026-11-23 19:59:04 - Processing K1266-184268236 [243/349] for code: THANKS4WORK
+2026-11-23 19:59:04 - 184268236 - Result: Already redeemed
+2026-11-23 19:59:06 - Processing K1266-184268332 [244/349] for code: THANKS4WORK
+2026-11-23 19:59:06 - 184268332 - Result: Already redeemed
+2026-11-23 19:59:07 - Processing K1266-184300583 [245/349] for code: THANKS4WORK
+2026-11-23 19:59:08 - 184300583 - Result: Already redeemed
+2026-11-23 19:59:09 - Processing K1266-184301120 [246/349] for code: THANKS4WORK
+2026-11-23 19:59:09 - 184301120 - Result: Already redeemed
+2026-11-23 19:59:10 - Processing K1266-184301482 [247/349] for code: THANKS4WORK
+2026-11-23 19:59:10 - 184301482 - Result: Already redeemed
+2026-11-23 19:59:11 - Processing K1266-184306709 [248/349] for code: THANKS4WORK
+2026-11-23 19:59:11 - 184306709 - Result: Already redeemed
+2026-11-23 19:59:13 - Processing K1266-184323165 [249/349] for code: THANKS4WORK
+2026-11-23 19:59:13 - 184323165 - Result: Already redeemed
+2026-11-23 19:59:14 - Processing K1266-184334160 [250/349] for code: THANKS4WORK
+2026-11-23 19:59:14 - 184334160 - Result: Already redeemed
+2026-11-23 19:59:15 - Processing K1266-184334326 [251/349] for code: THANKS4WORK
+2026-11-23 19:59:15 - 184334326 - Result: Already redeemed
+2026-11-23 19:59:16 - Processing K1266-184355782 [252/349] for code: THANKS4WORK
+2026-11-23 19:59:16 - 184355782 - Result: Already redeemed
+2026-11-23 19:59:17 - Processing K1266-184355850 [253/349] for code: THANKS4WORK
+2026-11-23 19:59:18 - 184355850 - Result: Already redeemed
+2026-11-23 19:59:19 - Processing K1266-184366301 [254/349] for code: THANKS4WORK
+2026-11-23 19:59:19 - 184366301 - Result: Already redeemed
+2026-11-23 19:59:20 - Processing K1266-184366770 [255/349] for code: THANKS4WORK
+2026-11-23 19:59:20 - 184366770 - Result: Already redeemed
+2026-11-23 19:59:22 - Processing K1266-184382529 [256/349] for code: THANKS4WORK
+2026-11-23 19:59:22 - 184382529 - Result: Already redeemed
+2026-11-23 19:59:23 - Processing K1266-184398957 [257/349] for code: THANKS4WORK
+2026-11-23 19:59:23 - 184398957 - Result: Already redeemed
+2026-11-23 19:59:24 - Processing K1266-184448668 [258/349] for code: THANKS4WORK
+2026-11-23 19:59:24 - 184448668 - Result: Already redeemed
+2026-11-23 19:59:25 - Processing K1266-184481446 [259/349] for code: THANKS4WORK
+2026-11-23 19:59:25 - 184481446 - Result: Already redeemed
+2026-11-23 19:59:27 - Processing K1266-184497430 [260/349] for code: THANKS4WORK
+2026-11-23 19:59:27 - 184497430 - Result: Already redeemed
+2026-11-23 19:59:28 - Processing K1266-185033617 [261/349] for code: THANKS4WORK
+2026-11-23 19:59:28 - 185033617 - Result: Already redeemed
+2026-11-23 19:59:30 - Processing K1266-185122678 [262/349] for code: THANKS4WORK
+2026-11-23 19:59:30 - 185122678 - Result: Already redeemed
+2026-11-23 19:59:31 - Processing K1266-185164978 [263/349] for code: THANKS4WORK
+2026-11-23 19:59:31 - 185164978 - Result: Already redeemed
+2026-11-23 19:59:32 - Processing K1266-185214402 [264/349] for code: THANKS4WORK
+2026-11-23 19:59:32 - 185214402 - Result: Already redeemed
+2026-11-23 19:59:33 - Processing K1266-185284726 [265/349] for code: THANKS4WORK
+2026-11-23 19:59:33 - 185284726 - Result: Already redeemed
+2026-11-23 19:59:35 - Processing K1266-185410447 [266/349] for code: THANKS4WORK
+2026-11-23 19:59:35 - 185410447 - Result: Already redeemed
+2026-11-23 19:59:36 - Processing K1266-185480245 [267/349] for code: THANKS4WORK
+2026-11-23 19:59:36 - 185480245 - Result: Already redeemed
+2026-11-23 19:59:37 - Processing K1266-185673013 [268/349] for code: THANKS4WORK
+2026-11-23 19:59:37 - 185673013 - Result: Already redeemed
+2026-11-23 19:59:39 - Processing K1266-185918037 [269/349] for code: THANKS4WORK
+2026-11-23 19:59:39 - 185918037 - Result: Already redeemed
+2026-11-23 19:59:40 - Processing K1266-186458869 [270/349] for code: THANKS4WORK
+2026-11-23 19:59:40 - 186458869 - Result: Already redeemed
+2026-11-23 19:59:42 - Processing K1266-186459593 [271/349] for code: THANKS4WORK
+2026-11-23 19:59:42 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 19:59:46 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 19:59:54 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 20:00:06 - 186459593 - Result: Redemption request failed
+2026-11-23 20:00:07 - Processing K1266-186524489 [272/349] for code: THANKS4WORK
+2026-11-23 20:00:07 - 186524489 - Result: Already redeemed
+2026-11-23 20:00:09 - Processing K1266-186672006 [273/349] for code: THANKS4WORK
+2026-11-23 20:00:09 - 186672006 - Result: Already redeemed
+2026-11-23 20:00:10 - Processing K1266-186966675 [274/349] for code: THANKS4WORK
+2026-11-23 20:00:10 - 186966675 - Result: Already redeemed
+2026-11-23 20:00:11 - Processing K1266-186967524 [275/349] for code: THANKS4WORK
+2026-11-23 20:00:11 - 186967524 - Result: Already redeemed
+2026-11-23 20:00:13 - Processing K1266-187028067 [276/349] for code: THANKS4WORK
+2026-11-23 20:00:13 - 187028067 - Result: Already redeemed
+2026-11-23 20:00:14 - Processing K1266-187102768 [277/349] for code: THANKS4WORK
+2026-11-23 20:00:14 - 187102768 - Result: Already redeemed
+2026-11-23 20:00:16 - Processing K1266-187115851 [278/349] for code: THANKS4WORK
+2026-11-23 20:00:16 - 187115851 - Result: Already redeemed
+2026-11-23 20:00:17 - Processing K1266-187213112 [279/349] for code: THANKS4WORK
+2026-11-23 20:00:17 - 187213112 - Result: Already redeemed
+2026-11-23 20:00:18 - Processing K1266-187409290 [280/349] for code: THANKS4WORK
+2026-11-23 20:00:18 - 187409290 - Result: Already redeemed
+2026-11-23 20:00:19 - Processing K1266-187557134 [281/349] for code: THANKS4WORK
+2026-11-23 20:00:19 - 187557134 - Result: Already redeemed
+2026-11-23 20:00:21 - Processing K1266-187589555 [282/349] for code: THANKS4WORK
+2026-11-23 20:00:21 - 187589555 - Result: Already redeemed
+2026-11-23 20:00:22 - Processing K1266-187753702 [283/349] for code: THANKS4WORK
+2026-11-23 20:00:22 - 187753702 - Result: Already redeemed
+2026-11-23 20:00:24 - Processing K1266-187950439 [284/349] for code: THANKS4WORK
+2026-11-23 20:00:24 - 187950439 - Result: Already redeemed
+2026-11-23 20:00:25 - Processing K1266-188087741 [285/349] for code: THANKS4WORK
+2026-11-23 20:00:25 - 188087741 - Result: Already redeemed
+2026-11-23 20:00:26 - Processing K1266-188147152 [286/349] for code: THANKS4WORK
+2026-11-23 20:00:26 - 188147152 - Result: Already redeemed
+2026-11-23 20:00:28 - Processing K1266-188343144 [287/349] for code: THANKS4WORK
+2026-11-23 20:00:28 - 188343144 - Result: Already redeemed
+2026-11-23 20:00:29 - Processing K1266-188409270 [288/349] for code: THANKS4WORK
+2026-11-23 20:00:29 - 188409270 - Result: Already redeemed
+2026-11-23 20:00:31 - Processing K1266-188458046 [289/349] for code: THANKS4WORK
+2026-11-23 20:00:31 - 188458046 - Result: Already redeemed
+2026-11-23 20:00:32 - Processing K1266-188470196 [290/349] for code: THANKS4WORK
+2026-11-23 20:00:32 - 188470196 - Result: Already redeemed
+2026-11-23 20:00:33 - Processing K1266-188862376 [291/349] for code: THANKS4WORK
+2026-11-23 20:00:33 - 188862376 - Result: Already redeemed
+2026-11-23 20:00:35 - Processing K1266-189063297 [292/349] for code: THANKS4WORK
+2026-11-23 20:00:35 - 189063297 - Result: Already redeemed
+2026-11-23 20:00:36 - Processing K1266-189666103 [293/349] for code: THANKS4WORK
+2026-11-23 20:00:36 - 189666103 - Result: Already redeemed
+2026-11-23 20:00:37 - Processing K1266-190234418 [294/349] for code: THANKS4WORK
+2026-11-23 20:00:37 - 190234418 - Result: Already redeemed
+2026-11-23 20:00:38 - Processing K1266-190553232 [295/349] for code: THANKS4WORK
+2026-11-23 20:00:38 - 190553232 - Result: Already redeemed
+2026-11-23 20:00:40 - Processing K1266-190573918 [296/349] for code: THANKS4WORK
+2026-11-23 20:00:40 - 190573918 - Result: Already redeemed
+2026-11-23 20:00:41 - Processing K1266-192400838 [297/349] for code: THANKS4WORK
+2026-11-23 20:00:41 - 192400838 - Result: Already redeemed
+2026-11-23 20:00:42 - Processing K1266-193616382 [298/349] for code: THANKS4WORK
+2026-11-23 20:00:42 - 193616382 - Result: Already redeemed
+2026-11-23 20:00:44 - Processing K1266-194020665 [299/349] for code: THANKS4WORK
+2026-11-23 20:00:44 - 194020665 - Result: Already redeemed
+2026-11-23 20:00:45 - Processing K1266-194962807 [300/349] for code: THANKS4WORK
+2026-11-23 20:00:45 - 194962807 - Result: Already redeemed
+2026-11-23 20:00:47 - Processing K1266-195609436 [301/349] for code: THANKS4WORK
+2026-11-23 20:00:47 - 195609436 - Result: Already redeemed
+2026-11-23 20:00:48 - Processing K1266-196209781 [302/349] for code: THANKS4WORK
+2026-11-23 20:00:48 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 20:00:52 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 20:01:00 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 20:01:12 - 196209781 - Result: Redemption request failed
+2026-11-23 20:01:14 - Processing K1266-197077736 [303/349] for code: THANKS4WORK
+2026-11-23 20:01:14 - 197077736 - Result: Already redeemed
+2026-11-23 20:01:15 - Processing K1266-197748881 [304/349] for code: THANKS4WORK
+2026-11-23 20:01:15 - 197748881 - Result: Already redeemed
+2026-11-23 20:01:16 - Processing K1266-199766078 [305/349] for code: THANKS4WORK
+2026-11-23 20:01:17 - 199766078 - Result: Already redeemed
+2026-11-23 20:01:18 - Processing K1266-202789741 [306/349] for code: THANKS4WORK
+2026-11-23 20:01:18 - 202789741 - Result: Already redeemed
+2026-11-23 20:01:19 - Processing K1266-208469366 [307/349] for code: THANKS4WORK
+2026-11-23 20:01:19 - 208469366 - Result: Already redeemed
+2026-11-23 20:01:21 - Processing K1266-209741428 [308/349] for code: THANKS4WORK
+2026-11-23 20:01:21 - 209741428 - Result: Already redeemed
+2026-11-23 20:01:22 - Processing K1266-211074389 [309/349] for code: THANKS4WORK
+2026-11-23 20:01:22 - 211074389 - Result: Already redeemed
+2026-11-23 20:01:24 - Processing K1266-215719460 [310/349] for code: THANKS4WORK
+2026-11-23 20:01:24 - 215719460 - Result: Already redeemed
+2026-11-23 20:01:25 - Processing K1266-216820126 [311/349] for code: THANKS4WORK
+2026-11-23 20:01:25 - 216820126 - Result: Already redeemed
+2026-11-23 20:01:26 - Processing K1266-219382121 [312/349] for code: THANKS4WORK
+2026-11-23 20:01:26 - 219382121 - Result: Already redeemed
+2026-11-23 20:01:28 - Processing K1266-221299698 [313/349] for code: THANKS4WORK
+2026-11-23 20:01:28 - 221299698 - Result: Already redeemed
+2026-11-23 20:01:29 - Processing K1266-221309318 [314/349] for code: THANKS4WORK
+2026-11-23 20:01:29 - 221309318 - Result: Already redeemed
+2026-11-23 20:01:30 - Processing K1266-221445787 [315/349] for code: THANKS4WORK
+2026-11-23 20:01:30 - 221445787 - Result: Already redeemed
+2026-11-23 20:01:32 - Processing K1266-221883902 [316/349] for code: THANKS4WORK
+2026-11-23 20:01:32 - 221883902 - Result: Already redeemed
+2026-11-23 20:01:33 - Processing K1266-222531402 [317/349] for code: THANKS4WORK
+2026-11-23 20:01:33 - 222531402 - Result: Already redeemed
+2026-11-23 20:01:35 - Processing K1266-226209236 [318/349] for code: THANKS4WORK
+2026-11-23 20:01:35 - 226209236 - Result: Already redeemed
+2026-11-23 20:01:36 - Processing K1266-226703897 [319/349] for code: THANKS4WORK
+2026-11-23 20:01:36 - 226703897 - Result: Already redeemed
+2026-11-23 20:01:37 - Processing K1266-227970815 [320/349] for code: THANKS4WORK
+2026-11-23 20:01:37 - 227970815 - Result: Already redeemed
+2026-11-23 20:01:38 - Processing K1266-230653160 [321/349] for code: THANKS4WORK
+2026-11-23 20:01:39 - 230653160 - Result: Already redeemed
+2026-11-23 20:01:40 - Processing K1266-232510086 [322/349] for code: THANKS4WORK
+2026-11-23 20:01:40 - 232510086 - Result: Already redeemed
+2026-11-23 20:01:41 - Processing K1266-240864609 [323/349] for code: THANKS4WORK
+2026-11-23 20:01:41 - 240864609 - Result: Already redeemed
+2026-11-23 20:01:42 - Processing K1266-247760465 [324/349] for code: THANKS4WORK
+2026-11-23 20:01:42 - 247760465 - Result: Already redeemed
+2026-11-23 20:01:43 - Processing K1266-257078077 [325/349] for code: THANKS4WORK
+2026-11-23 20:01:43 - 257078077 - Result: Already redeemed
+2026-11-23 20:01:45 - Processing K1266-264813011 [326/349] for code: THANKS4WORK
+2026-11-23 20:01:45 - 264813011 - Result: Already redeemed
+2026-11-23 20:01:46 - Processing K1266-264853160 [327/349] for code: THANKS4WORK
+2026-11-23 20:01:46 - 264853160 - Result: Already redeemed
+2026-11-23 20:01:47 - Processing K1266-270896390 [328/349] for code: THANKS4WORK
+2026-11-23 20:01:47 - 270896390 - Result: Already redeemed
+2026-11-23 20:01:48 - Processing K1266-278604391 [329/349] for code: THANKS4WORK
+2026-11-23 20:01:48 - 278604391 - Result: Already redeemed
+2026-11-23 20:01:50 - Processing K1266-279842790 [330/349] for code: THANKS4WORK
+2026-11-23 20:01:50 - 279842790 - Result: Already redeemed
+2026-11-23 20:01:51 - Processing K1266-300404990 [331/349] for code: THANKS4WORK
+2026-11-23 20:01:51 - 300404990 - Result: Already redeemed
+2026-11-23 20:01:52 - Processing K1266-302154974 [332/349] for code: THANKS4WORK
+2026-11-23 20:01:53 - 302154974 - Result: Already redeemed
+2026-11-23 20:01:54 - Processing K1266-305821193 [333/349] for code: THANKS4WORK
+2026-11-23 20:01:54 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 20:01:58 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 20:02:06 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 20:02:18 - 305821193 - Result: Redemption request failed
+2026-11-23 20:02:19 - Processing K1266-306565391 [334/349] for code: THANKS4WORK
+2026-11-23 20:02:19 - 306565391 - Result: Already redeemed
+2026-11-23 20:02:20 - Processing K1266-331800134 [335/349] for code: THANKS4WORK
+2026-11-23 20:02:20 - 331800134 - Result: Already redeemed
+2026-11-23 20:02:22 - Processing K1266-377584801 [336/349] for code: THANKS4WORK
+2026-11-23 20:02:22 - 377584801 - Result: Already redeemed
+2026-11-23 20:02:23 - Processing K1266-378518775 [337/349] for code: THANKS4WORK
+2026-11-23 20:02:23 - 378518775 - Result: Already redeemed
+2026-11-23 20:02:24 - Processing K1266-381967745 [338/349] for code: THANKS4WORK
+2026-11-23 20:02:24 - 381967745 - Result: Already redeemed
+2026-11-23 20:02:25 - Processing K1266-402165713 [339/349] for code: THANKS4WORK
+2026-11-23 20:02:25 - 402165713 - Result: Already redeemed
+2026-11-23 20:02:26 - Processing K1266-413620551 [340/349] for code: THANKS4WORK
+2026-11-23 20:02:27 - 413620551 - Result: Already redeemed
+2026-11-23 20:02:28 - Processing K1266-419418577 [341/349] for code: THANKS4WORK
+2026-11-23 20:02:28 - 419418577 - Result: Successfully redeemed
+2026-11-23 20:02:29 - Processing K1266-423438308 [342/349] for code: THANKS4WORK
+2026-11-23 20:02:29 - 423438308 - Result: Already redeemed
+2026-11-23 20:02:30 - Processing K1266-428192624 [343/349] for code: THANKS4WORK
+2026-11-23 20:02:30 - 428192624 - Result: Already redeemed
+2026-11-23 20:02:32 - Processing K1266-428783906 [344/349] for code: THANKS4WORK
+2026-11-23 20:02:32 - 428783906 - Result: Already redeemed
+2026-11-23 20:02:33 - Processing K1266-429292382 [345/349] for code: THANKS4WORK
+2026-11-23 20:02:33 - 429292382 - Result: Already redeemed
+2026-11-23 20:02:35 - Processing K1266-430872448 [346/349] for code: THANKS4WORK
+2026-11-23 20:02:35 - 430872448 - Result: Already redeemed
+2026-11-23 20:02:36 - Processing K1266-436199125 [347/349] for code: THANKS4WORK
+2026-11-23 20:02:36 - 436199125 - Result: Already redeemed
+2026-11-23 20:02:37 - Processing K1266-440301202 [348/349] for code: THANKS4WORK
+2026-11-23 20:02:37 - 440301202 - Result: Already redeemed
+2026-11-23 20:02:39 - Processing K1266-448271166 [349/349] for code: THANKS4WORK
+2026-11-23 20:02:39 - 448271166 - Result: Already redeemed
+2026-11-23 20:02:40 - --- Cycle finished. Total processed: 349/349 ---
+2026-11-23 20:02:40 - 
+========================= Redemption Summary =========================
+2026-11-23 20:02:40 - Code Redeemed: THANKS4WORK
+2026-11-23 20:02:40 - Total Unique Player IDs Found: 349
+2026-11-23 20:02:40 - Total Player IDs Processed: 349
+2026-11-23 20:02:40 - Successfully redeemed: 1
+2026-11-23 20:02:40 - Already redeemed: 337
+2026-11-23 20:02:40 - Wrong kingdom: 0
+2026-11-23 20:02:40 - Other Errors/Failures: 11
+2026-11-23 20:02:40 - Rate Limit Events: 0
+2026-11-23 20:02:40 - Total execution time: 00:12:09
+2026-11-23 20:02:40 - ======================================================================
+2026-11-23 20:02:40 - Marked 'THANKS4WORK' as known.
+
