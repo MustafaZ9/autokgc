@@ -48808,3 +48808,704 @@
 2026-11-23 04:36:44 - ======================================================================
 2026-11-23 04:36:44 - Marked '7VAEyXPV7' as known.
 
+2026-11-23 10:23:20 - Starting manual redemption for code: THANKS4WORK
+2026-11-23 10:23:20 - Read 300 player IDs from lod.csv (300 with a kingdom)
+2026-11-23 10:23:20 - Total unique player IDs to process: 300
+2026-11-23 10:23:20 - 
+=== Starting redemption for gift code: THANKS4WORK ===
+2026-11-23 10:23:20 - Total unique player IDs to process: 300
+2026-11-23 10:23:20 - 
+--- Starting processing cycle. Ready player IDs: 300 ---
+2026-11-23 10:23:20 - Processing K1266-112607487 [1/300] for code: THANKS4WORK
+2026-11-23 10:23:20 - 112607487 - Result: Successfully redeemed
+2026-11-23 10:23:22 - Processing K1266-134948830 [2/300] for code: THANKS4WORK
+2026-11-23 10:23:22 - 134948830 - Result: Successfully redeemed
+2026-11-23 10:23:23 - Processing K1266-137354109 [3/300] for code: THANKS4WORK
+2026-11-23 10:23:23 - 137354109 - Result: Successfully redeemed
+2026-11-23 10:23:24 - Processing K1266-137881550 [4/300] for code: THANKS4WORK
+2026-11-23 10:23:24 - 137881550 - Result: Successfully redeemed
+2026-11-23 10:23:25 - Processing K1266-138078147 [5/300] for code: THANKS4WORK
+2026-11-23 10:23:25 - 138078147 - Result: Successfully redeemed
+2026-11-23 10:23:26 - Processing K1266-159437876 [6/300] for code: THANKS4WORK
+2026-11-23 10:23:26 - 159437876 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-23 10:23:29 - 159437876 - Result: Successfully redeemed
+2026-11-23 10:23:30 - Processing K1266-160961411 [7/300] for code: THANKS4WORK
+2026-11-23 10:23:30 - 160961411 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-23 10:23:32 - 160961411 - Result: Successfully redeemed
+2026-11-23 10:23:33 - Processing K1266-160977214 [8/300] for code: THANKS4WORK
+2026-11-23 10:23:33 - 160977214 - Result: Successfully redeemed
+2026-11-23 10:23:35 - Processing K1266-161223459 [9/300] for code: THANKS4WORK
+2026-11-23 10:23:35 - 161223459 - Result: Successfully redeemed
+2026-11-23 10:23:36 - Processing K1266-161321233 [10/300] for code: THANKS4WORK
+2026-11-23 10:23:36 - 161321233 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-23 10:23:38 - 161321233 - Result: Successfully redeemed
+2026-11-23 10:23:39 - Processing K1266-161387367 [11/300] for code: THANKS4WORK
+2026-11-23 10:23:39 - 161387367 - Result: Successfully redeemed
+2026-11-23 10:23:40 - Processing K1266-161616297 [12/300] for code: THANKS4WORK
+2026-11-23 10:23:41 - 161616297 - Result: Successfully redeemed
+2026-11-23 10:23:42 - Processing K1266-162042375 [13/300] for code: THANKS4WORK
+2026-11-23 10:23:42 - 162042375 - Result: Successfully redeemed
+2026-11-23 10:23:43 - Processing K1266-162402979 [14/300] for code: THANKS4WORK
+2026-11-23 10:23:43 - 162402979 - Result: Successfully redeemed
+2026-11-23 10:23:44 - Processing K1266-162910751 [15/300] for code: THANKS4WORK
+2026-11-23 10:23:44 - 162910751 - Result: Successfully redeemed
+2026-11-23 10:23:46 - Processing K1266-163042051 [16/300] for code: THANKS4WORK
+2026-11-23 10:23:46 - 163042051 - Result: Successfully redeemed
+2026-11-23 10:23:47 - Processing K1266-176448172 [17/300] for code: THANKS4WORK
+2026-11-23 10:23:47 - 176448172 - Result: Successfully redeemed
+2026-11-23 10:23:48 - Processing K1266-176742470 [18/300] for code: THANKS4WORK
+2026-11-23 10:23:49 - 176742470 - Result: Successfully redeemed
+2026-11-23 10:23:50 - Processing K1266-176939042 [19/300] for code: THANKS4WORK
+2026-11-23 10:23:50 - 176939042 - Result: Successfully redeemed
+2026-11-23 10:23:51 - Processing K1266-177004482 [20/300] for code: THANKS4WORK
+2026-11-23 10:23:51 - 177004482 - Result: Successfully redeemed
+2026-11-23 10:23:53 - Processing K1266-177430530 [21/300] for code: THANKS4WORK
+2026-11-23 10:23:53 - 177430530 - Result: Successfully redeemed
+2026-11-23 10:23:54 - Processing K1266-177594975 [22/300] for code: THANKS4WORK
+2026-11-23 10:23:54 - 177594975 - Result: Successfully redeemed
+2026-11-23 10:23:55 - Processing K1266-177643662 [23/300] for code: THANKS4WORK
+2026-11-23 10:23:55 - 177643662 - Result: Successfully redeemed
+2026-11-23 10:23:56 - Processing K1266-177741835 [24/300] for code: THANKS4WORK
+2026-11-23 10:23:56 - 177741835 - Result: Successfully redeemed
+2026-11-23 10:23:58 - Processing K1266-177758431 [25/300] for code: THANKS4WORK
+2026-11-23 10:23:58 - 177758431 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-23 10:24:00 - 177758431 - Result: Successfully redeemed
+2026-11-23 10:24:01 - Processing K1266-177889207 [26/300] for code: THANKS4WORK
+2026-11-23 10:24:01 - 177889207 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-23 10:24:03 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 10:24:07 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 10:24:15 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 10:24:27 - 177889207 - Result: Redemption request failed
+2026-11-23 10:24:28 - Processing K1266-177889304 [27/300] for code: THANKS4WORK
+2026-11-23 10:24:29 - 177889304 - Result: Successfully redeemed
+2026-11-23 10:24:30 - Processing K1266-178003863 [28/300] for code: THANKS4WORK
+2026-11-23 10:24:30 - 178003863 - Result: Successfully redeemed
+2026-11-23 10:24:31 - Processing K1266-178167737 [29/300] for code: THANKS4WORK
+2026-11-23 10:24:31 - 178167737 - Result: Successfully redeemed
+2026-11-23 10:24:32 - Processing K1266-178282383 [30/300] for code: THANKS4WORK
+2026-11-23 10:24:32 - 178282383 - Result: Successfully redeemed
+2026-11-23 10:24:34 - Processing K1266-178298638 [31/300] for code: THANKS4WORK
+2026-11-23 10:24:34 - 178298638 - Result: Successfully redeemed
+2026-11-23 10:24:35 - Processing K1266-178298685 [32/300] for code: THANKS4WORK
+2026-11-23 10:24:35 - 178298685 - Result: Successfully redeemed
+2026-11-23 10:24:36 - Processing K1266-178828379 [33/300] for code: THANKS4WORK
+2026-11-23 10:24:36 - 178828379 - Result: Successfully redeemed
+2026-11-23 10:24:38 - Processing K1266-178872530 [34/300] for code: THANKS4WORK
+2026-11-23 10:24:38 - 178872530 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-23 10:24:40 - 178872530 - Result: Successfully redeemed
+2026-11-23 10:24:41 - Processing K1266-179107716 [35/300] for code: THANKS4WORK
+2026-11-23 10:24:41 - 179107716 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-23 10:24:43 - 179107716 - Result: Successfully redeemed
+2026-11-23 10:24:45 - Processing K1266-179216885 [36/300] for code: THANKS4WORK
+2026-11-23 10:24:45 - 179216885 - Result: Successfully redeemed
+2026-11-23 10:24:46 - Processing K1266-179479072 [37/300] for code: THANKS4WORK
+2026-11-23 10:24:46 - 179479072 - Result: Successfully redeemed
+2026-11-23 10:24:47 - Processing K1266-179515454 [38/300] for code: THANKS4WORK
+2026-11-23 10:24:47 - 179515454 - Result: Successfully redeemed
+2026-11-23 10:24:49 - Processing K1266-179675357 [39/300] for code: THANKS4WORK
+2026-11-23 10:24:49 - 179675357 - Result: Successfully redeemed
+2026-11-23 10:24:50 - Processing K1266-179691958 [40/300] for code: THANKS4WORK
+2026-11-23 10:24:50 - 179691958 - Result: Successfully redeemed
+2026-11-23 10:24:51 - Processing K1266-180368647 [41/300] for code: THANKS4WORK
+2026-11-23 10:24:51 - 180368647 - Result: Successfully redeemed
+2026-11-23 10:24:52 - Processing K1266-180369109 [42/300] for code: THANKS4WORK
+2026-11-23 10:24:52 - 180369109 - Result: Successfully redeemed
+2026-11-23 10:24:54 - Processing K1266-180369159 [43/300] for code: THANKS4WORK
+2026-11-23 10:24:54 - 180369159 - Result: Successfully redeemed
+2026-11-23 10:24:55 - Processing K1266-180385375 [44/300] for code: THANKS4WORK
+2026-11-23 10:24:55 - 180385375 - Result: Successfully redeemed
+2026-11-23 10:24:57 - Processing K1266-180385792 [45/300] for code: THANKS4WORK
+2026-11-23 10:24:57 - 180385792 - Result: Successfully redeemed
+2026-11-23 10:24:58 - Processing K1266-180418498 [46/300] for code: THANKS4WORK
+2026-11-23 10:24:58 - 180418498 - Result: Successfully redeemed
+2026-11-23 10:24:59 - Processing K1266-180434357 [47/300] for code: THANKS4WORK
+2026-11-23 10:25:00 - 180434357 - Result: Successfully redeemed
+2026-11-23 10:25:01 - Processing K1266-180483302 [48/300] for code: THANKS4WORK
+2026-11-23 10:25:01 - 180483302 - Result: Successfully redeemed
+2026-11-23 10:25:02 - Processing K1266-180565782 [49/300] for code: THANKS4WORK
+2026-11-23 10:25:02 - 180565782 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-23 10:25:04 - 180565782 - Result: Successfully redeemed
+2026-11-23 10:25:06 - Processing K1266-180582116 [50/300] for code: THANKS4WORK
+2026-11-23 10:25:06 - 180582116 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-23 10:25:08 - 180582116 - Result: Successfully redeemed
+2026-11-23 10:25:09 - Processing K1266-180588134 [51/300] for code: THANKS4WORK
+2026-11-23 10:25:09 - 180588134 - Result: Successfully redeemed
+2026-11-23 10:25:10 - Processing K1266-180598416 [52/300] for code: THANKS4WORK
+2026-11-23 10:25:10 - 180598416 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-23 10:25:12 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 10:25:16 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 10:25:25 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 10:25:37 - 180598416 - Result: Redemption request failed
+2026-11-23 10:25:38 - Processing K1266-180614319 [53/300] for code: THANKS4WORK
+2026-11-23 10:25:38 - 180614319 - Result: Successfully redeemed
+2026-11-23 10:25:39 - Processing K1266-180636958 [54/300] for code: THANKS4WORK
+2026-11-23 10:25:39 - 180636958 - Result: Successfully redeemed
+2026-11-23 10:25:40 - Processing K1266-180647291 [55/300] for code: THANKS4WORK
+2026-11-23 10:25:40 - 180647291 - Result: Successfully redeemed
+2026-11-23 10:25:41 - Processing K1266-180647824 [56/300] for code: THANKS4WORK
+2026-11-23 10:25:42 - 180647824 - Result: Successfully redeemed
+2026-11-23 10:25:43 - Processing K1266-180669914 [57/300] for code: THANKS4WORK
+2026-11-23 10:25:43 - 180669914 - Result: Successfully redeemed
+2026-11-23 10:25:44 - Processing K1266-180696652 [58/300] for code: THANKS4WORK
+2026-11-23 10:25:44 - 180696652 - Result: Successfully redeemed
+2026-11-23 10:25:46 - Processing K1266-180729920 [59/300] for code: THANKS4WORK
+2026-11-23 10:25:46 - 180729920 - Result: Successfully redeemed
+2026-11-23 10:25:47 - Processing K1266-180778760 [60/300] for code: THANKS4WORK
+2026-11-23 10:25:47 - 180778760 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-23 10:25:49 - 180778760 - Result: Successfully redeemed
+2026-11-23 10:25:50 - Processing K1266-180779049 [61/300] for code: THANKS4WORK
+2026-11-23 10:25:51 - 180779049 - Result: Successfully redeemed
+2026-11-23 10:25:52 - Processing K1266-180795047 [62/300] for code: THANKS4WORK
+2026-11-23 10:25:52 - 180795047 - Result: Successfully redeemed
+2026-11-23 10:25:53 - Processing K1266-180827986 [63/300] for code: THANKS4WORK
+2026-11-23 10:25:53 - 180827986 - Result: Successfully redeemed
+2026-11-23 10:25:54 - Processing K1266-180893684 [64/300] for code: THANKS4WORK
+2026-11-23 10:25:55 - 180893684 - Result: Successfully redeemed
+2026-11-23 10:25:56 - Processing K1266-180893765 [65/300] for code: THANKS4WORK
+2026-11-23 10:25:56 - 180893765 - Result: Successfully redeemed
+2026-11-23 10:25:57 - Processing K1266-180909451 [66/300] for code: THANKS4WORK
+2026-11-23 10:25:57 - 180909451 - Result: Successfully redeemed
+2026-11-23 10:25:59 - Processing K1266-180959009 [67/300] for code: THANKS4WORK
+2026-11-23 10:25:59 - 180959009 - Result: Successfully redeemed
+2026-11-23 10:26:00 - Processing K1266-180975047 [68/300] for code: THANKS4WORK
+2026-11-23 10:26:00 - 180975047 - Result: Successfully redeemed
+2026-11-23 10:26:01 - Processing K1266-181008488 [69/300] for code: THANKS4WORK
+2026-11-23 10:26:01 - 181008488 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-23 10:26:03 - 181008488 - Result: Successfully redeemed
+2026-11-23 10:26:04 - Processing K1266-181024577 [70/300] for code: THANKS4WORK
+2026-11-23 10:26:04 - 181024577 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-23 10:26:07 - 181024577 - Result: Successfully redeemed
+2026-11-23 10:26:08 - Processing K1266-181063111 [71/300] for code: THANKS4WORK
+2026-11-23 10:26:08 - 181063111 - Result: Successfully redeemed
+2026-11-23 10:26:09 - Processing K1266-181089949 [72/300] for code: THANKS4WORK
+2026-11-23 10:26:09 - 181089949 - Result: Successfully redeemed
+2026-11-23 10:26:11 - Processing K1266-181090100 [73/300] for code: THANKS4WORK
+2026-11-23 10:26:11 - 181090100 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-23 10:26:13 - 181090100 - Result: Successfully redeemed
+2026-11-23 10:26:14 - Processing K1266-181106609 [74/300] for code: THANKS4WORK
+2026-11-23 10:26:14 - 181106609 - Result: Successfully redeemed
+2026-11-23 10:26:16 - Processing K1266-181122260 [75/300] for code: THANKS4WORK
+2026-11-23 10:26:16 - 181122260 - Result: Successfully redeemed
+2026-11-23 10:26:17 - Processing K1266-181139114 [76/300] for code: THANKS4WORK
+2026-11-23 10:26:17 - 181139114 - Result: Successfully redeemed
+2026-11-23 10:26:19 - Processing K1266-181155772 [77/300] for code: THANKS4WORK
+2026-11-23 10:26:19 - 181155772 - Result: Successfully redeemed
+2026-11-23 10:26:20 - Processing K1266-181171461 [78/300] for code: THANKS4WORK
+2026-11-23 10:26:20 - 181171461 - Result: Successfully redeemed
+2026-11-23 10:26:21 - Processing K1266-181188977 [79/300] for code: THANKS4WORK
+2026-11-23 10:26:21 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 10:26:25 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 10:26:33 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 10:26:45 - 181188977 - Result: Redemption request failed
+2026-11-23 10:26:47 - Processing K1266-181340930 [80/300] for code: THANKS4WORK
+2026-11-23 10:26:47 - 181340930 - Result: Successfully redeemed
+2026-11-23 10:26:48 - Processing K1266-181351852 [81/300] for code: THANKS4WORK
+2026-11-23 10:26:48 - 181351852 - Result: Successfully redeemed
+2026-11-23 10:26:50 - Processing K1266-181358276 [82/300] for code: THANKS4WORK
+2026-11-23 10:26:50 - 181358276 - Result: Successfully redeemed
+2026-11-23 10:26:51 - Processing K1266-181374419 [83/300] for code: THANKS4WORK
+2026-11-23 10:26:51 - 181374419 - Result: Successfully redeemed
+2026-11-23 10:26:52 - Processing K1266-181384836 [84/300] for code: THANKS4WORK
+2026-11-23 10:26:53 - 181384836 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-23 10:26:55 - 181384836 - Result: Successfully redeemed
+2026-11-23 10:26:56 - Processing K1266-181385198 [85/300] for code: THANKS4WORK
+2026-11-23 10:26:56 - 181385198 - Result: Successfully redeemed
+2026-11-23 10:26:57 - Processing K1266-181401589 [86/300] for code: THANKS4WORK
+2026-11-23 10:26:57 - 181401589 - Result: Successfully redeemed
+2026-11-23 10:26:58 - Processing K1266-181407057 [87/300] for code: THANKS4WORK
+2026-11-23 10:26:58 - 181407057 - Result: Successfully redeemed
+2026-11-23 10:27:00 - Processing K1266-181417643 [88/300] for code: THANKS4WORK
+2026-11-23 10:27:00 - 181417643 - Result: Successfully redeemed
+2026-11-23 10:27:01 - Processing K1266-181423528 [89/300] for code: THANKS4WORK
+2026-11-23 10:27:01 - 181423528 - Result: Successfully redeemed
+2026-11-23 10:27:03 - Processing K1266-181466821 [90/300] for code: THANKS4WORK
+2026-11-23 10:27:03 - 181466821 - Result: Successfully redeemed
+2026-11-23 10:27:04 - Processing K1266-181466879 [91/300] for code: THANKS4WORK
+2026-11-23 10:27:04 - 181466879 - Result: Successfully redeemed
+2026-11-23 10:27:05 - Processing K1266-181482560 [92/300] for code: THANKS4WORK
+2026-11-23 10:27:05 - 181482560 - Result: Successfully redeemed
+2026-11-23 10:27:06 - Processing K1266-181515253 [93/300] for code: THANKS4WORK
+2026-11-23 10:27:06 - 181515253 - Result: Successfully redeemed
+2026-11-23 10:27:08 - Processing K1266-181516264 [94/300] for code: THANKS4WORK
+2026-11-23 10:27:08 - 181516264 - Result: Successfully redeemed
+2026-11-23 10:27:09 - Processing K1266-181516335 [95/300] for code: THANKS4WORK
+2026-11-23 10:27:09 - 181516335 - Result: Successfully redeemed
+2026-11-23 10:27:11 - Processing K1266-181521367 [96/300] for code: THANKS4WORK
+2026-11-23 10:27:11 - 181521367 - Result: Successfully redeemed
+2026-11-23 10:27:12 - Processing K1266-181531678 [97/300] for code: THANKS4WORK
+2026-11-23 10:27:12 - 181531678 - Result: Successfully redeemed
+2026-11-23 10:27:14 - Processing K1266-181548141 [98/300] for code: THANKS4WORK
+2026-11-23 10:27:14 - 181548141 - Result: Successfully redeemed
+2026-11-23 10:27:15 - Processing K1266-181565051 [99/300] for code: THANKS4WORK
+2026-11-23 10:27:15 - 181565051 - Result: Successfully redeemed
+2026-11-23 10:27:16 - Processing K1266-181571708 [100/300] for code: THANKS4WORK
+2026-11-23 10:27:16 - 181571708 - Result: Successfully redeemed
+2026-11-23 10:27:17 - Processing K1266-181614011 [101/300] for code: THANKS4WORK
+2026-11-23 10:27:17 - 181614011 - Result: Successfully redeemed
+2026-11-23 10:27:19 - Processing K1266-181646830 [102/300] for code: THANKS4WORK
+2026-11-23 10:27:19 - 181646830 - Result: Successfully redeemed
+2026-11-23 10:27:20 - Processing K1266-181663028 [103/300] for code: THANKS4WORK
+2026-11-23 10:27:20 - 181663028 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-23 10:27:22 - 181663028 - Result: Successfully redeemed
+2026-11-23 10:27:23 - Processing K1266-181669304 [104/300] for code: THANKS4WORK
+2026-11-23 10:27:24 - 181669304 - Result: Successfully redeemed
+2026-11-23 10:27:25 - Processing K1266-181712653 [105/300] for code: THANKS4WORK
+2026-11-23 10:27:25 - 181712653 - Result: Successfully redeemed
+2026-11-23 10:27:26 - Processing K1266-181728933 [106/300] for code: THANKS4WORK
+2026-11-23 10:27:26 - 181728933 - Result: Successfully redeemed
+2026-11-23 10:27:27 - Processing K1266-181734398 [107/300] for code: THANKS4WORK
+2026-11-23 10:27:27 - 181734398 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-23 10:27:29 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 10:27:33 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 10:27:41 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 10:27:53 - 181734398 - Result: Redemption request failed
+2026-11-23 10:27:55 - Processing K1266-181761437 [108/300] for code: THANKS4WORK
+2026-11-23 10:27:55 - 181761437 - Result: Successfully redeemed
+2026-11-23 10:27:56 - Processing K1266-181778389 [109/300] for code: THANKS4WORK
+2026-11-23 10:27:56 - 181778389 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-23 10:27:58 - 181778389 - Result: Successfully redeemed
+2026-11-23 10:27:59 - Processing K1266-181793958 [110/300] for code: THANKS4WORK
+2026-11-23 10:28:00 - 181793958 - Result: Successfully redeemed
+2026-11-23 10:28:01 - Processing K1266-181794115 [111/300] for code: THANKS4WORK
+2026-11-23 10:28:01 - 181794115 - Result: Successfully redeemed
+2026-11-23 10:28:02 - Processing K1266-181816445 [112/300] for code: THANKS4WORK
+2026-11-23 10:28:02 - 181816445 - Result: Successfully redeemed
+2026-11-23 10:28:03 - Processing K1266-181859892 [113/300] for code: THANKS4WORK
+2026-11-23 10:28:03 - 181859892 - Result: Successfully redeemed
+2026-11-23 10:28:05 - Processing K1266-181859948 [114/300] for code: THANKS4WORK
+2026-11-23 10:28:05 - 181859948 - Result: Successfully redeemed
+2026-11-23 10:28:06 - Processing K1266-181860239 [115/300] for code: THANKS4WORK
+2026-11-23 10:28:06 - 181860239 - Result: Successfully redeemed
+2026-11-23 10:28:07 - Processing K1266-181860336 [116/300] for code: THANKS4WORK
+2026-11-23 10:28:07 - 181860336 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-23 10:28:09 - 181860336 - Result: Successfully redeemed
+2026-11-23 10:28:11 - Processing K1266-181882185 [117/300] for code: THANKS4WORK
+2026-11-23 10:28:11 - 181882185 - Result: Successfully redeemed
+2026-11-23 10:28:12 - Processing K1266-181892750 [118/300] for code: THANKS4WORK
+2026-11-23 10:28:12 - 181892750 - Result: Successfully redeemed
+2026-11-23 10:28:13 - Processing K1266-181941995 [119/300] for code: THANKS4WORK
+2026-11-23 10:28:13 - 181941995 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-23 10:28:15 - 181941995 - Result: Successfully redeemed
+2026-11-23 10:28:17 - Processing K1266-181958341 [120/300] for code: THANKS4WORK
+2026-11-23 10:28:17 - 181958341 - Result: Successfully redeemed
+2026-11-23 10:28:18 - Processing K1266-181958534 [121/300] for code: THANKS4WORK
+2026-11-23 10:28:18 - 181958534 - Result: Successfully redeemed
+2026-11-23 10:28:19 - Processing K1266-182007379 [122/300] for code: THANKS4WORK
+2026-11-23 10:28:19 - 182007379 - Result: Successfully redeemed
+2026-11-23 10:28:20 - Processing K1266-182007601 [123/300] for code: THANKS4WORK
+2026-11-23 10:28:21 - 182007601 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-23 10:28:23 - 182007601 - Result: Successfully redeemed
+2026-11-23 10:28:24 - Processing K1266-182013382 [124/300] for code: THANKS4WORK
+2026-11-23 10:28:24 - 182013382 - Result: Successfully redeemed
+2026-11-23 10:28:25 - Processing K1266-182022970 [125/300] for code: THANKS4WORK
+2026-11-23 10:28:25 - 182022970 - Result: Successfully redeemed
+2026-11-23 10:28:27 - Processing K1266-182046115 [126/300] for code: THANKS4WORK
+2026-11-23 10:28:27 - 182046115 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-23 10:28:29 - 182046115 - Result: Successfully redeemed
+2026-11-23 10:28:30 - Processing K1266-182072645 [127/300] for code: THANKS4WORK
+2026-11-23 10:28:30 - 182072645 - Result: Successfully redeemed
+2026-11-23 10:28:31 - Processing K1266-182144355 [128/300] for code: THANKS4WORK
+2026-11-23 10:28:31 - 182144355 - Result: Successfully redeemed
+2026-11-23 10:28:33 - Processing K1266-182203508 [129/300] for code: THANKS4WORK
+2026-11-23 10:28:33 - 182203508 - Result: Successfully redeemed
+2026-11-23 10:28:34 - Processing K1266-182203900 [130/300] for code: THANKS4WORK
+2026-11-23 10:28:34 - 182203900 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-23 10:28:36 - 182203900 - Result: Successfully redeemed
+2026-11-23 10:28:38 - Processing K1266-182203950 [131/300] for code: THANKS4WORK
+2026-11-23 10:28:38 - 182203950 - Result: Successfully redeemed
+2026-11-23 10:28:39 - Processing K1266-182220585 [132/300] for code: THANKS4WORK
+2026-11-23 10:28:39 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 10:28:43 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 10:28:51 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 10:29:03 - 182220585 - Result: Redemption request failed
+2026-11-23 10:29:05 - Processing K1266-182269737 [133/300] for code: THANKS4WORK
+2026-11-23 10:29:05 - 182269737 - Result: Successfully redeemed
+2026-11-23 10:29:06 - Processing K1266-182286440 [134/300] for code: THANKS4WORK
+2026-11-23 10:29:06 - 182286440 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-23 10:29:08 - 182286440 - Result: Successfully redeemed
+2026-11-23 10:29:09 - Processing K1266-182302366 [135/300] for code: THANKS4WORK
+2026-11-23 10:29:09 - 182302366 - Result: Successfully redeemed
+2026-11-23 10:29:11 - Processing K1266-182318888 [136/300] for code: THANKS4WORK
+2026-11-23 10:29:11 - 182318888 - Result: Successfully redeemed
+2026-11-23 10:29:12 - Processing K1266-182318992 [137/300] for code: THANKS4WORK
+2026-11-23 10:29:12 - 182318992 - Result: Successfully redeemed
+2026-11-23 10:29:13 - Processing K1266-182334781 [138/300] for code: THANKS4WORK
+2026-11-23 10:29:13 - 182334781 - Result: Successfully redeemed
+2026-11-23 10:29:14 - Processing K1266-182384322 [139/300] for code: THANKS4WORK
+2026-11-23 10:29:14 - 182384322 - Result: Successfully redeemed
+2026-11-23 10:29:15 - Processing K1266-182390223 [140/300] for code: THANKS4WORK
+2026-11-23 10:29:16 - 182390223 - Result: Successfully redeemed
+2026-11-23 10:29:17 - Processing K1266-182449206 [141/300] for code: THANKS4WORK
+2026-11-23 10:29:17 - 182449206 - Result: Successfully redeemed
+2026-11-23 10:29:19 - Processing K1266-182450074 [142/300] for code: THANKS4WORK
+2026-11-23 10:29:19 - 182450074 - Result: Successfully redeemed
+2026-11-23 10:29:20 - Processing K1266-182466031 [143/300] for code: THANKS4WORK
+2026-11-23 10:29:20 - 182466031 - Result: Wrong kingdom for this player ID
+2026-11-23 10:29:22 - Processing K1266-182472038 [144/300] for code: THANKS4WORK
+2026-11-23 10:29:22 - 182472038 - Result: Successfully redeemed
+2026-11-23 10:29:23 - Processing K1266-182488759 [145/300] for code: THANKS4WORK
+2026-11-23 10:29:23 - 182488759 - Result: Successfully redeemed
+2026-11-23 10:29:24 - Processing K1266-182531700 [146/300] for code: THANKS4WORK
+2026-11-23 10:29:24 - 182531700 - Result: Successfully redeemed
+2026-11-23 10:29:26 - Processing K1266-182548386 [147/300] for code: THANKS4WORK
+2026-11-23 10:29:26 - 182548386 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-23 10:29:28 - 182548386 - Result: Successfully redeemed
+2026-11-23 10:29:29 - Processing K1266-182646613 [148/300] for code: THANKS4WORK
+2026-11-23 10:29:29 - 182646613 - Result: Successfully redeemed
+2026-11-23 10:29:30 - Processing K1266-182668737 [149/300] for code: THANKS4WORK
+2026-11-23 10:29:30 - 182668737 - Result: Successfully redeemed
+2026-11-23 10:29:31 - Processing K1266-182679587 [150/300] for code: THANKS4WORK
+2026-11-23 10:29:31 - 182679587 - Result: Successfully redeemed
+2026-11-23 10:29:33 - Processing K1266-182717899 [151/300] for code: THANKS4WORK
+2026-11-23 10:29:33 - 182717899 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-23 10:29:35 - 182717899 - Result: Successfully redeemed
+2026-11-23 10:29:36 - Processing K1266-182767010 [152/300] for code: THANKS4WORK
+2026-11-23 10:29:36 - 182767010 - Result: Successfully redeemed
+2026-11-23 10:29:37 - Processing K1266-182810221 [153/300] for code: THANKS4WORK
+2026-11-23 10:29:38 - 182810221 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-23 10:29:40 - 182810221 - Result: Successfully redeemed
+2026-11-23 10:29:41 - Processing K1266-182842833 [154/300] for code: THANKS4WORK
+2026-11-23 10:29:41 - 182842833 - Result: Successfully redeemed
+2026-11-23 10:29:42 - Processing K1266-182848942 [155/300] for code: THANKS4WORK
+2026-11-23 10:29:42 - 182848942 - Result: Successfully redeemed
+2026-11-23 10:29:43 - Processing K1266-182849233 [156/300] for code: THANKS4WORK
+2026-11-23 10:29:43 - 182849233 - Result: Successfully redeemed
+2026-11-23 10:29:45 - Processing K1266-182858998 [157/300] for code: THANKS4WORK
+2026-11-23 10:29:45 - 182858998 - Result: Successfully redeemed
+2026-11-23 10:29:46 - Processing K1266-182859667 [158/300] for code: THANKS4WORK
+2026-11-23 10:29:46 - 182859667 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-23 10:29:48 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 10:29:52 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 10:30:01 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 10:30:13 - 182859667 - Result: Redemption request failed
+2026-11-23 10:30:14 - Processing K1266-182892217 [159/300] for code: THANKS4WORK
+2026-11-23 10:30:14 - 182892217 - Result: Successfully redeemed
+2026-11-23 10:30:15 - Processing K1266-182898057 [160/300] for code: THANKS4WORK
+2026-11-23 10:30:15 - 182898057 - Result: Successfully redeemed
+2026-11-23 10:30:17 - Processing K1266-182908483 [161/300] for code: THANKS4WORK
+2026-11-23 10:30:17 - 182908483 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-23 10:30:19 - 182908483 - Result: Successfully redeemed
+2026-11-23 10:30:20 - Processing K1266-182941162 [162/300] for code: THANKS4WORK
+2026-11-23 10:30:20 - 182941162 - Result: Successfully redeemed
+2026-11-23 10:30:21 - Processing K1266-182941502 [163/300] for code: THANKS4WORK
+2026-11-23 10:30:21 - 182941502 - Result: Successfully redeemed
+2026-11-23 10:30:23 - Processing K1266-182957878 [164/300] for code: THANKS4WORK
+2026-11-23 10:30:23 - 182957878 - Result: Successfully redeemed
+2026-11-23 10:30:24 - Processing K1266-182990423 [165/300] for code: THANKS4WORK
+2026-11-23 10:30:24 - 182990423 - Result: Successfully redeemed
+2026-11-23 10:30:25 - Processing K1266-183006892 [166/300] for code: THANKS4WORK
+2026-11-23 10:30:26 - 183006892 - Result: Successfully redeemed
+2026-11-23 10:30:27 - Processing K1266-183012848 [167/300] for code: THANKS4WORK
+2026-11-23 10:30:27 - 183012848 - Result: Successfully redeemed
+2026-11-23 10:30:28 - Processing K1266-183028805 [168/300] for code: THANKS4WORK
+2026-11-23 10:30:28 - 183028805 - Result: Successfully redeemed
+2026-11-23 10:30:30 - Processing K1266-183029342 [169/300] for code: THANKS4WORK
+2026-11-23 10:30:30 - 183029342 - Result: Successfully redeemed
+2026-11-23 10:30:31 - Processing K1266-183039758 [170/300] for code: THANKS4WORK
+2026-11-23 10:30:31 - 183039758 - Result: Successfully redeemed
+2026-11-23 10:30:32 - Processing K1266-183072306 [171/300] for code: THANKS4WORK
+2026-11-23 10:30:32 - 183072306 - Result: Successfully redeemed
+2026-11-23 10:30:34 - Processing K1266-183072824 [172/300] for code: THANKS4WORK
+2026-11-23 10:30:34 - 183072824 - Result: Successfully redeemed
+2026-11-23 10:30:35 - Processing K1266-183089209 [173/300] for code: THANKS4WORK
+2026-11-23 10:30:35 - 183089209 - Result: Successfully redeemed
+2026-11-23 10:30:36 - Processing K1266-183104870 [174/300] for code: THANKS4WORK
+2026-11-23 10:30:36 - 183104870 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-23 10:30:39 - 183104870 - Result: Successfully redeemed
+2026-11-23 10:30:40 - Processing K1266-183121113 [175/300] for code: THANKS4WORK
+2026-11-23 10:30:40 - 183121113 - Result: Successfully redeemed
+2026-11-23 10:30:41 - Processing K1266-183137287 [176/300] for code: THANKS4WORK
+2026-11-23 10:30:41 - 183137287 - Result: Successfully redeemed
+2026-11-23 10:30:42 - Processing K1266-183154102 [177/300] for code: THANKS4WORK
+2026-11-23 10:30:42 - 183154102 - Result: Successfully redeemed
+2026-11-23 10:30:44 - Processing K1266-183154303 [178/300] for code: THANKS4WORK
+2026-11-23 10:30:44 - 183154303 - Result: Successfully redeemed
+2026-11-23 10:30:45 - Processing K1266-183154798 [179/300] for code: THANKS4WORK
+2026-11-23 10:30:45 - 183154798 - Result: Successfully redeemed
+2026-11-23 10:30:47 - Processing K1266-183170657 [180/300] for code: THANKS4WORK
+2026-11-23 10:30:47 - 183170657 - Result: Successfully redeemed
+2026-11-23 10:30:48 - Processing K1266-183176536 [181/300] for code: THANKS4WORK
+2026-11-23 10:30:48 - 183176536 - Result: Successfully redeemed
+2026-11-23 10:30:50 - Processing K1266-183219217 [182/300] for code: THANKS4WORK
+2026-11-23 10:30:50 - 183219217 - Result: Successfully redeemed
+2026-11-23 10:30:51 - Processing K1266-183219343 [183/300] for code: THANKS4WORK
+2026-11-23 10:30:51 - 183219343 - Result: Successfully redeemed
+2026-11-23 10:30:52 - Processing K1266-183285360 [184/300] for code: THANKS4WORK
+2026-11-23 10:30:52 - 183285360 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-23 10:30:55 - 183285360 - Result: Successfully redeemed
+2026-11-23 10:30:56 - Processing K1266-183317601 [185/300] for code: THANKS4WORK
+2026-11-23 10:30:56 - 183317601 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-23 10:30:58 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 10:31:02 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 10:31:10 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 10:31:22 - 183317601 - Result: Redemption request failed
+2026-11-23 10:31:23 - Processing K1266-183350823 [186/300] for code: THANKS4WORK
+2026-11-23 10:31:23 - 183350823 - Result: Successfully redeemed
+2026-11-23 10:31:25 - Processing K1266-183366693 [187/300] for code: THANKS4WORK
+2026-11-23 10:31:25 - 183366693 - Result: Successfully redeemed
+2026-11-23 10:31:26 - Processing K1266-183367342 [188/300] for code: THANKS4WORK
+2026-11-23 10:31:26 - 183367342 - Result: Successfully redeemed
+2026-11-23 10:31:28 - Processing K1266-183383666 [189/300] for code: THANKS4WORK
+2026-11-23 10:31:28 - 183383666 - Result: Successfully redeemed
+2026-11-23 10:31:29 - Processing K1266-183384158 [190/300] for code: THANKS4WORK
+2026-11-23 10:31:29 - 183384158 - Result: Successfully redeemed
+2026-11-23 10:31:30 - Processing K1266-183455373 [191/300] for code: THANKS4WORK
+2026-11-23 10:31:30 - 183455373 - Result: Successfully redeemed
+2026-11-23 10:31:31 - Processing K1266-183531242 [192/300] for code: THANKS4WORK
+2026-11-23 10:31:31 - 183531242 - Result: Successfully redeemed
+2026-11-23 10:31:33 - Processing K1266-183563334 [193/300] for code: THANKS4WORK
+2026-11-23 10:31:33 - 183563334 - Result: Successfully redeemed
+2026-11-23 10:31:34 - Processing K1266-183579641 [194/300] for code: THANKS4WORK
+2026-11-23 10:31:34 - 183579641 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-23 10:31:36 - 183579641 - Result: Successfully redeemed
+2026-11-23 10:31:37 - Processing K1266-183602956 [195/300] for code: THANKS4WORK
+2026-11-23 10:31:38 - 183602956 - Result: Successfully redeemed
+2026-11-23 10:31:39 - Processing K1266-183635567 [196/300] for code: THANKS4WORK
+2026-11-23 10:31:39 - 183635567 - Result: Successfully redeemed
+2026-11-23 10:31:40 - Processing K1266-183662249 [197/300] for code: THANKS4WORK
+2026-11-23 10:31:40 - 183662249 - Result: Successfully redeemed
+2026-11-23 10:31:41 - Processing K1266-183695044 [198/300] for code: THANKS4WORK
+2026-11-23 10:31:41 - 183695044 - Result: Successfully redeemed
+2026-11-23 10:31:43 - Processing K1266-183744074 [199/300] for code: THANKS4WORK
+2026-11-23 10:31:43 - 183744074 - Result: Successfully redeemed
+2026-11-23 10:31:44 - Processing K1266-183760133 [200/300] for code: THANKS4WORK
+2026-11-23 10:31:44 - 183760133 - Result: Successfully redeemed
+2026-11-23 10:31:45 - Processing K1266-183776526 [201/300] for code: THANKS4WORK
+2026-11-23 10:31:45 - 183776526 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-23 10:31:48 - 183776526 - Result: Successfully redeemed
+2026-11-23 10:31:49 - Processing K1266-183793260 [202/300] for code: THANKS4WORK
+2026-11-23 10:31:49 - 183793260 - Result: Successfully redeemed
+2026-11-23 10:31:50 - Processing K1266-183799231 [203/300] for code: THANKS4WORK
+2026-11-23 10:31:50 - 183799231 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-23 10:31:53 - 183799231 - Result: Successfully redeemed
+2026-11-23 10:31:54 - Processing K1266-183809202 [204/300] for code: THANKS4WORK
+2026-11-23 10:31:54 - 183809202 - Result: Successfully redeemed
+2026-11-23 10:31:55 - Processing K1266-183826046 [205/300] for code: THANKS4WORK
+2026-11-23 10:31:55 - 183826046 - Result: Successfully redeemed
+2026-11-23 10:31:56 - Processing K1266-183826079 [206/300] for code: THANKS4WORK
+2026-11-23 10:31:56 - 183826079 - Result: Successfully redeemed
+2026-11-23 10:31:58 - Processing K1266-183826363 [207/300] for code: THANKS4WORK
+2026-11-23 10:31:58 - 183826363 - Result: Successfully redeemed
+2026-11-23 10:31:59 - Processing K1266-183842707 [208/300] for code: THANKS4WORK
+2026-11-23 10:31:59 - 183842707 - Result: Successfully redeemed
+2026-11-23 10:32:00 - Processing K1266-183858943 [209/300] for code: THANKS4WORK
+2026-11-23 10:32:00 - 183858943 - Result: Successfully redeemed
+2026-11-23 10:32:02 - Processing K1266-183859043 [210/300] for code: THANKS4WORK
+2026-11-23 10:32:02 - 183859043 - Result: Successfully redeemed
+2026-11-23 10:32:03 - Processing K1266-183864332 [211/300] for code: THANKS4WORK
+2026-11-23 10:32:03 - 183864332 - Result: Successfully redeemed
+2026-11-23 10:32:04 - Processing K1266-183897678 [212/300] for code: THANKS4WORK
+2026-11-23 10:32:04 - 183897678 - Result: Successfully redeemed
+2026-11-23 10:32:05 - Processing K1266-183907791 [213/300] for code: THANKS4WORK
+2026-11-23 10:32:05 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 10:32:10 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 10:32:18 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 10:32:30 - 183907791 - Result: Redemption request failed
+2026-11-23 10:32:31 - Processing K1266-183907855 [214/300] for code: THANKS4WORK
+2026-11-23 10:32:31 - 183907855 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-23 10:32:33 - 183907855 - Result: Successfully redeemed
+2026-11-23 10:32:34 - Processing K1266-183924658 [215/300] for code: THANKS4WORK
+2026-11-23 10:32:35 - 183924658 - Result: Successfully redeemed
+2026-11-23 10:32:36 - Processing K1266-183924660 [216/300] for code: THANKS4WORK
+2026-11-23 10:32:36 - 183924660 - Result: Successfully redeemed
+2026-11-23 10:32:37 - Processing K1266-183940809 [217/300] for code: THANKS4WORK
+2026-11-23 10:32:37 - 183940809 - Result: Successfully redeemed
+2026-11-23 10:32:39 - Processing K1266-183946385 [218/300] for code: THANKS4WORK
+2026-11-23 10:32:39 - 183946385 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-23 10:32:41 - 183946385 - Result: Successfully redeemed
+2026-11-23 10:32:42 - Processing K1266-183946804 [219/300] for code: THANKS4WORK
+2026-11-23 10:32:42 - 183946804 - Result: Successfully redeemed
+2026-11-23 10:32:43 - Processing K1266-183996371 [220/300] for code: THANKS4WORK
+2026-11-23 10:32:43 - 183996371 - Result: Successfully redeemed
+2026-11-23 10:32:45 - Processing K1266-184005794 [221/300] for code: THANKS4WORK
+2026-11-23 10:32:45 - 184005794 - Result: Successfully redeemed
+2026-11-23 10:32:46 - Processing K1266-184022781 [222/300] for code: THANKS4WORK
+2026-11-23 10:32:46 - 184022781 - Result: Successfully redeemed
+2026-11-23 10:32:47 - Processing K1266-184038545 [223/300] for code: THANKS4WORK
+2026-11-23 10:32:47 - 184038545 - Result: Successfully redeemed
+2026-11-23 10:32:49 - Processing K1266-184071743 [224/300] for code: THANKS4WORK
+2026-11-23 10:32:49 - 184071743 - Result: Successfully redeemed
+2026-11-23 10:32:50 - Processing K1266-184088377 [225/300] for code: THANKS4WORK
+2026-11-23 10:32:50 - 184088377 - Result: Successfully redeemed
+2026-11-23 10:32:51 - Processing K1266-184137674 [226/300] for code: THANKS4WORK
+2026-11-23 10:32:51 - 184137674 - Result: Successfully redeemed
+2026-11-23 10:32:53 - Processing K1266-184159552 [227/300] for code: THANKS4WORK
+2026-11-23 10:32:53 - 184159552 - Result: Successfully redeemed
+2026-11-23 10:32:54 - Processing K1266-184169916 [228/300] for code: THANKS4WORK
+2026-11-23 10:32:54 - 184169916 - Result: Successfully redeemed
+2026-11-23 10:32:55 - Processing K1266-184170263 [229/300] for code: THANKS4WORK
+2026-11-23 10:32:56 - 184170263 - Result: Successfully redeemed
+2026-11-23 10:32:57 - Processing K1266-184175883 [230/300] for code: THANKS4WORK
+2026-11-23 10:32:57 - 184175883 - Result: Successfully redeemed
+2026-11-23 10:32:58 - Processing K1266-184186546 [231/300] for code: THANKS4WORK
+2026-11-23 10:32:58 - 184186546 - Result: Successfully redeemed
+2026-11-23 10:33:00 - Processing K1266-184202442 [232/300] for code: THANKS4WORK
+2026-11-23 10:33:00 - 184202442 - Result: Successfully redeemed
+2026-11-23 10:33:01 - Processing K1266-184202684 [233/300] for code: THANKS4WORK
+2026-11-23 10:33:01 - 184202684 - Result: Successfully redeemed
+2026-11-23 10:33:03 - Processing K1266-184219240 [234/300] for code: THANKS4WORK
+2026-11-23 10:33:03 - 184219240 - Result: Successfully redeemed
+2026-11-23 10:33:04 - Processing K1266-184252103 [235/300] for code: THANKS4WORK
+2026-11-23 10:33:04 - 184252103 - Result: Successfully redeemed
+2026-11-23 10:33:05 - Processing K1266-184257548 [236/300] for code: THANKS4WORK
+2026-11-23 10:33:05 - 184257548 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-23 10:33:07 - 184257548 - Result: Successfully redeemed
+2026-11-23 10:33:09 - Processing K1266-184268236 [237/300] for code: THANKS4WORK
+2026-11-23 10:33:09 - 184268236 - Result: Successfully redeemed
+2026-11-23 10:33:10 - Processing K1266-184268332 [238/300] for code: THANKS4WORK
+2026-11-23 10:33:10 - 184268332 - Result: Successfully redeemed
+2026-11-23 10:33:11 - Processing K1266-184285099 [239/300] for code: THANKS4WORK
+2026-11-23 10:33:11 - 184285099 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-23 10:33:13 - 184285099 - Result: Successfully redeemed
+2026-11-23 10:33:15 - Processing K1266-184300583 [240/300] for code: THANKS4WORK
+2026-11-23 10:33:15 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 10:33:19 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 10:33:27 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 10:33:39 - 184300583 - Result: Redemption request failed
+2026-11-23 10:33:40 - Processing K1266-184301120 [241/300] for code: THANKS4WORK
+2026-11-23 10:33:40 - 184301120 - Result: Successfully redeemed
+2026-11-23 10:33:42 - Processing K1266-184301482 [242/300] for code: THANKS4WORK
+2026-11-23 10:33:42 - 184301482 - Result: Successfully redeemed
+2026-11-23 10:33:43 - Processing K1266-184306709 [243/300] for code: THANKS4WORK
+2026-11-23 10:33:43 - 184306709 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-23 10:33:45 - 184306709 - Result: Successfully redeemed
+2026-11-23 10:33:47 - Processing K1266-184323165 [244/300] for code: THANKS4WORK
+2026-11-23 10:33:47 - 184323165 - Result: Successfully redeemed
+2026-11-23 10:33:48 - Processing K1266-184334160 [245/300] for code: THANKS4WORK
+2026-11-23 10:33:48 - 184334160 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-23 10:33:50 - 184334160 - Result: Successfully redeemed
+2026-11-23 10:33:51 - Processing K1266-184334326 [246/300] for code: THANKS4WORK
+2026-11-23 10:33:51 - 184334326 - Result: Successfully redeemed
+2026-11-23 10:33:53 - Processing K1266-184355782 [247/300] for code: THANKS4WORK
+2026-11-23 10:33:53 - 184355782 - Result: Successfully redeemed
+2026-11-23 10:33:54 - Processing K1266-184355850 [248/300] for code: THANKS4WORK
+2026-11-23 10:33:54 - 184355850 - Result: Successfully redeemed
+2026-11-23 10:33:56 - Processing K1266-184366301 [249/300] for code: THANKS4WORK
+2026-11-23 10:33:56 - 184366301 - Result: Successfully redeemed
+2026-11-23 10:33:57 - Processing K1266-184398957 [250/300] for code: THANKS4WORK
+2026-11-23 10:33:57 - 184398957 - Result: Successfully redeemed
+2026-11-23 10:33:58 - Processing K1266-184431865 [251/300] for code: THANKS4WORK
+2026-11-23 10:33:58 - 184431865 - Result: Successfully redeemed
+2026-11-23 10:34:00 - Processing K1266-184448668 [252/300] for code: THANKS4WORK
+2026-11-23 10:34:00 - 184448668 - Result: Successfully redeemed
+2026-11-23 10:34:01 - Processing K1266-185122678 [253/300] for code: THANKS4WORK
+2026-11-23 10:34:01 - 185122678 - Result: Successfully redeemed
+2026-11-23 10:34:02 - Processing K1266-185480245 [254/300] for code: THANKS4WORK
+2026-11-23 10:34:02 - 185480245 - Result: Successfully redeemed
+2026-11-23 10:34:04 - Processing K1266-187102768 [255/300] for code: THANKS4WORK
+2026-11-23 10:34:04 - 187102768 - Result: Successfully redeemed
+2026-11-23 10:34:05 - Processing K1266-187115851 [256/300] for code: THANKS4WORK
+2026-11-23 10:34:05 - 187115851 - Result: Successfully redeemed
+2026-11-23 10:34:07 - Processing K1266-188087741 [257/300] for code: THANKS4WORK
+2026-11-23 10:34:07 - 188087741 - Result: Successfully redeemed
+2026-11-23 10:34:08 - Processing K1266-188470196 [258/300] for code: THANKS4WORK
+2026-11-23 10:34:08 - 188470196 - Result: Successfully redeemed
+2026-11-23 10:34:10 - Processing K1266-188862376 [259/300] for code: THANKS4WORK
+2026-11-23 10:34:10 - 188862376 - Result: Successfully redeemed
+2026-11-23 10:34:11 - Processing K1266-190234418 [260/300] for code: THANKS4WORK
+2026-11-23 10:34:11 - 190234418 - Result: Successfully redeemed
+2026-11-23 10:34:12 - Processing K1266-190573918 [261/300] for code: THANKS4WORK
+2026-11-23 10:34:12 - 190573918 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-23 10:34:14 - 190573918 - Result: Successfully redeemed
+2026-11-23 10:34:15 - Processing K1266-191129295 [262/300] for code: THANKS4WORK
+2026-11-23 10:34:15 - 191129295 - Result: Successfully redeemed
+2026-11-23 10:34:17 - Processing K1266-192400838 [263/300] for code: THANKS4WORK
+2026-11-23 10:34:17 - 192400838 - Result: Successfully redeemed
+2026-11-23 10:34:18 - Processing K1266-193616382 [264/300] for code: THANKS4WORK
+2026-11-23 10:34:18 - 193616382 - Result: Successfully redeemed
+2026-11-23 10:34:20 - Processing K1266-194020665 [265/300] for code: THANKS4WORK
+2026-11-23 10:34:20 - 194020665 - Result: Successfully redeemed
+2026-11-23 10:34:21 - Processing K1266-194962807 [266/300] for code: THANKS4WORK
+2026-11-23 10:34:21 - 194962807 - Result: Successfully redeemed
+2026-11-23 10:34:22 - Processing K1266-196209781 [267/300] for code: THANKS4WORK
+2026-11-23 10:34:22 - 196209781 - Result: Successfully redeemed
+2026-11-23 10:34:24 - Processing K1266-197077736 [268/300] for code: THANKS4WORK
+2026-11-23 10:34:24 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 10:34:28 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 10:34:36 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 10:34:48 - 197077736 - Result: Redemption request failed
+2026-11-23 10:34:49 - Processing K1266-197748881 [269/300] for code: THANKS4WORK
+2026-11-23 10:34:49 - 197748881 - Result: Successfully redeemed
+2026-11-23 10:34:50 - Processing K1266-198971997 [270/300] for code: THANKS4WORK
+2026-11-23 10:34:51 - 198971997 - Result: Successfully redeemed
+2026-11-23 10:34:52 - Processing K1266-199766078 [271/300] for code: THANKS4WORK
+2026-11-23 10:34:52 - 199766078 - Result: Successfully redeemed
+2026-11-23 10:34:53 - Processing K1266-202789741 [272/300] for code: THANKS4WORK
+2026-11-23 10:34:54 - 202789741 - Result: Successfully redeemed
+2026-11-23 10:34:55 - Processing K1266-208458805 [273/300] for code: THANKS4WORK
+2026-11-23 10:34:55 - 208458805 - Result: Wrong kingdom for this player ID
+2026-11-23 10:34:56 - Processing K1266-208469366 [274/300] for code: THANKS4WORK
+2026-11-23 10:34:56 - 208469366 - Result: Successfully redeemed
+2026-11-23 10:34:57 - Processing K1266-209741428 [275/300] for code: THANKS4WORK
+2026-11-23 10:34:58 - 209741428 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-23 10:35:00 - 209741428 - Result: Successfully redeemed
+2026-11-23 10:35:01 - Processing K1266-215719460 [276/300] for code: THANKS4WORK
+2026-11-23 10:35:01 - 215719460 - Result: Successfully redeemed
+2026-11-23 10:35:02 - Processing K1266-216820126 [277/300] for code: THANKS4WORK
+2026-11-23 10:35:02 - 216820126 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-23 10:35:04 - 216820126 - Result: Successfully redeemed
+2026-11-23 10:35:06 - Processing K1266-219382121 [278/300] for code: THANKS4WORK
+2026-11-23 10:35:06 - 219382121 - Result: Successfully redeemed
+2026-11-23 10:35:07 - Processing K1266-221309318 [279/300] for code: THANKS4WORK
+2026-11-23 10:35:07 - 221309318 - Result: Successfully redeemed
+2026-11-23 10:35:08 - Processing K1266-221445787 [280/300] for code: THANKS4WORK
+2026-11-23 10:35:08 - 221445787 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-23 10:35:11 - 221445787 - Result: Successfully redeemed
+2026-11-23 10:35:12 - Processing K1266-221883902 [281/300] for code: THANKS4WORK
+2026-11-23 10:35:12 - 221883902 - Result: Successfully redeemed
+2026-11-23 10:35:13 - Processing K1266-226209236 [282/300] for code: THANKS4WORK
+2026-11-23 10:35:13 - 226209236 - Result: Successfully redeemed
+2026-11-23 10:35:14 - Processing K1266-226703897 [283/300] for code: THANKS4WORK
+2026-11-23 10:35:14 - 226703897 - Result: Successfully redeemed
+2026-11-23 10:35:16 - Processing K1266-227970815 [284/300] for code: THANKS4WORK
+2026-11-23 10:35:16 - 227970815 - Result: Successfully redeemed
+2026-11-23 10:35:17 - Processing K1266-232510086 [285/300] for code: THANKS4WORK
+2026-11-23 10:35:17 - 232510086 - Result: Successfully redeemed
+2026-11-23 10:35:18 - Processing K1266-239065229 [286/300] for code: THANKS4WORK
+2026-11-23 10:35:18 - 239065229 - Result: Successfully redeemed
+2026-11-23 10:35:20 - Processing K1266-240864609 [287/300] for code: THANKS4WORK
+2026-11-23 10:35:20 - 240864609 - Result: Successfully redeemed
+2026-11-23 10:35:21 - Processing K1266-247760465 [288/300] for code: THANKS4WORK
+2026-11-23 10:35:21 - 247760465 - Result: Successfully redeemed
+2026-11-23 10:35:22 - Processing K1266-264853160 [289/300] for code: THANKS4WORK
+2026-11-23 10:35:22 - 264853160 - Result: Successfully redeemed
+2026-11-23 10:35:24 - Processing K1266-270896390 [290/300] for code: THANKS4WORK
+2026-11-23 10:35:24 - 270896390 - Result: Successfully redeemed
+2026-11-23 10:35:25 - Processing K1266-279842790 [291/300] for code: THANKS4WORK
+2026-11-23 10:35:25 - 279842790 - Result: Successfully redeemed
+2026-11-23 10:35:26 - Processing K1266-286282880 [292/300] for code: THANKS4WORK
+2026-11-23 10:35:26 - 286282880 - Result: Successfully redeemed
+2026-11-23 10:35:28 - Processing K1266-290460722 [293/300] for code: THANKS4WORK
+2026-11-23 10:35:28 - 290460722 - Result: Successfully redeemed
+2026-11-23 10:35:29 - Processing K1266-300260967 [294/300] for code: THANKS4WORK
+2026-11-23 10:35:29 - 300260967 - Result: Successfully redeemed
+2026-11-23 10:35:30 - Processing K1266-302154974 [295/300] for code: THANKS4WORK
+2026-11-23 10:35:31 - 302154974 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-23 10:35:33 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 10:35:37 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 10:35:45 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-23 10:35:57 - 302154974 - Result: Redemption request failed
+2026-11-23 10:35:58 - Processing K1266-305821193 [296/300] for code: THANKS4WORK
+2026-11-23 10:35:58 - 305821193 - Result: Successfully redeemed
+2026-11-23 10:36:00 - Processing K1266-378005527 [297/300] for code: THANKS4WORK
+2026-11-23 10:36:00 - 378005527 - Result: Successfully redeemed
+2026-11-23 10:36:01 - Processing K1266-378518775 [298/300] for code: THANKS4WORK
+2026-11-23 10:36:01 - 378518775 - Result: Successfully redeemed
+2026-11-23 10:36:02 - Processing K1266-381967745 [299/300] for code: THANKS4WORK
+2026-11-23 10:36:02 - 381967745 - Result: Successfully redeemed
+2026-11-23 10:36:03 - Processing K1266-402165713 [300/300] for code: THANKS4WORK
+2026-11-23 10:36:04 - 402165713 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-23 10:36:06 - 402165713 - Result: Successfully redeemed
+2026-11-23 10:36:07 - --- Cycle finished. Total processed: 300/300 ---
+2026-11-23 10:36:07 - 
+========================= Redemption Summary =========================
+2026-11-23 10:36:07 - Code Redeemed: THANKS4WORK
+2026-11-23 10:36:07 - Total Unique Player IDs Found: 300
+2026-11-23 10:36:07 - Total Player IDs Processed: 300
+2026-11-23 10:36:07 - Successfully redeemed: 287
+2026-11-23 10:36:07 - Already redeemed: 0
+2026-11-23 10:36:07 - Wrong kingdom: 2
+2026-11-23 10:36:07 - Other Errors/Failures: 11
+2026-11-23 10:36:07 - Rate Limit Events: 0
+2026-11-23 10:36:07 - Total execution time: 00:12:47
+2026-11-23 10:36:07 - ======================================================================
