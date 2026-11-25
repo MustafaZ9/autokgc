@@ -54006,3 +54006,14 @@
 2026-11-24 19:11:59 - Fetched 6 total codes from all sources.
 2026-11-24 19:11:59 - Found 0 new codes.
 2026-11-24 19:11:59 - Nothing to redeem.
+2026-11-25 03:14:41 - Starting auto gift code redeemer...
+2026-11-25 03:14:41 - Checking multiple sources for new gift codes...
+2026-11-25 03:14:41 -   [kingshot.net] Fetching https://kingshot.net/gift-codes...
+2026-11-25 03:14:41 -   [kingshot.net] Found 5 codes using selector: code.font-num.font-bold.text-cyan
+2026-11-25 03:14:41 -   [kingshot.net] contributed 5 codes
+2026-11-25 03:14:41 -   [kingshotmastery.com] Fetching https://kingshotmastery.com/gift-codes...
+2026-11-25 03:14:41 -   [kingshotmastery.com] Found 5 codes from JSON-LD structured data
+2026-11-25 03:14:41 -   [kingshotmastery.com] contributed 5 codes
+2026-11-25 03:14:41 - Fetched 5 total codes from all sources.
+2026-11-25 03:14:41 - Found 0 new codes.
+2026-11-25 03:14:41 - Nothing to redeem.
