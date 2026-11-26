@@ -54050,3 +54050,831 @@
 2026-11-26 05:52:05 - Fetched 4 total codes from all sources.
 2026-11-26 05:52:05 - Found 0 new codes.
 2026-11-26 05:52:05 - Nothing to redeem.
+2026-11-26 12:22:17 - Starting manual redemption for code: GOBBLE
+2026-11-26 12:22:17 - Read 349 player IDs from lod.csv (349 with a kingdom)
+2026-11-26 12:22:17 - Total unique player IDs to process: 349
+2026-11-26 12:22:17 - 
+=== Starting redemption for gift code: GOBBLE ===
+2026-11-26 12:22:17 - Total unique player IDs to process: 349
+2026-11-26 12:22:17 - 
+--- Starting processing cycle. Ready player IDs: 349 ---
+2026-11-26 12:22:17 - Processing K1266-134948830 [1/349] for code: GOBBLE
+2026-11-26 12:22:17 - 134948830 - Result: Successfully redeemed
+2026-11-26 12:22:18 - Processing K1266-137881550 [2/349] for code: GOBBLE
+2026-11-26 12:22:19 - 137881550 - Result: Successfully redeemed
+2026-11-26 12:22:20 - Processing K1266-138078147 [3/349] for code: GOBBLE
+2026-11-26 12:22:20 - 138078147 - Result: Successfully redeemed
+2026-11-26 12:22:21 - Processing K1266-159388060 [4/349] for code: GOBBLE
+2026-11-26 12:22:21 - 159388060 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-26 12:22:23 - 159388060 - Result: Successfully redeemed
+2026-11-26 12:22:24 - Processing K1266-159437876 [5/349] for code: GOBBLE
+2026-11-26 12:22:24 - 159437876 - Result: Successfully redeemed
+2026-11-26 12:22:26 - Processing K1266-160141562 [6/349] for code: GOBBLE
+2026-11-26 12:22:26 - 160141562 - Result: Successfully redeemed
+2026-11-26 12:22:27 - Processing K1266-160289155 [7/349] for code: GOBBLE
+2026-11-26 12:22:27 - 160289155 - Result: Successfully redeemed
+2026-11-26 12:22:28 - Processing K1266-160387420 [8/349] for code: GOBBLE
+2026-11-26 12:22:28 - 160387420 - Result: Successfully redeemed
+2026-11-26 12:22:29 - Processing K1266-160617102 [9/349] for code: GOBBLE
+2026-11-26 12:22:30 - 160617102 - Result: Successfully redeemed
+2026-11-26 12:22:31 - Processing K1266-160961411 [10/349] for code: GOBBLE
+2026-11-26 12:22:31 - 160961411 - Result: Successfully redeemed
+2026-11-26 12:22:32 - Processing K1266-160977214 [11/349] for code: GOBBLE
+2026-11-26 12:22:32 - 160977214 - Result: Already redeemed
+2026-11-26 12:22:34 - Processing K1266-161174001 [12/349] for code: GOBBLE
+2026-11-26 12:22:34 - 161174001 - Result: Successfully redeemed
+2026-11-26 12:22:35 - Processing K1266-161223459 [13/349] for code: GOBBLE
+2026-11-26 12:22:35 - 161223459 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-26 12:22:37 - 161223459 - Result: Successfully redeemed
+2026-11-26 12:22:38 - Processing K1266-161321233 [14/349] for code: GOBBLE
+2026-11-26 12:22:38 - 161321233 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-26 12:22:41 - 161321233 - [Attempt 2/3] TIMEOUT RETRY. Retrying...
+2026-11-26 12:22:45 - 161321233 - Result: Successfully redeemed
+2026-11-26 12:22:46 - Processing K1266-161387367 [15/349] for code: GOBBLE
+2026-11-26 12:22:46 - 161387367 - Result: Successfully redeemed
+2026-11-26 12:22:47 - Processing K1266-161600251 [16/349] for code: GOBBLE
+2026-11-26 12:22:47 - 161600251 - Result: Successfully redeemed
+2026-11-26 12:22:48 - Processing K1266-161616297 [17/349] for code: GOBBLE
+2026-11-26 12:22:48 - 161616297 - Result: Successfully redeemed
+2026-11-26 12:22:50 - Processing K1266-162042375 [18/349] for code: GOBBLE
+2026-11-26 12:22:50 - 162042375 - Result: Successfully redeemed
+2026-11-26 12:22:51 - Processing K1266-162402979 [19/349] for code: GOBBLE
+2026-11-26 12:22:51 - 162402979 - Result: Successfully redeemed
+2026-11-26 12:22:52 - Processing K1266-162501078 [20/349] for code: GOBBLE
+2026-11-26 12:22:52 - 162501078 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-26 12:22:54 - 162501078 - Result: Successfully redeemed
+2026-11-26 12:22:55 - Processing K1266-162812562 [21/349] for code: GOBBLE
+2026-11-26 12:22:55 - 162812562 - Result: Successfully redeemed
+2026-11-26 12:22:57 - Processing K1266-162910751 [22/349] for code: GOBBLE
+2026-11-26 12:22:57 - 162910751 - Result: Successfully redeemed
+2026-11-26 12:22:58 - Processing K1266-163042051 [23/349] for code: GOBBLE
+2026-11-26 12:22:58 - 163042051 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-26 12:23:00 - 163042051 - Result: Successfully redeemed
+2026-11-26 12:23:02 - Processing K1266-163385778 [24/349] for code: GOBBLE
+2026-11-26 12:23:02 - 163385778 - Result: Successfully redeemed
+2026-11-26 12:23:03 - Processing K1266-166002850 [25/349] for code: GOBBLE
+2026-11-26 12:23:03 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-26 12:23:07 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-26 12:23:15 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-26 12:23:27 - 166002850 - Result: Redemption request failed
+2026-11-26 12:23:29 - Processing K1266-168075619 [26/349] for code: GOBBLE
+2026-11-26 12:23:29 - 168075619 - Result: Successfully redeemed
+2026-11-26 12:23:30 - Processing K1266-171034082 [27/349] for code: GOBBLE
+2026-11-26 12:23:30 - 171034082 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-26 12:23:32 - 171034082 - [Attempt 2/3] TIMEOUT RETRY. Retrying...
+2026-11-26 12:23:36 - 171034082 - Result: Successfully redeemed
+2026-11-26 12:23:38 - Processing K1266-171492491 [28/349] for code: GOBBLE
+2026-11-26 12:23:38 - 171492491 - Result: Successfully redeemed
+2026-11-26 12:23:39 - Processing K1266-171738442 [29/349] for code: GOBBLE
+2026-11-26 12:23:39 - 171738442 - Result: Successfully redeemed
+2026-11-26 12:23:40 - Processing K1266-176448172 [30/349] for code: GOBBLE
+2026-11-26 12:23:40 - 176448172 - Result: Successfully redeemed
+2026-11-26 12:23:41 - Processing K1266-176742470 [31/349] for code: GOBBLE
+2026-11-26 12:23:41 - 176742470 - Result: Successfully redeemed
+2026-11-26 12:23:43 - Processing K1266-176939042 [32/349] for code: GOBBLE
+2026-11-26 12:23:43 - 176939042 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-26 12:23:45 - 176939042 - [Attempt 2/3] TIMEOUT RETRY. Retrying...
+2026-11-26 12:23:49 - 176939042 - Max attempts reached after TIMEOUT RETRY.
+2026-11-26 12:23:49 - 176939042 - Result: Server requested retry
+2026-11-26 12:23:50 - Processing K1266-176955954 [33/349] for code: GOBBLE
+2026-11-26 12:23:50 - 176955954 - Result: Successfully redeemed
+2026-11-26 12:23:51 - Processing K1266-177004482 [34/349] for code: GOBBLE
+2026-11-26 12:23:52 - 177004482 - Result: Successfully redeemed
+2026-11-26 12:23:53 - Processing K1266-177430530 [35/349] for code: GOBBLE
+2026-11-26 12:23:53 - 177430530 - Result: Successfully redeemed
+2026-11-26 12:23:54 - Processing K1266-177578072 [36/349] for code: GOBBLE
+2026-11-26 12:23:54 - 177578072 - Result: Successfully redeemed
+2026-11-26 12:23:56 - Processing K1266-177594975 [37/349] for code: GOBBLE
+2026-11-26 12:23:56 - 177594975 - Result: Successfully redeemed
+2026-11-26 12:23:57 - Processing K1266-177643662 [38/349] for code: GOBBLE
+2026-11-26 12:23:57 - 177643662 - Result: Successfully redeemed
+2026-11-26 12:23:58 - Processing K1266-177741835 [39/349] for code: GOBBLE
+2026-11-26 12:23:58 - 177741835 - Result: Successfully redeemed
+2026-11-26 12:24:00 - Processing K1266-177742515 [40/349] for code: GOBBLE
+2026-11-26 12:24:00 - 177742515 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-26 12:24:02 - 177742515 - Result: Successfully redeemed
+2026-11-26 12:24:03 - Processing K1266-177758431 [41/349] for code: GOBBLE
+2026-11-26 12:24:03 - 177758431 - Result: Successfully redeemed
+2026-11-26 12:24:05 - Processing K1266-177889207 [42/349] for code: GOBBLE
+2026-11-26 12:24:05 - 177889207 - Result: Successfully redeemed
+2026-11-26 12:24:06 - Processing K1266-177889304 [43/349] for code: GOBBLE
+2026-11-26 12:24:06 - 177889304 - Result: Successfully redeemed
+2026-11-26 12:24:07 - Processing K1266-178003863 [44/349] for code: GOBBLE
+2026-11-26 12:24:07 - 178003863 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-26 12:24:09 - 178003863 - Result: Successfully redeemed
+2026-11-26 12:24:11 - Processing K1266-178167737 [45/349] for code: GOBBLE
+2026-11-26 12:24:11 - 178167737 - Result: Successfully redeemed
+2026-11-26 12:24:12 - Processing K1266-178282383 [46/349] for code: GOBBLE
+2026-11-26 12:24:12 - 178282383 - Result: Successfully redeemed
+2026-11-26 12:24:13 - Processing K1266-178298638 [47/349] for code: GOBBLE
+2026-11-26 12:24:14 - 178298638 - Result: Successfully redeemed
+2026-11-26 12:24:15 - Processing K1266-178298685 [48/349] for code: GOBBLE
+2026-11-26 12:24:15 - 178298685 - Result: Successfully redeemed
+2026-11-26 12:24:16 - Processing K1266-178828379 [49/349] for code: GOBBLE
+2026-11-26 12:24:17 - 178828379 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-26 12:24:19 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-26 12:24:23 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-26 12:24:31 - 178828379 - Result: Successfully redeemed
+2026-11-26 12:24:32 - Processing K1266-178872530 [50/349] for code: GOBBLE
+2026-11-26 12:24:32 - 178872530 - Result: Successfully redeemed
+2026-11-26 12:24:33 - Processing K1266-179107716 [51/349] for code: GOBBLE
+2026-11-26 12:24:33 - 179107716 - Result: Successfully redeemed
+2026-11-26 12:24:35 - Processing K1266-179216885 [52/349] for code: GOBBLE
+2026-11-26 12:24:35 - 179216885 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-26 12:24:37 - 179216885 - Result: Successfully redeemed
+2026-11-26 12:24:38 - Processing K1266-179515454 [53/349] for code: GOBBLE
+2026-11-26 12:24:38 - 179515454 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-26 12:24:40 - 179515454 - [Attempt 2/3] TIMEOUT RETRY. Retrying...
+2026-11-26 12:24:44 - 179515454 - Result: Successfully redeemed
+2026-11-26 12:24:46 - Processing K1266-179675357 [54/349] for code: GOBBLE
+2026-11-26 12:24:46 - 179675357 - Result: Successfully redeemed
+2026-11-26 12:24:47 - Processing K1266-179691958 [55/349] for code: GOBBLE
+2026-11-26 12:24:47 - 179691958 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-26 12:24:49 - 179691958 - [Attempt 2/3] TIMEOUT RETRY. Retrying...
+2026-11-26 12:24:53 - 179691958 - Result: Successfully redeemed
+2026-11-26 12:24:54 - Processing K1266-179937381 [56/349] for code: GOBBLE
+2026-11-26 12:24:54 - 179937381 - Result: Successfully redeemed
+2026-11-26 12:24:56 - Processing K1266-180084701 [57/349] for code: GOBBLE
+2026-11-26 12:24:56 - 180084701 - Result: Already redeemed
+2026-11-26 12:24:57 - Processing K1266-180347034 [58/349] for code: GOBBLE
+2026-11-26 12:24:57 - 180347034 - Result: Successfully redeemed
+2026-11-26 12:24:58 - Processing K1266-180368647 [59/349] for code: GOBBLE
+2026-11-26 12:24:59 - 180368647 - Result: Successfully redeemed
+2026-11-26 12:25:00 - Processing K1266-180369159 [60/349] for code: GOBBLE
+2026-11-26 12:25:00 - 180369159 - Result: Successfully redeemed
+2026-11-26 12:25:01 - Processing K1266-180385375 [61/349] for code: GOBBLE
+2026-11-26 12:25:01 - 180385375 - Result: Successfully redeemed
+2026-11-26 12:25:02 - Processing K1266-180385792 [62/349] for code: GOBBLE
+2026-11-26 12:25:03 - 180385792 - Result: Successfully redeemed
+2026-11-26 12:25:04 - Processing K1266-180418498 [63/349] for code: GOBBLE
+2026-11-26 12:25:04 - 180418498 - Result: Successfully redeemed
+2026-11-26 12:25:05 - Processing K1266-180434357 [64/349] for code: GOBBLE
+2026-11-26 12:25:05 - 180434357 - Result: Successfully redeemed
+2026-11-26 12:25:06 - Processing K1266-180451010 [65/349] for code: GOBBLE
+2026-11-26 12:25:06 - 180451010 - Result: Successfully redeemed
+2026-11-26 12:25:08 - Processing K1266-180483302 [66/349] for code: GOBBLE
+2026-11-26 12:25:08 - 180483302 - Result: Successfully redeemed
+2026-11-26 12:25:09 - Processing K1266-180516559 [67/349] for code: GOBBLE
+2026-11-26 12:25:09 - 180516559 - Result: Successfully redeemed
+2026-11-26 12:25:10 - Processing K1266-180565782 [68/349] for code: GOBBLE
+2026-11-26 12:25:10 - 180565782 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-26 12:25:12 - 180565782 - Result: Successfully redeemed
+2026-11-26 12:25:14 - Processing K1266-180581975 [69/349] for code: GOBBLE
+2026-11-26 12:25:14 - 180581975 - Result: Already redeemed
+2026-11-26 12:25:15 - Processing K1266-180582116 [70/349] for code: GOBBLE
+2026-11-26 12:25:15 - 180582116 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-26 12:25:17 - 180582116 - Result: Successfully redeemed
+2026-11-26 12:25:19 - Processing K1266-180588134 [71/349] for code: GOBBLE
+2026-11-26 12:25:19 - 180588134 - Result: Successfully redeemed
+2026-11-26 12:25:20 - Processing K1266-180598416 [72/349] for code: GOBBLE
+2026-11-26 12:25:20 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-26 12:25:24 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-26 12:25:32 - 180598416 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-26 12:25:34 - 180598416 - Result: Successfully redeemed
+2026-11-26 12:25:36 - Processing K1266-180614319 [73/349] for code: GOBBLE
+2026-11-26 12:25:36 - 180614319 - Result: Successfully redeemed
+2026-11-26 12:25:37 - Processing K1266-180636958 [74/349] for code: GOBBLE
+2026-11-26 12:25:37 - 180636958 - Result: Successfully redeemed
+2026-11-26 12:25:38 - Processing K1266-180647291 [75/349] for code: GOBBLE
+2026-11-26 12:25:38 - 180647291 - Result: Successfully redeemed
+2026-11-26 12:25:39 - Processing K1266-180647824 [76/349] for code: GOBBLE
+2026-11-26 12:25:40 - 180647824 - Result: Successfully redeemed
+2026-11-26 12:25:41 - Processing K1266-180669914 [77/349] for code: GOBBLE
+2026-11-26 12:25:41 - 180669914 - Result: Successfully redeemed
+2026-11-26 12:25:42 - Processing K1266-180696652 [78/349] for code: GOBBLE
+2026-11-26 12:25:42 - 180696652 - Result: Successfully redeemed
+2026-11-26 12:25:43 - Processing K1266-180729920 [79/349] for code: GOBBLE
+2026-11-26 12:25:43 - 180729920 - Result: Successfully redeemed
+2026-11-26 12:25:45 - Processing K1266-180778760 [80/349] for code: GOBBLE
+2026-11-26 12:25:45 - 180778760 - Result: Successfully redeemed
+2026-11-26 12:25:46 - Processing K1266-180779049 [81/349] for code: GOBBLE
+2026-11-26 12:25:46 - 180779049 - Result: Successfully redeemed
+2026-11-26 12:25:47 - Processing K1266-180827986 [82/349] for code: GOBBLE
+2026-11-26 12:25:48 - 180827986 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-26 12:25:50 - 180827986 - Result: Successfully redeemed
+2026-11-26 12:25:51 - Processing K1266-180893684 [83/349] for code: GOBBLE
+2026-11-26 12:25:51 - 180893684 - Result: Successfully redeemed
+2026-11-26 12:25:52 - Processing K1266-180893765 [84/349] for code: GOBBLE
+2026-11-26 12:25:52 - 180893765 - Result: Successfully redeemed
+2026-11-26 12:25:54 - Processing K1266-180909451 [85/349] for code: GOBBLE
+2026-11-26 12:25:54 - 180909451 - Result: Successfully redeemed
+2026-11-26 12:25:55 - Processing K1266-180959009 [86/349] for code: GOBBLE
+2026-11-26 12:25:55 - 180959009 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-26 12:25:58 - 180959009 - Result: Successfully redeemed
+2026-11-26 12:25:59 - Processing K1266-180975047 [87/349] for code: GOBBLE
+2026-11-26 12:25:59 - 180975047 - Result: Successfully redeemed
+2026-11-26 12:26:00 - Processing K1266-180975180 [88/349] for code: GOBBLE
+2026-11-26 12:26:00 - 180975180 - Result: Successfully redeemed
+2026-11-26 12:26:02 - Processing K1266-181008488 [89/349] for code: GOBBLE
+2026-11-26 12:26:02 - 181008488 - Result: Successfully redeemed
+2026-11-26 12:26:03 - Processing K1266-181024577 [90/349] for code: GOBBLE
+2026-11-26 12:26:03 - 181024577 - Result: Successfully redeemed
+2026-11-26 12:26:04 - Processing K1266-181090100 [91/349] for code: GOBBLE
+2026-11-26 12:26:04 - 181090100 - Result: Successfully redeemed
+2026-11-26 12:26:06 - Processing K1266-181106609 [92/349] for code: GOBBLE
+2026-11-26 12:26:06 - 181106609 - Result: Successfully redeemed
+2026-11-26 12:26:07 - Processing K1266-181122260 [93/349] for code: GOBBLE
+2026-11-26 12:26:07 - 181122260 - Result: Successfully redeemed
+2026-11-26 12:26:08 - Processing K1266-181128922 [94/349] for code: GOBBLE
+2026-11-26 12:26:08 - 181128922 - Result: Successfully redeemed
+2026-11-26 12:26:09 - Processing K1266-181139114 [95/349] for code: GOBBLE
+2026-11-26 12:26:09 - 181139114 - Result: Successfully redeemed
+2026-11-26 12:26:10 - Processing K1266-181171461 [96/349] for code: GOBBLE
+2026-11-26 12:26:11 - 181171461 - Result: Successfully redeemed
+2026-11-26 12:26:12 - Processing K1266-181335322 [97/349] for code: GOBBLE
+2026-11-26 12:26:12 - 181335322 - Result: Already redeemed
+2026-11-26 12:26:13 - Processing K1266-181340930 [98/349] for code: GOBBLE
+2026-11-26 12:26:13 - 181340930 - Result: Successfully redeemed
+2026-11-26 12:26:15 - Processing K1266-181351852 [99/349] for code: GOBBLE
+2026-11-26 12:26:15 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-26 12:26:19 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-26 12:26:27 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-26 12:26:39 - 181351852 - Result: Redemption request failed
+2026-11-26 12:26:40 - Processing K1266-181374419 [100/349] for code: GOBBLE
+2026-11-26 12:26:40 - 181374419 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-26 12:26:42 - 181374419 - Result: Successfully redeemed
+2026-11-26 12:26:44 - Processing K1266-181384836 [101/349] for code: GOBBLE
+2026-11-26 12:26:44 - 181384836 - Result: Successfully redeemed
+2026-11-26 12:26:45 - Processing K1266-181385198 [102/349] for code: GOBBLE
+2026-11-26 12:26:45 - 181385198 - Result: Successfully redeemed
+2026-11-26 12:26:47 - Processing K1266-181401589 [103/349] for code: GOBBLE
+2026-11-26 12:26:47 - 181401589 - Result: Successfully redeemed
+2026-11-26 12:26:48 - Processing K1266-181407057 [104/349] for code: GOBBLE
+2026-11-26 12:26:48 - 181407057 - Result: Successfully redeemed
+2026-11-26 12:26:49 - Processing K1266-181433954 [105/349] for code: GOBBLE
+2026-11-26 12:26:49 - 181433954 - Result: Successfully redeemed
+2026-11-26 12:26:50 - Processing K1266-181466879 [106/349] for code: GOBBLE
+2026-11-26 12:26:50 - 181466879 - Result: Successfully redeemed
+2026-11-26 12:26:52 - Processing K1266-181482560 [107/349] for code: GOBBLE
+2026-11-26 12:26:52 - 181482560 - Result: Successfully redeemed
+2026-11-26 12:26:53 - Processing K1266-181515253 [108/349] for code: GOBBLE
+2026-11-26 12:26:53 - 181515253 - Result: Successfully redeemed
+2026-11-26 12:26:54 - Processing K1266-181516335 [109/349] for code: GOBBLE
+2026-11-26 12:26:55 - 181516335 - Result: Successfully redeemed
+2026-11-26 12:26:56 - Processing K1266-181521367 [110/349] for code: GOBBLE
+2026-11-26 12:26:56 - 181521367 - Result: Successfully redeemed
+2026-11-26 12:26:57 - Processing K1266-181531678 [111/349] for code: GOBBLE
+2026-11-26 12:26:57 - 181531678 - Result: Successfully redeemed
+2026-11-26 12:26:58 - Processing K1266-181548141 [112/349] for code: GOBBLE
+2026-11-26 12:26:58 - 181548141 - Result: Successfully redeemed
+2026-11-26 12:27:00 - Processing K1266-181614011 [113/349] for code: GOBBLE
+2026-11-26 12:27:00 - 181614011 - Result: Successfully redeemed
+2026-11-26 12:27:01 - Processing K1266-181663028 [114/349] for code: GOBBLE
+2026-11-26 12:27:01 - 181663028 - Result: Successfully redeemed
+2026-11-26 12:27:02 - Processing K1266-181712653 [115/349] for code: GOBBLE
+2026-11-26 12:27:03 - 181712653 - Result: Successfully redeemed
+2026-11-26 12:27:04 - Processing K1266-181728933 [116/349] for code: GOBBLE
+2026-11-26 12:27:04 - 181728933 - Result: Successfully redeemed
+2026-11-26 12:27:05 - Processing K1266-181734398 [117/349] for code: GOBBLE
+2026-11-26 12:27:05 - 181734398 - Result: Successfully redeemed
+2026-11-26 12:27:06 - Processing K1266-181761437 [118/349] for code: GOBBLE
+2026-11-26 12:27:06 - 181761437 - Result: Successfully redeemed
+2026-11-26 12:27:07 - Processing K1266-181794115 [119/349] for code: GOBBLE
+2026-11-26 12:27:08 - 181794115 - Result: Successfully redeemed
+2026-11-26 12:27:09 - Processing K1266-181816445 [120/349] for code: GOBBLE
+2026-11-26 12:27:09 - 181816445 - Result: Successfully redeemed
+2026-11-26 12:27:10 - Processing K1266-181859892 [121/349] for code: GOBBLE
+2026-11-26 12:27:10 - 181859892 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-26 12:27:12 - 181859892 - [Attempt 2/3] TIMEOUT RETRY. Retrying...
+2026-11-26 12:27:16 - 181859892 - Result: Successfully redeemed
+2026-11-26 12:27:17 - Processing K1266-181859948 [122/349] for code: GOBBLE
+2026-11-26 12:27:17 - 181859948 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-26 12:27:19 - 181859948 - Result: Successfully redeemed
+2026-11-26 12:27:21 - Processing K1266-181860336 [123/349] for code: GOBBLE
+2026-11-26 12:27:21 - 181860336 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-26 12:27:23 - 181860336 - Result: Successfully redeemed
+2026-11-26 12:27:24 - Processing K1266-181882185 [124/349] for code: GOBBLE
+2026-11-26 12:27:25 - 181882185 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-26 12:27:27 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-26 12:27:31 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-26 12:27:39 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-26 12:27:51 - 181882185 - Result: Redemption request failed
+2026-11-26 12:27:52 - Processing K1266-181892750 [125/349] for code: GOBBLE
+2026-11-26 12:27:52 - 181892750 - Result: Successfully redeemed
+2026-11-26 12:27:53 - Processing K1266-181941995 [126/349] for code: GOBBLE
+2026-11-26 12:27:53 - 181941995 - Result: Successfully redeemed
+2026-11-26 12:27:54 - Processing K1266-181958341 [127/349] for code: GOBBLE
+2026-11-26 12:27:54 - 181958341 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-26 12:27:56 - 181958341 - [Attempt 2/3] TIMEOUT RETRY. Retrying...
+2026-11-26 12:28:00 - 181958341 - Result: Successfully redeemed
+2026-11-26 12:28:02 - Processing K1266-181958534 [128/349] for code: GOBBLE
+2026-11-26 12:28:02 - 181958534 - Result: Successfully redeemed
+2026-11-26 12:28:03 - Processing K1266-182007379 [129/349] for code: GOBBLE
+2026-11-26 12:28:03 - 182007379 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-26 12:28:05 - 182007379 - Result: Successfully redeemed
+2026-11-26 12:28:06 - Processing K1266-182013382 [130/349] for code: GOBBLE
+2026-11-26 12:28:06 - 182013382 - Result: Successfully redeemed
+2026-11-26 12:28:07 - Processing K1266-182022970 [131/349] for code: GOBBLE
+2026-11-26 12:28:07 - 182022970 - Result: Successfully redeemed
+2026-11-26 12:28:08 - Processing K1266-182046115 [132/349] for code: GOBBLE
+2026-11-26 12:28:08 - 182046115 - Result: Successfully redeemed
+2026-11-26 12:28:10 - Processing K1266-182072645 [133/349] for code: GOBBLE
+2026-11-26 12:28:10 - 182072645 - Result: Successfully redeemed
+2026-11-26 12:28:11 - Processing K1266-182138227 [134/349] for code: GOBBLE
+2026-11-26 12:28:11 - 182138227 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-26 12:28:13 - 182138227 - Result: Successfully redeemed
+2026-11-26 12:28:15 - Processing K1266-182144355 [135/349] for code: GOBBLE
+2026-11-26 12:28:15 - 182144355 - Result: Successfully redeemed
+2026-11-26 12:28:16 - Processing K1266-182203508 [136/349] for code: GOBBLE
+2026-11-26 12:28:16 - 182203508 - Result: Successfully redeemed
+2026-11-26 12:28:17 - Processing K1266-182203900 [137/349] for code: GOBBLE
+2026-11-26 12:28:17 - 182203900 - Result: Successfully redeemed
+2026-11-26 12:28:19 - Processing K1266-182203950 [138/349] for code: GOBBLE
+2026-11-26 12:28:19 - 182203950 - Result: Successfully redeemed
+2026-11-26 12:28:20 - Processing K1266-182220426 [139/349] for code: GOBBLE
+2026-11-26 12:28:20 - 182220426 - Result: Successfully redeemed
+2026-11-26 12:28:21 - Processing K1266-182220585 [140/349] for code: GOBBLE
+2026-11-26 12:28:22 - 182220585 - Result: Successfully redeemed
+2026-11-26 12:28:23 - Processing K1266-182269737 [141/349] for code: GOBBLE
+2026-11-26 12:28:23 - 182269737 - Result: Successfully redeemed
+2026-11-26 12:28:24 - Processing K1266-182286440 [142/349] for code: GOBBLE
+2026-11-26 12:28:24 - 182286440 - Result: Successfully redeemed
+2026-11-26 12:28:25 - Processing K1266-182302366 [143/349] for code: GOBBLE
+2026-11-26 12:28:25 - 182302366 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-26 12:28:27 - 182302366 - [Attempt 2/3] TIMEOUT RETRY. Retrying...
+2026-11-26 12:28:31 - 182302366 - Max attempts reached after TIMEOUT RETRY.
+2026-11-26 12:28:31 - 182302366 - Result: Server requested retry
+2026-11-26 12:28:33 - Processing K1266-182318888 [144/349] for code: GOBBLE
+2026-11-26 12:28:33 - 182318888 - Result: Successfully redeemed
+2026-11-26 12:28:34 - Processing K1266-182318938 [145/349] for code: GOBBLE
+2026-11-26 12:28:34 - 182318938 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-26 12:28:36 - 182318938 - Result: Successfully redeemed
+2026-11-26 12:28:37 - Processing K1266-182318966 [146/349] for code: GOBBLE
+2026-11-26 12:28:37 - 182318966 - Result: Successfully redeemed
+2026-11-26 12:28:38 - Processing K1266-182318992 [147/349] for code: GOBBLE
+2026-11-26 12:28:38 - 182318992 - Result: Successfully redeemed
+2026-11-26 12:28:40 - Processing K1266-182334781 [148/349] for code: GOBBLE
+2026-11-26 12:28:40 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-26 12:28:44 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-26 12:28:52 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-26 12:29:04 - 182334781 - Result: Redemption request failed
+2026-11-26 12:29:05 - Processing K1266-182335566 [149/349] for code: GOBBLE
+2026-11-26 12:29:05 - 182335566 - Result: Successfully redeemed
+2026-11-26 12:29:07 - Processing K1266-182351447 [150/349] for code: GOBBLE
+2026-11-26 12:29:07 - 182351447 - Result: Successfully redeemed
+2026-11-26 12:29:08 - Processing K1266-182390223 [151/349] for code: GOBBLE
+2026-11-26 12:29:08 - 182390223 - Result: Successfully redeemed
+2026-11-26 12:29:09 - Processing K1266-182400586 [152/349] for code: GOBBLE
+2026-11-26 12:29:09 - 182400586 - Result: Successfully redeemed
+2026-11-26 12:29:10 - Processing K1266-182449206 [153/349] for code: GOBBLE
+2026-11-26 12:29:10 - 182449206 - Result: Successfully redeemed
+2026-11-26 12:29:12 - Processing K1266-182450074 [154/349] for code: GOBBLE
+2026-11-26 12:29:12 - 182450074 - Result: Successfully redeemed
+2026-11-26 12:29:13 - Processing K1266-182472038 [155/349] for code: GOBBLE
+2026-11-26 12:29:13 - 182472038 - Result: Successfully redeemed
+2026-11-26 12:29:15 - Processing K1266-182488759 [156/349] for code: GOBBLE
+2026-11-26 12:29:15 - 182488759 - Result: Successfully redeemed
+2026-11-26 12:29:16 - Processing K1266-182531700 [157/349] for code: GOBBLE
+2026-11-26 12:29:16 - 182531700 - Result: Successfully redeemed
+2026-11-26 12:29:17 - Processing K1266-182646613 [158/349] for code: GOBBLE
+2026-11-26 12:29:17 - 182646613 - Result: Successfully redeemed
+2026-11-26 12:29:18 - Processing K1266-182668737 [159/349] for code: GOBBLE
+2026-11-26 12:29:19 - 182668737 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-26 12:29:21 - 182668737 - [Attempt 2/3] TIMEOUT RETRY. Retrying...
+2026-11-26 12:29:25 - 182668737 - Result: Successfully redeemed
+2026-11-26 12:29:26 - Processing K1266-182679587 [160/349] for code: GOBBLE
+2026-11-26 12:29:26 - 182679587 - Result: Successfully redeemed
+2026-11-26 12:29:27 - Processing K1266-182717899 [161/349] for code: GOBBLE
+2026-11-26 12:29:27 - 182717899 - Result: Successfully redeemed
+2026-11-26 12:29:29 - Processing K1266-182767010 [162/349] for code: GOBBLE
+2026-11-26 12:29:29 - 182767010 - Result: Successfully redeemed
+2026-11-26 12:29:30 - Processing K1266-182810221 [163/349] for code: GOBBLE
+2026-11-26 12:29:30 - 182810221 - Result: Successfully redeemed
+2026-11-26 12:29:32 - Processing K1266-182842833 [164/349] for code: GOBBLE
+2026-11-26 12:29:32 - 182842833 - Result: Successfully redeemed
+2026-11-26 12:29:33 - Processing K1266-182848942 [165/349] for code: GOBBLE
+2026-11-26 12:29:33 - 182848942 - Result: Successfully redeemed
+2026-11-26 12:29:34 - Processing K1266-182849233 [166/349] for code: GOBBLE
+2026-11-26 12:29:34 - 182849233 - Result: Successfully redeemed
+2026-11-26 12:29:36 - Processing K1266-182858998 [167/349] for code: GOBBLE
+2026-11-26 12:29:36 - 182858998 - Result: Successfully redeemed
+2026-11-26 12:29:37 - Processing K1266-182859667 [168/349] for code: GOBBLE
+2026-11-26 12:29:37 - 182859667 - Result: Successfully redeemed
+2026-11-26 12:29:38 - Processing K1266-182892217 [169/349] for code: GOBBLE
+2026-11-26 12:29:38 - 182892217 - Result: Successfully redeemed
+2026-11-26 12:29:39 - Processing K1266-182898057 [170/349] for code: GOBBLE
+2026-11-26 12:29:39 - 182898057 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-26 12:29:41 - 182898057 - Result: Successfully redeemed
+2026-11-26 12:29:43 - Processing K1266-182908483 [171/349] for code: GOBBLE
+2026-11-26 12:29:43 - 182908483 - Result: Successfully redeemed
+2026-11-26 12:29:44 - Processing K1266-182941162 [172/349] for code: GOBBLE
+2026-11-26 12:29:44 - 182941162 - Result: Successfully redeemed
+2026-11-26 12:29:46 - Processing K1266-182941502 [173/349] for code: GOBBLE
+2026-11-26 12:29:46 - 182941502 - Result: Successfully redeemed
+2026-11-26 12:29:47 - Processing K1266-182957878 [174/349] for code: GOBBLE
+2026-11-26 12:29:47 - 182957878 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-26 12:29:49 - 182957878 - Result: Successfully redeemed
+2026-11-26 12:29:50 - Processing K1266-182990423 [175/349] for code: GOBBLE
+2026-11-26 12:29:50 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-26 12:29:54 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-26 12:30:02 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-26 12:30:14 - 182990423 - Result: Redemption request failed
+2026-11-26 12:30:16 - Processing K1266-183028805 [176/349] for code: GOBBLE
+2026-11-26 12:30:16 - 183028805 - Result: Successfully redeemed
+2026-11-26 12:30:17 - Processing K1266-183029342 [177/349] for code: GOBBLE
+2026-11-26 12:30:17 - 183029342 - Result: Successfully redeemed
+2026-11-26 12:30:19 - Processing K1266-183039758 [178/349] for code: GOBBLE
+2026-11-26 12:30:19 - 183039758 - Result: Successfully redeemed
+2026-11-26 12:30:20 - Processing K1266-183072824 [179/349] for code: GOBBLE
+2026-11-26 12:30:20 - 183072824 - Result: Successfully redeemed
+2026-11-26 12:30:21 - Processing K1266-183089209 [180/349] for code: GOBBLE
+2026-11-26 12:30:22 - 183089209 - Result: Successfully redeemed
+2026-11-26 12:30:23 - Processing K1266-183104870 [181/349] for code: GOBBLE
+2026-11-26 12:30:23 - 183104870 - Result: Successfully redeemed
+2026-11-26 12:30:24 - Processing K1266-183121113 [182/349] for code: GOBBLE
+2026-11-26 12:30:24 - 183121113 - Result: Successfully redeemed
+2026-11-26 12:30:25 - Processing K1266-183121451 [183/349] for code: GOBBLE
+2026-11-26 12:30:25 - 183121451 - Result: Already redeemed
+2026-11-26 12:30:26 - Processing K1266-183137287 [184/349] for code: GOBBLE
+2026-11-26 12:30:26 - 183137287 - Result: Already redeemed
+2026-11-26 12:30:27 - Processing K1266-183154303 [185/349] for code: GOBBLE
+2026-11-26 12:30:28 - 183154303 - Result: Successfully redeemed
+2026-11-26 12:30:29 - Processing K1266-183154798 [186/349] for code: GOBBLE
+2026-11-26 12:30:29 - 183154798 - Result: Successfully redeemed
+2026-11-26 12:30:30 - Processing K1266-183170657 [187/349] for code: GOBBLE
+2026-11-26 12:30:31 - 183170657 - Result: Successfully redeemed
+2026-11-26 12:30:32 - Processing K1266-183219343 [188/349] for code: GOBBLE
+2026-11-26 12:30:32 - 183219343 - Result: Successfully redeemed
+2026-11-26 12:30:33 - Processing K1266-183285360 [189/349] for code: GOBBLE
+2026-11-26 12:30:33 - 183285360 - Result: Successfully redeemed
+2026-11-26 12:30:34 - Processing K1266-183317601 [190/349] for code: GOBBLE
+2026-11-26 12:30:35 - 183317601 - Result: Successfully redeemed
+2026-11-26 12:30:36 - Processing K1266-183350823 [191/349] for code: GOBBLE
+2026-11-26 12:30:36 - 183350823 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-26 12:30:38 - 183350823 - Result: Successfully redeemed
+2026-11-26 12:30:39 - Processing K1266-183366693 [192/349] for code: GOBBLE
+2026-11-26 12:30:39 - 183366693 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-26 12:30:42 - 183366693 - Result: Successfully redeemed
+2026-11-26 12:30:43 - Processing K1266-183367342 [193/349] for code: GOBBLE
+2026-11-26 12:30:43 - 183367342 - Result: Successfully redeemed
+2026-11-26 12:30:44 - Processing K1266-183383666 [194/349] for code: GOBBLE
+2026-11-26 12:30:44 - 183383666 - Result: Successfully redeemed
+2026-11-26 12:30:45 - Processing K1266-183384158 [195/349] for code: GOBBLE
+2026-11-26 12:30:45 - 183384158 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-26 12:30:47 - 183384158 - Result: Successfully redeemed
+2026-11-26 12:30:49 - Processing K1266-183455373 [196/349] for code: GOBBLE
+2026-11-26 12:30:49 - 183455373 - Result: Successfully redeemed
+2026-11-26 12:30:50 - Processing K1266-183498033 [197/349] for code: GOBBLE
+2026-11-26 12:30:50 - 183498033 - Result: Successfully redeemed
+2026-11-26 12:30:52 - Processing K1266-183531242 [198/349] for code: GOBBLE
+2026-11-26 12:30:52 - 183531242 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-26 12:30:54 - 183531242 - Result: Successfully redeemed
+2026-11-26 12:30:55 - Processing K1266-183563334 [199/349] for code: GOBBLE
+2026-11-26 12:30:55 - 183563334 - Result: Successfully redeemed
+2026-11-26 12:30:56 - Processing K1266-183579641 [200/349] for code: GOBBLE
+2026-11-26 12:30:56 - 183579641 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-26 12:30:58 - 183579641 - Result: Successfully redeemed
+2026-11-26 12:31:00 - Processing K1266-183602956 [201/349] for code: GOBBLE
+2026-11-26 12:31:00 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-26 12:31:04 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-26 12:31:12 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-26 12:31:24 - 183602956 - Result: Redemption request failed
+2026-11-26 12:31:25 - Processing K1266-183635567 [202/349] for code: GOBBLE
+2026-11-26 12:31:25 - 183635567 - Result: Successfully redeemed
+2026-11-26 12:31:27 - Processing K1266-183662249 [203/349] for code: GOBBLE
+2026-11-26 12:31:27 - 183662249 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-26 12:31:29 - 183662249 - Result: Successfully redeemed
+2026-11-26 12:31:30 - Processing K1266-183678347 [204/349] for code: GOBBLE
+2026-11-26 12:31:30 - 183678347 - Result: Successfully redeemed
+2026-11-26 12:31:31 - Processing K1266-183695044 [205/349] for code: GOBBLE
+2026-11-26 12:31:32 - 183695044 - Result: Successfully redeemed
+2026-11-26 12:31:33 - Processing K1266-183744074 [206/349] for code: GOBBLE
+2026-11-26 12:31:33 - 183744074 - Result: Successfully redeemed
+2026-11-26 12:31:34 - Processing K1266-183760133 [207/349] for code: GOBBLE
+2026-11-26 12:31:34 - 183760133 - Result: Successfully redeemed
+2026-11-26 12:31:36 - Processing K1266-183776526 [208/349] for code: GOBBLE
+2026-11-26 12:31:36 - 183776526 - Result: Successfully redeemed
+2026-11-26 12:31:37 - Processing K1266-183799231 [209/349] for code: GOBBLE
+2026-11-26 12:31:37 - 183799231 - Result: Successfully redeemed
+2026-11-26 12:31:38 - Processing K1266-183809202 [210/349] for code: GOBBLE
+2026-11-26 12:31:38 - 183809202 - Result: Successfully redeemed
+2026-11-26 12:31:40 - Processing K1266-183826046 [211/349] for code: GOBBLE
+2026-11-26 12:31:40 - 183826046 - Result: Successfully redeemed
+2026-11-26 12:31:41 - Processing K1266-183826363 [212/349] for code: GOBBLE
+2026-11-26 12:31:41 - 183826363 - Result: Successfully redeemed
+2026-11-26 12:31:42 - Processing K1266-183842707 [213/349] for code: GOBBLE
+2026-11-26 12:31:42 - 183842707 - Result: Successfully redeemed
+2026-11-26 12:31:44 - Processing K1266-183864332 [214/349] for code: GOBBLE
+2026-11-26 12:31:44 - 183864332 - Result: Successfully redeemed
+2026-11-26 12:31:45 - Processing K1266-183897678 [215/349] for code: GOBBLE
+2026-11-26 12:31:45 - 183897678 - Result: Successfully redeemed
+2026-11-26 12:31:46 - Processing K1266-183907791 [216/349] for code: GOBBLE
+2026-11-26 12:31:46 - 183907791 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-26 12:31:48 - 183907791 - Result: Successfully redeemed
+2026-11-26 12:31:49 - Processing K1266-183907855 [217/349] for code: GOBBLE
+2026-11-26 12:31:49 - 183907855 - Result: Successfully redeemed
+2026-11-26 12:31:51 - Processing K1266-183924658 [218/349] for code: GOBBLE
+2026-11-26 12:31:51 - 183924658 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-26 12:31:53 - 183924658 - Result: Successfully redeemed
+2026-11-26 12:31:54 - Processing K1266-183924660 [219/349] for code: GOBBLE
+2026-11-26 12:31:55 - 183924660 - Result: Successfully redeemed
+2026-11-26 12:31:56 - Processing K1266-183940809 [220/349] for code: GOBBLE
+2026-11-26 12:31:56 - 183940809 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-26 12:31:58 - 183940809 - [Attempt 2/3] TIMEOUT RETRY. Retrying...
+2026-11-26 12:32:02 - 183940809 - Result: Successfully redeemed
+2026-11-26 12:32:03 - Processing K1266-183940867 [221/349] for code: GOBBLE
+2026-11-26 12:32:03 - 183940867 - Result: Successfully redeemed
+2026-11-26 12:32:05 - Processing K1266-183946385 [222/349] for code: GOBBLE
+2026-11-26 12:32:05 - 183946385 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-26 12:32:07 - 183946385 - Result: Successfully redeemed
+2026-11-26 12:32:08 - Processing K1266-183946804 [223/349] for code: GOBBLE
+2026-11-26 12:32:08 - 183946804 - Result: Successfully redeemed
+2026-11-26 12:32:09 - Processing K1266-183973904 [224/349] for code: GOBBLE
+2026-11-26 12:32:10 - 183973904 - Result: Already redeemed
+2026-11-26 12:32:11 - Processing K1266-183996371 [225/349] for code: GOBBLE
+2026-11-26 12:32:11 - 183996371 - Result: Successfully redeemed
+2026-11-26 12:32:12 - Processing K1266-184005794 [226/349] for code: GOBBLE
+2026-11-26 12:32:12 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-26 12:32:16 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-26 12:32:24 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-26 12:32:36 - 184005794 - Result: Redemption request failed
+2026-11-26 12:32:38 - Processing K1266-184038545 [227/349] for code: GOBBLE
+2026-11-26 12:32:38 - 184038545 - Result: Successfully redeemed
+2026-11-26 12:32:39 - Processing K1266-184071743 [228/349] for code: GOBBLE
+2026-11-26 12:32:39 - 184071743 - Result: Successfully redeemed
+2026-11-26 12:32:40 - Processing K1266-184088377 [229/349] for code: GOBBLE
+2026-11-26 12:32:40 - 184088377 - Result: Successfully redeemed
+2026-11-26 12:32:42 - Processing K1266-184137674 [230/349] for code: GOBBLE
+2026-11-26 12:32:42 - 184137674 - Result: Successfully redeemed
+2026-11-26 12:32:43 - Processing K1266-184153916 [231/349] for code: GOBBLE
+2026-11-26 12:32:43 - 184153916 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-26 12:32:45 - 184153916 - Result: Successfully redeemed
+2026-11-26 12:32:46 - Processing K1266-184159552 [232/349] for code: GOBBLE
+2026-11-26 12:32:46 - 184159552 - Result: Successfully redeemed
+2026-11-26 12:32:48 - Processing K1266-184169916 [233/349] for code: GOBBLE
+2026-11-26 12:32:48 - 184169916 - Result: Successfully redeemed
+2026-11-26 12:32:49 - Processing K1266-184170263 [234/349] for code: GOBBLE
+2026-11-26 12:32:49 - 184170263 - Result: Successfully redeemed
+2026-11-26 12:32:51 - Processing K1266-184175883 [235/349] for code: GOBBLE
+2026-11-26 12:32:51 - 184175883 - Result: Successfully redeemed
+2026-11-26 12:32:52 - Processing K1266-184186546 [236/349] for code: GOBBLE
+2026-11-26 12:32:52 - 184186546 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-26 12:32:54 - 184186546 - Result: Successfully redeemed
+2026-11-26 12:32:55 - Processing K1266-184202442 [237/349] for code: GOBBLE
+2026-11-26 12:32:55 - 184202442 - Result: Successfully redeemed
+2026-11-26 12:32:57 - Processing K1266-184202684 [238/349] for code: GOBBLE
+2026-11-26 12:32:57 - 184202684 - Result: Successfully redeemed
+2026-11-26 12:32:58 - Processing K1266-184219240 [239/349] for code: GOBBLE
+2026-11-26 12:32:58 - 184219240 - Result: Successfully redeemed
+2026-11-26 12:32:59 - Processing K1266-184235170 [240/349] for code: GOBBLE
+2026-11-26 12:32:59 - 184235170 - Result: Successfully redeemed
+2026-11-26 12:33:01 - Processing K1266-184252103 [241/349] for code: GOBBLE
+2026-11-26 12:33:01 - 184252103 - Result: Successfully redeemed
+2026-11-26 12:33:02 - Processing K1266-184257548 [242/349] for code: GOBBLE
+2026-11-26 12:33:02 - 184257548 - Result: Successfully redeemed
+2026-11-26 12:33:03 - Processing K1266-184268236 [243/349] for code: GOBBLE
+2026-11-26 12:33:03 - 184268236 - Result: Successfully redeemed
+2026-11-26 12:33:05 - Processing K1266-184268332 [244/349] for code: GOBBLE
+2026-11-26 12:33:05 - 184268332 - Result: Successfully redeemed
+2026-11-26 12:33:06 - Processing K1266-184300583 [245/349] for code: GOBBLE
+2026-11-26 12:33:06 - 184300583 - Result: Successfully redeemed
+2026-11-26 12:33:08 - Processing K1266-184301120 [246/349] for code: GOBBLE
+2026-11-26 12:33:08 - 184301120 - Result: Successfully redeemed
+2026-11-26 12:33:09 - Processing K1266-184301482 [247/349] for code: GOBBLE
+2026-11-26 12:33:09 - 184301482 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-26 12:33:11 - 184301482 - Result: Successfully redeemed
+2026-11-26 12:33:12 - Processing K1266-184306709 [248/349] for code: GOBBLE
+2026-11-26 12:33:12 - 184306709 - Result: Successfully redeemed
+2026-11-26 12:33:13 - Processing K1266-184323165 [249/349] for code: GOBBLE
+2026-11-26 12:33:13 - 184323165 - Result: Successfully redeemed
+2026-11-26 12:33:15 - Processing K1266-184334160 [250/349] for code: GOBBLE
+2026-11-26 12:33:15 - 184334160 - Result: Successfully redeemed
+2026-11-26 12:33:16 - Processing K1266-184334326 [251/349] for code: GOBBLE
+2026-11-26 12:33:16 - 184334326 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-26 12:33:18 - 184334326 - [Attempt 2/3] TIMEOUT RETRY. Retrying...
+2026-11-26 12:33:22 - 184334326 - Result: Successfully redeemed
+2026-11-26 12:33:23 - Processing K1266-184355782 [252/349] for code: GOBBLE
+2026-11-26 12:33:23 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-26 12:33:27 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-26 12:33:35 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-26 12:33:47 - 184355782 - Result: Redemption request failed
+2026-11-26 12:33:49 - Processing K1266-184355850 [253/349] for code: GOBBLE
+2026-11-26 12:33:49 - 184355850 - Result: Successfully redeemed
+2026-11-26 12:33:50 - Processing K1266-184366301 [254/349] for code: GOBBLE
+2026-11-26 12:33:50 - 184366301 - Result: Successfully redeemed
+2026-11-26 12:33:51 - Processing K1266-184366770 [255/349] for code: GOBBLE
+2026-11-26 12:33:51 - 184366770 - Result: Successfully redeemed
+2026-11-26 12:33:53 - Processing K1266-184382529 [256/349] for code: GOBBLE
+2026-11-26 12:33:53 - 184382529 - Result: Successfully redeemed
+2026-11-26 12:33:54 - Processing K1266-184398957 [257/349] for code: GOBBLE
+2026-11-26 12:33:54 - 184398957 - Result: Successfully redeemed
+2026-11-26 12:33:55 - Processing K1266-184448668 [258/349] for code: GOBBLE
+2026-11-26 12:33:56 - 184448668 - Result: Successfully redeemed
+2026-11-26 12:33:57 - Processing K1266-184481446 [259/349] for code: GOBBLE
+2026-11-26 12:33:57 - 184481446 - Result: Successfully redeemed
+2026-11-26 12:33:58 - Processing K1266-184497430 [260/349] for code: GOBBLE
+2026-11-26 12:33:58 - 184497430 - Result: Successfully redeemed
+2026-11-26 12:33:59 - Processing K1266-185033617 [261/349] for code: GOBBLE
+2026-11-26 12:34:00 - 185033617 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-26 12:34:02 - 185033617 - Result: Successfully redeemed
+2026-11-26 12:34:03 - Processing K1266-185122678 [262/349] for code: GOBBLE
+2026-11-26 12:34:03 - 185122678 - Result: Successfully redeemed
+2026-11-26 12:34:04 - Processing K1266-185164978 [263/349] for code: GOBBLE
+2026-11-26 12:34:04 - 185164978 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-26 12:34:06 - 185164978 - Result: Successfully redeemed
+2026-11-26 12:34:07 - Processing K1266-185214402 [264/349] for code: GOBBLE
+2026-11-26 12:34:08 - 185214402 - Result: Successfully redeemed
+2026-11-26 12:34:09 - Processing K1266-185284726 [265/349] for code: GOBBLE
+2026-11-26 12:34:09 - 185284726 - Result: Successfully redeemed
+2026-11-26 12:34:10 - Processing K1266-185410447 [266/349] for code: GOBBLE
+2026-11-26 12:34:10 - 185410447 - Result: Successfully redeemed
+2026-11-26 12:34:11 - Processing K1266-185480245 [267/349] for code: GOBBLE
+2026-11-26 12:34:12 - 185480245 - Result: Successfully redeemed
+2026-11-26 12:34:13 - Processing K1266-185673013 [268/349] for code: GOBBLE
+2026-11-26 12:34:13 - 185673013 - Result: Successfully redeemed
+2026-11-26 12:34:14 - Processing K1266-185918037 [269/349] for code: GOBBLE
+2026-11-26 12:34:14 - 185918037 - Result: Successfully redeemed
+2026-11-26 12:34:15 - Processing K1266-186458869 [270/349] for code: GOBBLE
+2026-11-26 12:34:15 - 186458869 - Result: Successfully redeemed
+2026-11-26 12:34:17 - Processing K1266-186459593 [271/349] for code: GOBBLE
+2026-11-26 12:34:17 - 186459593 - Result: Successfully redeemed
+2026-11-26 12:34:18 - Processing K1266-186524489 [272/349] for code: GOBBLE
+2026-11-26 12:34:18 - 186524489 - Result: Successfully redeemed
+2026-11-26 12:34:19 - Processing K1266-186672006 [273/349] for code: GOBBLE
+2026-11-26 12:34:19 - 186672006 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-26 12:34:21 - 186672006 - [Attempt 2/3] TIMEOUT RETRY. Retrying...
+2026-11-26 12:34:25 - 186672006 - Result: Successfully redeemed
+2026-11-26 12:34:26 - Processing K1266-186966675 [274/349] for code: GOBBLE
+2026-11-26 12:34:26 - 186966675 - Result: Successfully redeemed
+2026-11-26 12:34:28 - Processing K1266-186967524 [275/349] for code: GOBBLE
+2026-11-26 12:34:28 - 186967524 - Result: Already redeemed
+2026-11-26 12:34:29 - Processing K1266-187028067 [276/349] for code: GOBBLE
+2026-11-26 12:34:29 - 187028067 - Result: Successfully redeemed
+2026-11-26 12:34:30 - Processing K1266-187102768 [277/349] for code: GOBBLE
+2026-11-26 12:34:30 - 187102768 - Result: Successfully redeemed
+2026-11-26 12:34:32 - Processing K1266-187115851 [278/349] for code: GOBBLE
+2026-11-26 12:34:32 - 187115851 - Result: Successfully redeemed
+2026-11-26 12:34:33 - Processing K1266-187213112 [279/349] for code: GOBBLE
+2026-11-26 12:34:33 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-26 12:34:37 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-26 12:34:45 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-26 12:34:57 - 187213112 - Result: Redemption request failed
+2026-11-26 12:34:58 - Processing K1266-187409290 [280/349] for code: GOBBLE
+2026-11-26 12:34:58 - 187409290 - Result: Already redeemed
+2026-11-26 12:35:00 - Processing K1266-187557134 [281/349] for code: GOBBLE
+2026-11-26 12:35:00 - 187557134 - Result: Successfully redeemed
+2026-11-26 12:35:01 - Processing K1266-187589555 [282/349] for code: GOBBLE
+2026-11-26 12:35:01 - 187589555 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-26 12:35:03 - 187589555 - Result: Successfully redeemed
+2026-11-26 12:35:04 - Processing K1266-187753702 [283/349] for code: GOBBLE
+2026-11-26 12:35:04 - 187753702 - Result: Already redeemed
+2026-11-26 12:35:05 - Processing K1266-187950439 [284/349] for code: GOBBLE
+2026-11-26 12:35:06 - 187950439 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-26 12:35:08 - 187950439 - Result: Successfully redeemed
+2026-11-26 12:35:09 - Processing K1266-188087741 [285/349] for code: GOBBLE
+2026-11-26 12:35:09 - 188087741 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-26 12:35:11 - 188087741 - Result: Successfully redeemed
+2026-11-26 12:35:12 - Processing K1266-188147152 [286/349] for code: GOBBLE
+2026-11-26 12:35:12 - 188147152 - Result: Successfully redeemed
+2026-11-26 12:35:14 - Processing K1266-188343144 [287/349] for code: GOBBLE
+2026-11-26 12:35:14 - 188343144 - Result: Successfully redeemed
+2026-11-26 12:35:15 - Processing K1266-188409270 [288/349] for code: GOBBLE
+2026-11-26 12:35:15 - 188409270 - Result: Successfully redeemed
+2026-11-26 12:35:16 - Processing K1266-188458046 [289/349] for code: GOBBLE
+2026-11-26 12:35:16 - 188458046 - Result: Already redeemed
+2026-11-26 12:35:18 - Processing K1266-188470196 [290/349] for code: GOBBLE
+2026-11-26 12:35:18 - 188470196 - Result: Successfully redeemed
+2026-11-26 12:35:19 - Processing K1266-188862376 [291/349] for code: GOBBLE
+2026-11-26 12:35:19 - 188862376 - Result: Successfully redeemed
+2026-11-26 12:35:20 - Processing K1266-189063297 [292/349] for code: GOBBLE
+2026-11-26 12:35:20 - 189063297 - Result: Successfully redeemed
+2026-11-26 12:35:21 - Processing K1266-189666103 [293/349] for code: GOBBLE
+2026-11-26 12:35:22 - 189666103 - Result: Already redeemed
+2026-11-26 12:35:23 - Processing K1266-190234418 [294/349] for code: GOBBLE
+2026-11-26 12:35:23 - 190234418 - Result: Successfully redeemed
+2026-11-26 12:35:24 - Processing K1266-190553232 [295/349] for code: GOBBLE
+2026-11-26 12:35:24 - 190553232 - Result: Successfully redeemed
+2026-11-26 12:35:26 - Processing K1266-190573918 [296/349] for code: GOBBLE
+2026-11-26 12:35:26 - 190573918 - Result: Successfully redeemed
+2026-11-26 12:35:27 - Processing K1266-192400838 [297/349] for code: GOBBLE
+2026-11-26 12:35:27 - 192400838 - Result: Successfully redeemed
+2026-11-26 12:35:29 - Processing K1266-193616382 [298/349] for code: GOBBLE
+2026-11-26 12:35:29 - 193616382 - Result: Successfully redeemed
+2026-11-26 12:35:30 - Processing K1266-194020665 [299/349] for code: GOBBLE
+2026-11-26 12:35:30 - 194020665 - Result: Successfully redeemed
+2026-11-26 12:35:31 - Processing K1266-194962807 [300/349] for code: GOBBLE
+2026-11-26 12:35:32 - 194962807 - Result: Successfully redeemed
+2026-11-26 12:35:33 - Processing K1266-195609436 [301/349] for code: GOBBLE
+2026-11-26 12:35:33 - 195609436 - Result: Successfully redeemed
+2026-11-26 12:35:34 - Processing K1266-196209781 [302/349] for code: GOBBLE
+2026-11-26 12:35:34 - 196209781 - Result: Already redeemed
+2026-11-26 12:35:36 - Processing K1266-197077736 [303/349] for code: GOBBLE
+2026-11-26 12:35:36 - 197077736 - Result: Successfully redeemed
+2026-11-26 12:35:37 - Processing K1266-197748881 [304/349] for code: GOBBLE
+2026-11-26 12:35:37 - 197748881 - Result: Successfully redeemed
+2026-11-26 12:35:38 - Processing K1266-199766078 [305/349] for code: GOBBLE
+2026-11-26 12:35:38 - 199766078 - Result: Successfully redeemed
+2026-11-26 12:35:40 - Processing K1266-202789741 [306/349] for code: GOBBLE
+2026-11-26 12:35:40 - 202789741 - Result: Successfully redeemed
+2026-11-26 12:35:41 - Processing K1266-208469366 [307/349] for code: GOBBLE
+2026-11-26 12:35:41 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-26 12:35:45 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-26 12:35:54 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-26 12:36:06 - 208469366 - Result: Redemption request failed
+2026-11-26 12:36:07 - Processing K1266-209741428 [308/349] for code: GOBBLE
+2026-11-26 12:36:07 - 209741428 - Result: Successfully redeemed
+2026-11-26 12:36:08 - Processing K1266-211074389 [309/349] for code: GOBBLE
+2026-11-26 12:36:08 - 211074389 - Result: Successfully redeemed
+2026-11-26 12:36:10 - Processing K1266-215719460 [310/349] for code: GOBBLE
+2026-11-26 12:36:10 - 215719460 - Result: Successfully redeemed
+2026-11-26 12:36:11 - Processing K1266-216820126 [311/349] for code: GOBBLE
+2026-11-26 12:36:11 - 216820126 - Result: Successfully redeemed
+2026-11-26 12:36:13 - Processing K1266-219382121 [312/349] for code: GOBBLE
+2026-11-26 12:36:13 - 219382121 - Result: Successfully redeemed
+2026-11-26 12:36:14 - Processing K1266-221299698 [313/349] for code: GOBBLE
+2026-11-26 12:36:14 - 221299698 - Result: Successfully redeemed
+2026-11-26 12:36:15 - Processing K1266-221309318 [314/349] for code: GOBBLE
+2026-11-26 12:36:15 - 221309318 - Result: Successfully redeemed
+2026-11-26 12:36:16 - Processing K1266-221445787 [315/349] for code: GOBBLE
+2026-11-26 12:36:16 - 221445787 - Result: Successfully redeemed
+2026-11-26 12:36:18 - Processing K1266-221883902 [316/349] for code: GOBBLE
+2026-11-26 12:36:18 - 221883902 - Result: Successfully redeemed
+2026-11-26 12:36:19 - Processing K1266-222531402 [317/349] for code: GOBBLE
+2026-11-26 12:36:19 - 222531402 - Result: Successfully redeemed
+2026-11-26 12:36:20 - Processing K1266-226209236 [318/349] for code: GOBBLE
+2026-11-26 12:36:20 - 226209236 - Result: Successfully redeemed
+2026-11-26 12:36:22 - Processing K1266-226703897 [319/349] for code: GOBBLE
+2026-11-26 12:36:22 - 226703897 - Result: Successfully redeemed
+2026-11-26 12:36:23 - Processing K1266-227970815 [320/349] for code: GOBBLE
+2026-11-26 12:36:23 - 227970815 - Result: Successfully redeemed
+2026-11-26 12:36:24 - Processing K1266-230653160 [321/349] for code: GOBBLE
+2026-11-26 12:36:24 - 230653160 - Result: Successfully redeemed
+2026-11-26 12:36:25 - Processing K1266-232510086 [322/349] for code: GOBBLE
+2026-11-26 12:36:25 - 232510086 - Result: Successfully redeemed
+2026-11-26 12:36:27 - Processing K1266-240864609 [323/349] for code: GOBBLE
+2026-11-26 12:36:27 - 240864609 - Result: Successfully redeemed
+2026-11-26 12:36:28 - Processing K1266-247760465 [324/349] for code: GOBBLE
+2026-11-26 12:36:28 - 247760465 - Result: Successfully redeemed
+2026-11-26 12:36:29 - Processing K1266-257078077 [325/349] for code: GOBBLE
+2026-11-26 12:36:29 - 257078077 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-26 12:36:31 - 257078077 - Result: Successfully redeemed
+2026-11-26 12:36:33 - Processing K1266-264813011 [326/349] for code: GOBBLE
+2026-11-26 12:36:33 - 264813011 - Result: Successfully redeemed
+2026-11-26 12:36:34 - Processing K1266-264853160 [327/349] for code: GOBBLE
+2026-11-26 12:36:34 - 264853160 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-26 12:36:36 - 264853160 - Result: Successfully redeemed
+2026-11-26 12:36:37 - Processing K1266-270896390 [328/349] for code: GOBBLE
+2026-11-26 12:36:37 - 270896390 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-26 12:36:39 - 270896390 - Result: Successfully redeemed
+2026-11-26 12:36:41 - Processing K1266-278604391 [329/349] for code: GOBBLE
+2026-11-26 12:36:41 - 278604391 - Result: Successfully redeemed
+2026-11-26 12:36:42 - Processing K1266-279842790 [330/349] for code: GOBBLE
+2026-11-26 12:36:42 - 279842790 - Result: Successfully redeemed
+2026-11-26 12:36:44 - Processing K1266-300404990 [331/349] for code: GOBBLE
+2026-11-26 12:36:44 - 300404990 - Result: Successfully redeemed
+2026-11-26 12:36:45 - Processing K1266-302154974 [332/349] for code: GOBBLE
+2026-11-26 12:36:45 - 302154974 - Result: Successfully redeemed
+2026-11-26 12:36:47 - Processing K1266-305821193 [333/349] for code: GOBBLE
+2026-11-26 12:36:47 - 305821193 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-26 12:36:49 - 305821193 - Result: Successfully redeemed
+2026-11-26 12:36:50 - Processing K1266-306565391 [334/349] for code: GOBBLE
+2026-11-26 12:36:50 - Attempt 1 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-26 12:36:54 - Attempt 2 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-26 12:37:02 - Attempt 3 to gift_code: HTTP 429 (rate limited). Backing off...
+2026-11-26 12:37:14 - 306565391 - Result: Redemption request failed
+2026-11-26 12:37:15 - Processing K1266-331800134 [335/349] for code: GOBBLE
+2026-11-26 12:37:15 - 331800134 - Result: Successfully redeemed
+2026-11-26 12:37:17 - Processing K1266-377584801 [336/349] for code: GOBBLE
+2026-11-26 12:37:17 - 377584801 - Result: Successfully redeemed
+2026-11-26 12:37:18 - Processing K1266-378518775 [337/349] for code: GOBBLE
+2026-11-26 12:37:18 - 378518775 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-26 12:37:20 - 378518775 - [Attempt 2/3] TIMEOUT RETRY. Retrying...
+2026-11-26 12:37:24 - 378518775 - Result: Successfully redeemed
+2026-11-26 12:37:25 - Processing K1266-381967745 [338/349] for code: GOBBLE
+2026-11-26 12:37:25 - 381967745 - [Attempt 1/3] TIMEOUT RETRY. Retrying...
+2026-11-26 12:37:27 - 381967745 - Result: Successfully redeemed
+2026-11-26 12:37:28 - Processing K1266-402165713 [339/349] for code: GOBBLE
+2026-11-26 12:37:28 - 402165713 - Result: Successfully redeemed
+2026-11-26 12:37:30 - Processing K1266-413620551 [340/349] for code: GOBBLE
+2026-11-26 12:37:30 - 413620551 - Result: Successfully redeemed
+2026-11-26 12:37:31 - Processing K1266-419418577 [341/349] for code: GOBBLE
+2026-11-26 12:37:31 - 419418577 - Result: Successfully redeemed
+2026-11-26 12:37:32 - Processing K1266-423438308 [342/349] for code: GOBBLE
+2026-11-26 12:37:32 - 423438308 - Result: Successfully redeemed
+2026-11-26 12:37:34 - Processing K1266-428192624 [343/349] for code: GOBBLE
+2026-11-26 12:37:34 - 428192624 - Result: Successfully redeemed
+2026-11-26 12:37:35 - Processing K1266-428783906 [344/349] for code: GOBBLE
+2026-11-26 12:37:35 - 428783906 - Result: Successfully redeemed
+2026-11-26 12:37:37 - Processing K1266-429292382 [345/349] for code: GOBBLE
+2026-11-26 12:37:37 - 429292382 - Result: Successfully redeemed
+2026-11-26 12:37:38 - Processing K1266-430872448 [346/349] for code: GOBBLE
+2026-11-26 12:37:38 - 430872448 - Result: Successfully redeemed
+2026-11-26 12:37:39 - Processing K1266-436199125 [347/349] for code: GOBBLE
+2026-11-26 12:37:39 - 436199125 - Result: Already redeemed
+2026-11-26 12:37:40 - Processing K1266-440301202 [348/349] for code: GOBBLE
+2026-11-26 12:37:41 - 440301202 - Result: Already redeemed
+2026-11-26 12:37:42 - Processing K1266-448271166 [349/349] for code: GOBBLE
+2026-11-26 12:37:42 - 448271166 - Result: Successfully redeemed
+2026-11-26 12:37:43 - --- Cycle finished. Total processed: 349/349 ---
+2026-11-26 12:37:43 - 
+========================= Redemption Summary =========================
+2026-11-26 12:37:43 - Code Redeemed: GOBBLE
+2026-11-26 12:37:43 - Total Unique Player IDs Found: 349
+2026-11-26 12:37:43 - Total Player IDs Processed: 349
+2026-11-26 12:37:43 - Successfully redeemed: 321
+2026-11-26 12:37:43 - Already redeemed: 15
+2026-11-26 12:37:43 - Wrong kingdom: 0
+2026-11-26 12:37:43 - Other Errors/Failures: 13
+2026-11-26 12:37:43 - Rate Limit Events: 0
+2026-11-26 12:37:43 - Total execution time: 00:15:25
+2026-11-26 12:37:43 - ======================================================================
